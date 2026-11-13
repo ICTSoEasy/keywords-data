@@ -38,81 +38,109 @@
   ],
   "strings": {
     "en": {
-      "site_title": "CS Keywords",
-      "site_subtitle": "Computer Science vocabulary for everyone",
+      "site_title": "Keywords",
+      "site_subtitle": "Subject vocabulary for everyone",
       "search_placeholder": "Search keywords…",
       "all_topics": "All Topics",
       "no_results": "No keywords found. Try a different search or topic.",
       "no_translation": "Translation not yet available",
       "second_language": "Second language",
       "footer_text": "Data is community-contributed.",
-      "footer_contribute": "Suggest changes on GitHub"
+      "footer_contribute": "Suggest changes on GitHub",
+      "choose_subject": "Choose a subject",
+      "continue_subject": "Continue",
+      "all_subjects": "All subjects",
+      "not_found": "Page not found"
     },
     "pl": {
-      "site_title": "Słownik Informatyczny",
-      "site_subtitle": "Słownictwo informatyczne dla każdego",
+      "site_title": "Słowa kluczowe",
+      "site_subtitle": "Słownictwo przedmiotowe dla każdego",
       "search_placeholder": "Szukaj słów kluczowych…",
       "all_topics": "Wszystkie tematy",
       "no_results": "Nie znaleziono słów kluczowych. Spróbuj innego wyszukiwania lub tematu.",
       "no_translation": "Tłumaczenie jeszcze niedostępne",
       "second_language": "Drugi język",
       "footer_text": "Dane tworzone przez społeczność.",
-      "footer_contribute": "Zaproponuj zmiany na GitHub"
+      "footer_contribute": "Zaproponuj zmiany na GitHub",
+      "choose_subject": "Wybierz przedmiot",
+      "continue_subject": "Kontynuuj",
+      "all_subjects": "Wszystkie przedmioty",
+      "not_found": "Nie znaleziono strony"
     },
     "cy": {
-      "site_title": "Geiriau Allweddol Cyfrifiadureg",
-      "site_subtitle": "Geirfa Cyfrifiadureg i bawb",
+      "site_title": "Allweddeiriau",
+      "site_subtitle": "Geirfa pynciau i bawb",
       "search_placeholder": "Chwilio am eiriau allweddol…",
       "all_topics": "Pob Pwnc",
       "no_results": "Dim geiriau allweddol wedi'u canfod. Rhowch gynnig ar chwiliad neu bwnc gwahanol.",
       "no_translation": "Cyfieithiad heb ei ychwanegu eto",
       "second_language": "Ail iaith",
       "footer_text": "Data a gyfranwyd gan y gymuned.",
-      "footer_contribute": "Awgrymu newidiadau ar GitHub"
+      "footer_contribute": "Awgrymu newidiadau ar GitHub",
+      "choose_subject": "Dewiswch bwnc",
+      "continue_subject": "Parhau",
+      "all_subjects": "Pob pwnc",
+      "not_found": "Heb ddod o hyd i'r dudalen"
     },
     "ar": {
-      "site_title": "مصطلحات علوم الحاسوب",
-      "site_subtitle": "مفردات علوم الحاسوب للجميع",
+      "site_title": "الكلمات المفتاحية",
+      "site_subtitle": "مفردات المواد الدراسية للجميع",
       "search_placeholder": "ابحث عن المصطلحات…",
       "all_topics": "جميع المواضيع",
       "no_results": "لم يُعثر على مصطلحات. جرّب بحثاً أو موضوعاً مختلفاً.",
       "no_translation": "الترجمة غير متوفرة بعد",
       "second_language": "اللغة الثانية",
       "footer_text": "البيانات مُقدَّمة من المجتمع.",
-      "footer_contribute": "اقترح تغييرات على GitHub"
+      "footer_contribute": "اقترح تغييرات على GitHub",
+      "choose_subject": "اختر مادة",
+      "continue_subject": "متابعة",
+      "all_subjects": "جميع المواد",
+      "not_found": "الصفحة غير موجودة"
     },
     "ro": {
-      "site_title": "Termeni de Informatică",
-      "site_subtitle": "Vocabular de informatică pentru toți",
+      "site_title": "Cuvinte cheie",
+      "site_subtitle": "Vocabular pe materii pentru toți",
       "search_placeholder": "Caută termeni…",
       "all_topics": "Toate subiectele",
       "no_results": "Nu s-au găsit termeni. Încearcă o altă căutare sau subiect.",
       "no_translation": "Traducere indisponibilă momentan",
       "second_language": "A doua limbă",
       "footer_text": "Datele sunt contribuite de comunitate.",
-      "footer_contribute": "Sugerează modificări pe GitHub"
+      "footer_contribute": "Sugerează modificări pe GitHub",
+      "choose_subject": "Alege o materie",
+      "continue_subject": "Continuă",
+      "all_subjects": "Toate materiile",
+      "not_found": "Pagina nu a fost găsită"
     },
     "prs": {
-      "site_title": "واژه‌های علوم کامپیوتر",
-      "site_subtitle": "واژگان علوم کامپیوتر برای همه",
+      "site_title": "کلیدواژه‌ها",
+      "site_subtitle": "واژگان مضامین درسی برای همه",
       "search_placeholder": "جستجوی واژه‌ها…",
       "all_topics": "همه موضوعات",
       "no_results": "هیچ واژه‌ای یافت نشد. جستجو یا موضوع دیگری را امتحان کنید.",
       "no_translation": "ترجمه هنوز موجود نیست",
       "second_language": "زبان دوم",
       "footer_text": "داده‌ها توسط جامعه ارائه شده‌اند.",
-      "footer_contribute": "پیشنهاد تغییرات در GitHub"
+      "footer_contribute": "پیشنهاد تغییرات در GitHub",
+      "choose_subject": "یک مضمون را انتخاب کنید",
+      "continue_subject": "ادامه",
+      "all_subjects": "همه مضامین",
+      "not_found": "صفحه پیدا نشد"
     },
     "ps": {
-      "site_title": "د کمپیوټر ساینس اصطلاحات",
-      "site_subtitle": "د کمپیوټر ساینس لغتونه د ټولو لپاره",
+      "site_title": "کلیدي کلمې",
+      "site_subtitle": "د ټولو لپاره د مضمونونو لغتونه",
       "search_placeholder": "د اصطلاحاتو لټون…",
       "all_topics": "ټول موضوعات",
       "no_results": "هیڅ اصطلاح ونه موندل شو. بله لټون یا موضوع هڅه وکړئ.",
       "no_translation": "ژباړه لاهم شتون نلري",
       "second_language": "دویمه ژبه",
       "footer_text": "معلومات د ټولنې لخوا وړاندې شوي.",
-      "footer_contribute": "په GitHub کې بدلونونه وړاندیز کړئ"
+      "footer_contribute": "په GitHub کې بدلونونه وړاندیز کړئ",
+      "choose_subject": "یو مضمون غوره کړئ",
+      "continue_subject": "دوام",
+      "all_subjects": "ټول مضمونونه",
+      "not_found": "پاڼه ونه موندل شوه"
     }
   }
 }

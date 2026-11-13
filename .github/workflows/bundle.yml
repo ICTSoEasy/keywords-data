@@ -1,6 +1,10 @@
-name: Bundle keyword files
+name: Validate and bundle keyword data
 
 on:
+  pull_request:
+    paths-ignore:
+      - 'dist/**'
+      - '*.md'
   push:
     branches: [main]
     paths-ignore:
@@ -12,21 +16,31 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
+  # Pull requests: just check the data is valid, so problems show on the PR
+  validate:
+    if: github.event_name == 'pull_request'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate keyword data
+        run: python3 scripts/bundle.py --check
+
+  # Pushes to main: validate, build dist/, commit it
   bundle:
+    if: github.event_name == 'push'
     runs-on: ubuntu-latest
     permissions:
       contents: write
-
     steps:
       - uses: actions/checkout@v4
 
-      - name: Build dist/bundle.json
+      - name: Validate and build dist/
         run: python3 scripts/bundle.py
 
       - name: Commit bundle
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add dist/bundle.json
+          git add -A dist/
           git diff --staged --quiet || git commit -m "chore: rebuild bundle [skip ci]"
           git push

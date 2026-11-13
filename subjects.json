@@ -1,0 +1,29 @@
+[
+  {
+    "id": "computing",
+    "icon": "💻",
+    "names": {
+      "en": "Computing",
+      "pl": "Informatyka",
+      "cy": "Cyfrifiadura",
+      "ar": "الحوسبة",
+      "ro": "Informatică",
+      "prs": "کمپیوتر",
+      "ps": "کمپیوټر"
+    }
+  },
+  {
+    "id": "maths",
+    "icon": "➗",
+    "draft": true,
+    "names": {
+      "en": "Maths",
+      "pl": "Matematyka",
+      "cy": "Mathemateg",
+      "ar": "الرياضيات",
+      "ro": "Matematică",
+      "prs": "ریاضی",
+      "ps": "ریاضي"
+    }
+  }
+]

@@ -1,10 +1,10 @@
-# CS Keywords Data
+# Keywords Data
 
-The keyword data behind **[keywords.ictsoeasy.co.uk](https://keywords.ictsoeasy.co.uk)** — a free, searchable reference of Computer Science vocabulary for students aged 8–18, available in multiple languages.
+The keyword data behind **[keywords.ictsoeasy.co.uk](https://keywords.ictsoeasy.co.uk)**, a free, searchable reference of subject vocabulary for students aged 8–18. Every keyword is shown in English alongside a second language the student chooses.
 
 ## What this repo is
 
-This repository holds all the keyword definitions shown on the website. Anyone can suggest new keywords, fix definitions, or add translations by submitting a pull request. When a PR is merged into `main`, the website updates automatically.
+This repository holds every keyword definition shown on the website, for every subject. Anyone can suggest new keywords, fix definitions, or add translations by opening a pull request. When a PR is merged into `main`, the website updates automatically.
 
 ## How to contribute
 
@@ -12,55 +12,51 @@ See **[CONTRIBUTING.md](CONTRIBUTING.md)** for full details.
 
 The short version:
 1. Fork this repo
-2. Make your change (add or edit a file in `keywords/`, or edit `topics.json` / `ui.json`)
-3. Open a pull request
-4. Once merged, a bot rebuilds the site data automatically — your changes go live shortly after
+2. Add or edit a file in `subjects/<subject>/keywords/`
+3. Open a pull request. A bot checks your files and reports any problems on the PR.
+4. Once it's merged, the bot rebuilds the site data and your changes go live shortly after.
 
-> **No need to touch `dist/bundle.json`** — that file is generated automatically. Never edit it by hand.
+> **Never edit anything in `dist/`.** It is generated automatically.
 
 ## Repository structure
 
 ```
-keywords/          ← one JSON file per keyword (e.g. algorithm.json)
-topics.json        ← list of all topics with icons and translated labels
-ui.json            ← UI strings (page titles, button labels) and language list
-dist/bundle.json   ← auto-generated — do not edit directly
-scripts/bundle.py  ← the script that builds dist/bundle.json (runs via GitHub Actions)
+ui.json                          ← languages + UI strings (shared by all subjects)
+subjects.json                    ← list of subjects, in the order shown on the site
+subjects/
+  computing/
+    topics.json                  ← that subject's topics, with icons and translated labels
+    keywords/*.json              ← one file per keyword
+  maths/
+    topics.json
+    keywords/*.json
+dist/                            ← auto-generated, do not edit
+  subjects.json
+  subject/<id>.json
+scripts/bundle.py                ← validates everything and builds dist/ (runs via GitHub Actions)
 ```
 
-## Current languages
+## Subjects
+
+| Subject | Folder | URL |
+|---|---|---|
+| 💻 Computing | `subjects/computing/` | [/computing/](https://keywords.ictsoeasy.co.uk/computing/) |
+| ➗ Maths *(in progress)* | `subjects/maths/` | [/maths/](https://keywords.ictsoeasy.co.uk/maths/) |
+
+## Languages
 
 | Language | Code |
 |---|---|
 | English | `en` |
-| Polski | `pl` |
-| Cymraeg | `cy` |
-| العربية | `ar` |
-| Română | `ro` |
+| Polski (Polish) | `pl` |
+| Cymraeg (Welsh) | `cy` |
+| العربية (Arabic) | `ar` |
+| Română (Romanian) | `ro` |
+| دری (Dari) | `prs` |
+| پښتو (Pashto) | `ps` |
 
-Want to add a new language? See [Adding a new language](CONTRIBUTING.md#5-add-a-new-language).
-
-## Current topics
-
-| Icon | Topic | ID |
-|---|---|---|
-| ⚙️ | Algorithms | `algorithms` |
-| 💻 | Programming | `programming` |
-| 🧠 | Computational Thinking | `computational_thinking` |
-| 🔢 | Data Representation | `data_representation` |
-| 🖥️ | Hardware & Computer Systems | `hardware` |
-| 📦 | Software | `software` |
-| 🌐 | Networking | `networking` |
-| 🗄️ | Data & Databases | `data` |
-| 🔒 | Security & Cybersecurity | `security` |
-| ⊻ | Boolean Logic | `logic` |
-| 🛠️ | Software Development | `software_development` |
-| 🌳 | Data Structures | `data_structures` |
-| 📐 | Theory of Computation | `theory` |
-| ⚖️ | Ethical & Legal Issues | `ethics` |
-| 🤖 | Artificial Intelligence | `ai` |
-| 🦾 | Robotics & Physical Computing | `robotics` |
+Want to add a new language? See [Add a new language](CONTRIBUTING.md#6-add-a-new-language).
 
 ## License
 
-Content is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — free to use and share with attribution.
+Content is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). It is free to use and share with attribution.

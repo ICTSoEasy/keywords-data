@@ -1,0 +1,80 @@
+[
+  {
+    "id": "number",
+    "icon": "🔢",
+    "labels": {
+      "en": "Number",
+      "pl": "Liczby",
+      "cy": "Rhif",
+      "ar": "الأعداد",
+      "ro": "Numere",
+      "prs": "اعداد",
+      "ps": "عددونه"
+    }
+  },
+  {
+    "id": "algebra",
+    "icon": "🔣",
+    "labels": {
+      "en": "Algebra",
+      "pl": "Algebra",
+      "cy": "Algebra",
+      "ar": "الجبر",
+      "ro": "Algebră",
+      "prs": "الجبر",
+      "ps": "الجبر"
+    }
+  },
+  {
+    "id": "ratio",
+    "icon": "⚖️",
+    "labels": {
+      "en": "Ratio, Proportion & Rates of Change",
+      "pl": "Stosunek, proporcja i tempo zmian",
+      "cy": "Cymhareb, Cyfrannedd a Chyfraddau Newid",
+      "ar": "النسبة والتناسب ومعدلات التغير",
+      "ro": "Raport, proporție și rate de variație",
+      "prs": "نسبت، تناسب و نرخ تغییر",
+      "ps": "نسبت، تناسب او د بدلون کچه"
+    }
+  },
+  {
+    "id": "geometry",
+    "icon": "📐",
+    "labels": {
+      "en": "Geometry & Measures",
+      "pl": "Geometria i miary",
+      "cy": "Geometreg a Mesurau",
+      "ar": "الهندسة والقياس",
+      "ro": "Geometrie și măsurători",
+      "prs": "هندسه و اندازه‌گیری",
+      "ps": "هندسه او اندازه‌ګیري"
+    }
+  },
+  {
+    "id": "probability",
+    "icon": "🎲",
+    "labels": {
+      "en": "Probability",
+      "pl": "Prawdopodobieństwo",
+      "cy": "Tebygolrwydd",
+      "ar": "الاحتمالات",
+      "ro": "Probabilitate",
+      "prs": "احتمالات",
+      "ps": "احتمال"
+    }
+  },
+  {
+    "id": "statistics",
+    "icon": "📊",
+    "labels": {
+      "en": "Statistics",
+      "pl": "Statystyka",
+      "cy": "Ystadegau",
+      "ar": "الإحصاء",
+      "ro": "Statistică",
+      "prs": "احصائیه",
+      "ps": "احصایه"
+    }
+  }
+]
