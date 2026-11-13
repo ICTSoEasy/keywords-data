@@ -187,7 +187,6 @@
     {
       "id": "maths",
       "icon": "➗",
-      "draft": true,
       "names": {
         "en": "Maths",
         "pl": "Matematyka",
@@ -198,6 +197,7 @@
         "ps": "ریاضي",
         "es": "Matemáticas"
       },
+      "draft": false,
       "keyword_count": 284,
       "topic_count": 6
     }
