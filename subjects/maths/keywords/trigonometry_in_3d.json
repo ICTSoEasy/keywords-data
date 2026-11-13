@@ -1,0 +1,40 @@
+{
+  "id": "trigonometry_in_3d",
+  "topics": [
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Trigonometry in 3D",
+      "definition": "Using trigonometry and Pythagoras’ theorem to solve problems involving lengths and angles in three-dimensional shapes."
+    },
+    "pl": {
+      "term": "Trygonometria w przestrzeni",
+      "definition": "Stosowanie trygonometrii i twierdzenia Pitagorasa do rozwiązywania zadań z długościami i kątami w bryłach."
+    },
+    "cy": {
+      "term": "Trigonometreg mewn 3D",
+      "definition": "Defnyddio trigonometreg a theorem Pythagoras i ddatrys problemau sy'n ymwneud â hydoedd ac onglau mewn siapiau tri dimensiwn."
+    },
+    "ar": {
+      "term": "حساب المثلثات في الأبعاد الثلاثة",
+      "definition": "استخدام حساب المثلثات ونظرية فيثاغورس لحل مسائل تتعلق بالأطوال والزوايا في المجسّمات."
+    },
+    "ro": {
+      "term": "Trigonometrie în spațiu",
+      "definition": "Folosirea trigonometriei și a teoremei lui Pitagora pentru a rezolva probleme cu lungimi și unghiuri în corpuri tridimensionale."
+    },
+    "prs": {
+      "term": "مثلثات در سه‌بعد",
+      "definition": "استفاده از مثلثات و قضیهٔ فیثاغورث برای حل مسائل مربوط به طول‌ها و زاویه‌ها در شکل‌های سه‌بعدی."
+    },
+    "ps": {
+      "term": "مثلثات په درې بُعدونو کې",
+      "definition": "د مثلثاتو او د فیثاغورث د قضیې کارول په درې بُعدي بڼو کې د اوږدوالي او زاویو پوښتنو د حل لپاره."
+    },
+    "es": {
+      "term": "Trigonometría en 3D",
+      "definition": "Uso de la trigonometría y del teorema de Pitágoras para resolver problemas de longitudes y ángulos en cuerpos tridimensionales."
+    }
+  }
+}

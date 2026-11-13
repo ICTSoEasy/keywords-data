@@ -1,0 +1,40 @@
+{
+  "id": "geometric_sequence",
+  "topics": [
+    "algebra"
+  ],
+  "translations": {
+    "en": {
+      "term": "Geometric Sequence",
+      "definition": "A sequence in which each term is found by multiplying the previous term by the same fixed number."
+    },
+    "pl": {
+      "term": "Ciąg geometryczny",
+      "definition": "Ciąg, w którym każdy wyraz otrzymujemy, mnożąc poprzedni przez tę samą stałą liczbę."
+    },
+    "cy": {
+      "term": "Dilyniant Geometrig",
+      "definition": "Dilyniant lle mae pob term yn cael ei ganfod drwy luosi'r term blaenorol â'r un rhif sefydlog."
+    },
+    "ar": {
+      "term": "المتتالية الهندسية",
+      "definition": "متتالية يُحصل على كل حدّ فيها بضرب الحدّ السابق في العدد الثابت نفسه."
+    },
+    "ro": {
+      "term": "Progresie geometrică",
+      "definition": "Un șir în care fiecare termen se obține înmulțind termenul anterior cu același număr fix."
+    },
+    "prs": {
+      "term": "تصاعد هندسی",
+      "definition": "دنباله‌ای که هر جملهٔ آن با ضرب جملهٔ قبلی در یک عدد ثابت به دست می‌آید."
+    },
+    "ps": {
+      "term": "هندسي ترادف",
+      "definition": "هغه لړۍ چې هر حد یې د مخکیني حد په یو ثابت عدد کې د ضربولو له لارې ترلاسه کېږي."
+    },
+    "es": {
+      "term": "Sucesión geométrica",
+      "definition": "Sucesión en la que cada término se obtiene multiplicando el anterior por un mismo número fijo."
+    }
+  }
+}

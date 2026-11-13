@@ -31,6 +31,10 @@
     "ps": {
       "term": "بهرنی کیلي",
       "definition": "د یوه جدول هغه ساحه چې د بل جدول اصلي کیلي ته اشاره کوي او جدولونه سره نښلوي."
+    },
+    "es": {
+      "term": "Clave foránea",
+      "definition": "Campo de una tabla que enlaza con la clave primaria de otra tabla, creando una relación entre ambas."
     }
   }
 }

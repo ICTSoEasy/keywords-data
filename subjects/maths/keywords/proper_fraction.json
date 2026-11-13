@@ -1,0 +1,40 @@
+{
+  "id": "proper_fraction",
+  "topics": [
+    "number"
+  ],
+  "translations": {
+    "en": {
+      "term": "Proper Fraction",
+      "definition": "A fraction whose numerator is smaller than its denominator."
+    },
+    "pl": {
+      "term": "Ułamek właściwy",
+      "definition": "Ułamek, którego licznik jest mniejszy od mianownika."
+    },
+    "cy": {
+      "term": "Ffracsiwn Bondrwm",
+      "definition": "Ffracsiwn lle mae'r rhifiadur yn llai na'r enwadur."
+    },
+    "ar": {
+      "term": "الكسر الفعلي",
+      "definition": "كسر يكون بسطه أصغر من مقامه."
+    },
+    "ro": {
+      "term": "Fracție subunitară",
+      "definition": "O fracție al cărei numărător este mai mic decât numitorul."
+    },
+    "prs": {
+      "term": "کسر حقیقی",
+      "definition": "کسری که صورت آن کوچک‌تر از مخرج است."
+    },
+    "ps": {
+      "term": "حقیقي کسر",
+      "definition": "هغه کسر چې صورت یې له مخرج څخه کوچنی وي."
+    },
+    "es": {
+      "term": "Fracción propia",
+      "definition": "Fracción cuyo numerador es menor que su denominador."
+    }
+  }
+}

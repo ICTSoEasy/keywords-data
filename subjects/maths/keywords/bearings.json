@@ -1,0 +1,40 @@
+{
+  "id": "bearings",
+  "topics": [
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Bearings",
+      "definition": "Angles measured clockwise from north, written as three-figure angles."
+    },
+    "pl": {
+      "term": "Azymuty",
+      "definition": "Kąty mierzone zgodnie z ruchem wskazówek zegara od północy, zapisywane trzema cyframi."
+    },
+    "cy": {
+      "term": "Cyfeiriannau",
+      "definition": "Onglau wedi'u mesur yn glocwedd o'r gogledd, wedi'u hysgrifennu fel onglau tri ffigur."
+    },
+    "ar": {
+      "term": "الاتجاهات الملاحية",
+      "definition": "زوايا تُقاس باتجاه عقارب الساعة من الشمال، وتُكتب بثلاثة أرقام."
+    },
+    "ro": {
+      "term": "Azimuturi",
+      "definition": "Unghiuri măsurate în sensul acelor de ceasornic pornind de la nord, scrise cu trei cifre."
+    },
+    "prs": {
+      "term": "سمت‌ها",
+      "definition": "زاویه‌هایی که از شمال در جهت عقربه‌های ساعت اندازه گرفته می‌شوند و با سه رقم نوشته می‌شوند."
+    },
+    "ps": {
+      "term": "لوري",
+      "definition": "هغه زاویې چې له شمال څخه د ساعت د ستنو په لوري اندازه کېږي او په درې رقمونو لیکل کېږي."
+    },
+    "es": {
+      "term": "Rumbos",
+      "definition": "Ángulos medidos en el sentido de las agujas del reloj desde el norte y escritos con tres cifras."
+    }
+  }
+}

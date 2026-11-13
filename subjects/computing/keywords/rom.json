@@ -31,6 +31,10 @@
     "ps": {
       "term": "ROM",
       "definition": "دایمي حافظه چې محتویات یې د کمپیوټر د بندیدلو سره نه پاکیږي."
+    },
+    "es": {
+      "term": "ROM",
+      "definition": "Memoria de Solo Lectura; almacenamiento permanente con las instrucciones que el ordenador necesita para arrancar."
     }
   }
 }

@@ -1,0 +1,40 @@
+{
+  "id": "prime_factor_tree",
+  "topics": [
+    "number"
+  ],
+  "translations": {
+    "en": {
+      "term": "Prime Factor Tree",
+      "definition": "A diagram that breaks a number down into its prime factors."
+    },
+    "pl": {
+      "term": "Drzewo czynników pierwszych",
+      "definition": "Diagram rozkładający liczbę na czynniki pierwsze."
+    },
+    "cy": {
+      "term": "Coeden Ffactorau Cysefin",
+      "definition": "Diagram sy'n torri rhif i lawr i'w ffactorau cysefin."
+    },
+    "ar": {
+      "term": "شجرة العوامل الأولية",
+      "definition": "مخطط يحلّل العدد إلى عوامله الأولية."
+    },
+    "ro": {
+      "term": "Arbore de factori primi",
+      "definition": "O diagramă care descompune un număr în factorii săi primi."
+    },
+    "prs": {
+      "term": "درخت عوامل اول",
+      "definition": "نموداری که یک عدد را به عوامل اول آن تجزیه می‌کند."
+    },
+    "ps": {
+      "term": "د لومړنیو عاملونو ونه",
+      "definition": "هغه ګراف چې یو عدد په خپلو لومړنیو عاملونو وېشي."
+    },
+    "es": {
+      "term": "Árbol de factores primos",
+      "definition": "Diagrama que descompone un número en sus factores primos."
+    }
+  }
+}

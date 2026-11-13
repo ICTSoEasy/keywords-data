@@ -31,6 +31,10 @@
     "ps": {
       "term": "پارامیټر",
       "definition": "متغیر چې د فنکشن تعریف کې کارول کیږي او کله چې فنکشن یادیږي ارزښت اخلي."
+    },
+    "es": {
+      "term": "Parámetro",
+      "definition": "Variable que se pasa a una función para darle los datos con los que trabajar."
     }
   }
 }

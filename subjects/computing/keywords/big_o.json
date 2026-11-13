@@ -32,6 +32,10 @@
     "ps": {
       "term": "Big O نوټیشن",
       "definition": "د الګوریتم د چټکتیا یا حافظې اړتیا د بیانولو لار کله چې ننوتونه لوی شي."
+    },
+    "es": {
+      "term": "Notación O grande",
+      "definition": "Forma de describir cómo crecen las necesidades de tiempo o espacio de un algoritmo a medida que aumenta el tamaño de la entrada."
     }
   }
 }

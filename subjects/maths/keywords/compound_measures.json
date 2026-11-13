@@ -1,0 +1,40 @@
+{
+  "id": "compound_measures",
+  "topics": [
+    "ratio"
+  ],
+  "translations": {
+    "en": {
+      "term": "Compound Measures",
+      "definition": "Measures made by combining two or more basic measures, such as speed or density."
+    },
+    "pl": {
+      "term": "Wielkości złożone",
+      "definition": "Miary powstałe przez połączenie dwóch lub więcej podstawowych miar, na przykład prędkość lub gęstość."
+    },
+    "cy": {
+      "term": "Mesurau Cyfansawdd",
+      "definition": "Mesurau wedi'u gwneud drwy gyfuno dau fesur sylfaenol neu fwy, fel buanedd neu ddwysedd."
+    },
+    "ar": {
+      "term": "المقاييس المركّبة",
+      "definition": "مقاييس تتكون من دمج مقياسين أساسيين أو أكثر، مثل السرعة أو الكثافة."
+    },
+    "ro": {
+      "term": "Mărimi compuse",
+      "definition": "Mărimi obținute prin combinarea a două sau mai multe mărimi de bază, cum ar fi viteza sau densitatea."
+    },
+    "prs": {
+      "term": "اندازه‌های مرکب",
+      "definition": "اندازه‌هایی که از ترکیب دو یا چند اندازهٔ اساسی ساخته می‌شوند، مانند سرعت یا کثافت."
+    },
+    "ps": {
+      "term": "مرکبې اندازې",
+      "definition": "هغه اندازې چې د دوو یا ډېرو بنسټیزو اندازو له یوځای کولو جوړېږي، لکه سرعت یا کثافت."
+    },
+    "es": {
+      "term": "Magnitudes compuestas",
+      "definition": "Magnitudes obtenidas combinando dos o más magnitudes básicas, como la velocidad o la densidad."
+    }
+  }
+}

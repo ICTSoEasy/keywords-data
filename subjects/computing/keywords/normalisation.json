@@ -31,6 +31,10 @@
     "ps": {
       "term": "نورمالایزیشن",
       "definition": "د ډیټابیس تنظیم ترڅو تکرار کم کړي او د معلوماتو یکپارچتیا ښه کړي."
+    },
+    "es": {
+      "term": "Normalización",
+      "definition": "Proceso de organizar una base de datos para reducir la repetición de datos y mejorar su integridad."
     }
   }
 }

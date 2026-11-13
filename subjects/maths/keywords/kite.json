@@ -1,0 +1,40 @@
+{
+  "id": "kite",
+  "topics": [
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Kite",
+      "definition": "A quadrilateral with two pairs of equal adjacent sides."
+    },
+    "pl": {
+      "term": "Deltoid",
+      "definition": "Czworokąt z dwiema parami równych boków sąsiednich."
+    },
+    "cy": {
+      "term": "Barcut",
+      "definition": "Pedrochr â dau bâr o ochrau cyfagos hafal."
+    },
+    "ar": {
+      "term": "الطائرة الورقية",
+      "definition": "شكل رباعي له زوجان من الأضلاع المتجاورة المتساوية."
+    },
+    "ro": {
+      "term": "Deltoid",
+      "definition": "Un patrulater cu două perechi de laturi alăturate egale."
+    },
+    "prs": {
+      "term": "کایت",
+      "definition": "چهارضلعی با دو جفت ضلع مجاور مساوی."
+    },
+    "ps": {
+      "term": "کایټ",
+      "definition": "هغه څلور ضلعي چې د څنګ ته برابرو غاړو دوه جوړې لري."
+    },
+    "es": {
+      "term": "Deltoide",
+      "definition": "Cuadrilátero con dos pares de lados adyacentes iguales."
+    }
+  }
+}

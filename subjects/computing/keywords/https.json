@@ -32,6 +32,10 @@
     "ps": {
       "term": "HTTPS",
       "definition": "د HTTP خوندي نسخه چې معلومات انکریپټ کوي ترڅو لیږد خوندي وي."
+    },
+    "es": {
+      "term": "HTTPS",
+      "definition": "Versión segura de HTTP que cifra los datos enviados entre un navegador y un sitio web para protegerlos de ser interceptados."
     }
   }
 }

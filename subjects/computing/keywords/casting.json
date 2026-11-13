@@ -31,6 +31,10 @@
     "ps": {
       "term": "کاسټینګ",
       "definition": "د یوه ارزښت د معلوماتو د ډول بدلول، لکه عدد ته د متن بدلول."
+    },
+    "es": {
+      "term": "Conversión de tipos",
+      "definition": "Convertir un valor de un tipo de datos a otro, por ejemplo una cadena en un número entero."
     }
   }
 }

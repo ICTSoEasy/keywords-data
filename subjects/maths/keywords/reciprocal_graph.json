@@ -1,0 +1,40 @@
+{
+  "id": "reciprocal_graph",
+  "topics": [
+    "algebra"
+  ],
+  "translations": {
+    "en": {
+      "term": "Reciprocal Graph",
+      "definition": "The graph of a reciprocal function, such as y = 1/x."
+    },
+    "pl": {
+      "term": "Wykres funkcji odwrotności",
+      "definition": "Wykres funkcji odwrotności, na przykład y = 1/x."
+    },
+    "cy": {
+      "term": "Graff Cilyddol",
+      "definition": "Graff ffwythiant cilyddol, fel y = 1/x."
+    },
+    "ar": {
+      "term": "منحنى دالة المقلوب",
+      "definition": "منحنى دالة المقلوب، مثل y = 1/x."
+    },
+    "ro": {
+      "term": "Graficul funcției inverse",
+      "definition": "Graficul unei funcții de forma y = 1/x."
+    },
+    "prs": {
+      "term": "گراف تابع معکوس عددی",
+      "definition": "گراف تابعی مانند y = 1/x."
+    },
+    "ps": {
+      "term": "د معکوس عدد تابع ګراف",
+      "definition": "د داسې تابع ګراف لکه y = 1/x."
+    },
+    "es": {
+      "term": "Gráfica de la función recíproca",
+      "definition": "Gráfica de una función recíproca, como y = 1/x."
+    }
+  }
+}

@@ -31,6 +31,10 @@
     "ps": {
       "term": "میتود",
       "definition": "هغه فنکشن چې یوې کلاس پورې اړه لري او د هغې کلاس شیانو چلند تعریفوي."
+    },
+    "es": {
+      "term": "Método",
+      "definition": "Función que pertenece a una clase u objeto y define lo que el objeto puede hacer."
     }
   }
 }

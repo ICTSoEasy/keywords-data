@@ -1,0 +1,40 @@
+{
+  "id": "simplify",
+  "topics": [
+    "algebra"
+  ],
+  "translations": {
+    "en": {
+      "term": "Simplify",
+      "definition": "To rewrite an expression or calculation in a shorter or clearer equivalent form."
+    },
+    "pl": {
+      "term": "Upraszczać",
+      "definition": "Zapisywać wyrażenie lub obliczenie w krótszej lub jaśniejszej, równoważnej postaci."
+    },
+    "cy": {
+      "term": "Symleiddio",
+      "definition": "Ailysgrifennu mynegiad neu gyfrifiad ar ffurf gywerth sy'n fyrrach neu'n gliriach."
+    },
+    "ar": {
+      "term": "التبسيط",
+      "definition": "إعادة كتابة عبارة أو عملية حسابية بصيغة مكافئة أقصر أو أوضح."
+    },
+    "ro": {
+      "term": "A simplifica",
+      "definition": "A rescrie o expresie sau un calcul într-o formă echivalentă mai scurtă sau mai clară."
+    },
+    "prs": {
+      "term": "ساده کردن",
+      "definition": "نوشتن دوبارهٔ یک افاده یا محاسبه به شکل معادل کوتاه‌تر یا واضح‌تر."
+    },
+    "ps": {
+      "term": "ساده کول",
+      "definition": "د یوې افادې یا محاسبې په لنډه یا روښانه معادله بڼه بیا لیکل."
+    },
+    "es": {
+      "term": "Simplificar",
+      "definition": "Reescribir una expresión u operación de forma equivalente, más breve o más clara."
+    }
+  }
+}

@@ -31,6 +31,10 @@
     "ps": {
       "term": "ASCII",
       "definition": "یو کوډینګ سیستم چې هر توری، عدد او نښه ته یو شمیر ورکوي."
+    },
+    "es": {
+      "term": "ASCII",
+      "definition": "Estándar que asigna un número único a cada carácter para que los ordenadores puedan guardar y compartir texto."
     }
   }
 }

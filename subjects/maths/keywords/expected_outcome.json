@@ -1,0 +1,40 @@
+{
+  "id": "expected_outcome",
+  "topics": [
+    "probability"
+  ],
+  "translations": {
+    "en": {
+      "term": "Expected Outcome",
+      "definition": "A result predicted by a probability model, or the number of times an outcome is expected to occur over many trials."
+    },
+    "pl": {
+      "term": "Oczekiwany wynik",
+      "definition": "Wynik przewidywany przez model probabilistyczny albo liczba razy, jaką wynik powinien wystąpić w wielu próbach."
+    },
+    "cy": {
+      "term": "Canlyniad Disgwyliedig",
+      "definition": "Canlyniad a ragfynegir gan fodel tebygolrwydd, neu'r nifer o weithiau y disgwylir i ganlyniad ddigwydd dros lawer o dreialon."
+    },
+    "ar": {
+      "term": "النتيجة المتوقعة",
+      "definition": "نتيجة يتنبأ بها نموذج احتمالي، أو عدد المرات المتوقع أن تظهر فيها نتيجة ما عبر محاولات كثيرة."
+    },
+    "ro": {
+      "term": "Rezultat așteptat",
+      "definition": "Un rezultat prezis de un model probabilistic sau de câte ori se așteaptă să apară un rezultat în multe încercări."
+    },
+    "prs": {
+      "term": "نتیجهٔ مورد انتظار",
+      "definition": "نتیجه‌ای که یک مدل احتمال پیش‌بینی می‌کند، یا تعداد دفعاتی که انتظار می‌رود یک نتیجه در آزمایش‌های زیاد رخ دهد."
+    },
+    "ps": {
+      "term": "تمه شوې پایله",
+      "definition": "هغه پایله چې یو احتمالي ماډل یې وړاندوینه کوي، یا هغه شمېر چې تمه کېږي یوه پایله په ډېرو هڅو کې رامنځته شي."
+    },
+    "es": {
+      "term": "Resultado esperado",
+      "definition": "Resultado previsto por un modelo de probabilidad, o número de veces que se espera que ocurra un resultado en muchos ensayos."
+    }
+  }
+}

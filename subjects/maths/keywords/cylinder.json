@@ -1,0 +1,40 @@
+{
+  "id": "cylinder",
+  "topics": [
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Cylinder",
+      "definition": "A 3D shape with two equal, parallel circular faces joined by a curved surface."
+    },
+    "pl": {
+      "term": "Walec",
+      "definition": "Bryła z dwiema równymi, równoległymi podstawami w kształcie koła, połączonymi powierzchnią boczną."
+    },
+    "cy": {
+      "term": "Silindr",
+      "definition": "Siâp 3D â dau wyneb crwn hafal a pharalel wedi'u huno gan arwyneb crwm."
+    },
+    "ar": {
+      "term": "الأسطوانة",
+      "definition": "مجسّم له وجهان دائريان متساويان ومتوازيان يصل بينهما سطح منحنٍ."
+    },
+    "ro": {
+      "term": "Cilindru",
+      "definition": "Un corp cu două fețe circulare egale și paralele, unite printr-o suprafață curbă."
+    },
+    "prs": {
+      "term": "استوانه",
+      "definition": "شکل سه‌بعدی با دو وجه دایره‌ای مساوی و موازی که با یک سطح خمیده به هم وصل شده‌اند."
+    },
+    "ps": {
+      "term": "استوانه",
+      "definition": "درې بُعدي بڼه چې دوه برابر او موازي دایروي مخونه لري چې د یوې کږې سطحې په واسطه سره نښتي دي."
+    },
+    "es": {
+      "term": "Cilindro",
+      "definition": "Cuerpo geométrico con dos caras circulares iguales y paralelas unidas por una superficie curva."
+    }
+  }
+}

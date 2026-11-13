@@ -31,6 +31,10 @@
     "ps": {
       "term": "XOR ګیټ",
       "definition": "منطقي ګیټ چې کله ننوتنې توپیر ولري پایله ۱ ده؛ که ننوتنې یوشان وي پایله ۰ ده."
+    },
+    "es": {
+      "term": "Puerta XOR",
+      "definition": "Puerta lógica cuya salida es 1 cuando sus entradas son diferentes y 0 cuando son iguales."
     }
   }
 }

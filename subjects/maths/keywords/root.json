@@ -1,0 +1,40 @@
+{
+  "id": "root",
+  "topics": [
+    "number"
+  ],
+  "translations": {
+    "en": {
+      "term": "Root",
+      "definition": "A value that makes an equation true. For example, 3 is a root of x² − 9 = 0."
+    },
+    "pl": {
+      "term": "Pierwiastek równania",
+      "definition": "Wartość, dla której równanie jest prawdziwe. Na przykład 3 jest pierwiastkiem równania x² − 9 = 0."
+    },
+    "cy": {
+      "term": "Gwreiddyn",
+      "definition": "Gwerth sy'n gwneud hafaliad yn wir. Er enghraifft, mae 3 yn wreiddyn i x² − 9 = 0."
+    },
+    "ar": {
+      "term": "الجذر",
+      "definition": "قيمة تجعل المعادلة صحيحة. مثلاً 3 جذر للمعادلة x² − 9 = 0."
+    },
+    "ro": {
+      "term": "Rădăcină",
+      "definition": "O valoare care face o ecuație adevărată. De exemplu, 3 este o rădăcină a ecuației x² − 9 = 0."
+    },
+    "prs": {
+      "term": "ریشه",
+      "definition": "مقداری که معادله را درست می‌کند. مثلاً 3 ریشهٔ x² − 9 = 0 است."
+    },
+    "ps": {
+      "term": "ریښه",
+      "definition": "هغه قیمت چې معادله سمه کوي. د بېلګې په توګه 3 د x² − 9 = 0 ریښه ده."
+    },
+    "es": {
+      "term": "Raíz",
+      "definition": "Valor que hace verdadera una ecuación. Por ejemplo, 3 es una raíz de x² − 9 = 0."
+    }
+  }
+}

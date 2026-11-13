@@ -31,6 +31,10 @@
     "ps": {
       "term": "د نسخې کنترول",
       "definition": "سیستم چې د کوډ بدلونونه تعقیبوي ترڅو مخکینیو نسخو ته راستون شیدلی شي."
+    },
+    "es": {
+      "term": "Control de versiones",
+      "definition": "Sistema que registra los cambios en los archivos a lo largo del tiempo para poder recuperar versiones concretas y colaborar sin sobrescribir el trabajo de otros."
     }
   }
 }

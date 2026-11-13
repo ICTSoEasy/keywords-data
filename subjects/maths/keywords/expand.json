@@ -1,0 +1,40 @@
+{
+  "id": "expand",
+  "topics": [
+    "algebra"
+  ],
+  "translations": {
+    "en": {
+      "term": "Expand",
+      "definition": "To multiply out brackets to write an expression as a sum or difference of terms."
+    },
+    "pl": {
+      "term": "Rozwijać",
+      "definition": "Wymnażać nawiasy, aby zapisać wyrażenie jako sumę lub różnicę wyrazów."
+    },
+    "cy": {
+      "term": "Ehangu",
+      "definition": "Lluosi cromfachau allan i ysgrifennu mynegiad fel swm neu wahaniaeth termau."
+    },
+    "ar": {
+      "term": "فك الأقواس",
+      "definition": "ضرب ما داخل الأقواس لكتابة العبارة كمجموع أو فرق حدود."
+    },
+    "ro": {
+      "term": "A desface parantezele",
+      "definition": "A înmulți termenii din paranteze pentru a scrie o expresie ca sumă sau diferență de termeni."
+    },
+    "prs": {
+      "term": "باز کردن قوس‌ها",
+      "definition": "ضرب کردن قوس‌ها برای نوشتن یک افاده به صورت مجموع یا تفاضل جمله‌ها."
+    },
+    "ps": {
+      "term": "د قوسونو خلاصول",
+      "definition": "د قوسونو ضربول ترڅو افاده د حدونو د جمعې یا تفریق په توګه ولیکل شي."
+    },
+    "es": {
+      "term": "Desarrollar",
+      "definition": "Multiplicar los términos de los paréntesis para escribir una expresión como suma o resta de términos."
+    }
+  }
+}

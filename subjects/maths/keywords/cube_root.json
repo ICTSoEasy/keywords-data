@@ -1,0 +1,40 @@
+{
+  "id": "cube_root",
+  "topics": [
+    "number"
+  ],
+  "translations": {
+    "en": {
+      "term": "Cube Root",
+      "definition": "A number that, when cubed, gives the original number. The cube root of 27 is 3."
+    },
+    "pl": {
+      "term": "Pierwiastek sześcienny",
+      "definition": "Liczba, która podniesiona do sześcianu daje liczbę wyjściową. Pierwiastek sześcienny z 27 to 3."
+    },
+    "cy": {
+      "term": "Trydydd Isradd",
+      "definition": "Rhif sydd, o'i giwbio, yn rhoi'r rhif gwreiddiol. Trydydd isradd 27 yw 3."
+    },
+    "ar": {
+      "term": "الجذر التكعيبي",
+      "definition": "عدد إذا رُفع إلى القوة الثالثة أعطى العدد الأصلي. الجذر التكعيبي للعدد 27 هو 3."
+    },
+    "ro": {
+      "term": "Rădăcină cubică",
+      "definition": "Un număr care, ridicat la cub, dă numărul inițial. Rădăcina cubică a lui 27 este 3."
+    },
+    "prs": {
+      "term": "جذر سوم",
+      "definition": "عددی که اگر به توان سه برسد، عدد اصلی را می‌دهد. جذر سوم 27 برابر 3 است."
+    },
+    "ps": {
+      "term": "دریم جذر",
+      "definition": "هغه عدد چې کله دریم توان ته پورته شي، اصلي عدد ورکوي. د 27 دریم جذر 3 دی."
+    },
+    "es": {
+      "term": "Raíz cúbica",
+      "definition": "Número que, elevado al cubo, da el número original. La raíz cúbica de 27 es 3."
+    }
+  }
+}

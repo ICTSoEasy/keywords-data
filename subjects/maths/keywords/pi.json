@@ -1,0 +1,40 @@
+{
+  "id": "pi",
+  "topics": [
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Pi / π",
+      "definition": "The mathematical constant equal to a circle's circumference divided by its diameter, approximately 3.14159."
+    },
+    "pl": {
+      "term": "Pi / π",
+      "definition": "Stała matematyczna równa obwodowi koła podzielonemu przez jego średnicę, w przybliżeniu 3,14159."
+    },
+    "cy": {
+      "term": "Pi / π",
+      "definition": "Y cysonyn mathemategol sy'n hafal i gylchedd cylch wedi'i rannu â'i ddiamedr, tua 3.14159."
+    },
+    "ar": {
+      "term": "باي / π",
+      "definition": "الثابت الرياضي الذي يساوي محيط الدائرة مقسوماً على قطرها، ويساوي تقريباً 3.14159."
+    },
+    "ro": {
+      "term": "Pi / π",
+      "definition": "Constanta matematică egală cu lungimea cercului împărțită la diametrul său, aproximativ 3,14159."
+    },
+    "prs": {
+      "term": "پی / π",
+      "definition": "ثابت ریاضی که برابر محیط دایره تقسیم بر قطر آن است، تقریباً 3.14159."
+    },
+    "ps": {
+      "term": "پای / π",
+      "definition": "هغه ریاضي ثابت چې د دایرې محیط د هغې پر قطر وېشلو سره برابر دی، نږدې 3.14159."
+    },
+    "es": {
+      "term": "Pi / π",
+      "definition": "Constante matemática igual a la longitud de una circunferencia dividida por su diámetro, aproximadamente 3,14159."
+    }
+  }
+}

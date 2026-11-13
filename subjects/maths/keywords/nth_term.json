@@ -1,0 +1,40 @@
+{
+  "id": "nth_term",
+  "topics": [
+    "algebra"
+  ],
+  "translations": {
+    "en": {
+      "term": "nth Term",
+      "definition": "A formula that gives the value of any term in a sequence from its position, n."
+    },
+    "pl": {
+      "term": "n-ty wyraz",
+      "definition": "Wzór podający wartość dowolnego wyrazu ciągu na podstawie jego pozycji n."
+    },
+    "cy": {
+      "term": "nfed Term",
+      "definition": "Fformiwla sy'n rhoi gwerth unrhyw derm mewn dilyniant o'i safle, n."
+    },
+    "ar": {
+      "term": "الحد النوني",
+      "definition": "قانون يعطي قيمة أي حدّ في المتتالية من موقعه n."
+    },
+    "ro": {
+      "term": "Termenul general",
+      "definition": "O formulă care dă valoarea oricărui termen dintr-un șir în funcție de poziția sa, n."
+    },
+    "prs": {
+      "term": "جملهٔ عمومی",
+      "definition": "فورمولی که ارزش هر جملهٔ دنباله را از روی موقعیت آن، n، می‌دهد."
+    },
+    "ps": {
+      "term": "عمومي حد",
+      "definition": "هغه فورمول چې د لړۍ د هر حد ارزښت د هغه له ځای، n، څخه ورکوي."
+    },
+    "es": {
+      "term": "Término general",
+      "definition": "Fórmula que permite calcular cualquier término de una sucesión a partir de su posición, n."
+    }
+  }
+}

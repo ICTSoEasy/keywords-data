@@ -1,0 +1,40 @@
+{
+  "id": "position_to_term_rule",
+  "topics": [
+    "algebra"
+  ],
+  "translations": {
+    "en": {
+      "term": "Position-to-Term Rule",
+      "definition": "A rule or formula that calculates a term directly from its position in a sequence."
+    },
+    "pl": {
+      "term": "Wzór ogólny ciągu",
+      "definition": "Reguła lub wzór obliczający wyraz bezpośrednio z jego pozycji w ciągu."
+    },
+    "cy": {
+      "term": "Rheol Safle-i-Derm",
+      "definition": "Rheol neu fformiwla sy'n cyfrifo term yn uniongyrchol o'i safle mewn dilyniant."
+    },
+    "ar": {
+      "term": "قاعدة الموقع والحد",
+      "definition": "قاعدة أو قانون يحسب الحدّ مباشرة من موقعه في المتتالية."
+    },
+    "ro": {
+      "term": "Regula poziție–termen",
+      "definition": "O regulă sau formulă care calculează un termen direct din poziția lui în șir."
+    },
+    "prs": {
+      "term": "قاعدهٔ موقعیت به جمله",
+      "definition": "قاعده یا فورمولی که جمله را مستقیماً از موقعیت آن در دنباله محاسبه می‌کند."
+    },
+    "ps": {
+      "term": "له ځای څخه د حد قاعده",
+      "definition": "هغه قاعده یا فورمول چې حد په مستقیم ډول په لړۍ کې د هغه له ځای څخه محاسبه کوي."
+    },
+    "es": {
+      "term": "Regla posición-término",
+      "definition": "Regla o fórmula que calcula directamente un término de una sucesión a partir de su posición."
+    }
+  }
+}

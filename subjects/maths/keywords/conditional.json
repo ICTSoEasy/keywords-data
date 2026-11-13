@@ -1,0 +1,40 @@
+{
+  "id": "conditional",
+  "topics": [
+    "probability"
+  ],
+  "translations": {
+    "en": {
+      "term": "Conditional",
+      "definition": "Describes a probability that depends on another event having happened."
+    },
+    "pl": {
+      "term": "Warunkowe",
+      "definition": "Opisuje prawdopodobieństwo zależne od tego, czy zaszło inne zdarzenie."
+    },
+    "cy": {
+      "term": "Amodol",
+      "definition": "Yn disgrifio tebygolrwydd sy'n dibynnu ar fod digwyddiad arall wedi digwydd."
+    },
+    "ar": {
+      "term": "شرطي",
+      "definition": "يصف احتمالاً يعتمد على وقوع حدث آخر."
+    },
+    "ro": {
+      "term": "Condiționat",
+      "definition": "Descrie o probabilitate care depinde de faptul că s-a întâmplat un alt eveniment."
+    },
+    "prs": {
+      "term": "شرطی",
+      "definition": "احتمالی را بیان می‌کند که به رخ دادن یک رویداد دیگر وابسته است."
+    },
+    "ps": {
+      "term": "شرطي",
+      "definition": "هغه احتمال ښيي چې د بلې پېښې په پېښېدو پورې تړلی وي."
+    },
+    "es": {
+      "term": "Condicional",
+      "definition": "Describe una probabilidad que depende de que haya ocurrido otro suceso."
+    }
+  }
+}

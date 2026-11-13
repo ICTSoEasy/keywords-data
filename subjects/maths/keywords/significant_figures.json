@@ -1,0 +1,40 @@
+{
+  "id": "significant_figures",
+  "topics": [
+    "number"
+  ],
+  "translations": {
+    "en": {
+      "term": "Significant Figures",
+      "definition": "The digits in a number that carry information about its size and precision, starting with the first non-zero digit."
+    },
+    "pl": {
+      "term": "Cyfry znaczące",
+      "definition": "Cyfry liczby niosące informację o jej wielkości i dokładności, licząc od pierwszej cyfry niezerowej."
+    },
+    "cy": {
+      "term": "Ffigurau Ystyrlon",
+      "definition": "Y digidau mewn rhif sy'n rhoi gwybodaeth am ei faint a'i fanwl gywirdeb, gan ddechrau gyda'r digid cyntaf nad yw'n sero."
+    },
+    "ar": {
+      "term": "الأرقام المعنوية",
+      "definition": "أرقام العدد التي تحمل معلومات عن حجمه ودقته، بدءاً من أول رقم غير صفري."
+    },
+    "ro": {
+      "term": "Cifre semnificative",
+      "definition": "Cifrele unui număr care dau informații despre mărimea și precizia lui, începând cu prima cifră diferită de zero."
+    },
+    "prs": {
+      "term": "ارقام بامعنا",
+      "definition": "رقم‌هایی از عدد که دربارهٔ اندازه و دقت آن معلومات می‌دهند، از اولین رقم غیرصفر شروع می‌شوند."
+    },
+    "ps": {
+      "term": "مهم رقمونه",
+      "definition": "د عدد هغه رقمونه چې د هغه د اندازې او دقت په اړه معلومات ورکوي، له لومړي غیر صفري رقم څخه پیلېږي."
+    },
+    "es": {
+      "term": "Cifras significativas",
+      "definition": "Cifras de un número que aportan información sobre su valor y precisión, empezando por la primera cifra distinta de cero."
+    }
+  }
+}

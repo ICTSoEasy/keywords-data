@@ -28,6 +28,10 @@
     "ps": {
       "term": "پروتوکول",
       "definition": "د قوانینو مجموعه چې تعریفوي وسیلې د شبکې له لارې څنګه اړیکه ساتي."
+    },
+    "es": {
+      "term": "Protocolo",
+      "definition": "Conjunto de reglas acordadas que controla cómo se envían y reciben los datos en una red."
     }
   },
   "topics": [

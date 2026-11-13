@@ -28,6 +28,10 @@
     "ps": {
       "term": "ریکارډ",
       "definition": "د ډیټابیس کې د اړونده ساحو ټولګه چې یوه موجودیت توضیح کوي، لکه د جدول یوه کرښه."
+    },
+    "es": {
+      "term": "Registro",
+      "definition": "Una sola fila de una tabla de una base de datos, que representa un elemento o una entrada (por ejemplo, un alumno o un producto)."
     }
   },
   "topics": [

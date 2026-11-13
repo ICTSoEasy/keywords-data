@@ -1,0 +1,40 @@
+{
+  "id": "collecting_like_terms",
+  "topics": [
+    "algebra"
+  ],
+  "translations": {
+    "en": {
+      "term": "Collecting Like Terms",
+      "definition": "Combining terms that have the same variable part and powers, such as 3x + 2x = 5x."
+    },
+    "pl": {
+      "term": "Redukcja wyrazów podobnych",
+      "definition": "Łączenie wyrazów o tej samej części literowej i tych samych potęgach, na przykład 3x + 2x = 5x."
+    },
+    "cy": {
+      "term": "Casglu Termau Tebyg",
+      "definition": "Cyfuno termau sydd â'r un rhan newidyn a'r un pwerau, fel 3x + 2x = 5x."
+    },
+    "ar": {
+      "term": "تجميع الحدود المتشابهة",
+      "definition": "جمع الحدود التي لها الجزء المتغير والقوى نفسها، مثل 3x + 2x = 5x."
+    },
+    "ro": {
+      "term": "Reducerea termenilor asemenea",
+      "definition": "Combinarea termenilor care au aceeași parte literală și aceleași puteri, de exemplu 3x + 2x = 5x."
+    },
+    "prs": {
+      "term": "جمع کردن جمله‌های مشابه",
+      "definition": "یکجا کردن جمله‌هایی که بخش متحول و توان یکسان دارند، مانند 3x + 2x = 5x."
+    },
+    "ps": {
+      "term": "د ورته حدونو راټولول",
+      "definition": "د هغو حدونو یوځای کول چې یو شان متحول او توان لري، لکه 3x + 2x = 5x."
+    },
+    "es": {
+      "term": "Reducción de términos semejantes",
+      "definition": "Combinar términos que tienen la misma parte variable y los mismos exponentes, como 3x + 2x = 5x."
+    }
+  }
+}

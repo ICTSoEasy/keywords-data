@@ -36,6 +36,11 @@
         "code": "ps",
         "label": "پښتو",
         "english_label": "Pashto"
+      },
+      {
+        "code": "es",
+        "label": "Español",
+        "english_label": "Spanish"
       }
     ]
   },
@@ -144,6 +149,21 @@
       "continue_subject": "دوام",
       "all_subjects": "ټول مضمونونه",
       "not_found": "پاڼه ونه موندل شوه"
+    },
+    "es": {
+      "site_title": "Palabras clave",
+      "site_subtitle": "Vocabulario de cada asignatura para todos",
+      "search_placeholder": "Buscar palabras clave…",
+      "all_topics": "Todos los temas",
+      "no_results": "No se han encontrado palabras clave. Prueba con otra búsqueda u otro tema.",
+      "no_translation": "Traducción aún no disponible",
+      "second_language": "Segundo idioma",
+      "footer_text": "Datos aportados por la comunidad.",
+      "footer_contribute": "Sugerir cambios en GitHub",
+      "choose_subject": "Elige una asignatura",
+      "continue_subject": "Continuar",
+      "all_subjects": "Todas las asignaturas",
+      "not_found": "Página no encontrada"
     }
   },
   "subjects": [
@@ -157,7 +177,8 @@
         "ar": "الحوسبة",
         "ro": "Informatică",
         "prs": "کمپیوتر",
-        "ps": "کمپیوټر"
+        "ps": "کمپیوټر",
+        "es": "Informática"
       },
       "draft": false,
       "keyword_count": 187,
@@ -174,9 +195,10 @@
         "ar": "الرياضيات",
         "ro": "Matematică",
         "prs": "ریاضی",
-        "ps": "ریاضي"
+        "ps": "ریاضي",
+        "es": "Matemáticas"
       },
-      "keyword_count": 0,
+      "keyword_count": 284,
       "topic_count": 6
     }
   ]

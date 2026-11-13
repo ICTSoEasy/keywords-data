@@ -1,0 +1,40 @@
+{
+  "id": "improper_fraction",
+  "topics": [
+    "number"
+  ],
+  "translations": {
+    "en": {
+      "term": "Improper Fraction",
+      "definition": "A fraction whose numerator is greater than or equal to its denominator."
+    },
+    "pl": {
+      "term": "Ułamek niewłaściwy",
+      "definition": "Ułamek, którego licznik jest większy od mianownika lub mu równy."
+    },
+    "cy": {
+      "term": "Ffracsiwn Pendrwm",
+      "definition": "Ffracsiwn lle mae'r rhifiadur yn fwy na'r enwadur neu'n hafal iddo."
+    },
+    "ar": {
+      "term": "الكسر غير الفعلي",
+      "definition": "كسر يكون بسطه أكبر من مقامه أو مساوياً له."
+    },
+    "ro": {
+      "term": "Fracție supraunitară",
+      "definition": "O fracție al cărei numărător este mai mare sau egal cu numitorul."
+    },
+    "prs": {
+      "term": "کسر غیرحقیقی",
+      "definition": "کسری که صورت آن بزرگ‌تر از مخرج یا مساوی آن است."
+    },
+    "ps": {
+      "term": "غیر حقیقي کسر",
+      "definition": "هغه کسر چې صورت یې له مخرج څخه لوی یا ورسره برابر وي."
+    },
+    "es": {
+      "term": "Fracción impropia",
+      "definition": "Fracción cuyo numerador es mayor o igual que su denominador."
+    }
+  }
+}

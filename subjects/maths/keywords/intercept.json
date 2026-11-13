@@ -1,0 +1,40 @@
+{
+  "id": "intercept",
+  "topics": [
+    "algebra"
+  ],
+  "translations": {
+    "en": {
+      "term": "Intercept",
+      "definition": "The point where a graph crosses an axis."
+    },
+    "pl": {
+      "term": "Punkt przecięcia z osią",
+      "definition": "Punkt, w którym wykres przecina oś."
+    },
+    "cy": {
+      "term": "Rhyngdoriad",
+      "definition": "Y pwynt lle mae graff yn croesi echelin."
+    },
+    "ar": {
+      "term": "المقطع",
+      "definition": "النقطة التي يقطع فيها المنحنى أحد المحورين."
+    },
+    "ro": {
+      "term": "Punct de intersecție cu axa",
+      "definition": "Punctul în care un grafic intersectează o axă."
+    },
+    "prs": {
+      "term": "نقطهٔ تقاطع با محور",
+      "definition": "نقطه‌ای که گراف یک محور را قطع می‌کند."
+    },
+    "ps": {
+      "term": "له محور سره د قطع ټکی",
+      "definition": "هغه ټکی چې ګراف یو محور قطع کوي."
+    },
+    "es": {
+      "term": "Intersección con el eje",
+      "definition": "Punto en el que una gráfica corta uno de los ejes."
+    }
+  }
+}

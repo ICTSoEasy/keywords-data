@@ -1,0 +1,40 @@
+{
+  "id": "locus_loci",
+  "topics": [
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Locus / Loci",
+      "definition": "A set of points that follow a stated rule or satisfy a stated condition. Loci is the plural of locus."
+    },
+    "pl": {
+      "term": "Miejsce geometryczne",
+      "definition": "Zbiór punktów spełniających podaną regułę lub warunek."
+    },
+    "cy": {
+      "term": "Locws / Locysau",
+      "definition": "Set o bwyntiau sy'n dilyn rheol benodol neu'n bodloni amod penodol. Locysau yw lluosog locws."
+    },
+    "ar": {
+      "term": "المحل الهندسي / المحال الهندسية",
+      "definition": "مجموعة نقاط تتبع قاعدة معينة أو تحقق شرطاً معيناً. المحال الهندسية جمع المحل الهندسي."
+    },
+    "ro": {
+      "term": "Loc geometric / locuri geometrice",
+      "definition": "O mulțime de puncte care respectă o regulă sau o condiție dată. Locuri geometrice este pluralul."
+    },
+    "prs": {
+      "term": "مکان هندسی / مکان‌های هندسی",
+      "definition": "مجموعه‌ای از نقاط که از یک قاعدهٔ معین پیروی می‌کنند یا یک شرط معین را برآورده می‌کنند. مکان‌های هندسی جمع آن است."
+    },
+    "ps": {
+      "term": "هندسي ځای / هندسي ځایونه",
+      "definition": "د هغو ټکو ټولګه چې یوه ټاکلې قاعده تعقیبوي یا یو ټاکلی شرط پوره کوي. هندسي ځایونه یې جمع ده."
+    },
+    "es": {
+      "term": "Lugar geométrico / lugares geométricos",
+      "definition": "Conjunto de puntos que cumplen una regla o condición determinada. Loci es el plural de locus."
+    }
+  }
+}

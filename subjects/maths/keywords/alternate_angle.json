@@ -1,0 +1,40 @@
+{
+  "id": "alternate_angle",
+  "topics": [
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Alternate Angle",
+      "definition": "One of a pair of angles formed on opposite sides of a transversal crossing two lines; if the lines are parallel, alternate angles are equal."
+    },
+    "pl": {
+      "term": "Kąt naprzemianległy",
+      "definition": "Jeden z pary kątów po przeciwnych stronach siecznej przecinającej dwie proste; jeśli proste są równoległe, kąty naprzemianległe są równe."
+    },
+    "cy": {
+      "term": "Ongl Eiledol",
+      "definition": "Un o bâr o onglau ar ochrau cyferbyn trawslin sy'n croesi dwy linell; os yw'r llinellau'n baralel, mae onglau eiledol yn hafal."
+    },
+    "ar": {
+      "term": "زاوية متبادلة",
+      "definition": "إحدى زاويتين على جانبين متقابلين من قاطع يقطع خطين؛ إذا كان الخطان متوازيين فالزاويتان المتبادلتان متساويتان."
+    },
+    "ro": {
+      "term": "Unghi altern",
+      "definition": "Unul dintr-o pereche de unghiuri aflate de o parte și de alta a unei secante care taie două drepte; dacă dreptele sunt paralele, unghiurile alternative sunt egale."
+    },
+    "prs": {
+      "term": "زاویهٔ متبادله",
+      "definition": "یکی از دو زاویه در دو طرف مقابل یک قاطع که دو خط را قطع می‌کند؛ اگر خط‌ها موازی باشند، زاویه‌های متبادله مساوی‌اند."
+    },
+    "ps": {
+      "term": "متبادله زاویه",
+      "definition": "د هغو دوو زاویو څخه یوه چې د یو قاطع په مخالفو خواوو کې وي چې دوه کرښې قطع کوي؛ که کرښې موازي وي، متبادلې زاویې برابرې دي."
+    },
+    "es": {
+      "term": "Ángulo alterno",
+      "definition": "Uno de los dos ángulos situados en lados opuestos de una transversal que corta dos rectas. Si las rectas son paralelas, los ángulos alternos son iguales."
+    }
+  }
+}

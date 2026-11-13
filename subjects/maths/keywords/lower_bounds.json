@@ -1,0 +1,40 @@
+{
+  "id": "lower_bounds",
+  "topics": [
+    "number"
+  ],
+  "translations": {
+    "en": {
+      "term": "Lower Bounds",
+      "definition": "The smallest value that a rounded measurement could have had before it was rounded."
+    },
+    "pl": {
+      "term": "Dolne granice",
+      "definition": "Najmniejsza wartość, jaką mógł mieć zaokrąglony pomiar przed zaokrągleniem."
+    },
+    "cy": {
+      "term": "Terfannau Isaf",
+      "definition": "Y gwerth lleiaf a allai fod gan fesuriad wedi'i dalgrynnu cyn iddo gael ei dalgrynnu."
+    },
+    "ar": {
+      "term": "الحدود الدنيا",
+      "definition": "أصغر قيمة كان يمكن أن يكون عليها القياس المقرَّب قبل تقريبه."
+    },
+    "ro": {
+      "term": "Limite inferioare",
+      "definition": "Cea mai mică valoare pe care ar fi putut-o avea o măsurătoare rotunjită înainte de rotunjire."
+    },
+    "prs": {
+      "term": "حدود پایین",
+      "definition": "کوچک‌ترین مقداری که یک اندازهٔ گردشده می‌توانست پیش از گرد شدن داشته باشد."
+    },
+    "ps": {
+      "term": "ټیټ حدونه",
+      "definition": "تر ټولو کوچنی قیمت چې یوه ګرده شوې اندازه یې د ګردېدو مخکې لرلای شوه."
+    },
+    "es": {
+      "term": "Cotas inferiores",
+      "definition": "Valor mínimo que podría haber tenido una medida antes de redondearse."
+    }
+  }
+}

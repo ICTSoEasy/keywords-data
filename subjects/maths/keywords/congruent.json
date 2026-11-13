@@ -1,0 +1,40 @@
+{
+  "id": "congruent",
+  "topics": [
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Congruent",
+      "definition": "Having exactly the same shape and size; matching lengths and angles are equal."
+    },
+    "pl": {
+      "term": "Przystające",
+      "definition": "Mające dokładnie ten sam kształt i rozmiar; odpowiadające sobie długości i kąty są równe."
+    },
+    "cy": {
+      "term": "Cyfath",
+      "definition": "Yn union yr un siâp a maint; mae hydoedd ac onglau cyfatebol yn hafal."
+    },
+    "ar": {
+      "term": "متطابقان",
+      "definition": "لهما الشكل والحجم نفسيهما تماماً؛ الأطوال والزوايا المتناظرة متساوية."
+    },
+    "ro": {
+      "term": "Congruent",
+      "definition": "Care are exact aceeași formă și mărime; lungimile și unghiurile corespunzătoare sunt egale."
+    },
+    "prs": {
+      "term": "متطابق",
+      "definition": "دارای دقیقاً همان شکل و اندازه؛ طول‌ها و زاویه‌های متناظر مساوی‌اند."
+    },
+    "ps": {
+      "term": "منطبق",
+      "definition": "دقیقاً یو شان بڼه او اندازه لري؛ اړوند اوږدوالي او زاویې برابرې دي."
+    },
+    "es": {
+      "term": "Congruente",
+      "definition": "Que tiene exactamente la misma forma y tamaño que otra figura; sus lados y ángulos correspondientes son iguales."
+    }
+  }
+}

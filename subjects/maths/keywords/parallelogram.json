@@ -1,0 +1,40 @@
+{
+  "id": "parallelogram",
+  "topics": [
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Parallelogram",
+      "definition": "A quadrilateral with both pairs of opposite sides parallel."
+    },
+    "pl": {
+      "term": "Równoległobok",
+      "definition": "Czworokąt, w którym obie pary przeciwległych boków są równoległe."
+    },
+    "cy": {
+      "term": "Paralelogram",
+      "definition": "Pedrochr â'r ddau bâr o ochrau cyferbyn yn baralel."
+    },
+    "ar": {
+      "term": "متوازي الأضلاع",
+      "definition": "شكل رباعي كل ضلعين متقابلين فيه متوازيان."
+    },
+    "ro": {
+      "term": "Paralelogram",
+      "definition": "Un patrulater cu ambele perechi de laturi opuse paralele."
+    },
+    "prs": {
+      "term": "متوازی‌الاضلاع",
+      "definition": "چهارضلعی که هر دو جفت ضلع مقابل آن موازی‌اند."
+    },
+    "ps": {
+      "term": "متوازي الاضلاع",
+      "definition": "هغه څلور ضلعي چې د مخامخ غاړو دواړه جوړې یې موازي وي."
+    },
+    "es": {
+      "term": "Paralelogramo",
+      "definition": "Cuadrilátero con los dos pares de lados opuestos paralelos."
+    }
+  }
+}

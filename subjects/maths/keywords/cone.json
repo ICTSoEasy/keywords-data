@@ -1,0 +1,40 @@
+{
+  "id": "cone",
+  "topics": [
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Cone",
+      "definition": "A 3D shape with a circular base that narrows to a single point called the vertex."
+    },
+    "pl": {
+      "term": "Stożek",
+      "definition": "Bryła o podstawie w kształcie koła, zwężająca się do jednego punktu zwanego wierzchołkiem."
+    },
+    "cy": {
+      "term": "Côn",
+      "definition": "Siâp 3D â gwaelod crwn sy'n culhau i un pwynt o'r enw fertig."
+    },
+    "ar": {
+      "term": "المخروط",
+      "definition": "مجسّم قاعدته دائرية ويضيق حتى نقطة واحدة تسمى الرأس."
+    },
+    "ro": {
+      "term": "Con",
+      "definition": "Un corp cu baza în formă de cerc care se îngustează până la un singur punct numit vârf."
+    },
+    "prs": {
+      "term": "مخروط",
+      "definition": "شکل سه‌بعدی با قاعدهٔ دایره‌ای که تا یک نقطه به نام رأس باریک می‌شود."
+    },
+    "ps": {
+      "term": "مخروط",
+      "definition": "درې بُعدي بڼه چې دایروي قاعده لري او تر یو ټکي پورې چې راس بلل کېږي نریېږي."
+    },
+    "es": {
+      "term": "Cono",
+      "definition": "Cuerpo geométrico con una base circular que se estrecha hasta un único punto llamado vértice."
+    }
+  }
+}

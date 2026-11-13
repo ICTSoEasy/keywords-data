@@ -1,0 +1,41 @@
+{
+  "id": "similar",
+  "topics": [
+    "ratio",
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Similar",
+      "definition": "Shapes that have the same angles and matching sides in the same ratio, although their sizes may differ."
+    },
+    "pl": {
+      "term": "Podobne",
+      "definition": "Figury o tych samych kątach i odpowiadających sobie bokach w tym samym stosunku, choć mogą różnić się wielkością."
+    },
+    "cy": {
+      "term": "Cyflun",
+      "definition": "Siapiau sydd â'r un onglau ac ochrau cyfatebol yn yr un gymhareb, er y gall eu maint fod yn wahanol."
+    },
+    "ar": {
+      "term": "متشابهان",
+      "definition": "شكلان لهما الزوايا نفسها وأضلاعهما المتناظرة بالنسبة نفسها، مع أن حجميهما قد يختلفان."
+    },
+    "ro": {
+      "term": "Asemenea",
+      "definition": "Figuri care au aceleași unghiuri și laturi corespunzătoare în același raport, chiar dacă mărimea lor diferă."
+    },
+    "prs": {
+      "term": "متشابه",
+      "definition": "شکل‌هایی که زاویه‌های یکسان دارند و ضلع‌های متناظر آن‌ها به یک نسبت هستند، هرچند اندازه‌شان فرق دارد."
+    },
+    "ps": {
+      "term": "ورته",
+      "definition": "هغه بڼې چې یو شان زاویې لري او اړوندې غاړې یې په یو نسبت وي، که څه هم اندازه یې توپیر ولري."
+    },
+    "es": {
+      "term": "Semejante",
+      "definition": "Figuras que tienen los mismos ángulos y lados correspondientes en la misma proporción, aunque pueden tener tamaños distintos."
+    }
+  }
+}

@@ -31,6 +31,10 @@
     "ps": {
       "term": "پاکیټ سویچینګ",
       "definition": "د معلوماتو د لیږلو لار چې دا کوچنیو پاکیټونو ته ویشي او هر یو مستقل لاره نیسي."
+    },
+    "es": {
+      "term": "Conmutación de paquetes",
+      "definition": "Método de enviar datos dividiéndolos en pequeños paquetes que viajan de forma independiente por la red y se vuelven a unir en el destino."
     }
   }
 }

@@ -1,0 +1,40 @@
+{
+  "id": "elevation",
+  "topics": [
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Elevation",
+      "definition": "A 2D view of a 3D object from the front, side or another stated direction."
+    },
+    "pl": {
+      "term": "Rzut z boku",
+      "definition": "Dwuwymiarowy widok bryły z przodu, z boku lub z innego podanego kierunku."
+    },
+    "cy": {
+      "term": "Golwg",
+      "definition": "Golwg 2D o wrthrych 3D o'r blaen, o'r ochr neu o gyfeiriad penodol arall."
+    },
+    "ar": {
+      "term": "المسقط الرأسي",
+      "definition": "منظر ثنائي الأبعاد لجسم ثلاثي الأبعاد من الأمام أو الجانب أو اتجاه آخر محدد."
+    },
+    "ro": {
+      "term": "Vedere laterală",
+      "definition": "O vedere bidimensională a unui obiect tridimensional din față, din lateral sau din altă direcție dată."
+    },
+    "prs": {
+      "term": "نمای جانبی",
+      "definition": "نمای دوبعدی یک جسم سه‌بعدی از پیش رو، پهلو یا جهت معین دیگر."
+    },
+    "ps": {
+      "term": "اړخیزه منظره",
+      "definition": "د درې بُعدي جسم دوه بُعدي منظره له مخې، اړخ یا بل ټاکلي لوري څخه."
+    },
+    "es": {
+      "term": "Vista de alzado",
+      "definition": "Vista bidimensional de un objeto tridimensional desde el frente, un lado u otra dirección indicada."
+    }
+  }
+}

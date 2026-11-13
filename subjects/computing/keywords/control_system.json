@@ -31,6 +31,10 @@
     "ps": {
       "term": "د کنترول سیستم",
       "definition": "هغه سیستم چې د یوه پروسې د اتوماتیک کنترول لپاره د سینسر ننوتونه کاروي."
+    },
+    "es": {
+      "term": "Sistema de control",
+      "definition": "Sistema que vigila las entradas y ajusta las salidas para lograr un resultado deseado, como un termostato que regula la temperatura."
     }
   }
 }

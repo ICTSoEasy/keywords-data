@@ -1,0 +1,40 @@
+{
+  "id": "corresponding_angles",
+  "topics": [
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Corresponding Angles",
+      "definition": "Angles in matching positions when a transversal crosses two lines; they are equal when the lines are parallel."
+    },
+    "pl": {
+      "term": "Kąty odpowiadające",
+      "definition": "Kąty w odpowiadających sobie położeniach, gdy sieczna przecina dwie proste; są równe, gdy proste są równoległe."
+    },
+    "cy": {
+      "term": "Onglau Cyfatebol",
+      "definition": "Onglau mewn safleoedd cyfatebol pan fo trawslin yn croesi dwy linell; maen nhw'n hafal pan fo'r llinellau'n baralel."
+    },
+    "ar": {
+      "term": "الزوايا المتناظرة",
+      "definition": "زوايا في مواقع متناظرة عندما يقطع قاطعٌ خطين؛ وتكون متساوية عندما يكون الخطان متوازيين."
+    },
+    "ro": {
+      "term": "Unghiuri corespondente",
+      "definition": "Unghiuri aflate în poziții corespunzătoare când o secantă taie două drepte; sunt egale când dreptele sunt paralele."
+    },
+    "prs": {
+      "term": "زاویه‌های متناظره",
+      "definition": "زاویه‌هایی در موقعیت‌های همسان وقتی یک قاطع دو خط را قطع می‌کند؛ وقتی خط‌ها موازی باشند مساوی‌اند."
+    },
+    "ps": {
+      "term": "متناظرې زاویې",
+      "definition": "هغه زاویې چې په ورته ځایونو کې وي کله چې یو قاطع دوه کرښې قطع کړي؛ کله چې کرښې موازي وي برابرې دي."
+    },
+    "es": {
+      "term": "Ángulos correspondientes",
+      "definition": "Ángulos que ocupan posiciones equivalentes cuando una transversal corta dos rectas; son iguales si las rectas son paralelas."
+    }
+  }
+}

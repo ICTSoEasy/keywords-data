@@ -1,0 +1,40 @@
+{
+  "id": "face",
+  "topics": [
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Face",
+      "definition": "A flat surface of a 3D shape."
+    },
+    "pl": {
+      "term": "Ściana",
+      "definition": "Płaska powierzchnia bryły."
+    },
+    "cy": {
+      "term": "Wyneb",
+      "definition": "Arwyneb gwastad siâp 3D."
+    },
+    "ar": {
+      "term": "الوجه",
+      "definition": "سطح مستوٍ من سطوح المجسّم."
+    },
+    "ro": {
+      "term": "Față",
+      "definition": "O suprafață plană a unui corp."
+    },
+    "prs": {
+      "term": "وجه",
+      "definition": "سطح هموار یک شکل سه‌بعدی."
+    },
+    "ps": {
+      "term": "مخ",
+      "definition": "د درې بُعدي بڼې یوه هواره سطحه."
+    },
+    "es": {
+      "term": "Cara",
+      "definition": "Superficie plana de un cuerpo geométrico."
+    }
+  }
+}

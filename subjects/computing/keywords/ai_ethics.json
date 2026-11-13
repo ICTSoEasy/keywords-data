@@ -32,6 +32,10 @@
     "ps": {
       "term": "د مصنوعي هوښیارتیا اخلاق",
       "definition": "هغه قوانین او ارزښتونه چې ډاډ ورکوي چې مصنوعي هوښیارتیا عادلانه او مسؤولانه کارول کیږي."
+    },
+    "es": {
+      "term": "Ética de la IA",
+      "definition": "Estudio de las cuestiones morales que plantea la inteligencia artificial, como el sesgo, la equidad, la responsabilidad y el impacto en el empleo."
     }
   }
 }

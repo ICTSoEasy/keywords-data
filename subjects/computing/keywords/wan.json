@@ -31,6 +31,10 @@
     "ps": {
       "term": "WAN",
       "definition": "شبکه چې پراخه جغرافیایي سیمې پوښي، لکه انټرنیټ."
+    },
+    "es": {
+      "term": "WAN",
+      "definition": "Red de Área Amplia; conecta dispositivos en zonas geográficas grandes, como internet."
     }
   }
 }

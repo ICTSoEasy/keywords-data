@@ -28,6 +28,10 @@
     "ps": {
       "term": "متغیر",
       "definition": "د حافظې نومول شوی ځای چې یو ارزښت ذخیره کوي او بدلیدلی شي."
+    },
+    "es": {
+      "term": "Variable",
+      "definition": "Lugar con nombre en la memoria del ordenador donde se guarda un valor. El valor puede cambiar mientras el programa se ejecuta."
     }
   },
   "topics": [

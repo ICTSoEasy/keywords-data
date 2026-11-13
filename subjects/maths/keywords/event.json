@@ -1,0 +1,40 @@
+{
+  "id": "event",
+  "topics": [
+    "probability"
+  ],
+  "translations": {
+    "en": {
+      "term": "Event",
+      "definition": "An outcome or group of outcomes in a probability experiment."
+    },
+    "pl": {
+      "term": "Zdarzenie",
+      "definition": "Wynik lub grupa wyników w doświadczeniu losowym."
+    },
+    "cy": {
+      "term": "Digwyddiad",
+      "definition": "Canlyniad neu grŵp o ganlyniadau mewn arbrawf tebygolrwydd."
+    },
+    "ar": {
+      "term": "الحدث",
+      "definition": "نتيجة أو مجموعة نتائج في تجربة احتمالية."
+    },
+    "ro": {
+      "term": "Eveniment",
+      "definition": "Un rezultat sau un grup de rezultate într-un experiment de probabilitate."
+    },
+    "prs": {
+      "term": "رویداد",
+      "definition": "یک نتیجه یا گروهی از نتیجه‌ها در یک تجربهٔ احتمال."
+    },
+    "ps": {
+      "term": "پېښه",
+      "definition": "یوه پایله یا د پایلو یوه ډله په یوه احتمالي تجربه کې."
+    },
+    "es": {
+      "term": "Suceso",
+      "definition": "Resultado o conjunto de resultados de un experimento de probabilidad."
+    }
+  }
+}

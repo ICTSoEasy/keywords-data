@@ -31,6 +31,10 @@
     "ps": {
       "term": "اړیکوي ډیټابیس",
       "definition": "ډیټابیس چې معلومات اړونده جدولونو کې ذخیره کوي چې د کیلیو له لارې سره وصل دي."
+    },
+    "es": {
+      "term": "Base de datos relacional",
+      "definition": "Base de datos que organiza los datos en tablas relacionadas unidas por claves, lo que reduce la repetición y facilita la gestión."
     }
   }
 }

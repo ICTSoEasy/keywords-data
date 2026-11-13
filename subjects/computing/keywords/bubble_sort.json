@@ -31,6 +31,10 @@
     "ps": {
       "term": "بابل سورټ",
       "definition": "د ترتیب الګوریتم چې د لیست د ترتیب لپاره ګاونډي توکي پرتله کوي او بدلوي."
+    },
+    "es": {
+      "term": "Ordenamiento de burbuja",
+      "definition": "Algoritmo de ordenación que compara repetidamente elementos vecinos y los intercambia si están en el orden incorrecto."
     }
   }
 }

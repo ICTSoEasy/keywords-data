@@ -1,0 +1,40 @@
+{
+  "id": "growth",
+  "topics": [
+    "ratio"
+  ],
+  "translations": {
+    "en": {
+      "term": "Growth",
+      "definition": "An increase in a quantity, often by the same percentage or proportion over equal time intervals."
+    },
+    "pl": {
+      "term": "Wzrost",
+      "definition": "Zwiększanie się wielkości, często o ten sam procent lub tę samą część w równych odstępach czasu."
+    },
+    "cy": {
+      "term": "Twf",
+      "definition": "Cynnydd mewn maint, yn aml o'r un ganran neu gyfran dros gyfnodau amser cyfartal."
+    },
+    "ar": {
+      "term": "النمو",
+      "definition": "زيادة في كمية، غالباً بالنسبة المئوية أو النسبة نفسها خلال فترات زمنية متساوية."
+    },
+    "ro": {
+      "term": "Creștere",
+      "definition": "Mărirea unei cantități, adesea cu același procent sau aceeași proporție la intervale egale de timp."
+    },
+    "prs": {
+      "term": "رشد",
+      "definition": "زیاد شدن یک مقدار، اغلب به همان فیصدی یا نسبت در فاصله‌های زمانی برابر."
+    },
+    "ps": {
+      "term": "وده",
+      "definition": "د یو مقدار زیاتېدل، ډېری وخت په هماغه سلنه یا نسبت په برابرو وختي واټنونو کې."
+    },
+    "es": {
+      "term": "Crecimiento",
+      "definition": "Aumento de una cantidad en el mismo porcentaje o proporción durante intervalos de tiempo iguales."
+    }
+  }
+}

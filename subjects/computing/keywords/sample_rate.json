@@ -31,6 +31,10 @@
     "ps": {
       "term": "د نمونې کچه",
       "definition": "هغه ځله شمیر چې یو غږیز سیګنال هره ثانیه اندازه کیږي؛ لوړه کچه یعنې غوره غږ."
+    },
+    "es": {
+      "term": "Frecuencia de muestreo",
+      "definition": "Número de veces por segundo que se mide una onda de sonido al grabar audio. Una frecuencia mayor da mejor calidad pero un archivo más grande."
     }
   }
 }

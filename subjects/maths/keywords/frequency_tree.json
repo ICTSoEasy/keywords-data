@@ -1,0 +1,40 @@
+{
+  "id": "frequency_tree",
+  "topics": [
+    "probability"
+  ],
+  "translations": {
+    "en": {
+      "term": "Frequency Tree",
+      "definition": "A diagram that organises frequencies into branches, often showing how a group is split into categories."
+    },
+    "pl": {
+      "term": "Drzewo częstości",
+      "definition": "Diagram porządkujący częstości w gałęzie, często pokazujący, jak grupa dzieli się na kategorie."
+    },
+    "cy": {
+      "term": "Coeden Amlder",
+      "definition": "Diagram sy'n trefnu amlderau yn ganghennau, yn aml yn dangos sut mae grŵp yn cael ei rannu'n gategorïau."
+    },
+    "ar": {
+      "term": "شجرة التكرار",
+      "definition": "مخطط ينظّم التكرارات في فروع، ويبيّن غالباً كيف تنقسم مجموعة إلى فئات."
+    },
+    "ro": {
+      "term": "Arbore de frecvențe",
+      "definition": "O diagramă care organizează frecvențele pe ramuri, arătând adesea cum se împarte un grup în categorii."
+    },
+    "prs": {
+      "term": "درخت فراوانی",
+      "definition": "نموداری که فراوانی‌ها را در شاخه‌ها منظم می‌کند و اغلب نشان می‌دهد یک گروه چگونه به دسته‌ها تقسیم می‌شود."
+    },
+    "ps": {
+      "term": "د فریکونسۍ ونه",
+      "definition": "هغه ګراف چې فریکونسۍ په څانګو کې تنظیموي، ډېری وخت ښيي چې یوه ډله څنګه په کټګوریو وېشل کېږي."
+    },
+    "es": {
+      "term": "Diagrama de árbol de frecuencias",
+      "definition": "Diagrama que organiza las frecuencias en ramas y muestra cómo se divide un grupo en categorías."
+    }
+  }
+}

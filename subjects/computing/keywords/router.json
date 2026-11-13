@@ -28,6 +28,10 @@
     "ps": {
       "term": "راوټر",
       "definition": "وسیله چې د معلوماتو پاکیټونه شبکو تر منځ لارښوونه کوي او سم منزل ته یې رسوي."
+    },
+    "es": {
+      "term": "Router",
+      "definition": "Dispositivo que dirige el tráfico de internet entre redes, enviando los datos al lugar correcto."
     }
   },
   "topics": [

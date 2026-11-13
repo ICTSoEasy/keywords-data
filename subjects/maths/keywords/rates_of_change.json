@@ -1,0 +1,40 @@
+{
+  "id": "rates_of_change",
+  "topics": [
+    "ratio"
+  ],
+  "translations": {
+    "en": {
+      "term": "Rates of Change",
+      "definition": "How quickly one quantity changes compared with another, such as distance travelled per second."
+    },
+    "pl": {
+      "term": "Tempo zmian",
+      "definition": "Jak szybko jedna wielkość zmienia się w porównaniu z drugą, na przykład droga przebyta w ciągu sekundy."
+    },
+    "cy": {
+      "term": "Cyfraddau Newid",
+      "definition": "Pa mor gyflym mae un maint yn newid o'i gymharu ag un arall, fel y pellter a deithir bob eiliad."
+    },
+    "ar": {
+      "term": "معدلات التغير",
+      "definition": "مدى سرعة تغير كمية مقارنة بأخرى، مثل المسافة المقطوعة في كل ثانية."
+    },
+    "ro": {
+      "term": "Rate de variație",
+      "definition": "Cât de repede se schimbă o mărime în comparație cu alta, de exemplu distanța parcursă pe secundă."
+    },
+    "prs": {
+      "term": "سرعت‌های تغییر",
+      "definition": "اینکه یک مقدار در مقایسه با مقدار دیگر چقدر سریع تغییر می‌کند، مانند فاصلهٔ پیموده‌شده در هر ثانیه."
+    },
+    "ps": {
+      "term": "د بدلون کچه",
+      "definition": "دا چې یو مقدار د بل په پرتله څومره ژر بدلېږي، لکه په هره ثانیه کې تللی واټن."
+    },
+    "es": {
+      "term": "Tasas de variación",
+      "definition": "Rapidez con la que cambia una cantidad en relación con otra, como la distancia recorrida por segundo."
+    }
+  }
+}

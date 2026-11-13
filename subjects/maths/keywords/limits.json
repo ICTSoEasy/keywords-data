@@ -1,0 +1,40 @@
+{
+  "id": "limits",
+  "topics": [
+    "number"
+  ],
+  "translations": {
+    "en": {
+      "term": "Limits",
+      "definition": "The stated endpoints of a range of possible values, often used with rounded measurements."
+    },
+    "pl": {
+      "term": "Granice",
+      "definition": "Podane krańce zakresu możliwych wartości, często używane przy zaokrąglonych pomiarach."
+    },
+    "cy": {
+      "term": "Terfannau",
+      "definition": "Pennau penodol amrediad o werthoedd posibl, a ddefnyddir yn aml gyda mesuriadau wedi'u talgrynnu."
+    },
+    "ar": {
+      "term": "الحدود",
+      "definition": "طرفا مدى القيم الممكنة، وتُستخدم غالباً مع القياسات المقرّبة."
+    },
+    "ro": {
+      "term": "Limite",
+      "definition": "Capetele unui interval de valori posibile, folosite adesea la măsurători rotunjite."
+    },
+    "prs": {
+      "term": "حدود",
+      "definition": "دو سر یک محدودهٔ مقدارهای ممکن، که اغلب برای اندازه‌های گردشده به کار می‌رود."
+    },
+    "ps": {
+      "term": "حدونه",
+      "definition": "د ممکنه قیمتونو د لړۍ دوه سرونه، چې ډېری وخت له ګردو شویو اندازو سره کارول کېږي."
+    },
+    "es": {
+      "term": "Límites",
+      "definition": "Extremos indicados de un intervalo de valores posibles, utilizados a menudo con medidas redondeadas."
+    }
+  }
+}

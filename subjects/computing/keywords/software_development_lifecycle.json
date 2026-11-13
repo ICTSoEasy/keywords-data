@@ -31,6 +31,10 @@
     "ps": {
       "term": "د سافټویر پراختیا د ژوند دوره",
       "definition": "د سافټویر د جوړولو ګامونه د پلان او ډیزاین نه تر ازموینې او ساتنې پورې."
+    },
+    "es": {
+      "term": "Ciclo de vida del desarrollo de software",
+      "definition": "Las etapas por las que pasa un proyecto de software desde la idea inicial hasta su puesta en marcha y mantenimiento."
     }
   }
 }

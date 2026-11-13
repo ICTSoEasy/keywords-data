@@ -1,0 +1,40 @@
+{
+  "id": "prime_number",
+  "topics": [
+    "number"
+  ],
+  "translations": {
+    "en": {
+      "term": "Prime Number",
+      "definition": "A whole number greater than 1 that has exactly two factors: 1 and itself."
+    },
+    "pl": {
+      "term": "Liczba pierwsza",
+      "definition": "Liczba całkowita większa od 1, która ma dokładnie dwa dzielniki: 1 i samą siebie."
+    },
+    "cy": {
+      "term": "Rhif Cysefin",
+      "definition": "Rhif cyfan sy'n fwy nag 1 ac sydd ag union ddau ffactor: 1 a'r rhif ei hun."
+    },
+    "ar": {
+      "term": "العدد الأولي",
+      "definition": "عدد صحيح أكبر من 1 له عاملان فقط: الواحد والعدد نفسه."
+    },
+    "ro": {
+      "term": "Număr prim",
+      "definition": "Un număr întreg mai mare decât 1 care are exact doi divizori: 1 și el însuși."
+    },
+    "prs": {
+      "term": "عدد اول",
+      "definition": "عدد صحیح بزرگ‌تر از 1 که دقیقاً دو مقسوم‌علیه دارد: 1 و خودش."
+    },
+    "ps": {
+      "term": "لومړنی عدد",
+      "definition": "له 1 څخه لوی بشپړ عدد چې یوازې دوه عاملونه لري: 1 او پخپله."
+    },
+    "es": {
+      "term": "Número primo",
+      "definition": "Número entero mayor que 1 que tiene exactamente dos divisores: 1 y él mismo."
+    }
+  }
+}

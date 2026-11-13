@@ -1,0 +1,40 @@
+{
+  "id": "y_mx_c",
+  "topics": [
+    "algebra"
+  ],
+  "translations": {
+    "en": {
+      "term": "y = mx + c",
+      "definition": "The equation of a straight line, where m is the gradient and c is the y-intercept."
+    },
+    "pl": {
+      "term": "y = mx + c",
+      "definition": "Równanie prostej, gdzie m to współczynnik kierunkowy, a c to punkt przecięcia z osią y."
+    },
+    "cy": {
+      "term": "y = mx + c",
+      "definition": "Hafaliad llinell syth, lle m yw'r graddiant ac c yw'r rhyngdoriad-y."
+    },
+    "ar": {
+      "term": "y = mx + c",
+      "definition": "معادلة الخط المستقيم، حيث m هو الميل و c هو المقطع من المحور y."
+    },
+    "ro": {
+      "term": "y = mx + c",
+      "definition": "Ecuația unei drepte, unde m este panta, iar c este ordonata la origine."
+    },
+    "prs": {
+      "term": "y = mx + c",
+      "definition": "معادلهٔ خط مستقیم که در آن m میل و c نقطهٔ تقاطع با محور y است."
+    },
+    "ps": {
+      "term": "y = mx + c",
+      "definition": "د مستقیمې کرښې معادله، چې m میل او c د y له محور سره د قطع ټکی دی."
+    },
+    "es": {
+      "term": "y = mx + c",
+      "definition": "Ecuación de una recta, donde m es la pendiente y c es la ordenada en el origen."
+    }
+  }
+}

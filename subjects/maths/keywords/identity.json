@@ -1,0 +1,40 @@
+{
+  "id": "identity",
+  "topics": [
+    "algebra"
+  ],
+  "translations": {
+    "en": {
+      "term": "Identity",
+      "definition": "An equation that is true for every allowed value of its variable or variables."
+    },
+    "pl": {
+      "term": "Tożsamość",
+      "definition": "Równość prawdziwa dla każdej dopuszczalnej wartości zmiennej lub zmiennych."
+    },
+    "cy": {
+      "term": "Unfathiant",
+      "definition": "Hafaliad sy'n wir ar gyfer pob gwerth a ganiateir o'i newidyn neu ei newidynnau."
+    },
+    "ar": {
+      "term": "المتطابقة",
+      "definition": "معادلة صحيحة لكل قيمة مسموح بها لمتغيرها أو متغيراتها."
+    },
+    "ro": {
+      "term": "Identitate",
+      "definition": "O egalitate adevărată pentru orice valoare permisă a variabilei sau variabilelor."
+    },
+    "prs": {
+      "term": "اتحاد",
+      "definition": "معادله‌ای که برای هر مقدار مجاز متحول یا متحولین آن درست است."
+    },
+    "ps": {
+      "term": "اتحاد",
+      "definition": "هغه معادله چې د خپل متحول یا متحولینو د هر مجاز قیمت لپاره سمه وي."
+    },
+    "es": {
+      "term": "Identidad",
+      "definition": "Igualdad que es verdadera para todos los valores permitidos de sus variables."
+    }
+  }
+}

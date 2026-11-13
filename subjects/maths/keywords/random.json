@@ -1,0 +1,40 @@
+{
+  "id": "random",
+  "topics": [
+    "probability"
+  ],
+  "translations": {
+    "en": {
+      "term": "Random",
+      "definition": "Selected or occurring by chance, without a predictable pattern."
+    },
+    "pl": {
+      "term": "Losowy",
+      "definition": "Wybrany lub zachodzący przypadkowo, bez przewidywalnego wzoru."
+    },
+    "cy": {
+      "term": "Ar Hap",
+      "definition": "Wedi'i ddewis neu'n digwydd drwy siawns, heb batrwm rhagweladwy."
+    },
+    "ar": {
+      "term": "عشوائي",
+      "definition": "مختار أو يحدث بالصدفة، دون نمط يمكن التنبؤ به."
+    },
+    "ro": {
+      "term": "Aleator",
+      "definition": "Ales sau produs la întâmplare, fără un model previzibil."
+    },
+    "prs": {
+      "term": "تصادفی",
+      "definition": "انتخاب‌شده یا رخ‌داده به‌طور اتفاقی، بدون الگوی قابل پیش‌بینی."
+    },
+    "ps": {
+      "term": "تصادفي",
+      "definition": "په چانس سره ټاکل شوی یا پېښ شوی، پرته له وړاندوینې وړ نمونې."
+    },
+    "es": {
+      "term": "Aleatorio",
+      "definition": "Elegido o producido por azar, sin un patrón predecible."
+    }
+  }
+}

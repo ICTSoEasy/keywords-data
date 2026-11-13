@@ -1,0 +1,40 @@
+{
+  "id": "equally_likely",
+  "topics": [
+    "probability"
+  ],
+  "translations": {
+    "en": {
+      "term": "Equally Likely",
+      "definition": "Outcomes are equally likely when they all have the same chance of happening."
+    },
+    "pl": {
+      "term": "Jednakowo prawdopodobne",
+      "definition": "Wyniki są jednakowo prawdopodobne, gdy każdy ma taką samą szansę wystąpienia."
+    },
+    "cy": {
+      "term": "Yr Un Mor Debygol",
+      "definition": "Mae canlyniadau yr un mor debygol pan fo gan bob un yr un siawns o ddigwydd."
+    },
+    "ar": {
+      "term": "متساوية الاحتمال",
+      "definition": "تكون النتائج متساوية الاحتمال عندما يكون لكلٍّ منها فرصة الوقوع نفسها."
+    },
+    "ro": {
+      "term": "Egal probabile",
+      "definition": "Rezultatele sunt egal probabile când toate au aceeași șansă de a se produce."
+    },
+    "prs": {
+      "term": "هم‌احتمال",
+      "definition": "نتیجه‌ها وقتی هم‌احتمال‌اند که همه فرصت برابر برای رخ دادن داشته باشند."
+    },
+    "ps": {
+      "term": "برابر احتمال",
+      "definition": "پایلې هغه وخت برابر احتمال لري کله چې ټولې د پېښېدو یو شان چانس ولري."
+    },
+    "es": {
+      "term": "Igualmente probable",
+      "definition": "Los resultados son igualmente probables cuando todos tienen la misma posibilidad de ocurrir."
+    }
+  }
+}

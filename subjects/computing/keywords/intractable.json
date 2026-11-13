@@ -31,6 +31,10 @@
     "ps": {
       "term": "ناحل‌کیدونکی",
       "definition": "ستونزه چې د ننوتنې د لوییدلو سره د معقول وخت کې د حل لپاره الګوریتم نشته."
+    },
+    "es": {
+      "term": "Problema intratable",
+      "definition": "Problema que no se puede resolver en un tiempo razonable a medida que crece la entrada; no se conoce ningún algoritmo eficiente."
     }
   }
 }

@@ -1,0 +1,40 @@
+{
+  "id": "brackets",
+  "topics": [
+    "algebra"
+  ],
+  "translations": {
+    "en": {
+      "term": "Brackets",
+      "definition": "Symbols used to group parts of an expression or calculation. They show which parts should be treated together."
+    },
+    "pl": {
+      "term": "Nawiasy",
+      "definition": "Symbole grupujące części wyrażenia lub obliczenia. Pokazują, które części traktujemy razem."
+    },
+    "cy": {
+      "term": "Cromfachau",
+      "definition": "Symbolau a ddefnyddir i grwpio rhannau o fynegiad neu gyfrifiad. Maen nhw'n dangos pa rannau sydd i'w trin gyda'i gilydd."
+    },
+    "ar": {
+      "term": "الأقواس",
+      "definition": "رموز تُستخدم لتجميع أجزاء من عبارة أو عملية حسابية، وتبيّن الأجزاء التي تُعامَل معاً."
+    },
+    "ro": {
+      "term": "Paranteze",
+      "definition": "Simboluri folosite pentru a grupa părți ale unei expresii sau ale unui calcul. Arată ce părți se tratează împreună."
+    },
+    "prs": {
+      "term": "قوس‌ها",
+      "definition": "علامت‌هایی برای گروه‌بندی بخش‌هایی از یک افاده یا محاسبه. نشان می‌دهند کدام بخش‌ها با هم در نظر گرفته شوند."
+    },
+    "ps": {
+      "term": "قوسونه",
+      "definition": "هغه نښې چې د افادې یا محاسبې برخې یوځای کوي. ښيي چې کومې برخې باید یوځای وګڼل شي."
+    },
+    "es": {
+      "term": "Paréntesis",
+      "definition": "Signos que agrupan partes de una expresión u operación e indican qué partes deben tratarse conjuntamente."
+    }
+  }
+}

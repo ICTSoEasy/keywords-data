@@ -28,6 +28,10 @@
     "ps": {
       "term": "بینډوډث",
       "definition": "د معلوماتو اعظمي مقدار چې یو وخت کې د یوې شبکې له لارې لیږدول کیدی شي."
+    },
+    "es": {
+      "term": "Ancho de banda",
+      "definition": "Cantidad máxima de datos que pueden viajar por una conexión de red a la vez. Normalmente se mide en Mbps."
     }
   },
   "topics": [

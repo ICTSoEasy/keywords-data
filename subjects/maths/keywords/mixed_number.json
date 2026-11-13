@@ -1,0 +1,40 @@
+{
+  "id": "mixed_number",
+  "topics": [
+    "number"
+  ],
+  "translations": {
+    "en": {
+      "term": "Mixed Number",
+      "definition": "A number made from a whole number and a proper fraction, such as 2¾."
+    },
+    "pl": {
+      "term": "Liczba mieszana",
+      "definition": "Liczba złożona z liczby całkowitej i ułamka właściwego, na przykład 2¾."
+    },
+    "cy": {
+      "term": "Rhif Cymysg",
+      "definition": "Rhif wedi'i wneud o rif cyfan a ffracsiwn bondrwm, fel 2¾."
+    },
+    "ar": {
+      "term": "العدد الكسري",
+      "definition": "عدد مكوَّن من عدد صحيح وكسر فعلي، مثل 2¾."
+    },
+    "ro": {
+      "term": "Număr mixt",
+      "definition": "Un număr format dintr-un număr întreg și o fracție subunitară, cum ar fi 2¾."
+    },
+    "prs": {
+      "term": "عدد مخلوط",
+      "definition": "عددی که از یک عدد صحیح و یک کسر حقیقی ساخته شده است، مانند 2¾."
+    },
+    "ps": {
+      "term": "ګډ عدد",
+      "definition": "هغه عدد چې له یو بشپړ عدد او یو حقیقي کسر څخه جوړ وي، لکه 2¾."
+    },
+    "es": {
+      "term": "Número mixto",
+      "definition": "Número formado por una parte entera y una fracción propia, como 2¾."
+    }
+  }
+}

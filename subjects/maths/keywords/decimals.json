@@ -1,0 +1,40 @@
+{
+  "id": "decimals",
+  "topics": [
+    "number"
+  ],
+  "translations": {
+    "en": {
+      "term": "Decimals",
+      "definition": "Numbers written using a decimal point to show parts of a whole."
+    },
+    "pl": {
+      "term": "Ułamki dziesiętne",
+      "definition": "Liczby zapisane z przecinkiem dziesiętnym, pokazujące części całości."
+    },
+    "cy": {
+      "term": "Degolion",
+      "definition": "Rhifau wedi'u hysgrifennu â phwynt degol i ddangos rhannau o gyfanrif."
+    },
+    "ar": {
+      "term": "الأعداد العشرية",
+      "definition": "أعداد تُكتب باستخدام فاصلة عشرية لإظهار أجزاء من الواحد الصحيح."
+    },
+    "ro": {
+      "term": "Numere zecimale",
+      "definition": "Numere scrise cu virgulă zecimală pentru a arăta părți dintr-un întreg."
+    },
+    "prs": {
+      "term": "اعداد اعشاری",
+      "definition": "اعدادی که با ممیز اعشاری نوشته می‌شوند تا بخش‌هایی از یک واحد را نشان دهند."
+    },
+    "ps": {
+      "term": "اعشاري عددونه",
+      "definition": "هغه عددونه چې د اعشاري ټکي سره لیکل کېږي ترڅو د یوه بشپړ برخې وښيي."
+    },
+    "es": {
+      "term": "Números decimales",
+      "definition": "Números escritos con una coma decimal para representar partes de una unidad."
+    }
+  }
+}

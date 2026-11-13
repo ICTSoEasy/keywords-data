@@ -32,6 +32,10 @@
     "ps": {
       "term": "لوړ سطحې ژبه",
       "definition": "د پروګرامینګ ژبه چې د انساني ژبې ته نږدې ده او لوستل او لیکل یې اسانه دي، لکه Python یا Java."
+    },
+    "es": {
+      "term": "Lenguaje de alto nivel",
+      "definition": "Lenguaje de programación con una sintaxis fácil de leer para las personas e independiente del hardware en el que se ejecuta."
     }
   }
 }

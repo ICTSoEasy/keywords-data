@@ -1,0 +1,40 @@
+{
+  "id": "constructions",
+  "topics": [
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Constructions",
+      "definition": "Accurate geometric drawings made using mathematical instruments such as a ruler, compasses and protractor."
+    },
+    "pl": {
+      "term": "Konstrukcje geometryczne",
+      "definition": "Dokładne rysunki geometryczne wykonane przyrządami, takimi jak linijka, cyrkiel i kątomierz."
+    },
+    "cy": {
+      "term": "Lluniadau",
+      "definition": "Lluniadau geometregol cywir wedi'u gwneud gydag offer mathemategol fel pren mesur, cwmpas ac onglydd."
+    },
+    "ar": {
+      "term": "الإنشاءات الهندسية",
+      "definition": "رسومات هندسية دقيقة تُنفَّذ بأدوات رياضية مثل المسطرة والفرجار والمنقلة."
+    },
+    "ro": {
+      "term": "Construcții geometrice",
+      "definition": "Desene geometrice precise făcute cu instrumente precum rigla, compasul și raportorul."
+    },
+    "prs": {
+      "term": "ترسیمات هندسی",
+      "definition": "رسم‌های هندسی دقیق که با وسایل ریاضی مانند خط‌کش، پرگار و نقاله انجام می‌شوند."
+    },
+    "ps": {
+      "term": "هندسي رسمونه",
+      "definition": "دقیق هندسي رسمونه چې د ریاضي وسایلو لکه خط کش، پرګار او نقاله په مرسته جوړېږي."
+    },
+    "es": {
+      "term": "Construcciones",
+      "definition": "Dibujos geométricos precisos realizados con instrumentos como regla, compás y transportador."
+    }
+  }
+}

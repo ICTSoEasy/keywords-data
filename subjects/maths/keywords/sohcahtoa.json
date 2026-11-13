@@ -1,0 +1,40 @@
+{
+  "id": "sohcahtoa",
+  "topics": [
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "SOHCAHTOA",
+      "definition": "A memory aid for right-angled triangle trigonometry: sin = opposite/hypotenuse, cos = adjacent/hypotenuse, tan = opposite/adjacent."
+    },
+    "pl": {
+      "term": "SOHCAHTOA",
+      "definition": "Angielski skrót pomagający zapamiętać funkcje trygonometryczne: sin = przeciwległa/przeciwprostokątna, cos = przyległa/przeciwprostokątna, tan = przeciwległa/przyległa."
+    },
+    "cy": {
+      "term": "SOHCAHTOA",
+      "definition": "Cymorth cof Saesneg ar gyfer trigonometreg triongl ongl sgwâr: sin = cyferbyn/hypotenws, cos = cyfagos/hypotenws, tan = cyferbyn/cyfagos."
+    },
+    "ar": {
+      "term": "SOHCAHTOA",
+      "definition": "طريقة إنجليزية لتذكّر النسب المثلثية في المثلث القائم: sin = المقابل/الوتر، cos = المجاور/الوتر، tan = المقابل/المجاور."
+    },
+    "ro": {
+      "term": "SOHCAHTOA",
+      "definition": "Un mod englezesc de a ține minte trigonometria triunghiului dreptunghic: sin = opusă/ipotenuză, cos = alăturată/ipotenuză, tan = opusă/alăturată."
+    },
+    "prs": {
+      "term": "SOHCAHTOA",
+      "definition": "یک راه انگلیسی برای به خاطر سپردن مثلثات مثلث قائم‌الزاویه: sin = مقابل/وتر، cos = مجاور/وتر، tan = مقابل/مجاور."
+    },
+    "ps": {
+      "term": "SOHCAHTOA",
+      "definition": "د قایم الزاویه مثلث د مثلثاتو د یادولو انګلیسي لاره: sin = مخامخ/وتر، cos = څنګ ته/وتر، tan = مخامخ/څنګ ته."
+    },
+    "es": {
+      "term": "SOHCAHTOA",
+      "definition": "Regla mnemotécnica para la trigonometría en triángulos rectángulos: sen = opuesto/hipotenusa, cos = adyacente/hipotenusa y tan = opuesto/adyacente."
+    }
+  }
+}

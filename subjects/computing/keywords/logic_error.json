@@ -32,6 +32,10 @@
     "ps": {
       "term": "منطقي تیروتنه",
       "definition": "د کوډ کې یوه غلطي چې پروګرام بې له کریش پرمخ ځي خو ناسمې پایلې ورکوي."
+    },
+    "es": {
+      "term": "Error lógico",
+      "definition": "Fallo en el diseño de un programa que hace que se ejecute pero dé resultados incorrectos."
     }
   }
 }

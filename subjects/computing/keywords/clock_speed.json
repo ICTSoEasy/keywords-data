@@ -31,6 +31,10 @@
     "ps": {
       "term": "د ساعت سرعت",
       "definition": "د پروسیسر د لارښوونو د اجرا سرعت، چې ګیګاهرتز کې اندازه کیږي."
+    },
+    "es": {
+      "term": "Velocidad de reloj",
+      "definition": "Número de ciclos de instrucción que una CPU puede realizar por segundo, medido en GHz."
     }
   }
 }

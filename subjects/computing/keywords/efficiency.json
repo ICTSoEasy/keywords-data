@@ -31,6 +31,10 @@
     "ps": {
       "term": "اغیزمنتیا",
       "definition": "د الګوریتم وړتیا چې د لږ وخت یا حافظې کارولو سره ستونزه حل کړي."
+    },
+    "es": {
+      "term": "Eficiencia algorítmica",
+      "definition": "Medida de lo bien que un algoritmo usa el tiempo y la memoria, sobre todo a medida que crece el tamaño de la entrada."
     }
   }
 }

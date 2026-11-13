@@ -1,0 +1,40 @@
+{
+  "id": "pictogram",
+  "topics": [
+    "statistics"
+  ],
+  "translations": {
+    "en": {
+      "term": "Pictogram",
+      "definition": "A chart that uses pictures or symbols to represent data, with a key showing what each symbol means."
+    },
+    "pl": {
+      "term": "Piktogram",
+      "definition": "Wykres używający obrazków lub symboli do przedstawienia danych, z legendą wyjaśniającą znaczenie symboli."
+    },
+    "cy": {
+      "term": "Pictogram",
+      "definition": "Siart sy'n defnyddio lluniau neu symbolau i gynrychioli data, gydag allwedd yn dangos beth mae pob symbol yn ei olygu."
+    },
+    "ar": {
+      "term": "التمثيل بالصور",
+      "definition": "مخطط يستخدم صوراً أو رموزاً لتمثيل البيانات، مع مفتاح يبيّن ما يعنيه كل رمز."
+    },
+    "ro": {
+      "term": "Pictogramă",
+      "definition": "O diagramă care folosește imagini sau simboluri pentru a reprezenta date, cu o legendă care explică ce înseamnă fiecare simbol."
+    },
+    "prs": {
+      "term": "نمودار تصویری",
+      "definition": "نموداری که با تصویرها یا علامت‌ها معلومات را نشان می‌دهد و یک راهنما معنای هر علامت را می‌گوید."
+    },
+    "ps": {
+      "term": "انځوري چارټ",
+      "definition": "هغه چارټ چې د معلوماتو د ښودلو لپاره انځورونه یا نښې کاروي، او یو لارښود ښيي چې هره نښه څه مانا لري."
+    },
+    "es": {
+      "term": "Pictograma",
+      "definition": "Gráfico que utiliza dibujos o símbolos para representar datos, con una clave que indica el valor de cada símbolo."
+    }
+  }
+}

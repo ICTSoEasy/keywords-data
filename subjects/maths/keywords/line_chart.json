@@ -1,0 +1,40 @@
+{
+  "id": "line_chart",
+  "topics": [
+    "statistics"
+  ],
+  "translations": {
+    "en": {
+      "term": "Line Chart",
+      "definition": "A graph that joins plotted points with straight lines, often used to show change over time."
+    },
+    "pl": {
+      "term": "Wykres liniowy",
+      "definition": "Wykres łączący zaznaczone punkty odcinkami, często używany do pokazania zmian w czasie."
+    },
+    "cy": {
+      "term": "Siart Llinell",
+      "definition": "Graff sy'n uno pwyntiau wedi'u plotio â llinellau syth, a ddefnyddir yn aml i ddangos newid dros amser."
+    },
+    "ar": {
+      "term": "التمثيل بالخطوط",
+      "definition": "تمثيل بياني يصل بين النقاط بخطوط مستقيمة، ويُستخدم غالباً لإظهار التغير مع الزمن."
+    },
+    "ro": {
+      "term": "Grafic liniar",
+      "definition": "Un grafic care unește punctele reprezentate cu linii drepte, folosit adesea pentru a arăta schimbări în timp."
+    },
+    "prs": {
+      "term": "نمودار خطی",
+      "definition": "گرافی که نقاط رسم‌شده را با خط‌های مستقیم وصل می‌کند و اغلب تغییر را در طول زمان نشان می‌دهد."
+    },
+    "ps": {
+      "term": "کرښه ییز چارټ",
+      "definition": "هغه ګراف چې رسم شوي ټکي په مستقیمو کرښو سره نښلوي، ډېری وخت د وخت په تېرېدو سره بدلون ښيي."
+    },
+    "es": {
+      "term": "Gráfico lineal",
+      "definition": "Gráfico que une puntos representados mediante segmentos rectos y que suele utilizarse para mostrar cambios a lo largo del tiempo."
+    }
+  }
+}

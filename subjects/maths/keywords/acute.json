@@ -1,0 +1,40 @@
+{
+  "id": "acute",
+  "topics": [
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Acute",
+      "definition": "An angle greater than 0° and less than 90°."
+    },
+    "pl": {
+      "term": "Kąt ostry",
+      "definition": "Kąt większy od 0° i mniejszy od 90°."
+    },
+    "cy": {
+      "term": "Llym",
+      "definition": "Ongl sy'n fwy na 0° ac yn llai na 90°."
+    },
+    "ar": {
+      "term": "حادة",
+      "definition": "زاوية أكبر من 0° وأصغر من 90°."
+    },
+    "ro": {
+      "term": "Ascuțit",
+      "definition": "Un unghi mai mare de 0° și mai mic de 90°."
+    },
+    "prs": {
+      "term": "حاده",
+      "definition": "زاویه‌ای بزرگ‌تر از 0° و کوچک‌تر از 90°."
+    },
+    "ps": {
+      "term": "حاده زاویه",
+      "definition": "هغه زاویه چې له 0° څخه لویه او له 90° څخه کوچنۍ وي."
+    },
+    "es": {
+      "term": "Agudo",
+      "definition": "Ángulo mayor que 0° y menor que 90°."
+    }
+  }
+}

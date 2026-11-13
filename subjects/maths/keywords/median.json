@@ -1,0 +1,40 @@
+{
+  "id": "median",
+  "topics": [
+    "statistics"
+  ],
+  "translations": {
+    "en": {
+      "term": "Median",
+      "definition": "The middle value when data is arranged in order. If there are two middle values, find their mean."
+    },
+    "pl": {
+      "term": "Mediana",
+      "definition": "Wartość środkowa danych ułożonych w kolejności. Jeśli są dwie wartości środkowe, bierzemy ich średnią."
+    },
+    "cy": {
+      "term": "Canolrif",
+      "definition": "Y gwerth canol pan fo data wedi'u trefnu. Os oes dau werth canol, darganfyddwch eu cymedr."
+    },
+    "ar": {
+      "term": "الوسيط",
+      "definition": "القيمة التي في المنتصف عند ترتيب البيانات. إذا كانت هناك قيمتان في المنتصف نأخذ متوسطهما."
+    },
+    "ro": {
+      "term": "Mediană",
+      "definition": "Valoarea din mijloc când datele sunt ordonate. Dacă există două valori la mijloc, se ia media lor."
+    },
+    "prs": {
+      "term": "میانه",
+      "definition": "مقدار وسطی وقتی معلومات به ترتیب چیده شوند. اگر دو مقدار وسطی باشد، اوسط آن‌ها را بگیرید."
+    },
+    "ps": {
+      "term": "منځنی",
+      "definition": "هغه منځنی قیمت کله چې معلومات په ترتیب سره کېښودل شي. که دوه منځني قیمتونه وي، د هغوی اوسط واخلئ."
+    },
+    "es": {
+      "term": "Mediana",
+      "definition": "Valor central cuando los datos están ordenados. Si hay dos valores centrales, se calcula su media."
+    }
+  }
+}

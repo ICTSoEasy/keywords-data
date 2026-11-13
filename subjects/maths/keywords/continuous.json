@@ -1,0 +1,40 @@
+{
+  "id": "continuous",
+  "topics": [
+    "statistics"
+  ],
+  "translations": {
+    "en": {
+      "term": "Continuous",
+      "definition": "Data that can take any value within a range, including decimal values."
+    },
+    "pl": {
+      "term": "Ciągłe",
+      "definition": "Dane, które mogą przyjmować dowolną wartość w zakresie, także wartości dziesiętne."
+    },
+    "cy": {
+      "term": "Di-dor",
+      "definition": "Data a all gymryd unrhyw werth o fewn amrediad, gan gynnwys gwerthoedd degol."
+    },
+    "ar": {
+      "term": "متصلة",
+      "definition": "بيانات يمكن أن تأخذ أي قيمة ضمن مدى معين، بما في ذلك القيم العشرية."
+    },
+    "ro": {
+      "term": "Continue",
+      "definition": "Date care pot lua orice valoare dintr-un interval, inclusiv valori zecimale."
+    },
+    "prs": {
+      "term": "پیوسته",
+      "definition": "معلوماتی که می‌توانند هر مقداری را در یک محدوده بگیرند، از جمله مقدارهای اعشاری."
+    },
+    "ps": {
+      "term": "پرله پسې",
+      "definition": "هغه معلومات چې په یوه لړۍ کې هر قیمت اخیستلای شي، په ګډون د اعشاري قیمتونو."
+    },
+    "es": {
+      "term": "Continuo",
+      "definition": "Datos que pueden tomar cualquier valor dentro de un intervalo, incluidos valores decimales."
+    }
+  }
+}

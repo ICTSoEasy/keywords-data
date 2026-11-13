@@ -1,0 +1,40 @@
+{
+  "id": "indices",
+  "topics": [
+    "algebra"
+  ],
+  "translations": {
+    "en": {
+      "term": "Indices",
+      "definition": "See index / indices: the small raised numbers that show powers."
+    },
+    "pl": {
+      "term": "Wykładniki",
+      "definition": "Zobacz wykładnik / wykładniki: małe liczby zapisane u góry, oznaczające potęgi."
+    },
+    "cy": {
+      "term": "Indecsau",
+      "definition": "Gweler indecs / indecsau: y rhifau bach wedi'u codi sy'n dangos pwerau."
+    },
+    "ar": {
+      "term": "الأسس",
+      "definition": "انظر الأس / الأسس: الأعداد الصغيرة المرفوعة التي تدل على القوى."
+    },
+    "ro": {
+      "term": "Exponenți",
+      "definition": "Vezi exponent / exponenți: numerele mici scrise sus care arată puterile."
+    },
+    "prs": {
+      "term": "توان‌ها",
+      "definition": "نگاه کنید به توان / توان‌ها: اعداد کوچکی که بالا نوشته می‌شوند و توان را نشان می‌دهند."
+    },
+    "ps": {
+      "term": "توانونه",
+      "definition": "توان / توانونه وګورئ: هغه کوچني پورته لیکل شوي عددونه چې توان ښيي."
+    },
+    "es": {
+      "term": "Exponentes",
+      "definition": "Exponentes: números pequeños escritos arriba que indican potencias."
+    }
+  }
+}

@@ -31,6 +31,10 @@
     "ps": {
       "term": "بیرته راستنیدونکی ارزښت",
       "definition": "هغه معلومات چې یو فنکشن د پای کیدلو وروسته یادونکي پروګرام ته بیرته راستوي."
+    },
+    "es": {
+      "term": "Valor de retorno",
+      "definition": "Los datos que devuelve una función cuando termina de ejecutarse."
     }
   }
 }

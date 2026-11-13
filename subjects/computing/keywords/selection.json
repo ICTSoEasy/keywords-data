@@ -28,6 +28,10 @@
     "ps": {
       "term": "انتخاب",
       "definition": "د پروګرامینګ جوړښت چې د شرط پر بنسټ بیلابیل لار نیسي، لکه if/else."
+    },
+    "es": {
+      "term": "Selección",
+      "definition": "Una decisión en un programa: el ordenador comprueba una condición y elige qué hacer a continuación (por ejemplo, if/else)."
     }
   },
   "topics": [

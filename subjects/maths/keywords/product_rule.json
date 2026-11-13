@@ -1,0 +1,40 @@
+{
+  "id": "product_rule",
+  "topics": [
+    "number"
+  ],
+  "translations": {
+    "en": {
+      "term": "Product Rule",
+      "definition": "A counting rule: if one choice can be made in m ways and a second in n ways, there are m × n ways to make both choices."
+    },
+    "pl": {
+      "term": "Reguła mnożenia",
+      "definition": "Reguła liczenia: jeśli jeden wybór można zrobić na m sposobów, a drugi na n sposobów, to oba wybory można zrobić na m × n sposobów."
+    },
+    "cy": {
+      "term": "Rheol Lluoswm",
+      "definition": "Rheol cyfrif: os gellir gwneud un dewis mewn m ffordd ac ail ddewis mewn n ffordd, mae m × n ffordd o wneud y ddau ddewis."
+    },
+    "ar": {
+      "term": "قاعدة الضرب",
+      "definition": "قاعدة عدّ: إذا أمكن إجراء اختيار بـ m طريقة واختيار ثانٍ بـ n طريقة، فهناك m × n طريقة لإجراء الاختيارين."
+    },
+    "ro": {
+      "term": "Regula produsului",
+      "definition": "O regulă de numărare: dacă o alegere se poate face în m moduri și a doua în n moduri, ambele alegeri se pot face în m × n moduri."
+    },
+    "prs": {
+      "term": "قاعدهٔ ضرب",
+      "definition": "یک قاعدهٔ شمارش: اگر یک انتخاب به m روش و انتخاب دوم به n روش انجام شود، هر دو انتخاب به m × n روش انجام می‌شوند."
+    },
+    "ps": {
+      "term": "د ضرب قاعده",
+      "definition": "د شمېرنې قاعده: که یو انتخاب په m لارو او دویم په n لارو وشي، نو دواړه انتخابونه په m × n لارو کېږي."
+    },
+    "es": {
+      "term": "Regla del producto",
+      "definition": "Regla de recuento: si una elección se puede hacer de m maneras y otra de n maneras, hay m × n formas de hacer ambas."
+    }
+  }
+}

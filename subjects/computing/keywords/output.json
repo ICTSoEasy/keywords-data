@@ -31,6 +31,10 @@
     "ps": {
       "term": "وتنه",
       "definition": "هغه پایله چې کمپیوټر یا پروګرام جوړوي، لکه د سکرین پر متن یا د سپیکرونو غږ."
+    },
+    "es": {
+      "term": "Salida",
+      "definition": "Información que produce un programa, como un texto que aparece en pantalla."
     }
   }
 }

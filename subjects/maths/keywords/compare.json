@@ -1,0 +1,40 @@
+{
+  "id": "compare",
+  "topics": [
+    "ratio"
+  ],
+  "translations": {
+    "en": {
+      "term": "Compare",
+      "definition": "To identify similarities or differences between quantities, values or shapes."
+    },
+    "pl": {
+      "term": "Porównywać",
+      "definition": "Wskazywać podobieństwa lub różnice między wielkościami, wartościami lub kształtami."
+    },
+    "cy": {
+      "term": "Cymharu",
+      "definition": "Nodi tebygrwydd neu wahaniaethau rhwng meintiau, gwerthoedd neu siapiau."
+    },
+    "ar": {
+      "term": "المقارنة",
+      "definition": "تحديد أوجه الشبه أو الاختلاف بين الكميات أو القيم أو الأشكال."
+    },
+    "ro": {
+      "term": "A compara",
+      "definition": "A identifica asemănări sau diferențe între cantități, valori sau forme."
+    },
+    "prs": {
+      "term": "مقایسه کردن",
+      "definition": "پیدا کردن شباهت‌ها یا تفاوت‌های میان مقدارها، ارزش‌ها یا شکل‌ها."
+    },
+    "ps": {
+      "term": "پرتله کول",
+      "definition": "د مقدارونو، قیمتونو یا بڼو تر منځ د ورته والي یا توپیرونو پیدا کول."
+    },
+    "es": {
+      "term": "Comparar",
+      "definition": "Identificar semejanzas o diferencias entre cantidades, valores o figuras."
+    }
+  }
+}

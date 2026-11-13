@@ -1,0 +1,40 @@
+{
+  "id": "compound_interest",
+  "topics": [
+    "ratio"
+  ],
+  "translations": {
+    "en": {
+      "term": "Compound Interest",
+      "definition": "Interest calculated on the original amount and on interest already added."
+    },
+    "pl": {
+      "term": "Procent składany",
+      "definition": "Odsetki obliczane od kwoty początkowej oraz od odsetek już doliczonych."
+    },
+    "cy": {
+      "term": "Llog Cyfansawdd",
+      "definition": "Llog wedi'i gyfrifo ar y swm gwreiddiol ac ar y llog sydd eisoes wedi'i ychwanegu."
+    },
+    "ar": {
+      "term": "الفائدة المركّبة",
+      "definition": "فائدة تُحسب على المبلغ الأصلي وعلى الفوائد التي أضيفت سابقاً."
+    },
+    "ro": {
+      "term": "Dobândă compusă",
+      "definition": "Dobândă calculată la suma inițială și la dobânda deja adăugată."
+    },
+    "prs": {
+      "term": "مفاد مرکب",
+      "definition": "مفادی که هم روی مبلغ اصلی و هم روی مفادی که قبلاً اضافه شده حساب می‌شود."
+    },
+    "ps": {
+      "term": "مرکبه ګټه",
+      "definition": "هغه ګټه چې پر اصلي پیسو او پر مخکې اضافه شوې ګټه دواړو حسابېږي."
+    },
+    "es": {
+      "term": "Interés compuesto",
+      "definition": "Interés calculado sobre la cantidad inicial y también sobre los intereses que ya se han añadido."
+    }
+  }
+}

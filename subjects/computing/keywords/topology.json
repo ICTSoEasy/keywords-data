@@ -31,6 +31,10 @@
     "ps": {
       "term": "ټوپولوجي",
       "definition": "د شبکې کې د وسیلو او اتصالاتو د ترتیب لار، لکه ستوری یا حلقه."
+    },
+    "es": {
+      "term": "Topología de red",
+      "definition": "Forma en que los dispositivos de una red están dispuestos y conectados entre sí, física o lógicamente."
     }
   }
 }

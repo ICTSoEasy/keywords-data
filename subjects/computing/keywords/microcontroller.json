@@ -32,6 +32,10 @@
     "ps": {
       "term": "مایکروکنټرولر",
       "definition": "کوچنی کمپیوټر چې د بریښنایي وسیلو کې د یوه ځانګړي کار کنترول لپاره کارول کیږي."
+    },
+    "es": {
+      "term": "Microcontrolador",
+      "definition": "Pequeño ordenador en un solo chip que puede leer entradas de sensores y controlar salidas; se usa mucho en proyectos de computación física."
     }
   }
 }

@@ -1,0 +1,40 @@
+{
+  "id": "distance",
+  "topics": [
+    "ratio"
+  ],
+  "translations": {
+    "en": {
+      "term": "Distance",
+      "definition": "How far apart two points are, or the length of the path travelled."
+    },
+    "pl": {
+      "term": "Odległość",
+      "definition": "Jak daleko od siebie są dwa punkty albo długość przebytej drogi."
+    },
+    "cy": {
+      "term": "Pellter",
+      "definition": "Pa mor bell oddi wrth ei gilydd yw dau bwynt, neu hyd y llwybr a deithiwyd."
+    },
+    "ar": {
+      "term": "المسافة",
+      "definition": "مدى البعد بين نقطتين، أو طول المسار المقطوع."
+    },
+    "ro": {
+      "term": "Distanță",
+      "definition": "Cât de departe sunt două puncte unul de altul sau lungimea drumului parcurs."
+    },
+    "prs": {
+      "term": "فاصله",
+      "definition": "اینکه دو نقطه چقدر از هم دور هستند، یا طول راهی که پیموده شده است."
+    },
+    "ps": {
+      "term": "واټن",
+      "definition": "دا چې دوه ټکي له یو بل څخه څومره لرې دي، یا د تللې لارې اوږدوالی."
+    },
+    "es": {
+      "term": "Distancia",
+      "definition": "Separación entre dos puntos o longitud del recorrido realizado."
+    }
+  }
+}

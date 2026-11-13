@@ -31,6 +31,10 @@
     "ps": {
       "term": "د ریښتیا جدول",
       "definition": "جدول چې د منطقي عملیات لپاره ټولې ممکنه ننوتنې او اړونده وتنې ښیي."
+    },
+    "es": {
+      "term": "Tabla de verdad",
+      "definition": "Tabla que muestra todas las combinaciones posibles de entradas y la salida resultante de una expresión o circuito lógico."
     }
   }
 }

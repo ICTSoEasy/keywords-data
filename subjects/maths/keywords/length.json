@@ -1,0 +1,40 @@
+{
+  "id": "length",
+  "topics": [
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Length",
+      "definition": "A measurement of how long something is, usually measured in units such as millimetres, centimetres or metres."
+    },
+    "pl": {
+      "term": "Długość",
+      "definition": "Pomiar tego, jak długie coś jest, zwykle w milimetrach, centymetrach lub metrach."
+    },
+    "cy": {
+      "term": "Hyd",
+      "definition": "Mesuriad o ba mor hir yw rhywbeth, fel arfer mewn unedau fel milimetrau, centimetrau neu fetrau."
+    },
+    "ar": {
+      "term": "الطول",
+      "definition": "قياس مدى امتداد الشيء، ويُقاس عادةً بالمليمتر أو السنتيمتر أو المتر."
+    },
+    "ro": {
+      "term": "Lungime",
+      "definition": "O măsurătoare a cât de lung este ceva, de obicei în milimetri, centimetri sau metri."
+    },
+    "prs": {
+      "term": "طول",
+      "definition": "اندازهٔ درازی یک چیز که معمولاً با ملی‌متر، سانتی‌متر یا متر اندازه گرفته می‌شود."
+    },
+    "ps": {
+      "term": "اوږدوالی",
+      "definition": "دا اندازه چې یو شی څومره اوږد دی، معمولاً په ملي متر، سانتي متر یا متر اندازه کېږي."
+    },
+    "es": {
+      "term": "Longitud",
+      "definition": "Medida de cuánto mide algo de largo, normalmente expresada en milímetros, centímetros o metros."
+    }
+  }
+}

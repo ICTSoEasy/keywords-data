@@ -31,6 +31,10 @@
     "ps": {
       "term": "شبکه",
       "definition": "د وصل شوو وسیلو ډله چې معلومات شریکولی شي."
+    },
+    "es": {
+      "term": "Red",
+      "definition": "Dos o más ordenadores conectados entre sí para compartir datos y recursos."
     }
   }
 }

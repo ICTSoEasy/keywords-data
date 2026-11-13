@@ -1,0 +1,40 @@
+{
+  "id": "rectangle",
+  "topics": [
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Rectangle",
+      "definition": "A quadrilateral with four right angles; opposite sides are equal and parallel."
+    },
+    "pl": {
+      "term": "Prostokąt",
+      "definition": "Czworokąt o czterech kątach prostych; przeciwległe boki są równe i równoległe."
+    },
+    "cy": {
+      "term": "Petryal",
+      "definition": "Pedrochr â phedair ongl sgwâr; mae ochrau cyferbyn yn hafal ac yn baralel."
+    },
+    "ar": {
+      "term": "المستطيل",
+      "definition": "شكل رباعي زواياه الأربع قائمة؛ أضلاعه المتقابلة متساوية ومتوازية."
+    },
+    "ro": {
+      "term": "Dreptunghi",
+      "definition": "Un patrulater cu patru unghiuri drepte; laturile opuse sunt egale și paralele."
+    },
+    "prs": {
+      "term": "مستطیل",
+      "definition": "چهارضلعی با چهار زاویهٔ قائمه؛ ضلع‌های مقابل مساوی و موازی‌اند."
+    },
+    "ps": {
+      "term": "مستطیل",
+      "definition": "هغه څلور ضلعي چې څلور قایمې زاویې لري؛ مخامخ غاړې یې برابرې او موازي دي."
+    },
+    "es": {
+      "term": "Rectángulo",
+      "definition": "Cuadrilátero con cuatro ángulos rectos; sus lados opuestos son iguales y paralelos."
+    }
+  }
+}

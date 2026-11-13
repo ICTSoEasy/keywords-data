@@ -1,0 +1,40 @@
+{
+  "id": "decimal_places",
+  "topics": [
+    "number"
+  ],
+  "translations": {
+    "en": {
+      "term": "Decimal Places",
+      "definition": "The number of digits written after the decimal point."
+    },
+    "pl": {
+      "term": "Miejsca po przecinku",
+      "definition": "Liczba cyfr zapisanych po przecinku dziesiętnym."
+    },
+    "cy": {
+      "term": "Lleoedd Degol",
+      "definition": "Nifer y digidau sydd wedi'u hysgrifennu ar ôl y pwynt degol."
+    },
+    "ar": {
+      "term": "المنازل العشرية",
+      "definition": "عدد الأرقام المكتوبة بعد الفاصلة العشرية."
+    },
+    "ro": {
+      "term": "Zecimale",
+      "definition": "Numărul de cifre scrise după virgula zecimală."
+    },
+    "prs": {
+      "term": "ارقام اعشاری",
+      "definition": "تعداد رقم‌هایی که بعد از ممیز اعشاری نوشته می‌شوند."
+    },
+    "ps": {
+      "term": "اعشاري ځایونه",
+      "definition": "د اعشاري ټکي وروسته د لیکل شویو رقمونو شمېر."
+    },
+    "es": {
+      "term": "Cifras decimales",
+      "definition": "Número de cifras que aparecen después de la coma decimal."
+    }
+  }
+}

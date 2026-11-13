@@ -1,0 +1,40 @@
+{
+  "id": "rounding",
+  "topics": [
+    "number"
+  ],
+  "translations": {
+    "en": {
+      "term": "Rounding",
+      "definition": "Replacing a number with a nearby, simpler value to a stated level of accuracy."
+    },
+    "pl": {
+      "term": "Zaokrąglanie",
+      "definition": "Zastępowanie liczby bliską, prostszą wartością z podaną dokładnością."
+    },
+    "cy": {
+      "term": "Talgrynnu",
+      "definition": "Rhoi gwerth agos, symlach yn lle rhif, i lefel benodol o gywirdeb."
+    },
+    "ar": {
+      "term": "التقريب",
+      "definition": "استبدال العدد بقيمة قريبة أبسط وفق درجة دقة محددة."
+    },
+    "ro": {
+      "term": "Rotunjire",
+      "definition": "Înlocuirea unui număr cu o valoare apropiată, mai simplă, cu o anumită precizie."
+    },
+    "prs": {
+      "term": "گرد کردن",
+      "definition": "جایگزین کردن یک عدد با مقدار نزدیک و ساده‌تر با دقت معین."
+    },
+    "ps": {
+      "term": "ګردول",
+      "definition": "د یو عدد پر ځای د نږدې او ساده قیمت ایښودل، په یوه ټاکلې دقت سره."
+    },
+    "es": {
+      "term": "Redondeo",
+      "definition": "Sustituir un número por otro cercano y más sencillo, con el grado de precisión indicado."
+    }
+  }
+}

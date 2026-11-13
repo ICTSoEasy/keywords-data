@@ -1,0 +1,40 @@
+{
+  "id": "rearrange",
+  "topics": [
+    "algebra"
+  ],
+  "translations": {
+    "en": {
+      "term": "Rearrange",
+      "definition": "To change the order or form of an equation or expression while keeping it equivalent."
+    },
+    "pl": {
+      "term": "Przekształcać",
+      "definition": "Zmieniać kolejność lub postać równania albo wyrażenia, zachowując jego równoważność."
+    },
+    "cy": {
+      "term": "Aildrefnu",
+      "definition": "Newid trefn neu ffurf hafaliad neu fynegiad gan ei gadw'n gywerth."
+    },
+    "ar": {
+      "term": "إعادة الترتيب",
+      "definition": "تغيير ترتيب أو صيغة معادلة أو عبارة مع بقائها مكافئة."
+    },
+    "ro": {
+      "term": "A rearanja",
+      "definition": "A schimba ordinea sau forma unei ecuații sau expresii, păstrând-o echivalentă."
+    },
+    "prs": {
+      "term": "دوباره ترتیب کردن",
+      "definition": "تغییر ترتیب یا شکل یک معادله یا افاده در حالی که معادل باقی بماند."
+    },
+    "ps": {
+      "term": "بیا ترتیبول",
+      "definition": "د یوې معادلې یا افادې د ترتیب یا بڼې بدلول په داسې حال کې چې معادل پاتې شي."
+    },
+    "es": {
+      "term": "Reordenar",
+      "definition": "Cambiar el orden o la forma de una ecuación o expresión manteniendo su equivalencia."
+    }
+  }
+}

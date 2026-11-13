@@ -1,0 +1,40 @@
+{
+  "id": "pentagon",
+  "topics": [
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Pentagon",
+      "definition": "A polygon with 5 sides."
+    },
+    "pl": {
+      "term": "Pięciokąt",
+      "definition": "Wielokąt o 5 bokach."
+    },
+    "cy": {
+      "term": "Pentagon",
+      "definition": "Polygon â 5 ochr."
+    },
+    "ar": {
+      "term": "المضلع الخماسي",
+      "definition": "مضلع له 5 أضلاع."
+    },
+    "ro": {
+      "term": "Pentagon",
+      "definition": "Un poligon cu 5 laturi."
+    },
+    "prs": {
+      "term": "پنج‌ضلعی",
+      "definition": "چندضلعی با 5 ضلع."
+    },
+    "ps": {
+      "term": "پنځه ضلعي",
+      "definition": "هغه څو ضلعي چې 5 غاړې لري."
+    },
+    "es": {
+      "term": "Pentágono",
+      "definition": "Polígono de 5 lados."
+    }
+  }
+}

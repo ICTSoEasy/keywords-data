@@ -32,6 +32,10 @@
     "ps": {
       "term": "د اجرا د وخت تیروتنه",
       "definition": "غلطي چې د پروګرام د چلیدلو پرمهال پیښیږي او معمولاً یې ناڅاپه بندوي."
+    },
+    "es": {
+      "term": "Error de ejecución",
+      "definition": "Error que ocurre mientras un programa se ejecuta y hace que se bloquee o se comporte de forma inesperada."
     }
   }
 }

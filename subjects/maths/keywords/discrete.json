@@ -1,0 +1,40 @@
+{
+  "id": "discrete",
+  "topics": [
+    "statistics"
+  ],
+  "translations": {
+    "en": {
+      "term": "Discrete",
+      "definition": "Data that can take separate, countable values, usually whole-number counts."
+    },
+    "pl": {
+      "term": "Dyskretne",
+      "definition": "Dane, które przyjmują oddzielne, przeliczalne wartości, zwykle liczby całkowite."
+    },
+    "cy": {
+      "term": "Arwahanol",
+      "definition": "Data a all gymryd gwerthoedd ar wahân y gellir eu cyfrif, fel arfer rhifau cyfan."
+    },
+    "ar": {
+      "term": "منفصلة",
+      "definition": "بيانات تأخذ قيماً منفصلة يمكن عدّها، وهي عادةً أعداد صحيحة."
+    },
+    "ro": {
+      "term": "Discrete",
+      "definition": "Date care pot lua valori separate, numărabile, de obicei numere întregi."
+    },
+    "prs": {
+      "term": "گسسته",
+      "definition": "معلوماتی که مقدارهای جدا و قابل شمارش می‌گیرند، معمولاً اعداد صحیح."
+    },
+    "ps": {
+      "term": "جلا",
+      "definition": "هغه معلومات چې جلا او د شمېرلو وړ قیمتونه اخلي، معمولاً بشپړ عددونه."
+    },
+    "es": {
+      "term": "Discreto",
+      "definition": "Datos que solo pueden tomar valores separados y contables, normalmente números enteros."
+    }
+  }
+}

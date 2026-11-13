@@ -1,0 +1,40 @@
+{
+  "id": "exponential_functions",
+  "topics": [
+    "algebra"
+  ],
+  "translations": {
+    "en": {
+      "term": "Exponential Functions",
+      "definition": "Functions in which the variable appears in the power, such as y = 2ˣ."
+    },
+    "pl": {
+      "term": "Funkcje wykładnicze",
+      "definition": "Funkcje, w których zmienna występuje w wykładniku, na przykład y = 2ˣ."
+    },
+    "cy": {
+      "term": "Ffwythiannau Esbonyddol",
+      "definition": "Ffwythiannau lle mae'r newidyn yn ymddangos yn y pŵer, fel y = 2ˣ."
+    },
+    "ar": {
+      "term": "الدوال الأسية",
+      "definition": "دوال يظهر فيها المتغير في الأس، مثل y = 2ˣ."
+    },
+    "ro": {
+      "term": "Funcții exponențiale",
+      "definition": "Funcții în care variabila apare la exponent, cum ar fi y = 2ˣ."
+    },
+    "prs": {
+      "term": "توابع نمایی",
+      "definition": "توابعی که در آن‌ها متحول در توان قرار دارد، مانند y = 2ˣ."
+    },
+    "ps": {
+      "term": "توانی تابعګانې",
+      "definition": "هغه تابعګانې چې په کې متحول په توان کې وي، لکه y = 2ˣ."
+    },
+    "es": {
+      "term": "Funciones exponenciales",
+      "definition": "Funciones en las que la variable aparece en el exponente, como y = 2ˣ."
+    }
+  }
+}

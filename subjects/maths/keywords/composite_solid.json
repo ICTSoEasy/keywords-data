@@ -1,0 +1,40 @@
+{
+  "id": "composite_solid",
+  "topics": [
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Composite Solid",
+      "definition": "A 3D shape made by joining two or more simpler solids."
+    },
+    "pl": {
+      "term": "Bryła złożona",
+      "definition": "Bryła powstała z połączenia dwóch lub więcej prostszych brył."
+    },
+    "cy": {
+      "term": "Solid Cyfansawdd",
+      "definition": "Siâp 3D wedi'i wneud drwy uno dau solid symlach neu fwy."
+    },
+    "ar": {
+      "term": "المجسّم المركّب",
+      "definition": "شكل ثلاثي الأبعاد يتكون من ضمّ مجسّمين أبسط أو أكثر."
+    },
+    "ro": {
+      "term": "Corp compus",
+      "definition": "Un corp tridimensional format prin unirea a două sau mai multe corpuri mai simple."
+    },
+    "prs": {
+      "term": "جسم مرکب",
+      "definition": "شکل سه‌بعدی که از وصل کردن دو یا چند جسم ساده‌تر ساخته شده است."
+    },
+    "ps": {
+      "term": "مرکب جسم",
+      "definition": "درې بُعدي بڼه چې د دوو یا ډېرو ساده جسمونو له یوځای کولو جوړه شوې وي."
+    },
+    "es": {
+      "term": "Cuerpo compuesto",
+      "definition": "Cuerpo tridimensional formado al unir dos o más sólidos sencillos."
+    }
+  }
+}

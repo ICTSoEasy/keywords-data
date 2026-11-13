@@ -1,0 +1,41 @@
+{
+  "id": "square",
+  "topics": [
+    "number",
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Square",
+      "definition": "The result of multiplying a number by itself. For example, 6² = 36."
+    },
+    "pl": {
+      "term": "Kwadrat liczby",
+      "definition": "Wynik pomnożenia liczby przez samą siebie. Na przykład 6² = 36."
+    },
+    "cy": {
+      "term": "Sgwâr",
+      "definition": "Canlyniad lluosi rhif ag ef ei hun. Er enghraifft, 6² = 36."
+    },
+    "ar": {
+      "term": "المربع",
+      "definition": "ناتج ضرب العدد في نفسه. مثلاً 6² = 36."
+    },
+    "ro": {
+      "term": "Pătrat",
+      "definition": "Rezultatul înmulțirii unui număr cu el însuși. De exemplu, 6² = 36."
+    },
+    "prs": {
+      "term": "مربع عدد",
+      "definition": "حاصل ضرب یک عدد در خودش. مثلاً 6² = 36."
+    },
+    "ps": {
+      "term": "د عدد مربع",
+      "definition": "د یو عدد له ځان سره ضربول. د بېلګې په توګه 6² = 36."
+    },
+    "es": {
+      "term": "Cuadrado",
+      "definition": "Resultado de multiplicar un número por sí mismo. Por ejemplo, 6² = 36."
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "roots",
+  "topics": [
+    "algebra"
+  ],
+  "translations": {
+    "en": {
+      "term": "Roots",
+      "definition": "The values of a variable that make an equation true; on a graph, roots are where it crosses or touches the x-axis."
+    },
+    "pl": {
+      "term": "Pierwiastki równania",
+      "definition": "Wartości zmiennej, dla których równanie jest prawdziwe; na wykresie są to miejsca, gdzie wykres przecina lub dotyka osi x."
+    },
+    "cy": {
+      "term": "Gwreiddiau",
+      "definition": "Gwerthoedd newidyn sy'n gwneud hafaliad yn wir; ar graff, y gwreiddiau yw lle mae'n croesi neu'n cyffwrdd â'r echelin-x."
+    },
+    "ar": {
+      "term": "الجذور",
+      "definition": "قيم المتغير التي تجعل المعادلة صحيحة؛ وعلى المنحنى هي النقاط التي يقطع فيها المحور x أو يمسّه."
+    },
+    "ro": {
+      "term": "Rădăcini",
+      "definition": "Valorile unei variabile care fac o ecuație adevărată; pe un grafic, rădăcinile sunt punctele în care acesta intersectează sau atinge axa x."
+    },
+    "prs": {
+      "term": "ریشه‌ها",
+      "definition": "مقدارهای متحول که معادله را درست می‌کنند؛ روی گراف، ریشه‌ها جایی هستند که گراف محور x را قطع یا لمس می‌کند."
+    },
+    "ps": {
+      "term": "ریښې",
+      "definition": "د متحول هغه قیمتونه چې معادله سمه کوي؛ په ګراف کې ریښې هغه ځایونه دي چې ګراف د x محور قطع یا لمسوي."
+    },
+    "es": {
+      "term": "Raíces",
+      "definition": "Valores de la variable que hacen verdadera una ecuación. En una gráfica, son los puntos donde corta o toca el eje x."
+    }
+  }
+}

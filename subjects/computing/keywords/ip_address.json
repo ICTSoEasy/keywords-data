@@ -28,6 +28,10 @@
     "ps": {
       "term": "IP پته",
       "definition": "ځانګړی عددي پیژندنه چې د شبکې سره وصل هرې وسیلې ته ورکول کیږي."
+    },
+    "es": {
+      "term": "Dirección IP",
+      "definition": "Número único que identifica un dispositivo en una red, como una dirección postal pero para ordenadores."
     }
   },
   "topics": [

@@ -32,6 +32,10 @@
     "ps": {
       "term": "د نحو تیروتنه",
       "definition": "د کوډ کې غلطي چې د پروګرامینګ ژبې د ګرامر قوانین ماتوي."
+    },
+    "es": {
+      "term": "Error de sintaxis",
+      "definition": "Fallo en el código que incumple las reglas del lenguaje de programación e impide que el programa se ejecute."
     }
   }
 }

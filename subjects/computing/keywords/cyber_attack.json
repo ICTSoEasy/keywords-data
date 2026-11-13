@@ -31,6 +31,10 @@
     "ps": {
       "term": "سایبر برید",
       "definition": "د یوه کمپیوټر سیستم ته د زیان رسولو، غلا یا غیرقانوني لاسرسي لپاره قصدي هڅه."
+    },
+    "es": {
+      "term": "Ciberataque",
+      "definition": "Intento deliberado de personas o grupos de acceder sin permiso a los sistemas de información de otra persona u organización."
     }
   }
 }

@@ -28,6 +28,10 @@
     "ps": {
       "term": "فنکشن",
       "definition": "د کوډ یوه نومول شوې برخه چې ځانګړې دنده ترسره کوي او ډیری ځله یادیدلی شي."
+    },
+    "es": {
+      "term": "Función",
+      "definition": "Bloque de código reutilizable que realiza una tarea concreta. Se puede llamar por su nombre siempre que se necesite."
     }
   },
   "topics": [

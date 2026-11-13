@@ -1,0 +1,40 @@
+{
+  "id": "unequal_class_widths",
+  "topics": [
+    "statistics"
+  ],
+  "translations": {
+    "en": {
+      "term": "Unequal Class Widths",
+      "definition": "Grouped-data intervals that have different widths; in a histogram, frequency density is used so bar area represents frequency."
+    },
+    "pl": {
+      "term": "Nierówne szerokości przedziałów",
+      "definition": "Przedziały danych pogrupowanych o różnych szerokościach; w histogramie używa się gęstości częstości, aby pole słupka przedstawiało częstość."
+    },
+    "cy": {
+      "term": "Lled Dosbarthiadau Anhafal",
+      "definition": "Cyfyngau data wedi'u grwpio sydd â lledau gwahanol; mewn histogram, defnyddir dwysedd amlder fel bod arwynebedd bar yn cynrychioli amlder."
+    },
+    "ar": {
+      "term": "فئات غير متساوية الطول",
+      "definition": "فترات بيانات مبوّبة لها أطوال مختلفة؛ وفي المدرّج التكراري تُستخدم كثافة التكرار لكي تمثل مساحة العمود التكرار."
+    },
+    "ro": {
+      "term": "Intervale de lățimi diferite",
+      "definition": "Intervale de date grupate care au lățimi diferite; în histogramă se folosește densitatea frecvenței, astfel încât aria barei să reprezinte frecvența."
+    },
+    "prs": {
+      "term": "دسته‌های با عرض نابرابر",
+      "definition": "فاصله‌های معلومات گروه‌بندی‌شده که عرض‌های متفاوت دارند؛ در هیستوگرام از کثافت فراوانی استفاده می‌شود تا مساحت میله فراوانی را نشان دهد."
+    },
+    "ps": {
+      "term": "نابرابر ټولګي سورونه",
+      "definition": "د ډلبندي شویو معلوماتو هغه واټنونه چې بېل بېل سور لري؛ په هیسټوګرام کې د فریکونسۍ کثافت کارول کېږي ترڅو د میلې مساحت فریکونسي وښيي."
+    },
+    "es": {
+      "term": "Amplitudes de clase desiguales",
+      "definition": "Intervalos de datos agrupados que tienen anchuras diferentes. En un histograma se utiliza la densidad de frecuencia para que el área de cada barra represente la frecuencia."
+    }
+  }
+}

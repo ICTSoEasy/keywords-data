@@ -1,0 +1,40 @@
+{
+  "id": "scalene",
+  "topics": [
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Scalene",
+      "definition": "A triangle with three sides of different lengths."
+    },
+    "pl": {
+      "term": "Różnoboczny",
+      "definition": "Trójkąt o trzech bokach różnej długości."
+    },
+    "cy": {
+      "term": "Anghyfochrog",
+      "definition": "Triongl â thair ochr o hydoedd gwahanol."
+    },
+    "ar": {
+      "term": "مختلف الأضلاع",
+      "definition": "مثلث أضلاعه الثلاثة مختلفة الأطوال."
+    },
+    "ro": {
+      "term": "Oarecare",
+      "definition": "Un triunghi cu toate cele trei laturi de lungimi diferite."
+    },
+    "prs": {
+      "term": "مختلف‌الاضلاع",
+      "definition": "مثلثی که هر سه ضلع آن طول‌های متفاوت دارند."
+    },
+    "ps": {
+      "term": "مختلف الاضلاع",
+      "definition": "هغه مثلث چې درې واړه غاړې یې بېل بېل اوږدوالی لري."
+    },
+    "es": {
+      "term": "Escaleno",
+      "definition": "Triángulo con tres lados de distinta longitud."
+    }
+  }
+}

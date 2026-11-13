@@ -31,6 +31,10 @@
     "ps": {
       "term": "بائنري",
       "definition": "د ۲ پر بنسټ د شمیرو سیستم چې ۰ او ۱ کاروي؛ د کمپیوټرونو بنسټیزه ژبه."
+    },
+    "es": {
+      "term": "Binario",
+      "definition": "Sistema numérico que usa solo 0 y 1 para representar todos los valores."
     }
   }
 }

@@ -1,0 +1,41 @@
+{
+  "id": "ratio",
+  "topics": [
+    "number",
+    "ratio"
+  ],
+  "translations": {
+    "en": {
+      "term": "Ratio",
+      "definition": "A way of comparing quantities by showing how much of one there is compared with another."
+    },
+    "pl": {
+      "term": "Stosunek",
+      "definition": "Sposób porównywania wielkości, pokazujący, ile jest jednej w porównaniu z drugą."
+    },
+    "cy": {
+      "term": "Cymhareb",
+      "definition": "Ffordd o gymharu meintiau drwy ddangos faint sydd o un o'i gymharu ag un arall."
+    },
+    "ar": {
+      "term": "النسبة",
+      "definition": "طريقة لمقارنة الكميات تبيّن مقدار كمية مقارنة بأخرى."
+    },
+    "ro": {
+      "term": "Raport",
+      "definition": "Un mod de a compara cantități, arătând cât este dintr-una în comparație cu alta."
+    },
+    "prs": {
+      "term": "نسبت",
+      "definition": "روشی برای مقایسهٔ مقدارها که نشان می‌دهد از یکی چقدر در مقایسه با دیگری وجود دارد."
+    },
+    "ps": {
+      "term": "نسبت",
+      "definition": "د مقدارونو د پرتله کولو لاره چې ښيي له یوه څخه د بل په پرتله څومره شته."
+    },
+    "es": {
+      "term": "Razón",
+      "definition": "Forma de comparar cantidades indicando cuánto hay de una en relación con otra."
+    }
+  }
+}

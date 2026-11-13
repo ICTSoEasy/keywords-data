@@ -28,6 +28,10 @@
     "ps": {
       "term": "جدول",
       "definition": "د ډیټابیس کې د کرښو او کالمونو کې تنظیم شوو معلوماتو ټولګه."
+    },
+    "es": {
+      "term": "Tabla",
+      "definition": "En una base de datos, los datos se organizan en filas y columnas; esta estructura se llama tabla."
     }
   },
   "topics": [

@@ -1,0 +1,40 @@
+{
+  "id": "point",
+  "topics": [
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Point",
+      "definition": "An exact position, with no size or dimensions."
+    },
+    "pl": {
+      "term": "Punkt",
+      "definition": "Dokładne położenie, bez rozmiaru ani wymiarów."
+    },
+    "cy": {
+      "term": "Pwynt",
+      "definition": "Safle union, heb faint na dimensiynau."
+    },
+    "ar": {
+      "term": "النقطة",
+      "definition": "موقع محدد تماماً، بلا حجم ولا أبعاد."
+    },
+    "ro": {
+      "term": "Punct",
+      "definition": "O poziție exactă, fără mărime sau dimensiuni."
+    },
+    "prs": {
+      "term": "نقطه",
+      "definition": "یک موقعیت دقیق، بدون اندازه یا بُعد."
+    },
+    "ps": {
+      "term": "ټکی",
+      "definition": "یو دقیق ځای، پرته له اندازې یا بُعد څخه."
+    },
+    "es": {
+      "term": "Punto",
+      "definition": "Posición exacta que no tiene tamaño ni dimensiones."
+    }
+  }
+}

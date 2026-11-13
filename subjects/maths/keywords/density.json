@@ -1,0 +1,40 @@
+{
+  "id": "density",
+  "topics": [
+    "ratio"
+  ],
+  "translations": {
+    "en": {
+      "term": "Density",
+      "definition": "Mass per unit volume. Density = mass ÷ volume."
+    },
+    "pl": {
+      "term": "Gęstość",
+      "definition": "Masa przypadająca na jednostkę objętości. Gęstość = masa ÷ objętość."
+    },
+    "cy": {
+      "term": "Dwysedd",
+      "definition": "Màs fesul uned cyfaint. Dwysedd = màs ÷ cyfaint."
+    },
+    "ar": {
+      "term": "الكثافة",
+      "definition": "الكتلة لكل وحدة حجم. الكثافة = الكتلة ÷ الحجم."
+    },
+    "ro": {
+      "term": "Densitate",
+      "definition": "Masa pe unitatea de volum. Densitate = masă ÷ volum."
+    },
+    "prs": {
+      "term": "کثافت",
+      "definition": "کتله در هر واحد حجم. کثافت = کتله ÷ حجم."
+    },
+    "ps": {
+      "term": "کثافت",
+      "definition": "د حجم په هر واحد کې کتله. کثافت = کتله ÷ حجم."
+    },
+    "es": {
+      "term": "Densidad",
+      "definition": "Masa por unidad de volumen. Densidad = masa ÷ volumen."
+    }
+  }
+}

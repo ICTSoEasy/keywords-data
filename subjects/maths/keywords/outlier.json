@@ -1,0 +1,40 @@
+{
+  "id": "outlier",
+  "topics": [
+    "statistics"
+  ],
+  "translations": {
+    "en": {
+      "term": "Outlier",
+      "definition": "A data value that is unusually far from the other values in a data set."
+    },
+    "pl": {
+      "term": "Wartość odstająca",
+      "definition": "Wartość danych niezwykle odległa od pozostałych wartości w zbiorze."
+    },
+    "cy": {
+      "term": "Allanolyn",
+      "definition": "Gwerth data sy'n anarferol o bell o'r gwerthoedd eraill mewn set ddata."
+    },
+    "ar": {
+      "term": "القيمة المتطرفة",
+      "definition": "قيمة في البيانات بعيدة بشكل غير معتاد عن بقية القيم."
+    },
+    "ro": {
+      "term": "Valoare aberantă",
+      "definition": "O valoare neobișnuit de departe de celelalte valori dintr-un set de date."
+    },
+    "prs": {
+      "term": "دادهٔ پرت",
+      "definition": "مقداری که به‌طور غیرعادی از دیگر مقدارهای مجموعه دور است."
+    },
+    "ps": {
+      "term": "لرې قیمت",
+      "definition": "د معلوماتو هغه قیمت چې په غیر عادي ډول له نورو قیمتونو څخه لرې وي."
+    },
+    "es": {
+      "term": "Valor atípico",
+      "definition": "Valor de un conjunto de datos que está inusualmente alejado de los demás."
+    }
+  }
+}

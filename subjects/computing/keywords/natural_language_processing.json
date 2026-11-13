@@ -31,6 +31,10 @@
     "ps": {
       "term": "د طبیعي ژبې پروسس کول",
       "definition": "د مصنوعي هوښیارتیا هغه شاخه چې کمپیوټرونو ته اجازه ورکوي انساني ژبه وپوهي او پروسس یې کړي."
+    },
+    "es": {
+      "term": "Procesamiento del lenguaje natural",
+      "definition": "Rama de la IA que permite a los ordenadores entender, interpretar y generar el lenguaje humano."
     }
   }
 }

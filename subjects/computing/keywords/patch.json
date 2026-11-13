@@ -32,6 +32,10 @@
     "ps": {
       "term": "پیچ",
       "definition": "د سافټویر تازه‌کول چې غلطۍ سموي یا د امنیت زیانمنتیاوې بندوي."
+    },
+    "es": {
+      "term": "Parche de software",
+      "definition": "Actualización que publican los desarrolladores para corregir vulnerabilidades de seguridad o errores de un programa."
     }
   }
 }

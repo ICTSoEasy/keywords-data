@@ -1,0 +1,41 @@
+{
+  "id": "inequality",
+  "topics": [
+    "number",
+    "algebra"
+  ],
+  "translations": {
+    "en": {
+      "term": "Inequality",
+      "definition": "A statement comparing values using symbols such as <, >, ≤ or ≥."
+    },
+    "pl": {
+      "term": "Nierówność",
+      "definition": "Zapis porównujący wartości za pomocą symboli takich jak <, >, ≤ lub ≥."
+    },
+    "cy": {
+      "term": "Anhafaledd",
+      "definition": "Gosodiad sy'n cymharu gwerthoedd gan ddefnyddio symbolau fel <, >, ≤ neu ≥."
+    },
+    "ar": {
+      "term": "المتباينة",
+      "definition": "عبارة تقارن بين قيم باستخدام رموز مثل < أو > أو ≤ أو ≥."
+    },
+    "ro": {
+      "term": "Inegalitate",
+      "definition": "O afirmație care compară valori folosind simboluri precum <, >, ≤ sau ≥."
+    },
+    "prs": {
+      "term": "نامساوات",
+      "definition": "عبارتی که مقدارها را با علامت‌هایی مانند <، >، ≤ یا ≥ مقایسه می‌کند."
+    },
+    "ps": {
+      "term": "نابرابري",
+      "definition": "هغه افاده چې قیمتونه د <، >، ≤ یا ≥ په څېر نښو سره پرتله کوي."
+    },
+    "es": {
+      "term": "Desigualdad",
+      "definition": "Expresión matemática que compara valores mediante símbolos como <, >, ≤ o ≥."
+    }
+  }
+}

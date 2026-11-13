@@ -31,6 +31,10 @@
     "ps": {
       "term": "دوه مرحله‌ای تصدیق",
       "definition": "د ننوتلو لار چې دوه بیل ډوله تایید ته اړتیا لري، لکه پاسورډ او SMS کوډ."
+    },
+    "es": {
+      "term": "Autenticación de dos factores",
+      "definition": "Método de seguridad que exige dos formas distintas de verificación antes de dar acceso a una cuenta."
     }
   }
 }

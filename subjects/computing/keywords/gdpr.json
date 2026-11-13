@@ -31,6 +31,10 @@
     "ps": {
       "term": "GDPR",
       "definition": "د اروپا اتحادیې قانون چې کنترولوي سازمانونه شخصي معلومات څنګه راټولوي او کاروي."
+    },
+    "es": {
+      "term": "RGPD",
+      "definition": "Reglamento General de Protección de Datos; ley del Reino Unido y la UE que da a las personas derechos sobre sus datos personales y obliga a las organizaciones a tratarlos de forma responsable."
     }
   }
 }

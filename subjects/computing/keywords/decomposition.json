@@ -28,6 +28,10 @@
     "ps": {
       "term": "تجزیه",
       "definition": "د یوې لویې پیچلې ستونزې کوچنیو او د اداره کولو وړ برخو ته ویشل."
+    },
+    "es": {
+      "term": "Descomposición",
+      "definition": "Dividir un problema grande en partes más pequeñas y manejables."
     }
   },
   "topics": [

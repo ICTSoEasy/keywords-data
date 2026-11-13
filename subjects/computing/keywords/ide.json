@@ -32,6 +32,10 @@
     "ps": {
       "term": "IDE",
       "definition": "هغه سافټویر چې د پروګرامینګ وسایل — ایډیټر، ډیباګر او کمپایلر — یو ځای کې یوځای کوي."
+    },
+    "es": {
+      "term": "IDE",
+      "definition": "Entorno de Desarrollo Integrado. Programa que reúne un editor de código, un comprobador de errores y un depurador para ayudar a escribir software."
     }
   }
 }

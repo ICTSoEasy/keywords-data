@@ -1,0 +1,40 @@
+{
+  "id": "ungrouped",
+  "topics": [
+    "statistics"
+  ],
+  "translations": {
+    "en": {
+      "term": "Ungrouped",
+      "definition": "Data shown as individual values rather than collected into groups or intervals."
+    },
+    "pl": {
+      "term": "Niepogrupowane",
+      "definition": "Dane przedstawione jako pojedyncze wartości, a nie zebrane w grupy lub przedziały."
+    },
+    "cy": {
+      "term": "Heb eu Grwpio",
+      "definition": "Data wedi'u dangos fel gwerthoedd unigol yn hytrach na'u casglu'n grwpiau neu gyfyngau."
+    },
+    "ar": {
+      "term": "غير مبوّبة",
+      "definition": "بيانات معروضة كقيم مفردة بدلاً من جمعها في مجموعات أو فترات."
+    },
+    "ro": {
+      "term": "Negrupate",
+      "definition": "Date prezentate ca valori individuale, nu adunate în grupe sau intervale."
+    },
+    "prs": {
+      "term": "گروه‌بندی‌نشده",
+      "definition": "معلوماتی که به صورت مقدارهای جداگانه نشان داده می‌شوند، نه در گروه‌ها یا فاصله‌ها."
+    },
+    "ps": {
+      "term": "نا ډلبندي شوي",
+      "definition": "هغه معلومات چې د جلا قیمتونو په توګه ښودل کېږي، نه په ډلو یا واټنونو کې راټول شوي."
+    },
+    "es": {
+      "term": "Sin agrupar",
+      "definition": "Datos presentados como valores individuales, sin agruparlos en intervalos."
+    }
+  }
+}

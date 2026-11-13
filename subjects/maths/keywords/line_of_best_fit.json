@@ -1,0 +1,40 @@
+{
+  "id": "line_of_best_fit",
+  "topics": [
+    "statistics"
+  ],
+  "translations": {
+    "en": {
+      "term": "Line of Best Fit",
+      "definition": "A straight line drawn through a scatter graph to show the overall trend in the data."
+    },
+    "pl": {
+      "term": "Linia trendu",
+      "definition": "Prosta narysowana na wykresie punktowym, pokazująca ogólny trend danych."
+    },
+    "cy": {
+      "term": "Llinell Ffit Orau",
+      "definition": "Llinell syth wedi'i lluniadu drwy ddiagram gwasgariad i ddangos y duedd gyffredinol yn y data."
+    },
+    "ar": {
+      "term": "خط أفضل مطابقة",
+      "definition": "خط مستقيم يُرسم عبر شكل الانتشار لإظهار الاتجاه العام للبيانات."
+    },
+    "ro": {
+      "term": "Dreapta de regresie",
+      "definition": "O dreaptă trasată printr-un grafic de dispersie pentru a arăta tendința generală a datelor."
+    },
+    "prs": {
+      "term": "خط بهترین برازش",
+      "definition": "خط مستقیمی که در نمودار پراکندگی رسم می‌شود تا روند کلی معلومات را نشان دهد."
+    },
+    "ps": {
+      "term": "د غوره سمون کرښه",
+      "definition": "هغه مستقیمه کرښه چې د خپرېدو په ګراف کې رسمېږي ترڅو د معلوماتو عمومي لوری وښيي."
+    },
+    "es": {
+      "term": "Recta de ajuste",
+      "definition": "Recta trazada en un diagrama de dispersión para mostrar la tendencia general de los datos."
+    }
+  }
+}

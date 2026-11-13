@@ -1,0 +1,40 @@
+{
+  "id": "pressure",
+  "topics": [
+    "ratio"
+  ],
+  "translations": {
+    "en": {
+      "term": "Pressure",
+      "definition": "Force acting on each unit of area. Pressure = force ÷ area."
+    },
+    "pl": {
+      "term": "Ciśnienie",
+      "definition": "Siła działająca na jednostkę powierzchni. Ciśnienie = siła ÷ pole powierzchni."
+    },
+    "cy": {
+      "term": "Gwasgedd",
+      "definition": "Grym sy'n gweithredu ar bob uned o arwynebedd. Gwasgedd = grym ÷ arwynebedd."
+    },
+    "ar": {
+      "term": "الضغط",
+      "definition": "القوة المؤثرة على كل وحدة مساحة. الضغط = القوة ÷ المساحة."
+    },
+    "ro": {
+      "term": "Presiune",
+      "definition": "Forța care acționează pe fiecare unitate de suprafață. Presiune = forță ÷ arie."
+    },
+    "prs": {
+      "term": "فشار",
+      "definition": "قوه‌ای که بر هر واحد مساحت وارد می‌شود. فشار = قوه ÷ مساحت."
+    },
+    "ps": {
+      "term": "فشار",
+      "definition": "هغه قوه چې د مساحت پر هر واحد اغېز کوي. فشار = قوه ÷ مساحت."
+    },
+    "es": {
+      "term": "Presión",
+      "definition": "Fuerza ejercida por unidad de superficie. Presión = fuerza ÷ área."
+    }
+  }
+}

@@ -31,6 +31,10 @@
     "ps": {
       "term": "انکپسولیشن",
       "definition": "د شي د داخلي توضیحاتو پټول او یوازې هغه ښودل چې اړین وي."
+    },
+    "es": {
+      "term": "Encapsulamiento",
+      "definition": "Mantener juntos dentro de una clase los datos de un objeto y los métodos que los usan, ocultando los detalles internos al código exterior."
     }
   }
 }

@@ -31,6 +31,10 @@
     "ps": {
       "term": "بائنري لټون",
       "definition": "د لټون الګوریتم چې ترتیب شوې لیست د منځ نه نیمایي کوي ترڅو توکی وموندل شي."
+    },
+    "es": {
+      "term": "Búsqueda binaria",
+      "definition": "Algoritmo de búsqueda que divide repetidamente por la mitad una lista ordenada para encontrar un elemento; es mucho más rápido que la búsqueda lineal."
     }
   }
 }

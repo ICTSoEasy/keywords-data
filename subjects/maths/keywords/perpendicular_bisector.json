@@ -1,0 +1,40 @@
+{
+  "id": "perpendicular_bisector",
+  "topics": [
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Perpendicular Bisector",
+      "definition": "A line that crosses a line segment at 90° and divides it into two equal parts."
+    },
+    "pl": {
+      "term": "Symetralna odcinka",
+      "definition": "Prosta przecinająca odcinek pod kątem 90° i dzieląca go na dwie równe części."
+    },
+    "cy": {
+      "term": "Hanerydd Perpendicwlar",
+      "definition": "Llinell sy'n croesi segment llinell ar 90° ac yn ei rannu'n ddwy ran hafal."
+    },
+    "ar": {
+      "term": "العمود المنصّف",
+      "definition": "خط يقطع قطعة مستقيمة بزاوية 90° ويقسمها إلى جزأين متساويين."
+    },
+    "ro": {
+      "term": "Mediatoare",
+      "definition": "O dreaptă care taie un segment sub un unghi de 90° și îl împarte în două părți egale."
+    },
+    "prs": {
+      "term": "عمود منصف",
+      "definition": "خطی که یک قطعه خط را با زاویهٔ 90° قطع می‌کند و آن را به دو بخش مساوی تقسیم می‌کند."
+    },
+    "ps": {
+      "term": "عمودي نیمونکې",
+      "definition": "هغه کرښه چې یوه کرښه ټوټه په 90° قطع کوي او په دوو برابرو برخو یې وېشي."
+    },
+    "es": {
+      "term": "Mediatriz",
+      "definition": "Recta que corta un segmento formando 90° y lo divide en dos partes iguales."
+    }
+  }
+}

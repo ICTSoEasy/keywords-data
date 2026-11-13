@@ -1,0 +1,40 @@
+{
+  "id": "cosine_cos",
+  "topics": [
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Cosine (cos)",
+      "definition": "In a right-angled triangle, cosine of an angle = adjacent ÷ hypotenuse."
+    },
+    "pl": {
+      "term": "Cosinus (cos)",
+      "definition": "W trójkącie prostokątnym cosinus kąta = przyprostokątna przyległa ÷ przeciwprostokątna."
+    },
+    "cy": {
+      "term": "Cosin (cos)",
+      "definition": "Mewn triongl ongl sgwâr, cosin ongl = cyfagos ÷ hypotenws."
+    },
+    "ar": {
+      "term": "جيب التمام (cos)",
+      "definition": "في المثلث القائم، جيب تمام الزاوية = الضلع المجاور ÷ الوتر."
+    },
+    "ro": {
+      "term": "Cosinus (cos)",
+      "definition": "Într-un triunghi dreptunghic, cosinusul unui unghi = cateta alăturată ÷ ipotenuză."
+    },
+    "prs": {
+      "term": "کوساین (cos)",
+      "definition": "در مثلث قائم‌الزاویه، کوساین یک زاویه = ضلع مجاور ÷ وتر."
+    },
+    "ps": {
+      "term": "کوساین (cos)",
+      "definition": "په قایم الزاویه مثلث کې، د زاویې کوساین = څنګ ته غاړه ÷ وتر."
+    },
+    "es": {
+      "term": "Coseno (cos)",
+      "definition": "En un triángulo rectángulo, coseno de un ángulo = cateto adyacente ÷ hipotenusa."
+    }
+  }
+}

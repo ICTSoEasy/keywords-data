@@ -1,0 +1,40 @@
+{
+  "id": "recurring_decimals",
+  "topics": [
+    "number"
+  ],
+  "translations": {
+    "en": {
+      "term": "Recurring Decimals",
+      "definition": "Decimal numbers in which a digit or group of digits repeats forever."
+    },
+    "pl": {
+      "term": "Ułamki dziesiętne okresowe",
+      "definition": "Liczby dziesiętne, w których cyfra lub grupa cyfr powtarza się bez końca."
+    },
+    "cy": {
+      "term": "Degolion Cylchol",
+      "definition": "Rhifau degol lle mae digid neu grŵp o ddigidau yn ailadrodd am byth."
+    },
+    "ar": {
+      "term": "الأعداد العشرية الدورية",
+      "definition": "أعداد عشرية يتكرر فيها رقم أو مجموعة أرقام إلى ما لا نهاية."
+    },
+    "ro": {
+      "term": "Fracții zecimale periodice",
+      "definition": "Numere zecimale în care o cifră sau un grup de cifre se repetă la nesfârșit."
+    },
+    "prs": {
+      "term": "اعشاری‌های متناوب",
+      "definition": "اعداد اعشاری که در آن‌ها یک رقم یا گروهی از رقم‌ها برای همیشه تکرار می‌شوند."
+    },
+    "ps": {
+      "term": "تکراري اعشاري عددونه",
+      "definition": "هغه اعشاري عددونه چې په کې یو رقم یا د رقمونو یوه ډله تل تکرارېږي."
+    },
+    "es": {
+      "term": "Decimales periódicos",
+      "definition": "Números decimales en los que una cifra o un grupo de cifras se repite indefinidamente."
+    }
+  }
+}

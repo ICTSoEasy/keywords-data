@@ -1,0 +1,40 @@
+{
+  "id": "mutually_exclusive",
+  "topics": [
+    "probability"
+  ],
+  "translations": {
+    "en": {
+      "term": "Mutually Exclusive",
+      "definition": "Events that cannot happen at the same time."
+    },
+    "pl": {
+      "term": "Wykluczające się",
+      "definition": "Zdarzenia, które nie mogą zajść jednocześnie."
+    },
+    "cy": {
+      "term": "Cydanghynhwysol",
+      "definition": "Digwyddiadau na allant ddigwydd ar yr un pryd."
+    },
+    "ar": {
+      "term": "متنافية",
+      "definition": "أحداث لا يمكن أن تقع في الوقت نفسه."
+    },
+    "ro": {
+      "term": "Incompatibile",
+      "definition": "Evenimente care nu se pot întâmpla în același timp."
+    },
+    "prs": {
+      "term": "ناسازگار",
+      "definition": "رویدادهایی که نمی‌توانند هم‌زمان اتفاق بیفتند."
+    },
+    "ps": {
+      "term": "یو بل نفي کوونکې",
+      "definition": "هغه پېښې چې په یو وخت نه شي پېښېدای."
+    },
+    "es": {
+      "term": "Mutuamente excluyentes",
+      "definition": "Sucesos que no pueden ocurrir al mismo tiempo."
+    }
+  }
+}

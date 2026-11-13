@@ -31,6 +31,10 @@
     "ps": {
       "term": "انټرپریټر",
       "definition": "هغه پروګرام چې لوړ سطحې کوډ کرښه‌کرښه اجرا کوي پرته لدې چې لومړی یې ژباړي."
+    },
+    "es": {
+      "term": "Intérprete",
+      "definition": "Programa que traduce y ejecuta un programa en lenguaje de alto nivel línea por línea."
     }
   }
 }

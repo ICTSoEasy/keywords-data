@@ -31,6 +31,10 @@
     "ps": {
       "term": "پیکسل",
       "definition": "د ډیجیټل انځور کوچنۍ عنصر؛ انځورونه له زرګونو پیکسلونو جوړ دي."
+    },
+    "es": {
+      "term": "Píxel",
+      "definition": "El elemento más pequeño de una imagen digital, representado por valores de color."
     }
   }
 }

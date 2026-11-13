@@ -1,0 +1,40 @@
+{
+  "id": "sine_sin",
+  "topics": [
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Sine (sin)",
+      "definition": "In a right-angled triangle, sine of an angle = opposite ÷ hypotenuse."
+    },
+    "pl": {
+      "term": "Sinus (sin)",
+      "definition": "W trójkącie prostokątnym sinus kąta = przyprostokątna przeciwległa ÷ przeciwprostokątna."
+    },
+    "cy": {
+      "term": "Sin (sin)",
+      "definition": "Mewn triongl ongl sgwâr, sin ongl = cyferbyn ÷ hypotenws."
+    },
+    "ar": {
+      "term": "الجيب (sin)",
+      "definition": "في المثلث القائم، جيب الزاوية = الضلع المقابل ÷ الوتر."
+    },
+    "ro": {
+      "term": "Sinus (sin)",
+      "definition": "Într-un triunghi dreptunghic, sinusul unui unghi = cateta opusă ÷ ipotenuză."
+    },
+    "prs": {
+      "term": "ساین (sin)",
+      "definition": "در مثلث قائم‌الزاویه، ساین یک زاویه = ضلع مقابل ÷ وتر."
+    },
+    "ps": {
+      "term": "ساین (sin)",
+      "definition": "په قایم الزاویه مثلث کې، د زاویې ساین = مخامخ غاړه ÷ وتر."
+    },
+    "es": {
+      "term": "Seno (sen)",
+      "definition": "En un triángulo rectángulo, seno de un ángulo = cateto opuesto ÷ hipotenusa."
+    }
+  }
+}

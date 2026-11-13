@@ -31,6 +31,10 @@
     "ps": {
       "term": "د ودریدو ستونزه",
       "definition": "ثابته ستونزه چې دا ناممکنه ده چې داسې پروګرام ولیکل شي چې ووايي آیا بل هر پروګرام به ودریږي که تل به چلیږي."
+    },
+    "es": {
+      "term": "Problema de la parada",
+      "definition": "Problema famoso que demuestra que ningún algoritmo puede determinar siempre si un programa cualquiera terminará o seguirá ejecutándose para siempre."
     }
   }
 }

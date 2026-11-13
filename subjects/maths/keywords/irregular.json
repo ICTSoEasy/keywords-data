@@ -1,0 +1,40 @@
+{
+  "id": "irregular",
+  "topics": [
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Irregular",
+      "definition": "A shape that does not have all sides and angles equal."
+    },
+    "pl": {
+      "term": "Nieregularny",
+      "definition": "Figura, która nie ma wszystkich boków i kątów równych."
+    },
+    "cy": {
+      "term": "Afreolaidd",
+      "definition": "Siâp nad yw ei ochrau a'i onglau i gyd yn hafal."
+    },
+    "ar": {
+      "term": "غير منتظم",
+      "definition": "شكل ليست جميع أضلاعه وزواياه متساوية."
+    },
+    "ro": {
+      "term": "Neregulat",
+      "definition": "O figură care nu are toate laturile și toate unghiurile egale."
+    },
+    "prs": {
+      "term": "غیرمنتظم",
+      "definition": "شکلی که همهٔ ضلع‌ها و زاویه‌هایش مساوی نیستند."
+    },
+    "ps": {
+      "term": "غیر منظم",
+      "definition": "هغه بڼه چې ټولې غاړې او زاویې یې برابرې نه وي."
+    },
+    "es": {
+      "term": "Irregular",
+      "definition": "Figura que no tiene todos sus lados y ángulos iguales."
+    }
+  }
+}

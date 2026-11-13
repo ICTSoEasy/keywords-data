@@ -31,6 +31,10 @@
     "ps": {
       "term": "میراث",
       "definition": "د شیانو پروګرامینګ کې، کله چې یوه کلاس د بلې کلاس ځانتیاوې او چلند میراث ولري."
+    },
+    "es": {
+      "term": "Herencia",
+      "definition": "Cuando una clase adopta los atributos y métodos de otra clase. La nueva clase se llama subclase."
     }
   }
 }

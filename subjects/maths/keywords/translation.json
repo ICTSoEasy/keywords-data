@@ -1,0 +1,40 @@
+{
+  "id": "translation",
+  "topics": [
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Translation",
+      "definition": "A transformation that slides every point of a shape the same distance in the same direction."
+    },
+    "pl": {
+      "term": "Przesunięcie",
+      "definition": "Przekształcenie przesuwające każdy punkt figury o tę samą odległość w tym samym kierunku."
+    },
+    "cy": {
+      "term": "Trawsfudiad",
+      "definition": "Trawsffurfiad sy'n llithro pob pwynt o siâp yr un pellter i'r un cyfeiriad."
+    },
+    "ar": {
+      "term": "الانسحاب",
+      "definition": "تحويل ينقل كل نقطة من الشكل المسافة نفسها في الاتجاه نفسه."
+    },
+    "ro": {
+      "term": "Translație",
+      "definition": "O transformare care mută fiecare punct al unei figuri cu aceeași distanță, în aceeași direcție."
+    },
+    "prs": {
+      "term": "انتقال",
+      "definition": "تبدیلی که هر نقطهٔ شکل را به همان فاصله و در همان جهت جابه‌جا می‌کند."
+    },
+    "ps": {
+      "term": "انتقال",
+      "definition": "هغه بدلون چې د بڼې هر ټکی په یو شان واټن او یو لوري خوځوي."
+    },
+    "es": {
+      "term": "Traslación",
+      "definition": "Transformación que desplaza todos los puntos de una figura la misma distancia y en la misma dirección."
+    }
+  }
+}

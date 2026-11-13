@@ -28,6 +28,10 @@
     "ps": {
       "term": "اری",
       "definition": "د یو ډول عناصرو ټولګه چې د شمیرل شوو ځایونو کې ذخیره کیږي."
+    },
+    "es": {
+      "term": "Array",
+      "definition": "Lista de valores guardados juntos bajo un mismo nombre, a los que se accede por su número de posición (índice)."
     }
   },
   "topics": [

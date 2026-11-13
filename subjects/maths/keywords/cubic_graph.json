@@ -1,0 +1,40 @@
+{
+  "id": "cubic_graph",
+  "topics": [
+    "algebra"
+  ],
+  "translations": {
+    "en": {
+      "term": "Cubic Graph",
+      "definition": "The graph of a cubic function, which has a term involving x³ and is often S-shaped."
+    },
+    "pl": {
+      "term": "Wykres funkcji sześciennej",
+      "definition": "Wykres funkcji sześciennej, zawierającej wyraz z x³, często w kształcie litery S."
+    },
+    "cy": {
+      "term": "Graff Ciwbig",
+      "definition": "Graff ffwythiant ciwbig, sydd â therm yn cynnwys x³ ac sydd yn aml ar siâp S."
+    },
+    "ar": {
+      "term": "منحنى الدالة التكعيبية",
+      "definition": "منحنى دالة تكعيبية تحتوي على حدّ فيه x³، وغالباً ما يكون على شكل حرف S."
+    },
+    "ro": {
+      "term": "Graficul funcției de gradul trei",
+      "definition": "Graficul unei funcții de gradul trei, care are un termen cu x³ și are adesea forma literei S."
+    },
+    "prs": {
+      "term": "گراف تابع درجه سوم",
+      "definition": "گراف تابع درجه سوم که جمله‌ای با x³ دارد و اغلب شکل S دارد."
+    },
+    "ps": {
+      "term": "د دریمې درجې تابع ګراف",
+      "definition": "د دریمې درجې تابع ګراف چې د x³ لرونکی حد لري او ډېری وخت د S په بڼه وي."
+    },
+    "es": {
+      "term": "Gráfica cúbica",
+      "definition": "Gráfica de una función cúbica, que contiene un término con x³ y suele tener forma de S."
+    }
+  }
+}

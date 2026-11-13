@@ -32,6 +32,10 @@
     "ps": {
       "term": "خلاص سرچینه",
       "definition": "سافټویر چې د هر چا لپاره موجود وي ترڅو یې وګوري، بدل کړي او خپور کړي."
+    },
+    "es": {
+      "term": "Código abierto",
+      "definition": "Software cuyo código fuente está disponible libremente para que cualquiera lo vea, use, modifique y comparta."
     }
   }
 }

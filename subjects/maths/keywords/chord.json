@@ -1,0 +1,40 @@
+{
+  "id": "chord",
+  "topics": [
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Chord",
+      "definition": "A straight line joining two points on the circumference of a circle."
+    },
+    "pl": {
+      "term": "Cięciwa",
+      "definition": "Odcinek łączący dwa punkty okręgu."
+    },
+    "cy": {
+      "term": "Cord",
+      "definition": "Llinell syth sy'n uno dau bwynt ar gylchedd cylch."
+    },
+    "ar": {
+      "term": "وتر الدائرة",
+      "definition": "قطعة مستقيمة تصل بين نقطتين على محيط الدائرة."
+    },
+    "ro": {
+      "term": "Coardă",
+      "definition": "Un segment care unește două puncte de pe cerc."
+    },
+    "prs": {
+      "term": "وتر دایره",
+      "definition": "خط مستقیمی که دو نقطه روی محیط دایره را به هم وصل می‌کند."
+    },
+    "ps": {
+      "term": "د دایرې وتر",
+      "definition": "هغه مستقیمه کرښه چې د دایرې پر محیط دوه ټکي سره نښلوي."
+    },
+    "es": {
+      "term": "Cuerda",
+      "definition": "Segmento recto que une dos puntos de una circunferencia."
+    }
+  }
+}

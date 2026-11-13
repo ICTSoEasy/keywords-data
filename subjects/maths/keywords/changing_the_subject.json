@@ -1,0 +1,40 @@
+{
+  "id": "changing_the_subject",
+  "topics": [
+    "algebra"
+  ],
+  "translations": {
+    "en": {
+      "term": "Changing the Subject",
+      "definition": "Rearranging a formula so that a different variable is on its own."
+    },
+    "pl": {
+      "term": "Przekształcanie wzoru",
+      "definition": "Przekształcenie wzoru tak, aby inna zmienna znalazła się sama po jednej stronie."
+    },
+    "cy": {
+      "term": "Newid Testun Fformiwla",
+      "definition": "Aildrefnu fformiwla fel bod newidyn gwahanol ar ei ben ei hun."
+    },
+    "ar": {
+      "term": "تغيير موضوع القانون",
+      "definition": "إعادة ترتيب القانون بحيث يصبح متغير آخر وحده في طرف."
+    },
+    "ro": {
+      "term": "Exprimarea unei variabile",
+      "definition": "Rearanjarea unei formule astfel încât o altă variabilă să rămână singură."
+    },
+    "prs": {
+      "term": "تغییر موضوع فورمول",
+      "definition": "دوباره ترتیب دادن یک فورمول تا متحول دیگری به تنهایی در یک طرف قرار گیرد."
+    },
+    "ps": {
+      "term": "د فورمول د موضوع بدلول",
+      "definition": "د یو فورمول بیا ترتیبول ترڅو یو بل متحول یوازې په یوه خوا کې پاتې شي."
+    },
+    "es": {
+      "term": "Despejar una variable",
+      "definition": "Reorganizar una fórmula para dejar aislada una variable diferente."
+    }
+  }
+}

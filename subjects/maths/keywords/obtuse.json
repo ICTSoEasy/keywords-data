@@ -1,0 +1,40 @@
+{
+  "id": "obtuse",
+  "topics": [
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Obtuse",
+      "definition": "An angle greater than 90° and less than 180°."
+    },
+    "pl": {
+      "term": "Kąt rozwarty",
+      "definition": "Kąt większy od 90° i mniejszy od 180°."
+    },
+    "cy": {
+      "term": "Aflym",
+      "definition": "Ongl sy'n fwy na 90° ac yn llai na 180°."
+    },
+    "ar": {
+      "term": "منفرجة",
+      "definition": "زاوية أكبر من 90° وأصغر من 180°."
+    },
+    "ro": {
+      "term": "Obtuz",
+      "definition": "Un unghi mai mare de 90° și mai mic de 180°."
+    },
+    "prs": {
+      "term": "منفرجه",
+      "definition": "زاویه‌ای بزرگ‌تر از 90° و کوچک‌تر از 180°."
+    },
+    "ps": {
+      "term": "منفرجه زاویه",
+      "definition": "هغه زاویه چې له 90° څخه لویه او له 180° څخه کوچنۍ وي."
+    },
+    "es": {
+      "term": "Obtuso",
+      "definition": "Ángulo mayor que 90° y menor que 180°."
+    }
+  }
+}

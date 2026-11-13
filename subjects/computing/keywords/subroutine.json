@@ -32,6 +32,10 @@
     "ps": {
       "term": "فرعي پروګرام",
       "definition": "د کوډ نومول شوې برخه چې ځانګړې دنده ترسره کوي او د بیلابیلو ځایونو نه یادیدلی شي."
+    },
+    "es": {
+      "term": "Subrutina",
+      "definition": "Bloque de código con nombre que se puede llamar desde cualquier parte de un programa. Incluye procedimientos (sin valor de retorno) y funciones (con valor de retorno)."
     }
   }
 }

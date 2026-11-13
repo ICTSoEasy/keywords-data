@@ -1,0 +1,40 @@
+{
+  "id": "circle_theorems",
+  "topics": [
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Circle Theorems",
+      "definition": "Rules about angles, chords and other properties of circles."
+    },
+    "pl": {
+      "term": "Twierdzenia o okręgu",
+      "definition": "Reguły dotyczące kątów, cięciw i innych własności okręgów."
+    },
+    "cy": {
+      "term": "Theoremau Cylch",
+      "definition": "Rheolau am onglau, cordiau a phriodweddau eraill cylchoedd."
+    },
+    "ar": {
+      "term": "نظريات الدائرة",
+      "definition": "قواعد حول الزوايا والأوتار وخصائص أخرى للدوائر."
+    },
+    "ro": {
+      "term": "Teoremele cercului",
+      "definition": "Reguli despre unghiuri, coarde și alte proprietăți ale cercurilor."
+    },
+    "prs": {
+      "term": "قضیه‌های دایره",
+      "definition": "قاعده‌هایی دربارهٔ زاویه‌ها، وترها و ویژگی‌های دیگر دایره."
+    },
+    "ps": {
+      "term": "د دایرې قضیې",
+      "definition": "د دایرو د زاویو، وترونو او نورو ځانګړتیاوو په اړه قاعدې."
+    },
+    "es": {
+      "term": "Teoremas de la circunferencia",
+      "definition": "Reglas sobre ángulos, cuerdas y otras propiedades de las circunferencias."
+    }
+  }
+}

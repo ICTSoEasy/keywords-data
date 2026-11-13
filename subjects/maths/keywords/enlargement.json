@@ -1,0 +1,40 @@
+{
+  "id": "enlargement",
+  "topics": [
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Enlargement",
+      "definition": "A transformation that changes the size of a shape using a centre and a scale factor."
+    },
+    "pl": {
+      "term": "Jednokładność",
+      "definition": "Przekształcenie zmieniające rozmiar figury za pomocą środka i skali."
+    },
+    "cy": {
+      "term": "Helaethiad",
+      "definition": "Trawsffurfiad sy'n newid maint siâp gan ddefnyddio canol a ffactor graddfa."
+    },
+    "ar": {
+      "term": "التكبير",
+      "definition": "تحويل يغيّر حجم الشكل باستخدام مركز ومعامل تكبير."
+    },
+    "ro": {
+      "term": "Omotetie",
+      "definition": "O transformare care schimbă mărimea unei figuri folosind un centru și un factor de scară."
+    },
+    "prs": {
+      "term": "بزرگ‌نمایی",
+      "definition": "تبدیلی که اندازهٔ شکل را با استفاده از یک مرکز و ضریب مقیاس تغییر می‌دهد."
+    },
+    "ps": {
+      "term": "لویول",
+      "definition": "هغه بدلون چې د یو مرکز او د مقیاس ضریب په کارولو سره د بڼې اندازه بدلوي."
+    },
+    "es": {
+      "term": "Ampliación",
+      "definition": "Transformación que cambia el tamaño de una figura utilizando un centro y un factor de escala."
+    }
+  }
+}

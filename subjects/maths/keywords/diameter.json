@@ -1,0 +1,40 @@
+{
+  "id": "diameter",
+  "topics": [
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Diameter",
+      "definition": "A straight line across a circle through its centre, joining two points on the circumference."
+    },
+    "pl": {
+      "term": "Średnica",
+      "definition": "Odcinek przechodzący przez środek koła, łączący dwa punkty okręgu."
+    },
+    "cy": {
+      "term": "Diamedr",
+      "definition": "Llinell syth ar draws cylch drwy ei ganol, yn uno dau bwynt ar y cylchedd."
+    },
+    "ar": {
+      "term": "القطر",
+      "definition": "قطعة مستقيمة تمر بمركز الدائرة وتصل بين نقطتين على محيطها."
+    },
+    "ro": {
+      "term": "Diametru",
+      "definition": "Un segment care trece prin centrul cercului și unește două puncte de pe cerc."
+    },
+    "prs": {
+      "term": "قطر",
+      "definition": "خط مستقیمی که از مرکز دایره می‌گذرد و دو نقطه روی محیط را به هم وصل می‌کند."
+    },
+    "ps": {
+      "term": "قطر",
+      "definition": "هغه مستقیمه کرښه چې د دایرې له مرکز څخه تېرېږي او د محیط دوه ټکي سره نښلوي."
+    },
+    "es": {
+      "term": "Diámetro",
+      "definition": "Segmento que atraviesa el centro de un círculo y une dos puntos de su circunferencia."
+    }
+  }
+}

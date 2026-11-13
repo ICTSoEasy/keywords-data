@@ -1,0 +1,40 @@
+{
+  "id": "term_to_term_rule",
+  "topics": [
+    "algebra"
+  ],
+  "translations": {
+    "en": {
+      "term": "Term-to-Term Rule",
+      "definition": "A rule that tells you how to get from one term in a sequence to the next."
+    },
+    "pl": {
+      "term": "Wzór rekurencyjny",
+      "definition": "Reguła mówiąca, jak z jednego wyrazu ciągu otrzymać następny."
+    },
+    "cy": {
+      "term": "Rheol Term-i-Derm",
+      "definition": "Rheol sy'n dweud wrthych sut i fynd o un term mewn dilyniant i'r nesaf."
+    },
+    "ar": {
+      "term": "قاعدة الحد إلى الحد",
+      "definition": "قاعدة تبيّن كيف ننتقل من حدّ في المتتالية إلى الحدّ الذي يليه."
+    },
+    "ro": {
+      "term": "Regula termen–termen",
+      "definition": "O regulă care arată cum se obține termenul următor dintr-un șir pornind de la cel anterior."
+    },
+    "prs": {
+      "term": "قاعدهٔ جمله به جمله",
+      "definition": "قاعده‌ای که نشان می‌دهد چگونه از یک جملهٔ دنباله به جملهٔ بعدی برسیم."
+    },
+    "ps": {
+      "term": "له حد څخه حد ته قاعده",
+      "definition": "هغه قاعده چې ښيي څنګه د لړۍ له یو حد څخه راتلونکي حد ته ورسېږو."
+    },
+    "es": {
+      "term": "Regla de recurrencia",
+      "definition": "Regla que indica cómo pasar de un término de una sucesión al siguiente."
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "trigonometric_functions",
+  "topics": [
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Trigonometric Functions",
+      "definition": "Functions such as sine, cosine and tangent that relate angles to side lengths in triangles."
+    },
+    "pl": {
+      "term": "Funkcje trygonometryczne",
+      "definition": "Funkcje takie jak sinus, cosinus i tangens, które wiążą kąty z długościami boków w trójkątach."
+    },
+    "cy": {
+      "term": "Ffwythiannau Trigonometrig",
+      "definition": "Ffwythiannau fel sin, cosin a thangiad sy'n cysylltu onglau â hydoedd ochrau mewn trionglau."
+    },
+    "ar": {
+      "term": "الدوال المثلثية",
+      "definition": "دوال مثل الجيب وجيب التمام والظل، تربط الزوايا بأطوال الأضلاع في المثلثات."
+    },
+    "ro": {
+      "term": "Funcții trigonometrice",
+      "definition": "Funcții precum sinus, cosinus și tangentă, care leagă unghiurile de lungimile laturilor în triunghiuri."
+    },
+    "prs": {
+      "term": "توابع مثلثاتی",
+      "definition": "توابعی مانند ساین، کوساین و تانجانت که زاویه‌ها را به طول ضلع‌ها در مثلث‌ها ربط می‌دهند."
+    },
+    "ps": {
+      "term": "مثلثاتي تابعګانې",
+      "definition": "هغه تابعګانې لکه ساین، کوساین او ټانجنټ چې په مثلثونو کې زاویې د غاړو له اوږدوالي سره تړي."
+    },
+    "es": {
+      "term": "Funciones trigonométricas",
+      "definition": "Funciones como seno, coseno y tangente, que relacionan ángulos y longitudes de los lados de los triángulos."
+    }
+  }
+}

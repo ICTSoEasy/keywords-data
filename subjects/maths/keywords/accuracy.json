@@ -1,0 +1,40 @@
+{
+  "id": "accuracy",
+  "topics": [
+    "number"
+  ],
+  "translations": {
+    "en": {
+      "term": "Accuracy",
+      "definition": "How close a measured or calculated value is to the true value."
+    },
+    "pl": {
+      "term": "Dokładność",
+      "definition": "Jak blisko zmierzona lub obliczona wartość jest wartości prawdziwej."
+    },
+    "cy": {
+      "term": "Cywirdeb",
+      "definition": "Pa mor agos yw gwerth sydd wedi'i fesur neu ei gyfrifo at y gwir werth."
+    },
+    "ar": {
+      "term": "الدقة",
+      "definition": "مدى قرب القيمة المقيسة أو المحسوبة من القيمة الحقيقية."
+    },
+    "ro": {
+      "term": "Exactitate",
+      "definition": "Cât de aproape este o valoare măsurată sau calculată de valoarea reală."
+    },
+    "prs": {
+      "term": "دقت",
+      "definition": "اینکه یک مقدار اندازه‌گیری‌شده یا محاسبه‌شده چقدر به مقدار واقعی نزدیک است."
+    },
+    "ps": {
+      "term": "دقت",
+      "definition": "دا چې یو اندازه شوی یا محاسبه شوی قیمت اصلي قیمت ته څومره نږدې دی."
+    },
+    "es": {
+      "term": "Precisión",
+      "definition": "Indica qué tan cerca está un valor medido o calculado del valor verdadero."
+    }
+  }
+}

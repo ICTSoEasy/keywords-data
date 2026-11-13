@@ -31,6 +31,10 @@
     "ps": {
       "term": "کیش",
       "definition": "کوچنۍ ګړندۍ حافظه چې ډیر کارول شوي معلومات د پروسیسر سره نږدې ساتي."
+    },
+    "es": {
+      "term": "Caché",
+      "definition": "Tipo de memoria pequeña y muy rápida situada cerca de la CPU para acelerar el procesamiento."
     }
   }
 }

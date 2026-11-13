@@ -1,0 +1,40 @@
+{
+  "id": "ordering",
+  "topics": [
+    "number"
+  ],
+  "translations": {
+    "en": {
+      "term": "Ordering",
+      "definition": "Putting numbers or values into a chosen order, such as smallest to largest."
+    },
+    "pl": {
+      "term": "Porządkowanie",
+      "definition": "Ustawianie liczb lub wartości w wybranej kolejności, na przykład od najmniejszej do największej."
+    },
+    "cy": {
+      "term": "Trefnu",
+      "definition": "Rhoi rhifau neu werthoedd mewn trefn ddewisol, fel o'r lleiaf i'r mwyaf."
+    },
+    "ar": {
+      "term": "الترتيب",
+      "definition": "وضع الأعداد أو القيم في ترتيب معيّن، مثل من الأصغر إلى الأكبر."
+    },
+    "ro": {
+      "term": "Ordonare",
+      "definition": "Așezarea numerelor sau valorilor într-o anumită ordine, de exemplu de la cel mai mic la cel mai mare."
+    },
+    "prs": {
+      "term": "ترتیب کردن",
+      "definition": "قرار دادن اعداد یا مقدارها به یک ترتیب معین، مثلاً از کوچک‌ترین تا بزرگ‌ترین."
+    },
+    "ps": {
+      "term": "ترتیبول",
+      "definition": "د عددونو یا قیمتونو په یو ټاکلي ترتیب کې ایښودل، لکه له کوچني څخه تر لوی پورې."
+    },
+    "es": {
+      "term": "Ordenación",
+      "definition": "Organizar números o valores siguiendo un orden, por ejemplo, de menor a mayor."
+    }
+  }
+}

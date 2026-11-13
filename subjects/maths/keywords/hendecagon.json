@@ -1,0 +1,40 @@
+{
+  "id": "hendecagon",
+  "topics": [
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Hendecagon",
+      "definition": "A polygon with 11 sides."
+    },
+    "pl": {
+      "term": "Jedenastokąt",
+      "definition": "Wielokąt o 11 bokach."
+    },
+    "cy": {
+      "term": "Hendecagon",
+      "definition": "Polygon ag 11 ochr."
+    },
+    "ar": {
+      "term": "المضلع الأحد عشري",
+      "definition": "مضلع له 11 ضلعاً."
+    },
+    "ro": {
+      "term": "Endecagon",
+      "definition": "Un poligon cu 11 laturi."
+    },
+    "prs": {
+      "term": "یازده‌ضلعی",
+      "definition": "چندضلعی با 11 ضلع."
+    },
+    "ps": {
+      "term": "یوولس ضلعي",
+      "definition": "هغه څو ضلعي چې 11 غاړې لري."
+    },
+    "es": {
+      "term": "Endecágono",
+      "definition": "Polígono de 11 lados."
+    }
+  }
+}

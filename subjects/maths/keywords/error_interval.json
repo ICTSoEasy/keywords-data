@@ -1,0 +1,40 @@
+{
+  "id": "error_interval",
+  "topics": [
+    "number"
+  ],
+  "translations": {
+    "en": {
+      "term": "Error Interval",
+      "definition": "The range of values that could have rounded to a stated measurement or value."
+    },
+    "pl": {
+      "term": "Przedział błędu",
+      "definition": "Zakres wartości, które po zaokrągleniu mogły dać podany pomiar lub wartość."
+    },
+    "cy": {
+      "term": "Cyfwng Cyfeiliornad",
+      "definition": "Yr amrediad o werthoedd a allai fod wedi'u talgrynnu i fesuriad neu werth penodol."
+    },
+    "ar": {
+      "term": "فترة الخطأ",
+      "definition": "مدى القيم التي يمكن أن تُقرَّب إلى قياس أو قيمة معطاة."
+    },
+    "ro": {
+      "term": "Interval de eroare",
+      "definition": "Intervalul de valori care, prin rotunjire, ar fi putut da o anumită măsurătoare sau valoare."
+    },
+    "prs": {
+      "term": "فاصلهٔ خطا",
+      "definition": "محدودهٔ مقدارهایی که با گرد کردن می‌توانستند به یک اندازه یا مقدار معین برسند."
+    },
+    "ps": {
+      "term": "د تېروتنې واټن",
+      "definition": "د هغو قیمتونو لړۍ چې ګردېدو سره یو ټاکلي اندازې یا قیمت ته رسېدلای شي."
+    },
+    "es": {
+      "term": "Intervalo de error",
+      "definition": "Intervalo de valores que podrían haberse redondeado al valor indicado."
+    }
+  }
+}

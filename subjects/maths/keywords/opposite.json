@@ -1,0 +1,40 @@
+{
+  "id": "opposite",
+  "topics": [
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Opposite",
+      "definition": "Across from or facing. In a right-angled triangle, the opposite side is across from the angle being considered."
+    },
+    "pl": {
+      "term": "Przeciwległy",
+      "definition": "Leżący naprzeciw. W trójkącie prostokątnym przyprostokątna przeciwległa leży naprzeciw rozważanego kąta."
+    },
+    "cy": {
+      "term": "Cyferbyn",
+      "definition": "Ar draws neu'n wynebu. Mewn triongl ongl sgwâr, yr ochr gyferbyn yw'r un ar draws o'r ongl dan sylw."
+    },
+    "ar": {
+      "term": "المقابل",
+      "definition": "في الجهة الأخرى أو مواجه. في المثلث القائم، الضلع المقابل هو الضلع الذي يقابل الزاوية المعنية."
+    },
+    "ro": {
+      "term": "Opus",
+      "definition": "Aflat în față sau de partea cealaltă. Într-un triunghi dreptunghic, cateta opusă se află în fața unghiului considerat."
+    },
+    "prs": {
+      "term": "مقابل",
+      "definition": "روبه‌رو یا در طرف دیگر. در مثلث قائم‌الزاویه، ضلع مقابل ضلعی است که روبه‌روی زاویهٔ مورد نظر قرار دارد."
+    },
+    "ps": {
+      "term": "مخامخ",
+      "definition": "مخې ته یا په بله خوا کې. په قایم الزاویه مثلث کې، مخامخ غاړه هغه ده چې د اړوندې زاویې مخې ته وي."
+    },
+    "es": {
+      "term": "Opuesto",
+      "definition": "Que está enfrente. En un triángulo rectángulo, el cateto opuesto está frente al ángulo que se está considerando."
+    }
+  }
+}

@@ -31,6 +31,10 @@
     "ps": {
       "term": "MAC پته",
       "definition": "ځانګړی سخت‌افزاري پیژندنه چې هرې د شبکې وسیلې ته ورکول کیږي."
+    },
+    "es": {
+      "term": "Dirección MAC",
+      "definition": "Identificador único asignado de forma permanente a una tarjeta de red. Se usa para identificar dispositivos en una red local. Viene de Media Access Control."
     }
   }
 }

@@ -1,0 +1,40 @@
+{
+  "id": "right_angle",
+  "topics": [
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Right Angle",
+      "definition": "An angle of exactly 90°."
+    },
+    "pl": {
+      "term": "Kąt prosty",
+      "definition": "Kąt równy dokładnie 90°."
+    },
+    "cy": {
+      "term": "Ongl Sgwâr",
+      "definition": "Ongl o union 90°."
+    },
+    "ar": {
+      "term": "الزاوية القائمة",
+      "definition": "زاوية قياسها 90° تماماً."
+    },
+    "ro": {
+      "term": "Unghi drept",
+      "definition": "Un unghi de exact 90°."
+    },
+    "prs": {
+      "term": "زاویهٔ قائمه",
+      "definition": "زاویه‌ای دقیقاً 90°."
+    },
+    "ps": {
+      "term": "قایمه زاویه",
+      "definition": "هغه زاویه چې دقیقاً 90° وي."
+    },
+    "es": {
+      "term": "Ángulo recto",
+      "definition": "Ángulo de exactamente 90°."
+    }
+  }
+}

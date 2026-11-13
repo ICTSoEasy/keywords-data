@@ -1,0 +1,40 @@
+{
+  "id": "compound_units",
+  "topics": [
+    "ratio"
+  ],
+  "translations": {
+    "en": {
+      "term": "Compound Units",
+      "definition": "Units formed by combining other units, such as metres per second (m/s) or grams per cubic centimetre (g/cm³)."
+    },
+    "pl": {
+      "term": "Jednostki złożone",
+      "definition": "Jednostki powstałe z połączenia innych jednostek, na przykład metry na sekundę (m/s) lub gramy na centymetr sześcienny (g/cm³)."
+    },
+    "cy": {
+      "term": "Unedau Cyfansawdd",
+      "definition": "Unedau wedi'u ffurfio drwy gyfuno unedau eraill, fel metrau yr eiliad (m/s) neu gramau fesul centimetr ciwbig (g/cm³)."
+    },
+    "ar": {
+      "term": "الوحدات المركّبة",
+      "definition": "وحدات تتكون من دمج وحدات أخرى، مثل المتر لكل ثانية (m/s) أو الغرام لكل سنتيمتر مكعب (g/cm³)."
+    },
+    "ro": {
+      "term": "Unități compuse",
+      "definition": "Unități formate prin combinarea altor unități, cum ar fi metri pe secundă (m/s) sau grame pe centimetru cub (g/cm³)."
+    },
+    "prs": {
+      "term": "واحدهای مرکب",
+      "definition": "واحدهایی که از ترکیب واحدهای دیگر ساخته می‌شوند، مانند متر فی ثانیه (m/s) یا گرام فی سانتی‌متر مکعب (g/cm³)."
+    },
+    "ps": {
+      "term": "مرکب واحدونه",
+      "definition": "هغه واحدونه چې د نورو واحدونو له یوځای کولو جوړېږي، لکه متر په ثانیه (m/s) یا ګرام په مکعب سانتي متر (g/cm³)."
+    },
+    "es": {
+      "term": "Unidades compuestas",
+      "definition": "Unidades formadas al combinar otras unidades, como metros por segundo (m/s) o gramos por centímetro cúbico (g/cm³)."
+    }
+  }
+}

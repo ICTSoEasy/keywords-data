@@ -31,6 +31,10 @@
     "ps": {
       "term": "روبوټ",
       "definition": "ماشین چې کولی شي دندې اتوماتیک ترسره کړي، اکثراً د سینسرونو او ایکچویټرونو له کارولو سره."
+    },
+    "es": {
+      "term": "Robot",
+      "definition": "Máquina que puede realizar tareas automáticamente o bajo el control de un ordenador, a menudo interactuando con el mundo físico."
     }
   }
 }

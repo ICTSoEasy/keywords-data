@@ -1,0 +1,40 @@
+{
+  "id": "heptagon",
+  "topics": [
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Heptagon",
+      "definition": "A polygon with 7 sides."
+    },
+    "pl": {
+      "term": "Siedmiokąt",
+      "definition": "Wielokąt o 7 bokach."
+    },
+    "cy": {
+      "term": "Heptagon",
+      "definition": "Polygon â 7 ochr."
+    },
+    "ar": {
+      "term": "المضلع السباعي",
+      "definition": "مضلع له 7 أضلاع."
+    },
+    "ro": {
+      "term": "Heptagon",
+      "definition": "Un poligon cu 7 laturi."
+    },
+    "prs": {
+      "term": "هفت‌ضلعی",
+      "definition": "چندضلعی با 7 ضلع."
+    },
+    "ps": {
+      "term": "اووه ضلعي",
+      "definition": "هغه څو ضلعي چې 7 غاړې لري."
+    },
+    "es": {
+      "term": "Heptágono",
+      "definition": "Polígono de 7 lados."
+    }
+  }
+}

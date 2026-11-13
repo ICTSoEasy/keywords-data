@@ -1,0 +1,40 @@
+{
+  "id": "irregular_polygon",
+  "topics": [
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Irregular Polygon",
+      "definition": "A polygon whose sides or angles are not all equal."
+    },
+    "pl": {
+      "term": "Wielokąt nieforemny",
+      "definition": "Wielokąt, którego boki lub kąty nie są wszystkie równe."
+    },
+    "cy": {
+      "term": "Polygon Afreolaidd",
+      "definition": "Polygon nad yw ei ochrau neu ei onglau i gyd yn hafal."
+    },
+    "ar": {
+      "term": "المضلع غير المنتظم",
+      "definition": "مضلع ليست جميع أضلاعه أو زواياه متساوية."
+    },
+    "ro": {
+      "term": "Poligon neregulat",
+      "definition": "Un poligon ale cărui laturi sau unghiuri nu sunt toate egale."
+    },
+    "prs": {
+      "term": "چندضلعی غیرمنتظم",
+      "definition": "چندضلعی‌ای که همهٔ ضلع‌ها یا زاویه‌هایش مساوی نیستند."
+    },
+    "ps": {
+      "term": "غیر منظم څو ضلعي",
+      "definition": "هغه څو ضلعي چې ټولې غاړې یا زاویې یې برابرې نه وي."
+    },
+    "es": {
+      "term": "Polígono irregular",
+      "definition": "Polígono cuyos lados o ángulos no son todos iguales."
+    }
+  }
+}

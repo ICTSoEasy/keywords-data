@@ -1,0 +1,40 @@
+{
+  "id": "equivalent",
+  "topics": [
+    "algebra"
+  ],
+  "translations": {
+    "en": {
+      "term": "Equivalent",
+      "definition": "Having the same value or meaning, even if written in a different form."
+    },
+    "pl": {
+      "term": "Równoważny",
+      "definition": "Mający tę samą wartość lub znaczenie, nawet jeśli zapisany w innej postaci."
+    },
+    "cy": {
+      "term": "Cywerth",
+      "definition": "Â'r un gwerth neu ystyr, hyd yn oed os yw wedi'i ysgrifennu ar ffurf wahanol."
+    },
+    "ar": {
+      "term": "مكافئ",
+      "definition": "له القيمة أو المعنى نفسه، حتى لو كُتب بصيغة مختلفة."
+    },
+    "ro": {
+      "term": "Echivalent",
+      "definition": "Care are aceeași valoare sau același sens, chiar dacă este scris în altă formă."
+    },
+    "prs": {
+      "term": "معادل",
+      "definition": "دارای همان ارزش یا معنا، حتی اگر به شکل دیگری نوشته شده باشد."
+    },
+    "ps": {
+      "term": "معادل",
+      "definition": "هماغه ارزښت یا مانا لري، که څه هم په بله بڼه لیکل شوی وي."
+    },
+    "es": {
+      "term": "Equivalente",
+      "definition": "Que tiene el mismo valor o significado, aunque esté escrito de otra manera."
+    }
+  }
+}

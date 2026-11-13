@@ -1,0 +1,40 @@
+{
+  "id": "grouped",
+  "topics": [
+    "statistics"
+  ],
+  "translations": {
+    "en": {
+      "term": "Grouped",
+      "definition": "Data arranged into groups or intervals rather than listed as individual values."
+    },
+    "pl": {
+      "term": "Pogrupowane",
+      "definition": "Dane ułożone w grupy lub przedziały zamiast wypisanych jako pojedyncze wartości."
+    },
+    "cy": {
+      "term": "Wedi'u Grwpio",
+      "definition": "Data wedi'u trefnu'n grwpiau neu'n gyfyngau yn hytrach na'u rhestru fel gwerthoedd unigol."
+    },
+    "ar": {
+      "term": "مبوّبة",
+      "definition": "بيانات منظّمة في مجموعات أو فترات بدلاً من سردها كقيم مفردة."
+    },
+    "ro": {
+      "term": "Grupate",
+      "definition": "Date organizate pe grupe sau intervale, nu enumerate ca valori individuale."
+    },
+    "prs": {
+      "term": "گروه‌بندی‌شده",
+      "definition": "معلوماتی که به گروه‌ها یا فاصله‌ها تقسیم شده‌اند، نه اینکه جداجدا فهرست شوند."
+    },
+    "ps": {
+      "term": "ډلبندي شوي",
+      "definition": "هغه معلومات چې په ډلو یا واټنونو کې تنظیم شوي، نه دا چې یو یو قیمت لیست شي."
+    },
+    "es": {
+      "term": "Agrupado",
+      "definition": "Datos organizados en grupos o intervalos, en lugar de mostrarse como valores individuales."
+    }
+  }
+}

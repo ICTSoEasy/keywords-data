@@ -1,0 +1,40 @@
+{
+  "id": "transformation",
+  "topics": [
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Transformation",
+      "definition": "A change to a shape's position, size or orientation, such as a reflection, rotation, translation or enlargement."
+    },
+    "pl": {
+      "term": "Przekształcenie",
+      "definition": "Zmiana położenia, rozmiaru lub orientacji figury, na przykład symetria, obrót, przesunięcie lub jednokładność."
+    },
+    "cy": {
+      "term": "Trawsffurfiad",
+      "definition": "Newid i safle, maint neu gyfeiriadaeth siâp, fel adlewyrchiad, cylchdro, trawsfudiad neu helaethiad."
+    },
+    "ar": {
+      "term": "التحويل الهندسي",
+      "definition": "تغيير في موقع الشكل أو حجمه أو اتجاهه، مثل الانعكاس أو الدوران أو الانسحاب أو التكبير."
+    },
+    "ro": {
+      "term": "Transformare",
+      "definition": "O schimbare a poziției, mărimii sau orientării unei figuri, cum ar fi o simetrie, o rotație, o translație sau o omotetie."
+    },
+    "prs": {
+      "term": "تبدیل",
+      "definition": "تغییر در موقعیت، اندازه یا جهت یک شکل، مانند انعکاس، دوران، انتقال یا بزرگ‌نمایی."
+    },
+    "ps": {
+      "term": "بدلون",
+      "definition": "د بڼې په ځای، اندازې یا لوري کې بدلون، لکه انعکاس، دوران، انتقال یا لویول."
+    },
+    "es": {
+      "term": "Transformación",
+      "definition": "Cambio en la posición, el tamaño o la orientación de una figura, como una reflexión, rotación, traslación o ampliación."
+    }
+  }
+}

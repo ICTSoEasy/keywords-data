@@ -1,0 +1,40 @@
+{
+  "id": "probability_scale",
+  "topics": [
+    "probability"
+  ],
+  "translations": {
+    "en": {
+      "term": "Probability Scale",
+      "definition": "A scale from 0 to 1 used to show how likely an event is, from impossible to certain."
+    },
+    "pl": {
+      "term": "Skala prawdopodobieństwa",
+      "definition": "Skala od 0 do 1 pokazująca, jak prawdopodobne jest zdarzenie, od niemożliwego do pewnego."
+    },
+    "cy": {
+      "term": "Graddfa Tebygolrwydd",
+      "definition": "Graddfa o 0 i 1 a ddefnyddir i ddangos pa mor debygol yw digwyddiad, o amhosibl i sicr."
+    },
+    "ar": {
+      "term": "مقياس الاحتمال",
+      "definition": "مقياس من 0 إلى 1 يبيّن مدى احتمال وقوع الحدث، من المستحيل إلى المؤكد."
+    },
+    "ro": {
+      "term": "Scara probabilității",
+      "definition": "O scară de la 0 la 1 care arată cât de probabil este un eveniment, de la imposibil la sigur."
+    },
+    "prs": {
+      "term": "مقیاس احتمال",
+      "definition": "مقیاسی از 0 تا 1 که نشان می‌دهد یک رویداد چقدر محتمل است، از ناممکن تا حتمی."
+    },
+    "ps": {
+      "term": "د احتمال پیمانه",
+      "definition": "له 0 څخه تر 1 پورې پیمانه چې ښيي یوه پېښه څومره احتمالي ده، له ناشوني څخه تر حتمي پورې."
+    },
+    "es": {
+      "term": "Escala de probabilidad",
+      "definition": "Escala de 0 a 1 que muestra la probabilidad de un suceso, desde imposible hasta seguro."
+    }
+  }
+}

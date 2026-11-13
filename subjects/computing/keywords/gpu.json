@@ -31,6 +31,10 @@
     "ps": {
       "term": "GPU",
       "definition": "ځانګړی چیپ چې د ګرافیک ګړندي رندر او موازي محاسبو لپاره ډیزاین شوی."
+    },
+    "es": {
+      "term": "GPU",
+      "definition": "Unidad de Procesamiento Gráfico; chip diseñado para manejar imágenes, vídeo y gráficos en 3D."
     }
   }
 }

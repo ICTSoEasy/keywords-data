@@ -1,0 +1,40 @@
+{
+  "id": "decay",
+  "topics": [
+    "ratio"
+  ],
+  "translations": {
+    "en": {
+      "term": "Decay",
+      "definition": "A decrease in a quantity by the same percentage or proportion over equal time intervals."
+    },
+    "pl": {
+      "term": "Spadek wykładniczy",
+      "definition": "Zmniejszanie się wielkości o ten sam procent lub tę samą część w równych odstępach czasu."
+    },
+    "cy": {
+      "term": "Dadfeiliad",
+      "definition": "Gostyngiad mewn maint o'r un ganran neu gyfran dros gyfnodau amser cyfartal."
+    },
+    "ar": {
+      "term": "التناقص",
+      "definition": "نقصان كمية بالنسبة المئوية أو النسبة نفسها خلال فترات زمنية متساوية."
+    },
+    "ro": {
+      "term": "Descreștere",
+      "definition": "Scăderea unei cantități cu același procent sau aceeași proporție la intervale egale de timp."
+    },
+    "prs": {
+      "term": "کاهش نمایی",
+      "definition": "کم شدن یک مقدار به همان فیصدی یا نسبت در فاصله‌های زمانی برابر."
+    },
+    "ps": {
+      "term": "کمښت",
+      "definition": "د یو مقدار کمېدل په هماغه سلنه یا نسبت په برابرو وختي واټنونو کې."
+    },
+    "es": {
+      "term": "Decrecimiento",
+      "definition": "Disminución de una cantidad en el mismo porcentaje o proporción durante intervalos de tiempo iguales."
+    }
+  }
+}

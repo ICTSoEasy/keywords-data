@@ -1,0 +1,40 @@
+{
+  "id": "range",
+  "topics": [
+    "statistics"
+  ],
+  "translations": {
+    "en": {
+      "term": "Range",
+      "definition": "The difference between the largest and smallest values in a data set."
+    },
+    "pl": {
+      "term": "Rozstęp",
+      "definition": "Różnica między największą a najmniejszą wartością w zbiorze danych."
+    },
+    "cy": {
+      "term": "Amrediad",
+      "definition": "Y gwahaniaeth rhwng y gwerthoedd mwyaf a lleiaf mewn set ddata."
+    },
+    "ar": {
+      "term": "المدى",
+      "definition": "الفرق بين أكبر قيمة وأصغر قيمة في مجموعة البيانات."
+    },
+    "ro": {
+      "term": "Amplitudine",
+      "definition": "Diferența dintre cea mai mare și cea mai mică valoare dintr-un set de date."
+    },
+    "prs": {
+      "term": "دامنه",
+      "definition": "تفاوت میان بزرگ‌ترین و کوچک‌ترین مقدار در یک مجموعهٔ معلومات."
+    },
+    "ps": {
+      "term": "لمن",
+      "definition": "د معلوماتو په ټولګه کې د تر ټولو لوی او تر ټولو کوچني قیمت تر منځ توپیر."
+    },
+    "es": {
+      "term": "Rango",
+      "definition": "Diferencia entre el valor mayor y el valor menor de un conjunto de datos."
+    }
+  }
+}

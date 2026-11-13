@@ -1,0 +1,40 @@
+{
+  "id": "right_angled_triangle",
+  "topics": [
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Right Angled Triangle",
+      "definition": "A triangle with one angle of exactly 90°."
+    },
+    "pl": {
+      "term": "Trójkąt prostokątny",
+      "definition": "Trójkąt z jednym kątem równym dokładnie 90°."
+    },
+    "cy": {
+      "term": "Triongl Ongl Sgwâr",
+      "definition": "Triongl ag un ongl o union 90°."
+    },
+    "ar": {
+      "term": "المثلث القائم الزاوية",
+      "definition": "مثلث إحدى زواياه قياسها 90° تماماً."
+    },
+    "ro": {
+      "term": "Triunghi dreptunghic",
+      "definition": "Un triunghi cu un unghi de exact 90°."
+    },
+    "prs": {
+      "term": "مثلث قائم‌الزاویه",
+      "definition": "مثلثی که یک زاویهٔ آن دقیقاً 90° است."
+    },
+    "ps": {
+      "term": "قایم الزاویه مثلث",
+      "definition": "هغه مثلث چې یوه زاویه یې دقیقاً 90° وي."
+    },
+    "es": {
+      "term": "Triángulo rectángulo",
+      "definition": "Triángulo que tiene un ángulo de exactamente 90°."
+    }
+  }
+}

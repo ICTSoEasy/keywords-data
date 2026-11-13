@@ -32,6 +32,10 @@
     "ps": {
       "term": "بیرته راستنیدنه",
       "definition": "کله چې یو فنکشن ځان ته زنګ ووهي ترڅو ستونزه د کوچنیو نمونو ته ویشلو سره حل کړي."
+    },
+    "es": {
+      "term": "Recursividad",
+      "definition": "Técnica en la que una función se llama a sí misma para resolver versiones más pequeñas del mismo problema hasta llegar a un caso base."
     }
   }
 }

@@ -32,6 +32,10 @@
     "ps": {
       "term": "د خلاصې سرچینې جواز",
       "definition": "قانوني جواز چې د خلاصې سرچینې سافټویر د کارولو، بدلولو او خپرولو شرایط تعریفوي."
+    },
+    "es": {
+      "term": "Licencia de código abierto",
+      "definition": "Licencia que permite usar, modificar y compartir software libremente, con condiciones que dependen de cada licencia."
     }
   }
 }

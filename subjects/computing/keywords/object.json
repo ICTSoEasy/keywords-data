@@ -31,6 +31,10 @@
     "ps": {
       "term": "شی",
       "definition": "د شیانو پروګرامینګ کې، د یوې کلاس نمونه چې خپل معلومات او چلند لري."
+    },
+    "es": {
+      "term": "Objeto",
+      "definition": "Instancia de una clase. Tiene atributos (datos) y métodos (acciones) definidos por su clase."
     }
   }
 }

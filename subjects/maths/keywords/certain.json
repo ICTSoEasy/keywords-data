@@ -1,0 +1,40 @@
+{
+  "id": "certain",
+  "topics": [
+    "probability"
+  ],
+  "translations": {
+    "en": {
+      "term": "Certain",
+      "definition": "An event that is guaranteed to happen; its probability is 1."
+    },
+    "pl": {
+      "term": "Pewne",
+      "definition": "Zdarzenie, które na pewno nastąpi; jego prawdopodobieństwo wynosi 1."
+    },
+    "cy": {
+      "term": "Sicr",
+      "definition": "Digwyddiad sy'n sicr o ddigwydd; ei debygolrwydd yw 1."
+    },
+    "ar": {
+      "term": "مؤكد",
+      "definition": "حدث سيقع بالتأكيد؛ احتماله 1."
+    },
+    "ro": {
+      "term": "Sigur",
+      "definition": "Un eveniment care se va întâmpla cu siguranță; probabilitatea lui este 1."
+    },
+    "prs": {
+      "term": "حتمی",
+      "definition": "رویدادی که حتماً اتفاق می‌افتد؛ احتمال آن 1 است."
+    },
+    "ps": {
+      "term": "حتمي",
+      "definition": "هغه پېښه چې خامخا کېږي؛ احتمال یې 1 دی."
+    },
+    "es": {
+      "term": "Seguro",
+      "definition": "Suceso que ocurrirá con seguridad; su probabilidad es 1."
+    }
+  }
+}

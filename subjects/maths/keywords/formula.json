@@ -1,0 +1,40 @@
+{
+  "id": "formula",
+  "topics": [
+    "algebra"
+  ],
+  "translations": {
+    "en": {
+      "term": "Formula",
+      "definition": "A rule written using symbols that shows how quantities are related."
+    },
+    "pl": {
+      "term": "Wzór",
+      "definition": "Reguła zapisana symbolami, pokazująca związek między wielkościami."
+    },
+    "cy": {
+      "term": "Fformiwla",
+      "definition": "Rheol wedi'i hysgrifennu gyda symbolau sy'n dangos sut mae meintiau'n perthyn i'w gilydd."
+    },
+    "ar": {
+      "term": "القانون",
+      "definition": "قاعدة مكتوبة بالرموز تبيّن العلاقة بين الكميات."
+    },
+    "ro": {
+      "term": "Formulă",
+      "definition": "O regulă scrisă cu simboluri care arată cum sunt legate mărimile între ele."
+    },
+    "prs": {
+      "term": "فورمول",
+      "definition": "قاعده‌ای که با علامت‌ها نوشته شده و رابطهٔ میان مقدارها را نشان می‌دهد."
+    },
+    "ps": {
+      "term": "فورمول",
+      "definition": "هغه قاعده چې په نښو لیکل شوې او د مقدارونو اړیکه ښيي."
+    },
+    "es": {
+      "term": "Fórmula",
+      "definition": "Regla escrita con símbolos que muestra la relación entre distintas cantidades."
+    }
+  }
+}

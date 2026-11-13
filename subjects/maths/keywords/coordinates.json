@@ -1,0 +1,40 @@
+{
+  "id": "coordinates",
+  "topics": [
+    "algebra"
+  ],
+  "translations": {
+    "en": {
+      "term": "Coordinates",
+      "definition": "Numbers that describe the position of a point, usually measured from the axes on a grid."
+    },
+    "pl": {
+      "term": "Współrzędne",
+      "definition": "Liczby opisujące położenie punktu, zwykle mierzone od osi na siatce."
+    },
+    "cy": {
+      "term": "Cyfesurynnau",
+      "definition": "Rhifau sy'n disgrifio safle pwynt, fel arfer wedi'u mesur o'r echelinau ar grid."
+    },
+    "ar": {
+      "term": "الإحداثيات",
+      "definition": "أعداد تصف موقع نقطة، وتُقاس عادةً من المحاور على الشبكة."
+    },
+    "ro": {
+      "term": "Coordonate",
+      "definition": "Numere care descriu poziția unui punct, de obicei măsurate față de axele unei grile."
+    },
+    "prs": {
+      "term": "کوردیناتها",
+      "definition": "اعدادی که موقعیت یک نقطه را بیان می‌کنند و معمولاً از محورهای یک شبکه اندازه گرفته می‌شوند."
+    },
+    "ps": {
+      "term": "کوارډیناټونه",
+      "definition": "هغه عددونه چې د یوه ټکي ځای ښيي، معمولاً د شبکې له محورونو څخه اندازه کېږي."
+    },
+    "es": {
+      "term": "Coordenadas",
+      "definition": "Números que indican la posición de un punto, normalmente medida desde los ejes de una cuadrícula."
+    }
+  }
+}

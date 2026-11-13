@@ -31,6 +31,10 @@
     "ps": {
       "term": "بې له ضیاع فشردول",
       "definition": "فشردول چې اصلي فایل کاملاً بیرته راوستل کیدی شي."
+    },
+    "es": {
+      "term": "Compresión sin pérdida",
+      "definition": "Método de compresión que reduce el tamaño del archivo sin perder datos, de modo que el original se puede recuperar por completo."
     }
   }
 }

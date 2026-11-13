@@ -31,6 +31,10 @@
     "ps": {
       "term": "بې نظارته زده‌کړه",
       "definition": "د ماشین زده‌کړې یو ډول چې ماډل د نه‌نومول شوو معلوماتو کې نمونې موندي."
+    },
+    "es": {
+      "term": "Aprendizaje no supervisado",
+      "definition": "Tipo de aprendizaje automático en el que un modelo encuentra patrones en los datos sin recibir ejemplos etiquetados ni respuestas correctas."
     }
   }
 }

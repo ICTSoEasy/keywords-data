@@ -1,0 +1,41 @@
+{
+  "id": "integer",
+  "topics": [
+    "number",
+    "ratio"
+  ],
+  "translations": {
+    "en": {
+      "term": "Integer",
+      "definition": "A whole number, which can be positive, negative or zero."
+    },
+    "pl": {
+      "term": "Liczba całkowita",
+      "definition": "Liczba bez części ułamkowej, która może być dodatnia, ujemna lub równa zero."
+    },
+    "cy": {
+      "term": "Cyfanrif",
+      "definition": "Rhif cyfan, a all fod yn bositif, yn negatif neu'n sero."
+    },
+    "ar": {
+      "term": "العدد الصحيح",
+      "definition": "عدد بلا كسور، قد يكون موجباً أو سالباً أو صفراً."
+    },
+    "ro": {
+      "term": "Număr întreg",
+      "definition": "Un număr fără parte fracționară, care poate fi pozitiv, negativ sau zero."
+    },
+    "prs": {
+      "term": "عدد صحیح",
+      "definition": "عددی بدون کسر که می‌تواند مثبت، منفی یا صفر باشد."
+    },
+    "ps": {
+      "term": "بشپړ عدد",
+      "definition": "پرته له کسر څخه عدد چې مثبت، منفي یا صفر کېدای شي."
+    },
+    "es": {
+      "term": "Número entero",
+      "definition": "Número entero: puede ser positivo, negativo o cero."
+    }
+  }
+}

@@ -32,6 +32,10 @@
     "ps": {
       "term": "سینسر",
       "definition": "وسیله چې د فزیکي چاپیریال کې بدلونونه لکه تودوخه، رڼا یا حرکت کشف کوي."
+    },
+    "es": {
+      "term": "Sensor",
+      "definition": "Dispositivo que detecta cambios en el entorno físico, como la luz, la temperatura o el movimiento, y envía datos a un ordenador."
     }
   }
 }

@@ -32,6 +32,10 @@
     "ps": {
       "term": "د الګوریتم تعصب",
       "definition": "کله چې یو الګوریتم ناعادلانه پایلې ورکوي، معمولاً د ناقصو روزنیزو معلوماتو له امله."
+    },
+    "es": {
+      "term": "Sesgo algorítmico",
+      "definition": "Cuando un sistema de IA produce resultados injustos o discriminatorios porque los datos de entrenamiento o el diseño reflejan prejuicios existentes."
     }
   }
 }

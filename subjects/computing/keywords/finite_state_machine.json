@@ -31,6 +31,10 @@
     "ps": {
       "term": "محدود حالت ماشین",
       "definition": "یو ماډل چې د سیستم چلند د محدودو ممکنه حالتونو په توګه ښیي."
+    },
+    "es": {
+      "term": "Máquina de estados finitos",
+      "definition": "Modelo de computación que pasa de un estado a otro dentro de un conjunto fijo de estados según las entradas; se usa para diseñar sistemas y reconocer patrones."
     }
   }
 }

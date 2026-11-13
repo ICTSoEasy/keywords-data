@@ -31,6 +31,10 @@
     "ps": {
       "term": "NOT ګیټ",
       "definition": "منطقي ګیټ چې ننوتنه معکوسوي: ۱ ننوتنه ۰ پایله ورکوي او برعکس."
+    },
+    "es": {
+      "term": "Puerta NOT",
+      "definition": "Puerta lógica que invierte su entrada: da 1 si la entrada es 0, y 0 si la entrada es 1."
     }
   }
 }

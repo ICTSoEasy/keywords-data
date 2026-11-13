@@ -1,0 +1,40 @@
+{
+  "id": "table",
+  "topics": [
+    "statistics"
+  ],
+  "translations": {
+    "en": {
+      "term": "Table",
+      "definition": "An organised arrangement of information in rows and columns."
+    },
+    "pl": {
+      "term": "Tabela",
+      "definition": "Uporządkowane przedstawienie informacji w wierszach i kolumnach."
+    },
+    "cy": {
+      "term": "Tabl",
+      "definition": "Trefniant trefnus o wybodaeth mewn rhesi a cholofnau."
+    },
+    "ar": {
+      "term": "الجدول",
+      "definition": "ترتيب منظّم للمعلومات في صفوف وأعمدة."
+    },
+    "ro": {
+      "term": "Tabel",
+      "definition": "O aranjare organizată a informațiilor pe rânduri și coloane."
+    },
+    "prs": {
+      "term": "جدول",
+      "definition": "ترتیب منظم معلومات در سطرها و ستون‌ها."
+    },
+    "ps": {
+      "term": "جدول",
+      "definition": "په کرښو او ستنو کې د معلوماتو منظم ترتیب."
+    },
+    "es": {
+      "term": "Tabla",
+      "definition": "Organización de información en filas y columnas."
+    }
+  }
+}

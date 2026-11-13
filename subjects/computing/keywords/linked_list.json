@@ -31,6 +31,10 @@
     "ps": {
       "term": "لینک لیست",
       "definition": "د معلوماتو جوړښت چې هر عنصر بل ته اشاره کوي او یوه زنځیره جوړوي."
+    },
+    "es": {
+      "term": "Lista enlazada",
+      "definition": "Estructura de datos formada por nodos, en la que cada nodo guarda un valor y un puntero al siguiente nodo."
     }
   }
 }

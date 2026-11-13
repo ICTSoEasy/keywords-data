@@ -1,0 +1,40 @@
+{
+  "id": "surds",
+  "topics": [
+    "number"
+  ],
+  "translations": {
+    "en": {
+      "term": "Surds",
+      "definition": "Roots that cannot be simplified to rational numbers, such as √2 or √5, and are left in exact form."
+    },
+    "pl": {
+      "term": "Niewymierne pierwiastki",
+      "definition": "Pierwiastki, których nie da się uprościć do liczb wymiernych, na przykład √2 lub √5, pozostawiane w dokładnej postaci."
+    },
+    "cy": {
+      "term": "Swrdiau",
+      "definition": "Israddau na ellir eu symleiddio i rifau cymarebol, fel √2 neu √5, sy'n cael eu gadael ar ffurf union."
+    },
+    "ar": {
+      "term": "الجذور الصمّاء",
+      "definition": "جذور لا يمكن تبسيطها إلى أعداد نسبية، مثل √2 أو √5، وتُترك بصيغتها الدقيقة."
+    },
+    "ro": {
+      "term": "Radicali iraționali",
+      "definition": "Rădăcini care nu pot fi simplificate la numere raționale, cum ar fi √2 sau √5, și sunt lăsate în formă exactă."
+    },
+    "prs": {
+      "term": "رادیکال‌های گنگ",
+      "definition": "ریشه‌هایی که نمی‌توان آن‌ها را به اعداد ناطق ساده کرد، مانند √2 یا √5، و به شکل دقیق باقی می‌مانند."
+    },
+    "ps": {
+      "term": "غیر ناطق جذرونه",
+      "definition": "هغه جذرونه چې ناطقو عددونو ته نه ساده کېږي، لکه √2 یا √5، او په دقیقه بڼه پاتې کېږي."
+    },
+    "es": {
+      "term": "Radicales",
+      "definition": "Raíces que no se pueden expresar como números racionales, como √2 o √5, y que se mantienen en forma exacta."
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "circumference",
+  "topics": [
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Circumference",
+      "definition": "The distance all the way around a circle."
+    },
+    "pl": {
+      "term": "Obwód koła",
+      "definition": "Długość linii dookoła koła."
+    },
+    "cy": {
+      "term": "Cylchedd",
+      "definition": "Y pellter yr holl ffordd o amgylch cylch."
+    },
+    "ar": {
+      "term": "محيط الدائرة",
+      "definition": "المسافة حول الدائرة كاملة."
+    },
+    "ro": {
+      "term": "Lungimea cercului",
+      "definition": "Distanța de jur împrejurul unui cerc."
+    },
+    "prs": {
+      "term": "محیط دایره",
+      "definition": "فاصلهٔ تمام دور یک دایره."
+    },
+    "ps": {
+      "term": "د دایرې محیط",
+      "definition": "د دایرې شاوخوا بشپړ واټن."
+    },
+    "es": {
+      "term": "Longitud de la circunferencia",
+      "definition": "Longitud del contorno de un círculo."
+    }
+  }
+}

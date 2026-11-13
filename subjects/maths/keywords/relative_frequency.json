@@ -1,0 +1,40 @@
+{
+  "id": "relative_frequency",
+  "topics": [
+    "probability"
+  ],
+  "translations": {
+    "en": {
+      "term": "Relative Frequency",
+      "definition": "The number of times an outcome occurs divided by the total number of trials."
+    },
+    "pl": {
+      "term": "Częstość względna",
+      "definition": "Liczba wystąpień wyniku podzielona przez łączną liczbę prób."
+    },
+    "cy": {
+      "term": "Amlder Cymharol",
+      "definition": "Y nifer o weithiau mae canlyniad yn digwydd wedi'i rannu â chyfanswm y treialon."
+    },
+    "ar": {
+      "term": "التكرار النسبي",
+      "definition": "عدد مرات ظهور نتيجة ما مقسوماً على العدد الكلي للمحاولات."
+    },
+    "ro": {
+      "term": "Frecvență relativă",
+      "definition": "Numărul de apariții ale unui rezultat împărțit la numărul total de încercări."
+    },
+    "prs": {
+      "term": "فراوانی نسبی",
+      "definition": "تعداد دفعات رخ دادن یک نتیجه تقسیم بر تعداد کل آزمایش‌ها."
+    },
+    "ps": {
+      "term": "نسبي فریکونسي",
+      "definition": "د یوې پایلې د پېښېدو شمېر د ټولو هڅو پر شمېر وېشل شوی."
+    },
+    "es": {
+      "term": "Frecuencia relativa",
+      "definition": "Número de veces que ocurre un resultado dividido entre el número total de ensayos."
+    }
+  }
+}

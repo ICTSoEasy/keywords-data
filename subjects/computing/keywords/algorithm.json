@@ -28,6 +28,10 @@
     "ps": {
       "term": "الګوریتم",
       "definition": "د یوې ستونزې د حل یا یوې دندې د سرته رسولو لپاره د ګام‌ونو لړۍ."
+    },
+    "es": {
+      "term": "Algoritmo",
+      "definition": "Conjunto de instrucciones paso a paso para resolver un problema o completar una tarea."
     }
   },
   "topics": [

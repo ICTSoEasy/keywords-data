@@ -1,0 +1,40 @@
+{
+  "id": "data",
+  "topics": [
+    "statistics"
+  ],
+  "translations": {
+    "en": {
+      "term": "Data",
+      "definition": "Information collected for analysis, often as numbers or categories."
+    },
+    "pl": {
+      "term": "Dane",
+      "definition": "Informacje zebrane do analizy, często w postaci liczb lub kategorii."
+    },
+    "cy": {
+      "term": "Data",
+      "definition": "Gwybodaeth a gasglwyd i'w dadansoddi, yn aml fel rhifau neu gategorïau."
+    },
+    "ar": {
+      "term": "البيانات",
+      "definition": "معلومات تُجمع لتحليلها، غالباً على شكل أعداد أو فئات."
+    },
+    "ro": {
+      "term": "Date",
+      "definition": "Informații colectate pentru analiză, adesea sub formă de numere sau categorii."
+    },
+    "prs": {
+      "term": "معلومات",
+      "definition": "اطلاعاتی که برای تحلیل جمع‌آوری می‌شوند، اغلب به صورت اعداد یا دسته‌ها."
+    },
+    "ps": {
+      "term": "معلومات",
+      "definition": "هغه معلومات چې د تحلیل لپاره راټولېږي، ډېری وخت د عددونو یا کټګوریو په بڼه."
+    },
+    "es": {
+      "term": "Datos",
+      "definition": "Información recogida para su análisis, normalmente en forma de números o categorías."
+    }
+  }
+}

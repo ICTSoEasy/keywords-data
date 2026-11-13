@@ -31,6 +31,10 @@
     "ps": {
       "term": "HTTP",
       "definition": "هغه پروتوکول چې د سرور نه مرورگر ته د ویب پاڼو لیږلو لپاره کارول کیږي."
+    },
+    "es": {
+      "term": "HTTP",
+      "definition": "Protocolo de Transferencia de Hipertexto; conjunto de reglas para transferir páginas web por internet."
     }
   }
 }

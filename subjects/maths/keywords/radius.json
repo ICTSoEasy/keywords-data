@@ -1,0 +1,40 @@
+{
+  "id": "radius",
+  "topics": [
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Radius",
+      "definition": "The distance from the centre of a circle to its circumference."
+    },
+    "pl": {
+      "term": "Promień",
+      "definition": "Odległość od środka koła do okręgu."
+    },
+    "cy": {
+      "term": "Radiws",
+      "definition": "Y pellter o ganol cylch i'w gylchedd."
+    },
+    "ar": {
+      "term": "نصف القطر",
+      "definition": "المسافة من مركز الدائرة إلى محيطها."
+    },
+    "ro": {
+      "term": "Rază",
+      "definition": "Distanța de la centrul cercului până la cerc."
+    },
+    "prs": {
+      "term": "شعاع",
+      "definition": "فاصله از مرکز دایره تا محیط آن."
+    },
+    "ps": {
+      "term": "شعاع",
+      "definition": "د دایرې له مرکز څخه تر محیط پورې واټن."
+    },
+    "es": {
+      "term": "Radio",
+      "definition": "Distancia desde el centro de un círculo hasta su circunferencia."
+    }
+  }
+}

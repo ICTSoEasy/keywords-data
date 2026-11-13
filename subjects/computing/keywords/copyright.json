@@ -31,6 +31,10 @@
     "ps": {
       "term": "کاپي رایټ",
       "definition": "قانوني حق چې د خلاقیت کارونه لکه موسیقي، کتابونه یا سافټویر ساتي."
+    },
+    "es": {
+      "term": "Derechos de autor",
+      "definition": "Derecho legal que protege obras creativas como software, música o textos para que no se copien sin permiso."
     }
   }
 }

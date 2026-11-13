@@ -1,0 +1,40 @@
+{
+  "id": "simultaneous",
+  "topics": [
+    "algebra"
+  ],
+  "translations": {
+    "en": {
+      "term": "Simultaneous",
+      "definition": "Describes equations that must be true at the same time; solving them finds values that satisfy all the equations."
+    },
+    "pl": {
+      "term": "Układ równań",
+      "definition": "Równania, które muszą być spełnione jednocześnie; rozwiązanie układu to wartości spełniające wszystkie równania."
+    },
+    "cy": {
+      "term": "Hafaliadau Cydamserol",
+      "definition": "Hafaliadau sy'n gorfod bod yn wir ar yr un pryd; mae eu datrys yn canfod gwerthoedd sy'n bodloni'r holl hafaliadau."
+    },
+    "ar": {
+      "term": "المعادلات الآنية",
+      "definition": "معادلات يجب أن تتحقق في الوقت نفسه؛ وحلّها يعني إيجاد القيم التي تحقق جميع المعادلات."
+    },
+    "ro": {
+      "term": "Sistem de ecuații",
+      "definition": "Ecuații care trebuie să fie adevărate în același timp; rezolvarea lor găsește valorile care le satisfac pe toate."
+    },
+    "prs": {
+      "term": "معادلات همزمان",
+      "definition": "معادلاتی که باید در یک زمان درست باشند؛ حل آن‌ها یعنی پیدا کردن مقدارهایی که همهٔ معادلات را درست کنند."
+    },
+    "ps": {
+      "term": "همزماني معادلې",
+      "definition": "هغه معادلې چې باید په یو وخت سمې وي؛ د هغوی حل هغه قیمتونه پیدا کوي چې ټولې معادلې سمې کړي."
+    },
+    "es": {
+      "term": "Simultáneo",
+      "definition": "Describe ecuaciones que deben ser verdaderas al mismo tiempo. Resolverlas permite encontrar valores que satisfacen todas las ecuaciones."
+    }
+  }
+}

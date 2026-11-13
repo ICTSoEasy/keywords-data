@@ -1,0 +1,40 @@
+{
+  "id": "vertex_vertices",
+  "topics": [
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Vertex / Vertices",
+      "definition": "A vertex is a corner where sides or edges meet; vertices is the plural of vertex."
+    },
+    "pl": {
+      "term": "Wierzchołek / wierzchołki",
+      "definition": "Wierzchołek to narożnik, w którym spotykają się boki lub krawędzie; wierzchołki to liczba mnoga."
+    },
+    "cy": {
+      "term": "Fertig / Fertigau",
+      "definition": "Mae fertig yn gornel lle mae ochrau neu ymylon yn cyfarfod; fertigau yw lluosog fertig."
+    },
+    "ar": {
+      "term": "الرأس / الرؤوس",
+      "definition": "الرأس هو الركن الذي تلتقي عنده الأضلاع أو الأحرف؛ والرؤوس جمع رأس."
+    },
+    "ro": {
+      "term": "Vârf / vârfuri",
+      "definition": "Un vârf este un colț în care se întâlnesc laturi sau muchii; vârfuri este pluralul."
+    },
+    "prs": {
+      "term": "رأس / رئوس",
+      "definition": "رأس گوشه‌ای است که ضلع‌ها یا یال‌ها در آن به هم می‌رسند؛ رئوس جمع رأس است."
+    },
+    "ps": {
+      "term": "راس / راسونه",
+      "definition": "راس هغه کونج دی چې غاړې یا څنډې پکې سره یوځای کېږي؛ راسونه یې جمع ده."
+    },
+    "es": {
+      "term": "Vértice / vértices",
+      "definition": "Un vértice es una esquina donde se encuentran lados o aristas; vértices es el plural de vértice."
+    }
+  }
+}

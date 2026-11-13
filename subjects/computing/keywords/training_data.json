@@ -31,6 +31,10 @@
     "ps": {
       "term": "روزنیز معلومات",
       "definition": "هغه معلومات چې د ماشین زده‌کړې ماډل روزلو لپاره کارول کیږي."
+    },
+    "es": {
+      "term": "Datos de entrenamiento",
+      "definition": "El conjunto de datos que se usa para enseñar a un modelo de aprendizaje automático a reconocer patrones y hacer predicciones."
     }
   }
 }

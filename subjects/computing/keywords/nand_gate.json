@@ -31,6 +31,10 @@
     "ps": {
       "term": "NAND ګیټ",
       "definition": "منطقي ګیټ چې د AND پایله معکوسوي؛ که دواړه ننوتونه ۱ وي، پایله ۰ ده."
+    },
+    "es": {
+      "term": "Puerta NAND",
+      "definition": "Puerta lógica cuya salida es 0 solo cuando todas las entradas son 1; es lo contrario de una puerta AND."
     }
   }
 }

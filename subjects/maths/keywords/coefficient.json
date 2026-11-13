@@ -1,0 +1,40 @@
+{
+  "id": "coefficient",
+  "topics": [
+    "algebra"
+  ],
+  "translations": {
+    "en": {
+      "term": "Coefficient",
+      "definition": "A number multiplying a variable. In 7x, the coefficient of x is 7."
+    },
+    "pl": {
+      "term": "Współczynnik",
+      "definition": "Liczba mnożąca zmienną. W 7x współczynnikiem przy x jest 7."
+    },
+    "cy": {
+      "term": "Cyfernod",
+      "definition": "Rhif sy'n lluosi newidyn. Yn 7x, cyfernod x yw 7."
+    },
+    "ar": {
+      "term": "المعامل",
+      "definition": "عدد يُضرب في متغير. في 7x معامل x هو 7."
+    },
+    "ro": {
+      "term": "Coeficient",
+      "definition": "Un număr care înmulțește o variabilă. În 7x, coeficientul lui x este 7."
+    },
+    "prs": {
+      "term": "ضریب",
+      "definition": "عددی که در یک متحول ضرب می‌شود. در 7x ضریب x برابر 7 است."
+    },
+    "ps": {
+      "term": "ضریب",
+      "definition": "هغه عدد چې له یو متحول سره ضربېږي. په 7x کې د x ضریب 7 دی."
+    },
+    "es": {
+      "term": "Coeficiente",
+      "definition": "Número que multiplica a una variable. En 7x, el coeficiente de x es 7."
+    }
+  }
+}

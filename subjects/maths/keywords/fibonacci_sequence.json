@@ -1,0 +1,40 @@
+{
+  "id": "fibonacci_sequence",
+  "topics": [
+    "algebra"
+  ],
+  "translations": {
+    "en": {
+      "term": "Fibonacci Sequence",
+      "definition": "A sequence in which each term is the sum of the two terms before it, usually starting 1, 1, 2, 3, 5, 8."
+    },
+    "pl": {
+      "term": "Ciąg Fibonacciego",
+      "definition": "Ciąg, w którym każdy wyraz jest sumą dwóch poprzednich, zwykle zaczynający się od 1, 1, 2, 3, 5, 8."
+    },
+    "cy": {
+      "term": "Dilyniant Fibonacci",
+      "definition": "Dilyniant lle mae pob term yn swm y ddau derm o'i flaen, fel arfer yn dechrau 1, 1, 2, 3, 5, 8."
+    },
+    "ar": {
+      "term": "متتالية فيبوناتشي",
+      "definition": "متتالية كل حدّ فيها هو مجموع الحدّين السابقين، وتبدأ عادةً 1، 1، 2، 3، 5، 8."
+    },
+    "ro": {
+      "term": "Șirul lui Fibonacci",
+      "definition": "Un șir în care fiecare termen este suma celor doi termeni dinaintea lui, începând de obicei cu 1, 1, 2, 3, 5, 8."
+    },
+    "prs": {
+      "term": "دنبالهٔ فیبوناچی",
+      "definition": "دنباله‌ای که هر جملهٔ آن مجموع دو جملهٔ پیش از آن است و معمولاً با 1، 1، 2، 3، 5، 8 شروع می‌شود."
+    },
+    "ps": {
+      "term": "د فیبوناچي لړۍ",
+      "definition": "هغه لړۍ چې هر حد یې د مخکې دوو حدونو مجموعه وي، معمولاً په 1، 1، 2، 3، 5، 8 پیلېږي."
+    },
+    "es": {
+      "term": "Sucesión de Fibonacci",
+      "definition": "Sucesión en la que cada término es la suma de los dos anteriores; suele comenzar con 1, 1, 2, 3, 5, 8."
+    }
+  }
+}

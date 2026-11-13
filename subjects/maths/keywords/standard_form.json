@@ -1,0 +1,40 @@
+{
+  "id": "standard_form",
+  "topics": [
+    "number"
+  ],
+  "translations": {
+    "en": {
+      "term": "Standard Form",
+      "definition": "A way of writing very large or very small numbers as a × 10ⁿ, where 1 ≤ a < 10 and n is an integer."
+    },
+    "pl": {
+      "term": "Notacja wykładnicza",
+      "definition": "Sposób zapisu bardzo dużych lub bardzo małych liczb jako a × 10ⁿ, gdzie 1 ≤ a < 10, a n jest liczbą całkowitą."
+    },
+    "cy": {
+      "term": "Ffurf Safonol",
+      "definition": "Ffordd o ysgrifennu rhifau mawr iawn neu fach iawn fel a × 10ⁿ, lle mae 1 ≤ a < 10 ac n yn gyfanrif."
+    },
+    "ar": {
+      "term": "الصيغة العلمية",
+      "definition": "طريقة لكتابة الأعداد الكبيرة جداً أو الصغيرة جداً على الشكل a × 10ⁿ حيث 1 ≤ a < 10 و n عدد صحيح."
+    },
+    "ro": {
+      "term": "Formă standard",
+      "definition": "Un mod de a scrie numere foarte mari sau foarte mici ca a × 10ⁿ, unde 1 ≤ a < 10 și n este număr întreg."
+    },
+    "prs": {
+      "term": "شکل استندرد",
+      "definition": "روشی برای نوشتن اعداد بسیار بزرگ یا بسیار کوچک به شکل a × 10ⁿ که در آن 1 ≤ a < 10 و n عدد صحیح است."
+    },
+    "ps": {
+      "term": "معیاري بڼه",
+      "definition": "د ډېرو لویو یا ډېرو کوچنیو عددونو د لیکلو لاره په بڼه a × 10ⁿ، چې 1 ≤ a < 10 او n بشپړ عدد وي."
+    },
+    "es": {
+      "term": "Notación científica",
+      "definition": "Forma de escribir números muy grandes o muy pequeños como a × 10ⁿ, donde 1 ≤ a < 10 y n es un número entero."
+    }
+  }
+}

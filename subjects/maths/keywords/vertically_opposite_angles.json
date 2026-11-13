@@ -1,0 +1,40 @@
+{
+  "id": "vertically_opposite_angles",
+  "topics": [
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Vertically Opposite Angles",
+      "definition": "The pair of opposite angles formed when two straight lines cross. They are always equal."
+    },
+    "pl": {
+      "term": "Kąty wierzchołkowe",
+      "definition": "Para przeciwległych kątów powstałych przy przecięciu dwóch prostych. Są zawsze równe."
+    },
+    "cy": {
+      "term": "Onglau Croesfertigol",
+      "definition": "Y pâr o onglau cyferbyn a ffurfir pan fo dwy linell syth yn croesi. Maen nhw bob amser yn hafal."
+    },
+    "ar": {
+      "term": "الزوايا المتقابلة بالرأس",
+      "definition": "زوج الزوايا المتقابلة التي تتكون عند تقاطع خطين مستقيمين، وهي متساوية دائماً."
+    },
+    "ro": {
+      "term": "Unghiuri opuse la vârf",
+      "definition": "Perechea de unghiuri opuse formate când două drepte se intersectează. Sunt întotdeauna egale."
+    },
+    "prs": {
+      "term": "زاویه‌های متقابل به رأس",
+      "definition": "جفت زاویه‌های روبه‌رو که هنگام قطع شدن دو خط مستقیم ساخته می‌شوند. همیشه مساوی‌اند."
+    },
+    "ps": {
+      "term": "په راس مقابلې زاویې",
+      "definition": "د مخامخ زاویو هغه جوړه چې د دوو مستقیمو کرښو د قطع کېدو پر مهال جوړېږي. تل برابرې دي."
+    },
+    "es": {
+      "term": "Ángulos opuestos por el vértice",
+      "definition": "Par de ángulos opuestos que se forman cuando se cruzan dos rectas. Siempre son iguales."
+    }
+  }
+}

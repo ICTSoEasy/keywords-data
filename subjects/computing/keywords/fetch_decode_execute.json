@@ -31,6 +31,10 @@
     "ps": {
       "term": "د راوړلو-ډیکوډ-اجرا دوره",
       "definition": "هغه تکراري ګامونه چې CPU د پروګرام لارښوونو د پروسس لپاره ترسره کوي."
+    },
+    "es": {
+      "term": "Ciclo de búsqueda, decodificación y ejecución",
+      "definition": "Proceso que la CPU repite sin parar: busca una instrucción en la memoria, la decodifica y luego la ejecuta."
     }
   }
 }

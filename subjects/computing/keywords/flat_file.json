@@ -31,6 +31,10 @@
     "ps": {
       "term": "فلیټ فایل",
       "definition": "ساده ډیټابیس چې ټول معلومات د نورو جدولونو سره د اړیکې پرته یو جدول کې ذخیره کوي."
+    },
+    "es": {
+      "term": "Base de datos de archivo plano",
+      "definition": "Base de datos guardada en una sola tabla sin enlaces a otras tablas; es sencilla pero puede repetir datos."
     }
   }
 }

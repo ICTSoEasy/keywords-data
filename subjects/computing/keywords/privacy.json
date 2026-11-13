@@ -32,6 +32,10 @@
     "ps": {
       "term": "محرمیت",
       "definition": "د دې کنترول حق چې ستاسو کوم معلومات راټول او کارول کیږي."
+    },
+    "es": {
+      "term": "Privacidad",
+      "definition": "Derecho de las personas a controlar qué información personal se recoge sobre ellas y cómo se usa."
     }
   }
 }

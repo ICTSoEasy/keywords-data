@@ -1,0 +1,40 @@
+{
+  "id": "segment",
+  "topics": [
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Segment",
+      "definition": "A region of a circle bounded by a chord and an arc."
+    },
+    "pl": {
+      "term": "Odcinek koła",
+      "definition": "Część koła ograniczona cięciwą i łukiem."
+    },
+    "cy": {
+      "term": "Segment",
+      "definition": "Rhanbarth o gylch wedi'i ffinio gan gord ac arc."
+    },
+    "ar": {
+      "term": "القطعة الدائرية",
+      "definition": "جزء من الدائرة يحدّه وتر وقوس."
+    },
+    "ro": {
+      "term": "Segment de cerc",
+      "definition": "O regiune a discului delimitată de o coardă și un arc."
+    },
+    "prs": {
+      "term": "قطعهٔ دایره",
+      "definition": "ناحیه‌ای از دایره که میان یک وتر و یک قوس قرار دارد."
+    },
+    "ps": {
+      "term": "د دایرې ټوټه",
+      "definition": "د دایرې هغه سیمه چې د یو وتر او یو کمان په منځ کې وي."
+    },
+    "es": {
+      "term": "Segmento circular",
+      "definition": "Región de un círculo limitada por una cuerda y un arco."
+    }
+  }
+}

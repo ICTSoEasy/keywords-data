@@ -1,0 +1,40 @@
+{
+  "id": "pie_chart",
+  "topics": [
+    "statistics"
+  ],
+  "translations": {
+    "en": {
+      "term": "Pie Chart",
+      "definition": "A circular chart divided into sectors to show how a total is split between categories."
+    },
+    "pl": {
+      "term": "Wykres kołowy",
+      "definition": "Wykres w kształcie koła podzielonego na wycinki, pokazujący, jak całość dzieli się między kategorie."
+    },
+    "cy": {
+      "term": "Siart Cylch",
+      "definition": "Siart crwn wedi'i rannu'n sectorau i ddangos sut mae cyfanswm wedi'i rannu rhwng categorïau."
+    },
+    "ar": {
+      "term": "القطاعات الدائرية",
+      "definition": "مخطط دائري مقسّم إلى قطاعات يبيّن كيف يتوزع المجموع على الفئات."
+    },
+    "ro": {
+      "term": "Diagramă circulară",
+      "definition": "O diagramă în formă de cerc împărțită în sectoare, care arată cum se împarte un total între categorii."
+    },
+    "prs": {
+      "term": "نمودار دایره‌ای",
+      "definition": "نمودار دایره‌ای که به قطاع‌ها تقسیم شده تا نشان دهد یک مجموع چگونه میان دسته‌ها پخش شده است."
+    },
+    "ps": {
+      "term": "دایروي چارټ",
+      "definition": "دایروي چارټ چې په قطاعونو وېشل شوی ترڅو وښيي چې ټول مقدار څنګه په کټګوریو وېشل شوی."
+    },
+    "es": {
+      "term": "Gráfico circular",
+      "definition": "Gráfico circular dividido en sectores que muestra cómo se reparte un total entre distintas categorías."
+    }
+  }
+}

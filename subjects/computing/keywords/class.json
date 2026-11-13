@@ -31,6 +31,10 @@
     "ps": {
       "term": "کلاس",
       "definition": "د شیانو د برنامه‌نویسۍ کې یو نمونه چې د شیانو ځانتیاوې او چلند تعریفوي."
+    },
+    "es": {
+      "term": "Clase",
+      "definition": "Plantilla para crear objetos. Define los atributos y métodos que tendrán todos los objetos de ese tipo."
     }
   }
 }

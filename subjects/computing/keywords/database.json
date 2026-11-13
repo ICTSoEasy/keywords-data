@@ -28,6 +28,10 @@
     "ps": {
       "term": "ډیټابیس",
       "definition": "د معلوماتو منظمه ټولګه چې داسې ذخیره شوې چې لټون، تازه کول او مدیریت اسانه وي."
+    },
+    "es": {
+      "term": "Base de datos",
+      "definition": "Colección organizada de datos guardados para que se puedan buscar, consultar y gestionar fácilmente."
     }
   },
   "topics": [

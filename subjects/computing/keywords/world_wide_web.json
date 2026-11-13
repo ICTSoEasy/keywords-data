@@ -31,6 +31,10 @@
     "ps": {
       "term": "د نړۍ پراخه جال",
       "definition": "د سره تړلو ویب پاڼو سیستم چې د HTTP له لارې انټرنیټ له لارې د لاسرسي وړ دي."
+    },
+    "es": {
+      "term": "World Wide Web",
+      "definition": "Sistema de páginas y recursos web a los que se accede por internet con un navegador; a menudo se confunde con internet."
     }
   }
 }

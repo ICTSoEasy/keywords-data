@@ -1,0 +1,40 @@
+{
+  "id": "vertically_opposite_angle",
+  "topics": [
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Vertically Opposite Angle",
+      "definition": "One of the opposite angles formed when two straight lines cross; vertically opposite angles are equal."
+    },
+    "pl": {
+      "term": "Kąt wierzchołkowy",
+      "definition": "Jeden z przeciwległych kątów powstałych przy przecięciu dwóch prostych; kąty wierzchołkowe są równe."
+    },
+    "cy": {
+      "term": "Ongl Groesfertigol",
+      "definition": "Un o'r onglau cyferbyn a ffurfir pan fo dwy linell syth yn croesi; mae onglau croesfertigol yn hafal."
+    },
+    "ar": {
+      "term": "زاوية متقابلة بالرأس",
+      "definition": "إحدى الزاويتين المتقابلتين اللتين تتكونان عند تقاطع خطين مستقيمين؛ والزوايا المتقابلة بالرأس متساوية."
+    },
+    "ro": {
+      "term": "Unghi opus la vârf",
+      "definition": "Unul dintre unghiurile opuse formate când două drepte se intersectează; unghiurile opuse la vârf sunt egale."
+    },
+    "prs": {
+      "term": "زاویهٔ متقابل به رأس",
+      "definition": "یکی از زاویه‌های روبه‌رو که هنگام قطع شدن دو خط مستقیم ساخته می‌شوند؛ زاویه‌های متقابل به رأس مساوی‌اند."
+    },
+    "ps": {
+      "term": "په راس مقابله زاویه",
+      "definition": "یوه له هغو مخامخ زاویو چې د دوو مستقیمو کرښو د قطع کېدو پر مهال جوړېږي؛ په راس مقابلې زاویې برابرې دي."
+    },
+    "es": {
+      "term": "Ángulo opuesto por el vértice",
+      "definition": "Uno de los ángulos opuestos que se forman cuando se cruzan dos rectas. Los ángulos opuestos por el vértice son iguales."
+    }
+  }
+}

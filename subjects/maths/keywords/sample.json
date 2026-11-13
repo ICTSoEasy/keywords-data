@@ -1,0 +1,41 @@
+{
+  "id": "sample",
+  "topics": [
+    "probability",
+    "statistics"
+  ],
+  "translations": {
+    "en": {
+      "term": "Sample",
+      "definition": "A smaller group selected from a population to represent it or provide information about it."
+    },
+    "pl": {
+      "term": "Próba",
+      "definition": "Mniejsza grupa wybrana z populacji, aby ją reprezentować lub dostarczyć o niej informacji."
+    },
+    "cy": {
+      "term": "Sampl",
+      "definition": "Grŵp llai wedi'i ddewis o boblogaeth i'w chynrychioli neu i roi gwybodaeth amdani."
+    },
+    "ar": {
+      "term": "العيّنة",
+      "definition": "مجموعة أصغر تُختار من المجتمع لتمثيله أو لتقديم معلومات عنه."
+    },
+    "ro": {
+      "term": "Eșantion",
+      "definition": "Un grup mai mic ales dintr-o populație pentru a o reprezenta sau pentru a oferi informații despre ea."
+    },
+    "prs": {
+      "term": "نمونه",
+      "definition": "گروه کوچک‌تری که از یک جامعه انتخاب می‌شود تا آن را نمایندگی کند یا دربارهٔ آن معلومات بدهد."
+    },
+    "ps": {
+      "term": "نمونه",
+      "definition": "یوه کوچنۍ ډله چې له یوې ټولنې څخه ټاکل کېږي ترڅو د هغې استازیتوب وکړي یا د هغې په اړه معلومات ورکړي."
+    },
+    "es": {
+      "term": "Muestra",
+      "definition": "Grupo más pequeño seleccionado de una población para representarla u obtener información sobre ella."
+    }
+  }
+}

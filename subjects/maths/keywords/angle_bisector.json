@@ -1,0 +1,40 @@
+{
+  "id": "angle_bisector",
+  "topics": [
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Angle Bisector",
+      "definition": "A line or ray that divides an angle into two equal angles."
+    },
+    "pl": {
+      "term": "Dwusieczna kąta",
+      "definition": "Prosta lub półprosta dzieląca kąt na dwa równe kąty."
+    },
+    "cy": {
+      "term": "Hanerydd Ongl",
+      "definition": "Llinell neu belydryn sy'n rhannu ongl yn ddwy ongl hafal."
+    },
+    "ar": {
+      "term": "منصّف الزاوية",
+      "definition": "خط أو شعاع يقسم الزاوية إلى زاويتين متساويتين."
+    },
+    "ro": {
+      "term": "Bisectoarea unghiului",
+      "definition": "O dreaptă sau semidreaptă care împarte un unghi în două unghiuri egale."
+    },
+    "prs": {
+      "term": "ناصف زاویه",
+      "definition": "خط یا شعاعی که یک زاویه را به دو زاویهٔ مساوی تقسیم می‌کند."
+    },
+    "ps": {
+      "term": "د زاویې نیمونکې",
+      "definition": "هغه کرښه یا شعاع چې یوه زاویه په دوو برابرو زاویو وېشي."
+    },
+    "es": {
+      "term": "Bisectriz de un ángulo",
+      "definition": "Recta o semirrecta que divide un ángulo en dos ángulos iguales."
+    }
+  }
+}

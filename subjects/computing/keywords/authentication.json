@@ -28,6 +28,10 @@
     "ps": {
       "term": "تصدیق",
       "definition": "د کارونکي هویت تایید کولو پروسه، معمولاً د پاسورډ یا د ګوتو د نښو له لارې."
+    },
+    "es": {
+      "term": "Autenticación",
+      "definition": "Proceso de comprobar que alguien es quien dice ser, por ejemplo mediante una contraseña o una huella dactilar."
     }
   },
   "topics": [

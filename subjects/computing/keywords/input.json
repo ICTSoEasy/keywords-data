@@ -31,6 +31,10 @@
     "ps": {
       "term": "ننوتنه",
       "definition": "هغه معلومات چې کمپیوټر یا پروګرام ته ننوځي، لکه د کیبورډ لیکل یا د ماوس کلیک."
+    },
+    "es": {
+      "term": "Entrada",
+      "definition": "Datos que introduce en un programa un usuario u otro sistema."
     }
   }
 }

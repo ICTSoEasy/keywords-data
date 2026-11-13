@@ -1,0 +1,40 @@
+{
+  "id": "box_plots",
+  "topics": [
+    "statistics"
+  ],
+  "translations": {
+    "en": {
+      "term": "Box Plots",
+      "definition": "Diagrams that summarise a data set using the minimum, lower quartile, median, upper quartile and maximum."
+    },
+    "pl": {
+      "term": "Wykresy pudełkowe",
+      "definition": "Diagramy podsumowujące zbiór danych za pomocą minimum, dolnego kwartyla, mediany, górnego kwartyla i maksimum."
+    },
+    "cy": {
+      "term": "Plotiau Blwch",
+      "definition": "Diagramau sy'n crynhoi set ddata gan ddefnyddio'r lleiafswm, y chwartel isaf, y canolrif, y chwartel uchaf a'r uchafswm."
+    },
+    "ar": {
+      "term": "مخططات الصندوق",
+      "definition": "مخططات تلخّص مجموعة بيانات باستخدام القيمة الصغرى والربيع الأدنى والوسيط والربيع الأعلى والقيمة العظمى."
+    },
+    "ro": {
+      "term": "Diagrame box-plot",
+      "definition": "Diagrame care rezumă un set de date folosind minimul, cuartila inferioară, mediana, cuartila superioară și maximul."
+    },
+    "prs": {
+      "term": "نمودارهای جعبه‌ای",
+      "definition": "نمودارهایی که یک مجموعهٔ معلومات را با کوچک‌ترین مقدار، چارک پایین، میانه، چارک بالا و بزرگ‌ترین مقدار خلاصه می‌کنند."
+    },
+    "ps": {
+      "term": "بکس ډوله ګرافونه",
+      "definition": "هغه ګرافونه چې د معلوماتو یوه ټولګه د تر ټولو کوچني قیمت، ټیټ ربع، منځني، لوړ ربع او تر ټولو لوی قیمت په واسطه لنډیز کوي."
+    },
+    "es": {
+      "term": "Diagramas de caja y bigotes",
+      "definition": "Diagramas que resumen un conjunto de datos mediante el mínimo, el cuartil inferior, la mediana, el cuartil superior y el máximo."
+    }
+  }
+}

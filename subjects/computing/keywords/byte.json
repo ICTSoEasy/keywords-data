@@ -31,6 +31,10 @@
     "ps": {
       "term": "بایټ",
       "definition": "د ۸ بټونو لخوا جوړه د معلوماتو واحد؛ د یوه توري لپاره کارول کیږي."
+    },
+    "es": {
+      "term": "Byte",
+      "definition": "Grupo de 8 bits que se usa para representar un solo carácter o un valor pequeño."
     }
   }
 }

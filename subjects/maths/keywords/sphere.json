@@ -1,0 +1,40 @@
+{
+  "id": "sphere",
+  "topics": [
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Sphere",
+      "definition": "A 3D shape whose surface points are all the same distance from its centre, like a ball."
+    },
+    "pl": {
+      "term": "Kula",
+      "definition": "Bryła, której wszystkie punkty powierzchni są w tej samej odległości od środka, jak piłka."
+    },
+    "cy": {
+      "term": "Sffêr",
+      "definition": "Siâp 3D y mae pwyntiau ei arwyneb i gyd yr un pellter o'i ganol, fel pêl."
+    },
+    "ar": {
+      "term": "الكرة",
+      "definition": "مجسّم جميع نقاط سطحه على البعد نفسه من مركزه، مثل الكرة التي نلعب بها."
+    },
+    "ro": {
+      "term": "Sferă",
+      "definition": "Un corp ale cărui puncte de pe suprafață se află toate la aceeași distanță de centru, ca o minge."
+    },
+    "prs": {
+      "term": "کره",
+      "definition": "شکل سه‌بعدی که همهٔ نقاط سطح آن از مرکز به یک فاصله‌اند، مانند توپ."
+    },
+    "ps": {
+      "term": "کره",
+      "definition": "درې بُعدي بڼه چې د سطحې ټول ټکي یې له مرکز څخه په یو شان واټن کې وي، لکه توپ."
+    },
+    "es": {
+      "term": "Esfera",
+      "definition": "Cuerpo geométrico cuyos puntos de la superficie están todos a la misma distancia del centro, como una pelota."
+    }
+  }
+}

@@ -31,6 +31,10 @@
     "ps": {
       "term": "د نمونو پیژندنه",
       "definition": "د ستونزو کې د ورته‌والیو، رجحاناتو یا تکراري نمونو پیژندل ترڅو د حل لپاره مرسته وشي."
+    },
+    "es": {
+      "term": "Reconocimiento de patrones",
+      "definition": "Identificar semejanzas o rasgos que se repiten en los problemas para resolverlos de forma más eficiente."
     }
   }
 }

@@ -31,6 +31,10 @@
     "ps": {
       "term": "د تورینګ ماشین",
       "definition": "د کمپیوټر نظري ماډل چې آلن تورینګ توضیح کړی او د محاسبو حدود ښیي."
+    },
+    "es": {
+      "term": "Máquina de Turing",
+      "definition": "Modelo teórico de computación que lee y escribe símbolos en una cinta infinita; se usa para definir qué se puede y qué no se puede calcular."
     }
   }
 }

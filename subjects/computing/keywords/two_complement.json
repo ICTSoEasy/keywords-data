@@ -31,6 +31,10 @@
     "ps": {
       "term": "دوه‌ضمیمه",
       "definition": "د دوه‌اره کې د منفي شمیرو ذخیره کولو لار چې معمولاً کمپیوټرونه کاروي."
+    },
+    "es": {
+      "term": "Complemento a dos",
+      "definition": "Método para representar números enteros negativos en binario. Para cambiar el signo de un número: se invierten todos los bits y se suma 1."
     }
   }
 }

@@ -1,0 +1,40 @@
+{
+  "id": "hexagon",
+  "topics": [
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Hexagon",
+      "definition": "A polygon with 6 sides."
+    },
+    "pl": {
+      "term": "Sześciokąt",
+      "definition": "Wielokąt o 6 bokach."
+    },
+    "cy": {
+      "term": "Hecsagon",
+      "definition": "Polygon â 6 ochr."
+    },
+    "ar": {
+      "term": "المضلع السداسي",
+      "definition": "مضلع له 6 أضلاع."
+    },
+    "ro": {
+      "term": "Hexagon",
+      "definition": "Un poligon cu 6 laturi."
+    },
+    "prs": {
+      "term": "شش‌ضلعی",
+      "definition": "چندضلعی با 6 ضلع."
+    },
+    "ps": {
+      "term": "شپږ ضلعي",
+      "definition": "هغه څو ضلعي چې 6 غاړې لري."
+    },
+    "es": {
+      "term": "Hexágono",
+      "definition": "Polígono de 6 lados."
+    }
+  }
+}

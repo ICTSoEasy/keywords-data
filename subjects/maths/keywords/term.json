@@ -1,0 +1,40 @@
+{
+  "id": "term",
+  "topics": [
+    "algebra"
+  ],
+  "translations": {
+    "en": {
+      "term": "Term",
+      "definition": "One item in a sequence, or one part of an algebraic expression separated by + or − signs."
+    },
+    "pl": {
+      "term": "Wyraz",
+      "definition": "Jeden element ciągu albo jedna część wyrażenia algebraicznego oddzielona znakiem + lub −."
+    },
+    "cy": {
+      "term": "Term",
+      "definition": "Un eitem mewn dilyniant, neu un rhan o fynegiad algebraidd wedi'i gwahanu gan arwyddion + neu −."
+    },
+    "ar": {
+      "term": "الحد",
+      "definition": "عنصر واحد في متتالية، أو جزء من عبارة جبرية تفصله إشارة + أو −."
+    },
+    "ro": {
+      "term": "Termen",
+      "definition": "Un element al unui șir sau o parte a unei expresii algebrice separată prin + sau −."
+    },
+    "prs": {
+      "term": "جمله",
+      "definition": "یک عضو در دنباله، یا یک بخش از افادهٔ الجبری که با علامت + یا − جدا شده است."
+    },
+    "ps": {
+      "term": "حد",
+      "definition": "په لړۍ کې یو توکی، یا د الجبري افادې یوه برخه چې د + یا − نښې په واسطه جلا شوې وي."
+    },
+    "es": {
+      "term": "Término",
+      "definition": "Elemento de una sucesión o parte de una expresión algebraica separada por signos + o −."
+    }
+  }
+}

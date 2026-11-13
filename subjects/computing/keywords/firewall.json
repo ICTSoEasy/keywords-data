@@ -28,6 +28,10 @@
     "ps": {
       "term": "فایروال",
       "definition": "د امنیت سیستم چې د شبکې ټرافیک نظارت او کنترول کوي ترڅو غیرمجاز لاسرسي مخنیوی وکړي."
+    },
+    "es": {
+      "term": "Cortafuegos",
+      "definition": "Sistema que vigila y controla el tráfico de red para bloquear el acceso no autorizado a un ordenador o una red."
     }
   },
   "topics": [

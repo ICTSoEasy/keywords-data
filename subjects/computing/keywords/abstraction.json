@@ -31,6 +31,10 @@
     "ps": {
       "term": "انتزاع",
       "definition": "پیچیده توضیحات پټول او یوازې هغه معلومات ښودل چې اړین دي."
+    },
+    "es": {
+      "term": "Abstracción",
+      "definition": "Eliminar los detalles innecesarios para centrarse en lo importante al resolver un problema."
     }
   }
 }

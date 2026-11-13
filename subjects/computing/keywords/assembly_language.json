@@ -32,6 +32,10 @@
     "ps": {
       "term": "اسمبلۍ ژبه",
       "definition": "ټیټ سطحې پروګرامینګ ژبه چې د ماشین کوډ پر ځای لنډ کوډونه کاروي خو بیا هم سخت‌افزار ته نږدې ده."
+    },
+    "es": {
+      "term": "Lenguaje ensamblador",
+      "definition": "Lenguaje de programación de bajo nivel que usa abreviaturas cortas (mnemónicos) para representar las instrucciones de código máquina de un procesador concreto."
     }
   }
 }

@@ -31,6 +31,10 @@
     "ps": {
       "term": "بس",
       "definition": "د کمپیوټر د تارونو ډله چې د بیلابیلو برخو تر منځ معلومات لیږدوي."
+    },
+    "es": {
+      "term": "Bus",
+      "definition": "Conjunto de cables dentro de un ordenador que transporta datos entre componentes. El bus de datos lleva datos, el bus de direcciones lleva posiciones de memoria y el bus de control lleva señales de control."
     }
   }
 }

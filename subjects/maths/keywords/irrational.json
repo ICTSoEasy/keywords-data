@@ -1,0 +1,40 @@
+{
+  "id": "irrational",
+  "topics": [
+    "number"
+  ],
+  "translations": {
+    "en": {
+      "term": "Irrational",
+      "definition": "A number that cannot be written exactly as a fraction of two integers. Its decimal goes on forever without repeating."
+    },
+    "pl": {
+      "term": "Liczba niewymierna",
+      "definition": "Liczba, której nie da się zapisać dokładnie jako ułamka dwóch liczb całkowitych. Jej rozwinięcie dziesiętne jest nieskończone i nieokresowe."
+    },
+    "cy": {
+      "term": "Anghymarebol",
+      "definition": "Rhif na ellir ei ysgrifennu'n union fel ffracsiwn o ddau gyfanrif. Mae ei ddegolyn yn mynd ymlaen am byth heb ailadrodd."
+    },
+    "ar": {
+      "term": "العدد غير النسبي",
+      "definition": "عدد لا يمكن كتابته بدقة على شكل كسر من عددين صحيحين. أرقامه العشرية لا تنتهي ولا تتكرر."
+    },
+    "ro": {
+      "term": "Număr irațional",
+      "definition": "Un număr care nu poate fi scris exact ca fracție a două numere întregi. Zecimalele lui continuă la nesfârșit fără să se repete."
+    },
+    "prs": {
+      "term": "عدد غیرناطق",
+      "definition": "عددی که نمی‌توان آن را دقیقاً به شکل کسر دو عدد صحیح نوشت. ارقام اعشاری آن بی‌پایان و بدون تکرار است."
+    },
+    "ps": {
+      "term": "غیر ناطق عدد",
+      "definition": "هغه عدد چې د دوو بشپړو عددونو د کسر په بڼه په دقیق ډول نه لیکل کېږي. اعشاري رقمونه یې بې پایه او بې تکراره دي."
+    },
+    "es": {
+      "term": "Irracional",
+      "definition": "Número que no se puede expresar exactamente como fracción de dos números enteros. Su desarrollo decimal es infinito y no periódico."
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "trapezium",
+  "topics": [
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Trapezium",
+      "definition": "A quadrilateral with one pair of parallel sides."
+    },
+    "pl": {
+      "term": "Trapez",
+      "definition": "Czworokąt z jedną parą boków równoległych."
+    },
+    "cy": {
+      "term": "Trapesiwm",
+      "definition": "Pedrochr ag un pâr o ochrau paralel."
+    },
+    "ar": {
+      "term": "شبه المنحرف",
+      "definition": "شكل رباعي فيه زوج واحد من الأضلاع المتوازية."
+    },
+    "ro": {
+      "term": "Trapez",
+      "definition": "Un patrulater cu o pereche de laturi paralele."
+    },
+    "prs": {
+      "term": "ذوزنقه",
+      "definition": "چهارضلعی با یک جفت ضلع موازی."
+    },
+    "ps": {
+      "term": "ذوزنقه",
+      "definition": "هغه څلور ضلعي چې یوه جوړه موازي غاړې لري."
+    },
+    "es": {
+      "term": "Trapecio",
+      "definition": "Cuadrilátero con un par de lados paralelos."
+    }
+  }
+}

@@ -31,6 +31,10 @@
     "ps": {
       "term": "DDoS برید",
       "definition": "د یوه ویب‌سایټ یا سرور ته د ډیر ټرافیک لیږل ترڅو دا بند کړي."
+    },
+    "es": {
+      "term": "Ataque DDoS",
+      "definition": "Ataque de denegación de servicio distribuido que satura un servidor con tráfico desde muchas fuentes para dejarlo inaccesible."
     }
   }
 }

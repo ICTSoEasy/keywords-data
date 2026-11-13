@@ -1,0 +1,41 @@
+{
+  "id": "parallel",
+  "topics": [
+    "algebra",
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Parallel",
+      "definition": "Lines in the same plane that stay the same distance apart and never meet."
+    },
+    "pl": {
+      "term": "Równoległe",
+      "definition": "Proste leżące na tej samej płaszczyźnie, które są zawsze w tej samej odległości i nigdy się nie przecinają."
+    },
+    "cy": {
+      "term": "Paralel",
+      "definition": "Llinellau yn yr un plân sy'n aros yr un pellter oddi wrth ei gilydd a byth yn cyfarfod."
+    },
+    "ar": {
+      "term": "متوازيان",
+      "definition": "خطان في المستوى نفسه يبقى البعد بينهما ثابتاً ولا يلتقيان أبداً."
+    },
+    "ro": {
+      "term": "Paralele",
+      "definition": "Drepte din același plan care rămân la aceeași distanță una de alta și nu se întâlnesc niciodată."
+    },
+    "prs": {
+      "term": "موازی",
+      "definition": "خط‌هایی در یک سطح که همیشه به یک فاصله از هم می‌مانند و هرگز به هم نمی‌رسند."
+    },
+    "ps": {
+      "term": "موازي",
+      "definition": "په یوه سطحه کې هغه کرښې چې تل د یو بل څخه په یو شان واټن پاتې کېږي او هېڅکله نه سره یوځای کېږي."
+    },
+    "es": {
+      "term": "Paralelo",
+      "definition": "Rectas del mismo plano que mantienen siempre la misma distancia y nunca se cortan."
+    }
+  }
+}

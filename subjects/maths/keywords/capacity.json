@@ -1,0 +1,40 @@
+{
+  "id": "capacity",
+  "topics": [
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Capacity",
+      "definition": "The amount a container can hold, usually measured in units such as millilitres or litres."
+    },
+    "pl": {
+      "term": "Pojemność",
+      "definition": "Ilość, jaką może pomieścić pojemnik, zwykle mierzona w mililitrach lub litrach."
+    },
+    "cy": {
+      "term": "Cynhwysedd",
+      "definition": "Faint y gall cynhwysydd ei ddal, wedi'i fesur fel arfer mewn unedau fel mililitrau neu litrau."
+    },
+    "ar": {
+      "term": "السعة",
+      "definition": "المقدار الذي يستطيع الوعاء أن يحمله، ويُقاس عادةً بالمليلتر أو اللتر."
+    },
+    "ro": {
+      "term": "Capacitate",
+      "definition": "Cantitatea pe care o poate conține un recipient, măsurată de obicei în mililitri sau litri."
+    },
+    "prs": {
+      "term": "گنجایش",
+      "definition": "مقداری که یک ظرف می‌تواند در خود جا دهد و معمولاً با ملی‌لیتر یا لیتر اندازه گرفته می‌شود."
+    },
+    "ps": {
+      "term": "ګنجایش",
+      "definition": "هغه اندازه چې یو لوښی یې په ځان کې ځایولای شي، معمولاً په ملي لیتر یا لیتر اندازه کېږي."
+    },
+    "es": {
+      "term": "Capacidad",
+      "definition": "Cantidad que puede contener un recipiente, normalmente medida en mililitros o litros."
+    }
+  }
+}

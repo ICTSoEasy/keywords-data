@@ -28,6 +28,10 @@
     "ps": {
       "term": "تکرار",
       "definition": "د یوه کوډ بلاک مکرر اجرا د لوپ له لارې."
+    },
+    "es": {
+      "term": "Iteración",
+      "definition": "Repetir un conjunto de instrucciones un número de veces o hasta que se cumpla una condición. También se llama bucle."
     }
   },
   "topics": [

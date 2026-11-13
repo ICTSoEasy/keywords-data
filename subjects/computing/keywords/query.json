@@ -28,6 +28,10 @@
     "ps": {
       "term": "پوښتنه",
       "definition": "هغه پوښتنه چې د ډیټابیس نه د ځانګړو معلوماتو د راوستلو لپاره کارول کیږي."
+    },
+    "es": {
+      "term": "Consulta",
+      "definition": "Pregunta o petición enviada a una base de datos para buscar, añadir, actualizar o eliminar datos concretos."
     }
   },
   "topics": [

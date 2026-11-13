@@ -1,0 +1,40 @@
+{
+  "id": "quadratic_graph",
+  "topics": [
+    "algebra"
+  ],
+  "translations": {
+    "en": {
+      "term": "Quadratic Graph",
+      "definition": "The graph of a quadratic function, which is a parabola."
+    },
+    "pl": {
+      "term": "Wykres funkcji kwadratowej",
+      "definition": "Wykres funkcji kwadratowej, czyli parabola."
+    },
+    "cy": {
+      "term": "Graff Cwadratig",
+      "definition": "Graff ffwythiant cwadratig, sef parabola."
+    },
+    "ar": {
+      "term": "منحنى الدالة التربيعية",
+      "definition": "منحنى دالة تربيعية، وهو قطع مكافئ."
+    },
+    "ro": {
+      "term": "Graficul funcției de gradul al doilea",
+      "definition": "Graficul unei funcții de gradul al doilea, care este o parabolă."
+    },
+    "prs": {
+      "term": "گراف تابع درجه دوم",
+      "definition": "گراف تابع درجه دوم که یک سهمی است."
+    },
+    "ps": {
+      "term": "د دویمې درجې تابع ګراف",
+      "definition": "د دویمې درجې تابع ګراف چې یو پارابولا دی."
+    },
+    "es": {
+      "term": "Gráfica cuadrática",
+      "definition": "Gráfica de una función cuadrática, que tiene forma de parábola."
+    }
+  }
+}

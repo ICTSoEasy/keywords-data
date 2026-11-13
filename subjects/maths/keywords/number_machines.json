@@ -1,0 +1,40 @@
+{
+  "id": "number_machines",
+  "topics": [
+    "algebra"
+  ],
+  "translations": {
+    "en": {
+      "term": "Number Machines",
+      "definition": "A diagram or method showing a sequence of operations applied to an input to produce an output."
+    },
+    "pl": {
+      "term": "Maszyny liczbowe",
+      "definition": "Diagram lub metoda pokazująca ciąg działań wykonywanych na danych wejściowych, aby otrzymać wynik."
+    },
+    "cy": {
+      "term": "Peiriannau Rhif",
+      "definition": "Diagram neu ddull sy'n dangos cyfres o weithrediadau a gaiff eu cymhwyso i fewnbwn i gynhyrchu allbwn."
+    },
+    "ar": {
+      "term": "آلات الأعداد",
+      "definition": "مخطط أو طريقة تبيّن سلسلة عمليات تُطبَّق على مدخل لإنتاج مخرج."
+    },
+    "ro": {
+      "term": "Mașini de numere",
+      "definition": "O diagramă sau o metodă care arată o succesiune de operații aplicate unei intrări pentru a obține o ieșire."
+    },
+    "prs": {
+      "term": "ماشین‌های عددی",
+      "definition": "نمودار یا روشی که سلسله‌ای از عملیات را روی یک ورودی نشان می‌دهد تا خروجی به دست آید."
+    },
+    "ps": {
+      "term": "د عددونو ماشینونه",
+      "definition": "هغه ګراف یا طریقه چې پر یوې ننوتنې د عملیو لړۍ ښيي ترڅو پایله ترلاسه شي."
+    },
+    "es": {
+      "term": "Máquinas de números",
+      "definition": "Diagrama o método que muestra una serie de operaciones aplicadas a una entrada para obtener una salida."
+    }
+  }
+}

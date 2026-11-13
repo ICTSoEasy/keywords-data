@@ -1,0 +1,40 @@
+{
+  "id": "turning_point",
+  "topics": [
+    "algebra"
+  ],
+  "translations": {
+    "en": {
+      "term": "Turning Point",
+      "definition": "A point on a graph where the curve changes direction, from increasing to decreasing or vice versa."
+    },
+    "pl": {
+      "term": "Punkt zwrotny",
+      "definition": "Punkt na wykresie, w którym krzywa zmienia kierunek, z rosnącej na malejącą lub odwrotnie."
+    },
+    "cy": {
+      "term": "Pwynt Troi",
+      "definition": "Pwynt ar graff lle mae'r gromlin yn newid cyfeiriad, o gynyddu i leihau neu i'r gwrthwyneb."
+    },
+    "ar": {
+      "term": "نقطة التحول",
+      "definition": "نقطة على المنحنى يغيّر فيها اتجاهه، من التزايد إلى التناقص أو العكس."
+    },
+    "ro": {
+      "term": "Punct de extrem",
+      "definition": "Un punct de pe grafic în care curba își schimbă direcția, de la crescătoare la descrescătoare sau invers."
+    },
+    "prs": {
+      "term": "نقطهٔ برگشت",
+      "definition": "نقطه‌ای روی گراف که منحنی جهت خود را تغییر می‌دهد، از افزایش به کاهش یا برعکس."
+    },
+    "ps": {
+      "term": "د اوښتو ټکی",
+      "definition": "په ګراف کې هغه ټکی چې منحني خپل لوری بدلوي، له زیاتېدو څخه کمېدو ته یا برعکس."
+    },
+    "es": {
+      "term": "Punto de giro",
+      "definition": "Punto de una gráfica en el que la curva cambia de sentido, pasando de crecer a decrecer o viceversa."
+    }
+  }
+}

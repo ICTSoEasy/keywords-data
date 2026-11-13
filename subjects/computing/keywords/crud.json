@@ -31,6 +31,10 @@
     "ps": {
       "term": "CRUD",
       "definition": "د ډیټابیس څلور اصلي عملیات: جوړول، لوستل، تازه کول او ړنګول."
+    },
+    "es": {
+      "term": "CRUD",
+      "definition": "Las cuatro operaciones básicas que se pueden hacer con los datos de una base de datos: crear, leer, actualizar y eliminar (Create, Read, Update, Delete)."
     }
   }
 }

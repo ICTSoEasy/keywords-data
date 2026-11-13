@@ -31,6 +31,10 @@
     "ps": {
       "term": "د کمپیوټر لید",
       "definition": "د مصنوعي هوښیارتیا هغه شاخه چې کمپیوټرونو ته اجازه ورکوي انځورونه او ویډیوګانې وګوري او تفسیر کړي."
+    },
+    "es": {
+      "term": "Visión artificial",
+      "definition": "Campo de la IA que permite a los ordenadores interpretar y comprender imágenes y vídeos del mundo real."
     }
   }
 }

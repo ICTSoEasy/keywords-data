@@ -1,0 +1,40 @@
+{
+  "id": "dependent",
+  "topics": [
+    "probability"
+  ],
+  "translations": {
+    "en": {
+      "term": "Dependent",
+      "definition": "Events are dependent when the outcome of one event affects the probability of another."
+    },
+    "pl": {
+      "term": "Zależne",
+      "definition": "Zdarzenia są zależne, gdy wynik jednego wpływa na prawdopodobieństwo drugiego."
+    },
+    "cy": {
+      "term": "Dibynnol",
+      "definition": "Mae digwyddiadau'n ddibynnol pan fo canlyniad un digwyddiad yn effeithio ar debygolrwydd un arall."
+    },
+    "ar": {
+      "term": "غير مستقلة",
+      "definition": "تكون الأحداث غير مستقلة عندما تؤثر نتيجة أحدها في احتمال الآخر."
+    },
+    "ro": {
+      "term": "Dependente",
+      "definition": "Evenimentele sunt dependente când rezultatul unuia influențează probabilitatea celuilalt."
+    },
+    "prs": {
+      "term": "وابسته",
+      "definition": "رویدادها وقتی وابسته‌اند که نتیجهٔ یکی بر احتمال دیگری اثر بگذارد."
+    },
+    "ps": {
+      "term": "تړلې",
+      "definition": "پېښې هغه وخت تړلې دي کله چې د یوې پایله د بلې پر احتمال اغېز وکړي."
+    },
+    "es": {
+      "term": "Dependiente",
+      "definition": "Dos sucesos son dependientes cuando el resultado de uno afecta a la probabilidad del otro."
+    }
+  }
+}

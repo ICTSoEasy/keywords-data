@@ -31,6 +31,10 @@
     "ps": {
       "term": "ونه",
       "definition": "د معلوماتو سلسله‌مراتبي جوړښت چې د پلار-ماشوم اړیکو سره وصل شوو نوډونو لخوا جوړ شوی."
+    },
+    "es": {
+      "term": "Árbol",
+      "definition": "Estructura de datos jerárquica con un nodo raíz arriba que se ramifica en nodos hijos, sin ciclos."
     }
   }
 }

@@ -1,0 +1,40 @@
+{
+  "id": "mode",
+  "topics": [
+    "statistics"
+  ],
+  "translations": {
+    "en": {
+      "term": "Mode",
+      "definition": "The value or category that occurs most often."
+    },
+    "pl": {
+      "term": "Dominanta",
+      "definition": "Wartość lub kategoria występująca najczęściej."
+    },
+    "cy": {
+      "term": "Modd",
+      "definition": "Y gwerth neu'r categori sy'n digwydd amlaf."
+    },
+    "ar": {
+      "term": "المنوال",
+      "definition": "القيمة أو الفئة الأكثر تكراراً."
+    },
+    "ro": {
+      "term": "Mod",
+      "definition": "Valoarea sau categoria care apare cel mai des."
+    },
+    "prs": {
+      "term": "نما",
+      "definition": "مقدار یا دسته‌ای که بیشتر از همه رخ می‌دهد."
+    },
+    "ps": {
+      "term": "مود",
+      "definition": "هغه قیمت یا کټګوري چې تر ټولو ډېر ځله راځي."
+    },
+    "es": {
+      "term": "Moda",
+      "definition": "Valor o categoría que aparece con mayor frecuencia."
+    }
+  }
+}

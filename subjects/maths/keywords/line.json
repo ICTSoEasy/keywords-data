@@ -1,0 +1,40 @@
+{
+  "id": "line",
+  "topics": [
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Line",
+      "definition": "A straight path that extends endlessly in both directions."
+    },
+    "pl": {
+      "term": "Prosta",
+      "definition": "Prosta linia ciągnąca się bez końca w obu kierunkach."
+    },
+    "cy": {
+      "term": "Llinell",
+      "definition": "Llwybr syth sy'n ymestyn yn ddiddiwedd i'r ddau gyfeiriad."
+    },
+    "ar": {
+      "term": "المستقيم",
+      "definition": "مسار مستقيم يمتد بلا نهاية في الاتجاهين."
+    },
+    "ro": {
+      "term": "Dreaptă",
+      "definition": "O linie dreaptă care continuă la nesfârșit în ambele direcții."
+    },
+    "prs": {
+      "term": "خط",
+      "definition": "مسیر مستقیمی که در هر دو جهت بی‌پایان ادامه دارد."
+    },
+    "ps": {
+      "term": "کرښه",
+      "definition": "مستقیمه لاره چې په دواړو لوریو بې پایه دوام کوي."
+    },
+    "es": {
+      "term": "Recta",
+      "definition": "Trayectoria recta que se prolonga indefinidamente en ambas direcciones."
+    }
+  }
+}

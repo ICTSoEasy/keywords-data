@@ -31,6 +31,10 @@
     "ps": {
       "term": "کمپایلر",
       "definition": "هغه پروګرام چې لوړ سطحې کوډ د ماشین کوډ ته ژباړي چې کمپیوټر یې چلولی شي."
+    },
+    "es": {
+      "term": "Compilador",
+      "definition": "Programa que traduce todo un programa en lenguaje de alto nivel a código máquina antes de ejecutarlo."
     }
   }
 }

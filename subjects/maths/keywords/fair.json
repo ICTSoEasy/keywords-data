@@ -1,0 +1,40 @@
+{
+  "id": "fair",
+  "topics": [
+    "probability"
+  ],
+  "translations": {
+    "en": {
+      "term": "Fair",
+      "definition": "A game or process is fair when no player or outcome has an unfair advantage."
+    },
+    "pl": {
+      "term": "Uczciwy",
+      "definition": "Gra lub proces jest uczciwy, gdy żaden gracz ani wynik nie ma niesprawiedliwej przewagi."
+    },
+    "cy": {
+      "term": "Teg",
+      "definition": "Mae gêm neu broses yn deg pan nad oes gan unrhyw chwaraewr neu ganlyniad fantais annheg."
+    },
+    "ar": {
+      "term": "عادل",
+      "definition": "تكون اللعبة أو العملية عادلة عندما لا يملك أي لاعب أو نتيجة ميزة غير عادلة."
+    },
+    "ro": {
+      "term": "Corect",
+      "definition": "Un joc sau un proces este corect când niciun jucător sau rezultat nu are un avantaj nedrept."
+    },
+    "prs": {
+      "term": "عادلانه",
+      "definition": "یک بازی یا پروسه وقتی عادلانه است که هیچ بازیکن یا نتیجه‌ای امتیاز ناعادلانه نداشته باشد."
+    },
+    "ps": {
+      "term": "عادلانه",
+      "definition": "یوه لوبه یا پروسه هغه وخت عادلانه ده کله چې هېڅ لوبغاړی یا پایله ناروا ګټه ونه لري."
+    },
+    "es": {
+      "term": "Justo",
+      "definition": "Un juego o proceso es justo cuando ningún jugador ni resultado tiene una ventaja injusta."
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "modal_class",
+  "topics": [
+    "statistics"
+  ],
+  "translations": {
+    "en": {
+      "term": "Modal Class",
+      "definition": "The group or interval with the highest frequency in grouped data."
+    },
+    "pl": {
+      "term": "Klasa modalna",
+      "definition": "Grupa lub przedział o największej częstości w danych pogrupowanych."
+    },
+    "cy": {
+      "term": "Dosbarth Moddol",
+      "definition": "Y grŵp neu'r cyfwng â'r amlder uchaf mewn data wedi'u grwpio."
+    },
+    "ar": {
+      "term": "الفئة المنوالية",
+      "definition": "المجموعة أو الفترة ذات التكرار الأكبر في البيانات المبوّبة."
+    },
+    "ro": {
+      "term": "Clasă modală",
+      "definition": "Grupa sau intervalul cu cea mai mare frecvență în datele grupate."
+    },
+    "prs": {
+      "term": "دستهٔ نما",
+      "definition": "گروه یا فاصله‌ای که بیشترین فراوانی را در معلومات گروه‌بندی‌شده دارد."
+    },
+    "ps": {
+      "term": "د مود ټولګی",
+      "definition": "هغه ډله یا واټن چې په ډلبندي شویو معلوماتو کې تر ټولو لوړه فریکونسي لري."
+    },
+    "es": {
+      "term": "Clase modal",
+      "definition": "Grupo o intervalo que tiene la frecuencia más alta en datos agrupados."
+    }
+  }
+}

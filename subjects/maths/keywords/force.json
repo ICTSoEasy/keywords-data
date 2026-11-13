@@ -1,0 +1,40 @@
+{
+  "id": "force",
+  "topics": [
+    "ratio"
+  ],
+  "translations": {
+    "en": {
+      "term": "Force",
+      "definition": "A push or pull, measured in newtons (N)."
+    },
+    "pl": {
+      "term": "Siła",
+      "definition": "Pchnięcie lub pociągnięcie, mierzone w niutonach (N)."
+    },
+    "cy": {
+      "term": "Grym",
+      "definition": "Gwthiad neu dyniad, wedi'i fesur mewn newtonau (N)."
+    },
+    "ar": {
+      "term": "القوة الفيزيائية",
+      "definition": "دفع أو سحب، وتُقاس بالنيوتن (N)."
+    },
+    "ro": {
+      "term": "Forță",
+      "definition": "O împingere sau o tragere, măsurată în newtoni (N)."
+    },
+    "prs": {
+      "term": "قوه",
+      "definition": "یک تیله یا کشش که با نیوتن (N) اندازه گرفته می‌شود."
+    },
+    "ps": {
+      "term": "قوه",
+      "definition": "ټېله یا کشول چې په نیوټن (N) اندازه کېږي."
+    },
+    "es": {
+      "term": "Fuerza",
+      "definition": "Empuje o tirón, medido en newtons (N)."
+    }
+  }
+}

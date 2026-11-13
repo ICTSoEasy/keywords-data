@@ -31,6 +31,10 @@
     "ps": {
       "term": "د شبکې سویچ",
       "definition": "وسیله چې د شبکې وسیلې سره وصلوي او ټرافیک یوازې مشخص منزل ته لارښوونه کوي."
+    },
+    "es": {
+      "term": "Switch",
+      "definition": "Dispositivo de red que conecta equipos en una LAN y envía los datos solo al dispositivo al que van dirigidos, a diferencia de un hub, que los envía a todos."
     }
   }
 }

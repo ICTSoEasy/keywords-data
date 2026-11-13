@@ -1,0 +1,40 @@
+{
+  "id": "cosine_rule",
+  "topics": [
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Cosine Rule",
+      "definition": "A rule for finding a side or angle in any triangle when enough other sides and angles are known."
+    },
+    "pl": {
+      "term": "Twierdzenie cosinusów",
+      "definition": "Reguła pozwalająca znaleźć bok lub kąt w dowolnym trójkącie, gdy znane są wystarczające inne boki i kąty."
+    },
+    "cy": {
+      "term": "Rheol Cosin",
+      "definition": "Rheol ar gyfer canfod ochr neu ongl mewn unrhyw driongl pan fo digon o ochrau ac onglau eraill yn hysbys."
+    },
+    "ar": {
+      "term": "قانون جيب التمام",
+      "definition": "قاعدة لإيجاد ضلع أو زاوية في أي مثلث عندما تكون أضلاع وزوايا أخرى كافية معلومة."
+    },
+    "ro": {
+      "term": "Teorema cosinusului",
+      "definition": "O regulă pentru a afla o latură sau un unghi în orice triunghi când se cunosc suficiente alte laturi și unghiuri."
+    },
+    "prs": {
+      "term": "قانون کوساین",
+      "definition": "قاعده‌ای برای پیدا کردن یک ضلع یا زاویه در هر مثلث وقتی ضلع‌ها و زاویه‌های کافی دیگر معلوم باشند."
+    },
+    "ps": {
+      "term": "د کوساین قانون",
+      "definition": "په هر مثلث کې د یوې غاړې یا زاویې د پیدا کولو قاعده کله چې کافي نورې غاړې او زاویې معلومې وي."
+    },
+    "es": {
+      "term": "Teorema del coseno",
+      "definition": "Regla que permite calcular un lado o un ángulo de cualquier triángulo cuando se conocen suficientes datos de los otros lados y ángulos."
+    }
+  }
+}

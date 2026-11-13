@@ -1,0 +1,40 @@
+{
+  "id": "rotation",
+  "topics": [
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Rotation",
+      "definition": "A transformation that turns a shape around a fixed point by a given angle and direction."
+    },
+    "pl": {
+      "term": "Obrót",
+      "definition": "Przekształcenie obracające figurę wokół stałego punktu o dany kąt w danym kierunku."
+    },
+    "cy": {
+      "term": "Cylchdro",
+      "definition": "Trawsffurfiad sy'n troi siâp o amgylch pwynt sefydlog drwy ongl a chyfeiriad penodol."
+    },
+    "ar": {
+      "term": "الدوران",
+      "definition": "تحويل يدير الشكل حول نقطة ثابتة بزاوية واتجاه معطيين."
+    },
+    "ro": {
+      "term": "Rotație",
+      "definition": "O transformare care rotește o figură în jurul unui punct fix, cu un unghi și într-un sens date."
+    },
+    "prs": {
+      "term": "دوران",
+      "definition": "تبدیلی که شکل را به دور یک نقطهٔ ثابت با زاویه و جهت معین می‌چرخاند."
+    },
+    "ps": {
+      "term": "دوران",
+      "definition": "هغه بدلون چې بڼه د یو ثابت ټکي شاوخوا په ټاکلې زاویه او لوري ګرځوي."
+    },
+    "es": {
+      "term": "Rotación",
+      "definition": "Transformación que gira una figura alrededor de un punto fijo un ángulo y en una dirección determinados."
+    }
+  }
+}

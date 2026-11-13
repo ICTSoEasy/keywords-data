@@ -1,0 +1,40 @@
+{
+  "id": "factorise",
+  "topics": [
+    "algebra"
+  ],
+  "translations": {
+    "en": {
+      "term": "Factorise",
+      "definition": "To rewrite an expression as a product of factors, often by putting brackets back in."
+    },
+    "pl": {
+      "term": "Rozkładać na czynniki",
+      "definition": "Zapisywać wyrażenie jako iloczyn czynników, często przez wyłączenie przed nawias."
+    },
+    "cy": {
+      "term": "Ffactorio",
+      "definition": "Ailysgrifennu mynegiad fel lluoswm o ffactorau, yn aml drwy roi cromfachau yn ôl i mewn."
+    },
+    "ar": {
+      "term": "التحليل إلى عوامل",
+      "definition": "إعادة كتابة العبارة على شكل حاصل ضرب عوامل، غالباً بإعادة الأقواس."
+    },
+    "ro": {
+      "term": "A descompune în factori",
+      "definition": "A rescrie o expresie ca produs de factori, adesea scoțând un factor comun în fața parantezei."
+    },
+    "prs": {
+      "term": "تجزیه کردن",
+      "definition": "نوشتن دوبارهٔ یک افاده به صورت حاصل ضرب عوامل، اغلب با برگرداندن قوس‌ها."
+    },
+    "ps": {
+      "term": "تجزیه کول",
+      "definition": "د یوې افادې د عاملونو د حاصل ضرب په توګه بیا لیکل، ډېری وخت د قوسونو په بیرته راوستلو سره."
+    },
+    "es": {
+      "term": "Factorizar",
+      "definition": "Reescribir una expresión como producto de factores, normalmente colocando paréntesis."
+    }
+  }
+}

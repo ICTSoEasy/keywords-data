@@ -31,6 +31,10 @@
     "ps": {
       "term": "دایره",
       "definition": "د پروګرام هغه برخه چې یو متغیر پکې د لاسرسي وړ وي."
+    },
+    "es": {
+      "term": "Ámbito",
+      "definition": "Parte de un programa en la que se puede usar una variable. Una variable local solo existe dentro de la subrutina donde se creó; una variable global se puede usar en cualquier parte."
     }
   }
 }

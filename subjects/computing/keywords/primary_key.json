@@ -28,6 +28,10 @@
     "ps": {
       "term": "لومړنی کیلي",
       "definition": "د ډیټابیس جدول کې ځانګړی ساحه چې هر ریکارډ ځانګړي توګه پیژني."
+    },
+    "es": {
+      "term": "Clave primaria",
+      "definition": "Valor único que identifica cada registro de una tabla de una base de datos. Dos registros no pueden tener la misma clave primaria."
     }
   },
   "topics": [

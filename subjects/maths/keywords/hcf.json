@@ -1,0 +1,40 @@
+{
+  "id": "hcf",
+  "topics": [
+    "number"
+  ],
+  "translations": {
+    "en": {
+      "term": "HCF",
+      "definition": "The highest common factor: the largest whole number that divides exactly into two or more numbers."
+    },
+    "pl": {
+      "term": "NWD",
+      "definition": "Największy wspólny dzielnik: największa liczba całkowita, przez którą dzielą się bez reszty dwie lub więcej liczb."
+    },
+    "cy": {
+      "term": "FfCM",
+      "definition": "Y ffactor cyffredin mwyaf: y rhif cyfan mwyaf sy'n rhannu'n union i mewn i ddau rif neu fwy."
+    },
+    "ar": {
+      "term": "ق.م.أ",
+      "definition": "القاسم المشترك الأكبر: أكبر عدد صحيح يقسم عددين أو أكثر قسمة تامة."
+    },
+    "ro": {
+      "term": "CMMDC",
+      "definition": "Cel mai mare divizor comun: cel mai mare număr întreg care împarte exact două sau mai multe numere."
+    },
+    "prs": {
+      "term": "ب.م.م",
+      "definition": "بزرگ‌ترین مقسوم‌علیه مشترک: بزرگ‌ترین عدد صحیحی که دو یا چند عدد را بدون باقی‌مانده تقسیم می‌کند."
+    },
+    "ps": {
+      "term": "لوی مشترک قاسم",
+      "definition": "تر ټولو لوی بشپړ عدد چې دوه یا ډېر عددونه پرته له پاتې څخه وېشي."
+    },
+    "es": {
+      "term": "Máximo común divisor (MCD)",
+      "definition": "Máximo común divisor (MCD): el mayor número entero que divide exactamente a dos o más números."
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "volume",
+  "topics": [
+    "ratio",
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Volume",
+      "definition": "The amount of three-dimensional space occupied by an object or contained in a solid."
+    },
+    "pl": {
+      "term": "Objętość",
+      "definition": "Ilość przestrzeni trójwymiarowej zajmowanej przez przedmiot lub zawartej w bryle."
+    },
+    "cy": {
+      "term": "Cyfaint",
+      "definition": "Faint o le tri dimensiwn mae gwrthrych yn ei lenwi neu sydd y tu mewn i solid."
+    },
+    "ar": {
+      "term": "الحجم",
+      "definition": "مقدار الحيّز ثلاثي الأبعاد الذي يشغله جسم أو يحتويه مجسّم."
+    },
+    "ro": {
+      "term": "Volum",
+      "definition": "Cantitatea de spațiu tridimensional ocupată de un obiect sau cuprinsă într-un corp."
+    },
+    "prs": {
+      "term": "حجم",
+      "definition": "مقدار فضای سه‌بعدی که یک جسم اشغال می‌کند یا درون یک جسم جا دارد."
+    },
+    "ps": {
+      "term": "حجم",
+      "definition": "د درې بُعدي ځای اندازه چې یو جسم یې نیسي یا په یو جسم کې ځای لري."
+    },
+    "es": {
+      "term": "Volumen",
+      "definition": "Cantidad de espacio tridimensional que ocupa un objeto o que contiene un sólido."
+    }
+  }
+}

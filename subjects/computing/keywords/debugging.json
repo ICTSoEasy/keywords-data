@@ -32,6 +32,10 @@
     "ps": {
       "term": "ډیباګینګ",
       "definition": "د کوډ کې د غلطیو موندل او سمول."
+    },
+    "es": {
+      "term": "Depuración",
+      "definition": "Proceso de encontrar y corregir errores en un algoritmo o programa."
     }
   }
 }

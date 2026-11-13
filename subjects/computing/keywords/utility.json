@@ -31,6 +31,10 @@
     "ps": {
       "term": "یوټیلیټي",
       "definition": "سیستمي سافټویر چې ځانګړې ساتنه یا مدیریت دنده ترسره کوي، لکه انټي‌ویروس یا د فشردولو وسیله."
+    },
+    "es": {
+      "term": "Software de utilidad",
+      "definition": "Software que ayuda a mantener, gestionar o proteger un sistema informático, como un antivirus o un limpiador de disco."
     }
   }
 }

@@ -31,6 +31,10 @@
     "ps": {
       "term": "بټ",
       "definition": "د کمپیوټر کې د معلوماتو کوچنۍ واحد — یو ۰ یا ۱ ارزښت."
+    },
+    "es": {
+      "term": "Bit",
+      "definition": "La unidad de datos más pequeña de un ordenador, con un valor de 0 o 1."
     }
   }
 }

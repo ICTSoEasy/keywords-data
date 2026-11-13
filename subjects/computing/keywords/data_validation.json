@@ -32,6 +32,10 @@
     "ps": {
       "term": "د معلوماتو اعتبار",
       "definition": "د دې چک کول چې ننوتي معلومات سم، بشپړ او منطقي وي."
+    },
+    "es": {
+      "term": "Validación de datos",
+      "definition": "Comprobaciones que aseguran que los datos introducidos en un sistema cumplen el formato, el tipo y el rango requeridos."
     }
   }
 }

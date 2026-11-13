@@ -31,6 +31,10 @@
     "ps": {
       "term": "د فون نویمان جوړښت",
       "definition": "د کمپیوټر ډیزاین چې CPU، حافظه او ورود/وتنه د مشترک بس له لارې کار کوي."
+    },
+    "es": {
+      "term": "Arquitectura de Von Neumann",
+      "definition": "Modelo de diseño de ordenadores en el que la CPU, la memoria y la entrada/salida comparten una única vía de datos llamada bus."
     }
   }
 }

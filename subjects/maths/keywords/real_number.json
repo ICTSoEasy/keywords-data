@@ -1,0 +1,40 @@
+{
+  "id": "real_number",
+  "topics": [
+    "number"
+  ],
+  "translations": {
+    "en": {
+      "term": "Real Number",
+      "definition": "Any number that can be placed on the number line, including rational and irrational numbers."
+    },
+    "pl": {
+      "term": "Liczba rzeczywista",
+      "definition": "Każda liczba, którą można zaznaczyć na osi liczbowej, w tym liczby wymierne i niewymierne."
+    },
+    "cy": {
+      "term": "Rhif Real",
+      "definition": "Unrhyw rif y gellir ei osod ar y llinell rif, gan gynnwys rhifau cymarebol ac anghymarebol."
+    },
+    "ar": {
+      "term": "العدد الحقيقي",
+      "definition": "أي عدد يمكن وضعه على خط الأعداد، ويشمل الأعداد النسبية وغير النسبية."
+    },
+    "ro": {
+      "term": "Număr real",
+      "definition": "Orice număr care poate fi așezat pe axa numerelor, inclusiv numerele raționale și iraționale."
+    },
+    "prs": {
+      "term": "عدد حقیقی",
+      "definition": "هر عددی که بتوان آن را روی محور اعداد نشان داد، شامل اعداد ناطق و غیرناطق."
+    },
+    "ps": {
+      "term": "حقیقي عدد",
+      "definition": "هر هغه عدد چې د عددونو په کرښه ښودل کېدای شي، په ګډون د ناطقو او غیر ناطقو عددونو."
+    },
+    "es": {
+      "term": "Número real",
+      "definition": "Cualquier número que se puede representar en la recta numérica, incluidos los números racionales e irracionales."
+    }
+  }
+}

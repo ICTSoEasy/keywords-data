@@ -32,6 +32,10 @@
     "ps": {
       "term": "شبه کوډ",
       "definition": "د الګوریتم ساده توضیح د عادي ژبې کې چې د پروګرامینګ کوډ ته ورته وي خو د ریښتیني نحو تعقیب نه کوي."
+    },
+    "es": {
+      "term": "Pseudocódigo",
+      "definition": "Forma informal de describir un algoritmo con lenguaje sencillo y estructuras parecidas al código, sin seguir las reglas de ningún lenguaje concreto."
     }
   }
 }

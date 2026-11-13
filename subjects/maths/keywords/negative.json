@@ -1,0 +1,40 @@
+{
+  "id": "negative",
+  "topics": [
+    "number"
+  ],
+  "translations": {
+    "en": {
+      "term": "Negative",
+      "definition": "A number less than zero, shown with a minus sign."
+    },
+    "pl": {
+      "term": "Ujemna",
+      "definition": "Liczba mniejsza od zera, zapisywana ze znakiem minus."
+    },
+    "cy": {
+      "term": "Negatif",
+      "definition": "Rhif sy'n llai na sero, wedi'i ddangos ag arwydd minws."
+    },
+    "ar": {
+      "term": "سالب",
+      "definition": "عدد أصغر من الصفر، يُكتب بإشارة ناقص."
+    },
+    "ro": {
+      "term": "Negativ",
+      "definition": "Un număr mai mic decât zero, scris cu semnul minus."
+    },
+    "prs": {
+      "term": "منفی",
+      "definition": "عددی کوچک‌تر از صفر که با علامت منفی نوشته می‌شود."
+    },
+    "ps": {
+      "term": "منفي",
+      "definition": "له صفر څخه کوچنی عدد چې د منفي نښې سره لیکل کېږي."
+    },
+    "es": {
+      "term": "Negativo",
+      "definition": "Número menor que cero, escrito con el signo menos."
+    }
+  }
+}

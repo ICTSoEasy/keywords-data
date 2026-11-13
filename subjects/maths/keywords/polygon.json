@@ -1,0 +1,40 @@
+{
+  "id": "polygon",
+  "topics": [
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Polygon",
+      "definition": "A closed 2D shape made from straight line segments."
+    },
+    "pl": {
+      "term": "Wielokąt",
+      "definition": "Zamknięta figura płaska złożona z odcinków."
+    },
+    "cy": {
+      "term": "Polygon",
+      "definition": "Siâp 2D caeedig wedi'i wneud o segmentau llinell syth."
+    },
+    "ar": {
+      "term": "المضلع",
+      "definition": "شكل مغلق ثنائي الأبعاد يتكون من قطع مستقيمة."
+    },
+    "ro": {
+      "term": "Poligon",
+      "definition": "O figură plană închisă formată din segmente de dreaptă."
+    },
+    "prs": {
+      "term": "چندضلعی",
+      "definition": "شکل بستهٔ دوبعدی که از قطعه‌خط‌های مستقیم ساخته شده است."
+    },
+    "ps": {
+      "term": "څو ضلعي",
+      "definition": "تړلې دوه بُعدي بڼه چې له مستقیمو کرښو ټوټو جوړه شوې وي."
+    },
+    "es": {
+      "term": "Polígono",
+      "definition": "Figura plana cerrada formada por segmentos rectos."
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "percentage",
+  "topics": [
+    "number"
+  ],
+  "translations": {
+    "en": {
+      "term": "Percentage",
+      "definition": "A way of expressing a number as parts per hundred. The symbol is %."
+    },
+    "pl": {
+      "term": "Procent",
+      "definition": "Sposób wyrażania liczby jako części na sto. Symbolem jest %."
+    },
+    "cy": {
+      "term": "Canran",
+      "definition": "Ffordd o fynegi rhif fel rhannau o gant. Y symbol yw %."
+    },
+    "ar": {
+      "term": "النسبة المئوية",
+      "definition": "طريقة للتعبير عن العدد كأجزاء من مئة. رمزها %."
+    },
+    "ro": {
+      "term": "Procent",
+      "definition": "Un mod de a exprima un număr ca părți din o sută. Simbolul este %."
+    },
+    "prs": {
+      "term": "فیصدی",
+      "definition": "روشی برای بیان یک عدد به صورت بخش‌هایی از صد. علامت آن % است."
+    },
+    "ps": {
+      "term": "سلنه",
+      "definition": "د یو عدد د سلو برخو په توګه د ښودلو لاره. نښه یې % ده."
+    },
+    "es": {
+      "term": "Porcentaje",
+      "definition": "Forma de expresar una cantidad como partes de cien. Se utiliza el símbolo %."
+    }
+  }
+}

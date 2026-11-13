@@ -1,0 +1,40 @@
+{
+  "id": "distribution",
+  "topics": [
+    "statistics"
+  ],
+  "translations": {
+    "en": {
+      "term": "Distribution",
+      "definition": "The way data values are spread out and how often different values occur."
+    },
+    "pl": {
+      "term": "Rozkład",
+      "definition": "Sposób, w jaki wartości danych są rozłożone, i jak często występują różne wartości."
+    },
+    "cy": {
+      "term": "Dosraniad",
+      "definition": "Y ffordd y mae gwerthoedd data wedi'u gwasgaru a pha mor aml mae gwerthoedd gwahanol yn digwydd."
+    },
+    "ar": {
+      "term": "التوزيع",
+      "definition": "طريقة انتشار قيم البيانات وعدد مرات ظهور القيم المختلفة."
+    },
+    "ro": {
+      "term": "Distribuție",
+      "definition": "Modul în care sunt răspândite valorile datelor și cât de des apar diferite valori."
+    },
+    "prs": {
+      "term": "توزیع",
+      "definition": "شیوهٔ پخش شدن مقدارهای معلومات و اینکه مقدارهای مختلف چند بار رخ می‌دهند."
+    },
+    "ps": {
+      "term": "وېش",
+      "definition": "هغه طریقه چې د معلوماتو قیمتونه پکې خپاره شوي او بېلابېل قیمتونه څو ځله راځي."
+    },
+    "es": {
+      "term": "Distribución",
+      "definition": "Forma en que se reparten los valores de un conjunto de datos y la frecuencia con la que aparecen."
+    }
+  }
+}

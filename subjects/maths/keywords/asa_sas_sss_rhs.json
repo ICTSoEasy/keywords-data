@@ -1,0 +1,40 @@
+{
+  "id": "asa_sas_sss_rhs",
+  "topics": [
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "ASA, SAS, SSS, RHS",
+      "definition": "Four tests used to show that two triangles are congruent: angle-side-angle, side-angle-side, side-side-side and right angle-hypotenuse-side."
+    },
+    "pl": {
+      "term": "Cechy przystawania trójkątów",
+      "definition": "Cztery cechy pokazujące, że dwa trójkąty są przystające: kąt-bok-kąt, bok-kąt-bok, bok-bok-bok oraz kąt prosty-przeciwprostokątna-bok."
+    },
+    "cy": {
+      "term": "Amodau Cyfathiant (ASA, SAS, SSS, RHS)",
+      "definition": "Pedwar prawf i ddangos bod dau driongl yn gyfath: ongl-ochr-ongl, ochr-ongl-ochr, ochr-ochr-ochr ac ongl sgwâr-hypotenws-ochr."
+    },
+    "ar": {
+      "term": "حالات تطابق المثلثات",
+      "definition": "أربعة اختبارات تبيّن أن مثلثين متطابقان: زاوية-ضلع-زاوية، ضلع-زاوية-ضلع، ضلع-ضلع-ضلع، وزاوية قائمة-وتر-ضلع."
+    },
+    "ro": {
+      "term": "Cazurile de congruență a triunghiurilor",
+      "definition": "Patru criterii care arată că două triunghiuri sunt congruente: unghi-latură-unghi, latură-unghi-latură, latură-latură-latură și unghi drept-ipotenuză-latură."
+    },
+    "prs": {
+      "term": "حالت‌های تطابق مثلث‌ها",
+      "definition": "چهار آزمون برای نشان دادن تطابق دو مثلث: زاویه-ضلع-زاویه، ضلع-زاویه-ضلع، ضلع-ضلع-ضلع، و زاویهٔ قائمه-وتر-ضلع."
+    },
+    "ps": {
+      "term": "د مثلثونو د انطباق حالتونه",
+      "definition": "څلور ازموینې چې ښيي دوه مثلثونه منطبق دي: زاویه-غاړه-زاویه، غاړه-زاویه-غاړه، غاړه-غاړه-غاړه، او قایمه زاویه-وتر-غاړه."
+    },
+    "es": {
+      "term": "ALA, LAL, LLL, HC",
+      "definition": "Cuatro criterios de congruencia de triángulos: ángulo-lado-ángulo, lado-ángulo-lado, lado-lado-lado y ángulo recto-hipotenusa-lado."
+    }
+  }
+}

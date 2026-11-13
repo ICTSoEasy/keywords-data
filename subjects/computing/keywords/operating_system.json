@@ -31,6 +31,10 @@
     "ps": {
       "term": "عملیاتي سیستم",
       "definition": "سافټویر چې د کمپیوټر سخت‌افزار او نرم‌افزار اداره کوي، لکه Windows یا Linux."
+    },
+    "es": {
+      "term": "Sistema operativo",
+      "definition": "Software que gestiona el hardware de un ordenador y ofrece servicios para que funcionen otros programas."
     }
   }
 }

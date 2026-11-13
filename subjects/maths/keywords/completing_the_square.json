@@ -1,0 +1,40 @@
+{
+  "id": "completing_the_square",
+  "topics": [
+    "algebra"
+  ],
+  "translations": {
+    "en": {
+      "term": "Completing the Square",
+      "definition": "Rewriting a quadratic expression in the form (x + a)² + b."
+    },
+    "pl": {
+      "term": "Uzupełnianie do kwadratu",
+      "definition": "Zapisanie wyrażenia kwadratowego w postaci (x + a)² + b."
+    },
+    "cy": {
+      "term": "Cwblhau'r Sgwâr",
+      "definition": "Ailysgrifennu mynegiad cwadratig ar y ffurf (x + a)² + b."
+    },
+    "ar": {
+      "term": "إكمال المربع",
+      "definition": "إعادة كتابة العبارة التربيعية على الشكل (x + a)² + b."
+    },
+    "ro": {
+      "term": "Formarea pătratului perfect",
+      "definition": "Rescrierea unei expresii de gradul al doilea în forma (x + a)² + b."
+    },
+    "prs": {
+      "term": "تکمیل مربع",
+      "definition": "نوشتن دوبارهٔ یک افادهٔ درجه دوم به شکل (x + a)² + b."
+    },
+    "ps": {
+      "term": "د مربع بشپړول",
+      "definition": "د دویمې درجې افادې بیا لیکل په بڼه (x + a)² + b."
+    },
+    "es": {
+      "term": "Completar el cuadrado",
+      "definition": "Reescribir una expresión cuadrática en la forma (x + a)² + b."
+    }
+  }
+}

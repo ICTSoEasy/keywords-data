@@ -31,6 +31,10 @@
     "ps": {
       "term": "انسرشن سورټ",
       "definition": "د ترتیب الګوریتم چې توکي یو یو سم ځای ته داخلوي."
+    },
+    "es": {
+      "term": "Ordenamiento por inserción",
+      "definition": "Algoritmo de ordenación que construye una lista ordenada elemento a elemento, colocando cada nuevo elemento en su posición correcta."
     }
   }
 }

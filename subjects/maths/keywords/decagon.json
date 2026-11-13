@@ -1,0 +1,40 @@
+{
+  "id": "decagon",
+  "topics": [
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Decagon",
+      "definition": "A polygon with 10 sides."
+    },
+    "pl": {
+      "term": "Dziesięciokąt",
+      "definition": "Wielokąt o 10 bokach."
+    },
+    "cy": {
+      "term": "Decagon",
+      "definition": "Polygon â 10 ochr."
+    },
+    "ar": {
+      "term": "المضلع العشاري",
+      "definition": "مضلع له 10 أضلاع."
+    },
+    "ro": {
+      "term": "Decagon",
+      "definition": "Un poligon cu 10 laturi."
+    },
+    "prs": {
+      "term": "ده‌ضلعی",
+      "definition": "چندضلعی با 10 ضلع."
+    },
+    "ps": {
+      "term": "لس ضلعي",
+      "definition": "هغه څو ضلعي چې 10 غاړې لري."
+    },
+    "es": {
+      "term": "Decágono",
+      "definition": "Polígono de 10 lados."
+    }
+  }
+}

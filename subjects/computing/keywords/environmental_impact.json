@@ -31,6 +31,10 @@
     "ps": {
       "term": "د چاپیریال اغیز",
       "definition": "د ټیکنالوژۍ اغیزې چاپیریال ته، د انرژۍ مصرف او بریښنایي کثافاتو سره."
+    },
+    "es": {
+      "term": "Impacto ambiental",
+      "definition": "Efecto que tienen sobre el medio ambiente la fabricación, el uso y la eliminación de la tecnología, incluido el consumo de energía y los residuos electrónicos."
     }
   }
 }

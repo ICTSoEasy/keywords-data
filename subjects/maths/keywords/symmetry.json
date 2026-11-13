@@ -1,0 +1,40 @@
+{
+  "id": "symmetry",
+  "topics": [
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Symmetry",
+      "definition": "A property where a shape or pattern matches itself after a reflection, rotation or other movement."
+    },
+    "pl": {
+      "term": "Symetria",
+      "definition": "Własność, dzięki której figura lub wzór pokrywa się ze sobą po odbiciu, obrocie lub innym ruchu."
+    },
+    "cy": {
+      "term": "Cymesuredd",
+      "definition": "Priodwedd lle mae siâp neu batrwm yn cyfateb iddo'i hun ar ôl adlewyrchiad, cylchdro neu symudiad arall."
+    },
+    "ar": {
+      "term": "التماثل",
+      "definition": "خاصية يطابق فيها الشكل أو النمط نفسه بعد انعكاس أو دوران أو حركة أخرى."
+    },
+    "ro": {
+      "term": "Simetrie",
+      "definition": "Proprietatea unei figuri sau a unui model de a coincide cu sine după o răsfrângere, o rotație sau altă mișcare."
+    },
+    "prs": {
+      "term": "تقارن",
+      "definition": "ویژگی‌ای که در آن یک شکل یا نقش پس از انعکاس، دوران یا حرکت دیگر با خودش منطبق می‌شود."
+    },
+    "ps": {
+      "term": "تناظر",
+      "definition": "هغه ځانګړتیا چې یوه بڼه یا نقش د انعکاس، دوران یا بل حرکت وروسته له ځان سره سمون خوري."
+    },
+    "es": {
+      "term": "Simetría",
+      "definition": "Propiedad por la que una figura o un patrón coincide consigo mismo después de una reflexión, rotación u otro movimiento."
+    }
+  }
+}

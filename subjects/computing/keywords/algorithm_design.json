@@ -31,6 +31,10 @@
     "ps": {
       "term": "د الګوریتم ډیزاین",
       "definition": "د کوډ لیکلو دمخه د یوې ستونزې د حل لپاره اړین ګامونو پلان جوړول."
+    },
+    "es": {
+      "term": "Diseño de algoritmos",
+      "definition": "Planificar la solución paso a paso de un problema antes de escribir código."
     }
   }
 }

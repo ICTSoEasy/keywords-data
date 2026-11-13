@@ -1,0 +1,40 @@
+{
+  "id": "likely",
+  "topics": [
+    "probability"
+  ],
+  "translations": {
+    "en": {
+      "term": "Likely",
+      "definition": "An event that has a probability greater than ½ but less than 1."
+    },
+    "pl": {
+      "term": "Prawdopodobne",
+      "definition": "Zdarzenie o prawdopodobieństwie większym od ½, ale mniejszym od 1."
+    },
+    "cy": {
+      "term": "Tebygol",
+      "definition": "Digwyddiad sydd â thebygolrwydd mwy na ½ ond llai nag 1."
+    },
+    "ar": {
+      "term": "مرجّح",
+      "definition": "حدث احتماله أكبر من ½ وأصغر من 1."
+    },
+    "ro": {
+      "term": "Probabil",
+      "definition": "Un eveniment care are probabilitatea mai mare de ½, dar mai mică de 1."
+    },
+    "prs": {
+      "term": "محتمل",
+      "definition": "رویدادی که احتمال آن بیشتر از ½ ولی کمتر از 1 است."
+    },
+    "ps": {
+      "term": "احتمالي",
+      "definition": "هغه پېښه چې احتمال یې له ½ څخه زیات خو له 1 څخه کم وي."
+    },
+    "es": {
+      "term": "Probable",
+      "definition": "Suceso con una probabilidad mayor que ½ y menor que 1."
+    }
+  }
+}

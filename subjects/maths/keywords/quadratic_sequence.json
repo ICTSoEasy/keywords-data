@@ -1,0 +1,40 @@
+{
+  "id": "quadratic_sequence",
+  "topics": [
+    "algebra"
+  ],
+  "translations": {
+    "en": {
+      "term": "Quadratic Sequence",
+      "definition": "A sequence whose second differences are constant."
+    },
+    "pl": {
+      "term": "Ciąg kwadratowy",
+      "definition": "Ciąg, którego drugie różnice są stałe."
+    },
+    "cy": {
+      "term": "Dilyniant Cwadratig",
+      "definition": "Dilyniant y mae ei ail wahaniaethau yn gyson."
+    },
+    "ar": {
+      "term": "المتتالية التربيعية",
+      "definition": "متتالية تكون فروقها الثانية ثابتة."
+    },
+    "ro": {
+      "term": "Șir pătratic",
+      "definition": "Un șir ale cărui diferențe de ordinul doi sunt constante."
+    },
+    "prs": {
+      "term": "دنبالهٔ درجه دوم",
+      "definition": "دنباله‌ای که تفاضل‌های دوم آن ثابت است."
+    },
+    "ps": {
+      "term": "د دویمې درجې لړۍ",
+      "definition": "هغه لړۍ چې دویم توپیرونه یې ثابت وي."
+    },
+    "es": {
+      "term": "Sucesión cuadrática",
+      "definition": "Sucesión cuyas segundas diferencias son constantes."
+    }
+  }
+}

@@ -31,6 +31,10 @@
     "ps": {
       "term": "د رنګ ژوروالی",
       "definition": "د هر پیکسل د رنګ د نمایش لپاره کارول شوي بټونو شمیر؛ ډیر بټونه یعنې ډیر رنګونه."
+    },
+    "es": {
+      "term": "Profundidad de color",
+      "definition": "Número de bits usados para guardar el color de un solo píxel. Una mayor profundidad de color permite más colores y un archivo más grande."
     }
   }
 }

@@ -31,6 +31,10 @@
     "ps": {
       "term": "د ماشین زده‌کړه",
       "definition": "د مصنوعي هوښیارتیا یو ډول چې کمپیوټرونه له معلوماتو زده کوي پرته له دقیق پروګرام کولو."
+    },
+    "es": {
+      "term": "Aprendizaje automático",
+      "definition": "Tipo de IA en el que un ordenador aprende a tomar decisiones encontrando patrones en los datos en lugar de recibir instrucciones explícitas."
     }
   }
 }

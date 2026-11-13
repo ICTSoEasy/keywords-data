@@ -1,0 +1,40 @@
+{
+  "id": "tan",
+  "topics": [
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "tan",
+      "definition": "Short for tangent. In a right-angled triangle, tan of an angle = opposite ÷ adjacent."
+    },
+    "pl": {
+      "term": "tg",
+      "definition": "Skrót od tangensa. W trójkącie prostokątnym tangens kąta = przyprostokątna przeciwległa ÷ przyprostokątna przyległa."
+    },
+    "cy": {
+      "term": "tan",
+      "definition": "Byr am tangiad. Mewn triongl ongl sgwâr, tan ongl = cyferbyn ÷ cyfagos."
+    },
+    "ar": {
+      "term": "ظا (tan)",
+      "definition": "اختصار الظل. في المثلث القائم، ظل الزاوية = الضلع المقابل ÷ الضلع المجاور."
+    },
+    "ro": {
+      "term": "tg",
+      "definition": "Prescurtare pentru tangentă. Într-un triunghi dreptunghic, tangenta unui unghi = cateta opusă ÷ cateta alăturată."
+    },
+    "prs": {
+      "term": "تانجانت (tan)",
+      "definition": "کوتاه‌شدهٔ تانجانت. در مثلث قائم‌الزاویه، تانجانت یک زاویه = ضلع مقابل ÷ ضلع مجاور."
+    },
+    "ps": {
+      "term": "ټانجنټ (tan)",
+      "definition": "د ټانجنټ لنډیز. په قایم الزاویه مثلث کې، د زاویې ټانجنټ = مخامخ غاړه ÷ څنګ ته غاړه."
+    },
+    "es": {
+      "term": "tan (tangente)",
+      "definition": "Abreviatura de tangente. En un triángulo rectángulo, tan de un ángulo = cateto opuesto ÷ cateto adyacente."
+    }
+  }
+}

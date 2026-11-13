@@ -1,0 +1,40 @@
+{
+  "id": "dodecagon",
+  "topics": [
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Dodecagon",
+      "definition": "A polygon with 12 sides."
+    },
+    "pl": {
+      "term": "Dwunastokąt",
+      "definition": "Wielokąt o 12 bokach."
+    },
+    "cy": {
+      "term": "Dodecagon",
+      "definition": "Polygon â 12 ochr."
+    },
+    "ar": {
+      "term": "المضلع الاثنا عشري",
+      "definition": "مضلع له 12 ضلعاً."
+    },
+    "ro": {
+      "term": "Dodecagon",
+      "definition": "Un poligon cu 12 laturi."
+    },
+    "prs": {
+      "term": "دوازده‌ضلعی",
+      "definition": "چندضلعی با 12 ضلع."
+    },
+    "ps": {
+      "term": "دولس ضلعي",
+      "definition": "هغه څو ضلعي چې 12 غاړې لري."
+    },
+    "es": {
+      "term": "Dodecágono",
+      "definition": "Polígono de 12 lados."
+    }
+  }
+}

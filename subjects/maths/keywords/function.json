@@ -1,0 +1,40 @@
+{
+  "id": "function",
+  "topics": [
+    "algebra"
+  ],
+  "translations": {
+    "en": {
+      "term": "Function",
+      "definition": "A rule that takes an input and gives exactly one output."
+    },
+    "pl": {
+      "term": "Funkcja",
+      "definition": "Reguła, która dla każdego argumentu daje dokładnie jedną wartość."
+    },
+    "cy": {
+      "term": "Ffwythiant",
+      "definition": "Rheol sy'n cymryd mewnbwn ac yn rhoi union un allbwn."
+    },
+    "ar": {
+      "term": "الدالة",
+      "definition": "قاعدة تأخذ مدخلاً وتعطي مخرجاً واحداً فقط."
+    },
+    "ro": {
+      "term": "Funcție",
+      "definition": "O regulă care pentru fiecare intrare dă exact o ieșire."
+    },
+    "prs": {
+      "term": "تابع",
+      "definition": "قاعده‌ای که یک ورودی می‌گیرد و دقیقاً یک خروجی می‌دهد."
+    },
+    "ps": {
+      "term": "تابع",
+      "definition": "هغه قاعده چې یوه ننوتنه اخلي او یوازې یوه پایله ورکوي."
+    },
+    "es": {
+      "term": "Función",
+      "definition": "Regla que toma una entrada y produce exactamente una salida."
+    }
+  }
+}

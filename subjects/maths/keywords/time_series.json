@@ -1,0 +1,40 @@
+{
+  "id": "time_series",
+  "topics": [
+    "statistics"
+  ],
+  "translations": {
+    "en": {
+      "term": "Time Series",
+      "definition": "Data collected for the same variable at regular or stated points in time."
+    },
+    "pl": {
+      "term": "Szereg czasowy",
+      "definition": "Dane zebrane dla tej samej zmiennej w regularnych lub określonych momentach czasu."
+    },
+    "cy": {
+      "term": "Cyfres Amser",
+      "definition": "Data a gasglwyd ar gyfer yr un newidyn ar adegau rheolaidd neu benodol."
+    },
+    "ar": {
+      "term": "السلسلة الزمنية",
+      "definition": "بيانات تُجمع للمتغير نفسه في أوقات منتظمة أو محددة."
+    },
+    "ro": {
+      "term": "Serie de timp",
+      "definition": "Date colectate pentru aceeași variabilă la momente de timp regulate sau stabilite."
+    },
+    "prs": {
+      "term": "سری زمانی",
+      "definition": "معلوماتی که برای یک متحول در زمان‌های منظم یا معین جمع‌آوری شده‌اند."
+    },
+    "ps": {
+      "term": "وختي لړۍ",
+      "definition": "هغه معلومات چې د یو متحول لپاره په منظمو یا ټاکلو وختونو کې راټول شوي."
+    },
+    "es": {
+      "term": "Serie temporal",
+      "definition": "Datos recogidos para una misma variable en distintos momentos del tiempo."
+    }
+  }
+}

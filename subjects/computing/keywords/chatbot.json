@@ -31,6 +31,10 @@
     "ps": {
       "term": "چیټ بوټ",
       "definition": "هغه پروګرام چې د انساني خبرو اترو تقلید کوي، معمولاً د پیغامونو له لارې."
+    },
+    "es": {
+      "term": "Chatbot",
+      "definition": "Programa informático diseñado para simular una conversación con personas, a menudo usando procesamiento del lenguaje natural."
     }
   }
 }

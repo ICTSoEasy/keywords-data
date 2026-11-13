@@ -1,0 +1,40 @@
+{
+  "id": "octagon",
+  "topics": [
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Octagon",
+      "definition": "A polygon with 8 sides."
+    },
+    "pl": {
+      "term": "Ośmiokąt",
+      "definition": "Wielokąt o 8 bokach."
+    },
+    "cy": {
+      "term": "Octagon",
+      "definition": "Polygon ag 8 ochr."
+    },
+    "ar": {
+      "term": "المضلع الثماني",
+      "definition": "مضلع له 8 أضلاع."
+    },
+    "ro": {
+      "term": "Octogon",
+      "definition": "Un poligon cu 8 laturi."
+    },
+    "prs": {
+      "term": "هشت‌ضلعی",
+      "definition": "چندضلعی با 8 ضلع."
+    },
+    "ps": {
+      "term": "اته ضلعي",
+      "definition": "هغه څو ضلعي چې 8 غاړې لري."
+    },
+    "es": {
+      "term": "Octágono",
+      "definition": "Polígono de 8 lados."
+    }
+  }
+}

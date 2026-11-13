@@ -1,0 +1,40 @@
+{
+  "id": "edges",
+  "topics": [
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Edges",
+      "definition": "The lines where pairs of faces of a 3D shape meet."
+    },
+    "pl": {
+      "term": "Krawędzie",
+      "definition": "Linie, w których spotykają się pary ścian bryły."
+    },
+    "cy": {
+      "term": "Ymylon",
+      "definition": "Y llinellau lle mae parau o wynebau siâp 3D yn cyfarfod."
+    },
+    "ar": {
+      "term": "الأحرف",
+      "definition": "الخطوط التي يلتقي عندها كل وجهين من أوجه المجسّم."
+    },
+    "ro": {
+      "term": "Muchii",
+      "definition": "Liniile în care se întâlnesc perechi de fețe ale unui corp."
+    },
+    "prs": {
+      "term": "یال‌ها",
+      "definition": "خط‌هایی که جفت وجه‌های یک شکل سه‌بعدی در آن‌ها به هم می‌رسند."
+    },
+    "ps": {
+      "term": "څنډې",
+      "definition": "هغه کرښې چې د درې بُعدي بڼې د مخونو جوړې پکې سره یوځای کېږي."
+    },
+    "es": {
+      "term": "Aristas",
+      "definition": "Líneas donde se encuentran pares de caras de un cuerpo geométrico."
+    }
+  }
+}

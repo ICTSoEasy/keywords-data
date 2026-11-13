@@ -1,0 +1,40 @@
+{
+  "id": "impossible",
+  "topics": [
+    "probability"
+  ],
+  "translations": {
+    "en": {
+      "term": "Impossible",
+      "definition": "An event that cannot happen; its probability is 0."
+    },
+    "pl": {
+      "term": "Niemożliwe",
+      "definition": "Zdarzenie, które nie może nastąpić; jego prawdopodobieństwo wynosi 0."
+    },
+    "cy": {
+      "term": "Amhosibl",
+      "definition": "Digwyddiad na all ddigwydd; ei debygolrwydd yw 0."
+    },
+    "ar": {
+      "term": "مستحيل",
+      "definition": "حدث لا يمكن أن يقع؛ احتماله 0."
+    },
+    "ro": {
+      "term": "Imposibil",
+      "definition": "Un eveniment care nu se poate întâmpla; probabilitatea lui este 0."
+    },
+    "prs": {
+      "term": "ناممکن",
+      "definition": "رویدادی که نمی‌تواند اتفاق بیفتد؛ احتمال آن 0 است."
+    },
+    "ps": {
+      "term": "ناشونی",
+      "definition": "هغه پېښه چې نه شي پېښېدای؛ احتمال یې 0 دی."
+    },
+    "es": {
+      "term": "Imposible",
+      "definition": "Suceso que no puede ocurrir; su probabilidad es 0."
+    }
+  }
+}

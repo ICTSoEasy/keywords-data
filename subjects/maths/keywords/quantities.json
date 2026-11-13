@@ -1,0 +1,40 @@
+{
+  "id": "quantities",
+  "topics": [
+    "ratio"
+  ],
+  "translations": {
+    "en": {
+      "term": "Quantities",
+      "definition": "Amounts that can be measured or counted, such as length, time, mass or temperature."
+    },
+    "pl": {
+      "term": "Wielkości",
+      "definition": "Ilości, które można zmierzyć lub policzyć, na przykład długość, czas, masa czy temperatura."
+    },
+    "cy": {
+      "term": "Meintiau",
+      "definition": "Symiau y gellir eu mesur neu eu cyfrif, fel hyd, amser, màs neu dymheredd."
+    },
+    "ar": {
+      "term": "الكميات",
+      "definition": "مقادير يمكن قياسها أو عدّها، مثل الطول والزمن والكتلة ودرجة الحرارة."
+    },
+    "ro": {
+      "term": "Mărimi",
+      "definition": "Cantități care pot fi măsurate sau numărate, cum ar fi lungimea, timpul, masa sau temperatura."
+    },
+    "prs": {
+      "term": "مقدارها",
+      "definition": "مقدارهایی که می‌توان آن‌ها را اندازه گرفت یا شمرد، مانند طول، زمان، کتله یا درجهٔ حرارت."
+    },
+    "ps": {
+      "term": "مقدارونه",
+      "definition": "هغه اندازې چې اندازه کېدای یا شمېرل کېدای شي، لکه اوږدوالی، وخت، کتله یا د تودوخې درجه."
+    },
+    "es": {
+      "term": "Magnitudes",
+      "definition": "Cantidades que se pueden medir o contar, como longitud, tiempo, masa o temperatura."
+    }
+  }
+}

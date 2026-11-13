@@ -31,6 +31,10 @@
     "ps": {
       "term": "ډیجیټل توپیر",
       "definition": "د هغو خلکو تر منځ توپیر چې ټیکنالوژۍ ته لاسرسي لري او هغو چې نه لري."
+    },
+    "es": {
+      "term": "Brecha digital",
+      "definition": "La diferencia entre las personas que tienen acceso a la tecnología e internet y las que no."
     }
   }
 }

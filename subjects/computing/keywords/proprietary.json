@@ -32,6 +32,10 @@
     "ps": {
       "term": "خپلواک",
       "definition": "سافټویر چې د هغه سرچینه کوډ پټ وي او کارول یې جواز ته اړتیا لري."
+    },
+    "es": {
+      "term": "Software propietario",
+      "definition": "Software que pertenece a una empresa; los usuarios no pueden ver ni modificar el código fuente y deben aceptar una licencia."
     }
   }
 }

@@ -31,6 +31,10 @@
     "ps": {
       "term": "یونیکوډ",
       "definition": "د کوډینګ معیار چې نږدې د نړۍ هر ژبې هر کرکتر ته عددي کوډ ورکوي."
+    },
+    "es": {
+      "term": "Unicode",
+      "definition": "Estándar de codificación de caracteres que admite caracteres de todos los idiomas del mundo, más allá de ASCII."
     }
   }
 }

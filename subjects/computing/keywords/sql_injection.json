@@ -31,6 +31,10 @@
     "ps": {
       "term": "SQL انجکشن",
       "definition": "برید چې د ننوتنې ساحه کې ناوړه SQL کوډ داخلوي ترڅو ډیټابیس دستکاري کړي."
+    },
+    "es": {
+      "term": "Inyección SQL",
+      "definition": "Ataque en el que se introduce código SQL malicioso en un campo de entrada para manipular o acceder a una base de datos sin autorización."
     }
   }
 }

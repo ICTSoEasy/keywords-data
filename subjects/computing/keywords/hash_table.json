@@ -31,6 +31,10 @@
     "ps": {
       "term": "هیش جدول",
       "definition": "د معلوماتو جوړښت چې معلومات د کیلي له لارې ذخیره ځایونو ته نقشه کوي ترڅو ګړندی بیرته راوستل وشي."
+    },
+    "es": {
+      "term": "Tabla hash",
+      "definition": "Estructura de datos que guarda pares clave-valor y usa una función hash para encontrar rápidamente dónde está cada valor."
     }
   }
 }

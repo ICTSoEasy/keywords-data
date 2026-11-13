@@ -32,6 +32,10 @@
     "ps": {
       "term": "پوینټر",
       "definition": "متغیر چې د بل ارزښت د حافظې پته ذخیره کوي."
+    },
+    "es": {
+      "term": "Puntero",
+      "definition": "Variable que guarda la dirección de memoria de otra variable o estructura de datos."
     }
   }
 }

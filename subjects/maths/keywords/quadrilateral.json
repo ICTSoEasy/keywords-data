@@ -1,0 +1,40 @@
+{
+  "id": "quadrilateral",
+  "topics": [
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Quadrilateral",
+      "definition": "A polygon with four sides."
+    },
+    "pl": {
+      "term": "Czworokąt",
+      "definition": "Wielokąt o czterech bokach."
+    },
+    "cy": {
+      "term": "Pedrochr",
+      "definition": "Polygon â phedair ochr."
+    },
+    "ar": {
+      "term": "الشكل الرباعي",
+      "definition": "مضلع له أربعة أضلاع."
+    },
+    "ro": {
+      "term": "Patrulater",
+      "definition": "Un poligon cu patru laturi."
+    },
+    "prs": {
+      "term": "چهارضلعی",
+      "definition": "چندضلعی با چهار ضلع."
+    },
+    "ps": {
+      "term": "څلور ضلعي",
+      "definition": "هغه څو ضلعي چې څلور غاړې لري."
+    },
+    "es": {
+      "term": "Cuadrilátero",
+      "definition": "Polígono de cuatro lados."
+    }
+  }
+}

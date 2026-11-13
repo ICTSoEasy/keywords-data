@@ -31,6 +31,10 @@
     "ps": {
       "term": "ازموینه",
       "definition": "د دې چک کول چې آیا پروګرام سم کار کوي د بیلابیلو قضیو پر وړاندې د چلولو سره."
+    },
+    "es": {
+      "term": "Pruebas",
+      "definition": "Proceso de comprobar que un programa funciona correctamente y da los resultados esperados."
     }
   }
 }

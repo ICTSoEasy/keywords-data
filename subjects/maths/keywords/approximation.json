@@ -1,0 +1,40 @@
+{
+  "id": "approximation",
+  "topics": [
+    "number"
+  ],
+  "translations": {
+    "en": {
+      "term": "Approximation",
+      "definition": "A value that is close to the exact value but is easier to use."
+    },
+    "pl": {
+      "term": "Przybliżenie",
+      "definition": "Wartość bliska wartości dokładnej, ale łatwiejsza w użyciu."
+    },
+    "cy": {
+      "term": "Brasamcan",
+      "definition": "Gwerth sy'n agos at y gwerth union ond sy'n haws ei ddefnyddio."
+    },
+    "ar": {
+      "term": "القيمة التقريبية",
+      "definition": "قيمة قريبة من القيمة الدقيقة لكنها أسهل في الاستخدام."
+    },
+    "ro": {
+      "term": "Aproximare",
+      "definition": "O valoare apropiată de valoarea exactă, dar mai ușor de folosit."
+    },
+    "prs": {
+      "term": "مقدار تقریبی",
+      "definition": "مقداری که به مقدار دقیق نزدیک است ولی استفاده از آن آسان‌تر است."
+    },
+    "ps": {
+      "term": "تقریبي قیمت",
+      "definition": "یو قیمت چې دقیق قیمت ته نږدې وي خو کارول یې اسانه وي."
+    },
+    "es": {
+      "term": "Aproximación",
+      "definition": "Valor cercano al exacto, pero más sencillo de utilizar."
+    }
+  }
+}

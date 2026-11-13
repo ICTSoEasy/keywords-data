@@ -1,0 +1,40 @@
+{
+  "id": "triangle",
+  "topics": [
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Triangle",
+      "definition": "A polygon with three sides and three angles."
+    },
+    "pl": {
+      "term": "Trójkąt",
+      "definition": "Wielokąt o trzech bokach i trzech kątach."
+    },
+    "cy": {
+      "term": "Triongl",
+      "definition": "Polygon â thair ochr a thair ongl."
+    },
+    "ar": {
+      "term": "المثلث",
+      "definition": "مضلع له ثلاثة أضلاع وثلاث زوايا."
+    },
+    "ro": {
+      "term": "Triunghi",
+      "definition": "Un poligon cu trei laturi și trei unghiuri."
+    },
+    "prs": {
+      "term": "مثلث",
+      "definition": "چندضلعی با سه ضلع و سه زاویه."
+    },
+    "ps": {
+      "term": "مثلث",
+      "definition": "هغه څو ضلعي چې درې غاړې او درې زاویې لري."
+    },
+    "es": {
+      "term": "Triángulo",
+      "definition": "Polígono de tres lados y tres ángulos."
+    }
+  }
+}

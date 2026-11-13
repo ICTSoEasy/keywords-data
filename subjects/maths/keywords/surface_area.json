@@ -1,0 +1,40 @@
+{
+  "id": "surface_area",
+  "topics": [
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Surface Area",
+      "definition": "The total area of all the outside surfaces of a 3D shape."
+    },
+    "pl": {
+      "term": "Pole powierzchni",
+      "definition": "Całkowite pole wszystkich zewnętrznych powierzchni bryły."
+    },
+    "cy": {
+      "term": "Arwynebedd Arwyneb",
+      "definition": "Cyfanswm arwynebedd holl arwynebau allanol siâp 3D."
+    },
+    "ar": {
+      "term": "المساحة الكلية للسطح",
+      "definition": "مجموع مساحات جميع السطوح الخارجية للمجسّم."
+    },
+    "ro": {
+      "term": "Aria totală",
+      "definition": "Suma ariilor tuturor suprafețelor exterioare ale unui corp."
+    },
+    "prs": {
+      "term": "مساحت سطح",
+      "definition": "مجموع مساحت همهٔ سطوح بیرونی یک شکل سه‌بعدی."
+    },
+    "ps": {
+      "term": "د سطحې مساحت",
+      "definition": "د درې بُعدي بڼې د ټولو بهرنیو سطحو ټول مساحت."
+    },
+    "es": {
+      "term": "Área de la superficie",
+      "definition": "Área total de todas las superficies exteriores de un cuerpo tridimensional."
+    }
+  }
+}

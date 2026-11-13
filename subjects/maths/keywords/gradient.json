@@ -1,0 +1,41 @@
+{
+  "id": "gradient",
+  "topics": [
+    "algebra",
+    "ratio"
+  ],
+  "translations": {
+    "en": {
+      "term": "Gradient",
+      "definition": "A measure of how steep a line is. It is calculated as change in y divided by change in x."
+    },
+    "pl": {
+      "term": "Współczynnik kierunkowy",
+      "definition": "Miara nachylenia prostej. Oblicza się go jako zmianę y podzieloną przez zmianę x."
+    },
+    "cy": {
+      "term": "Graddiant",
+      "definition": "Mesur o ba mor serth yw llinell. Caiff ei gyfrifo fel y newid yng ngwerth y wedi'i rannu â'r newid yng ngwerth x."
+    },
+    "ar": {
+      "term": "الميل",
+      "definition": "مقياس لمدى انحدار الخط. يُحسب بقسمة التغير في y على التغير في x."
+    },
+    "ro": {
+      "term": "Pantă",
+      "definition": "O măsură a cât de înclinată este o dreaptă. Se calculează ca variația lui y împărțită la variația lui x."
+    },
+    "prs": {
+      "term": "میل",
+      "definition": "اندازه‌ای برای اینکه یک خط چقدر شیب دارد. با تقسیم تغییر y بر تغییر x محاسبه می‌شود."
+    },
+    "ps": {
+      "term": "میل",
+      "definition": "دا اندازه چې یوه کرښه څومره ښکته پورته ده. د y بدلون د x په بدلون وېشلو سره محاسبه کېږي."
+    },
+    "es": {
+      "term": "Pendiente",
+      "definition": "Medida de la inclinación de una recta. Se calcula dividiendo el cambio en y entre el cambio en x."
+    }
+  }
+}

@@ -31,6 +31,10 @@
     "ps": {
       "term": "فزیکي محاسبه",
       "definition": "د قابل پروګرام سخت‌افزار کارول ترڅو د سینسرونو او ایکچویټرونو له لارې فزیکي نړۍ سره اړیکه ولري."
+    },
+    "es": {
+      "term": "Computación física",
+      "definition": "Construir sistemas interactivos que pueden detectar el mundo real y responder a él, usando hardware como microcontroladores y sensores."
     }
   }
 }

@@ -1,0 +1,40 @@
+{
+  "id": "composite_functions",
+  "topics": [
+    "algebra"
+  ],
+  "translations": {
+    "en": {
+      "term": "Composite Functions",
+      "definition": "Functions used one after another, where the output of one function becomes the input of another."
+    },
+    "pl": {
+      "term": "Funkcje złożone",
+      "definition": "Funkcje stosowane jedna po drugiej, gdzie wynik jednej funkcji staje się argumentem drugiej."
+    },
+    "cy": {
+      "term": "Ffwythiannau Cyfansawdd",
+      "definition": "Ffwythiannau a ddefnyddir un ar ôl y llall, lle mae allbwn un ffwythiant yn dod yn fewnbwn i un arall."
+    },
+    "ar": {
+      "term": "الدوال المركّبة",
+      "definition": "دوال تُطبَّق واحدة بعد الأخرى، بحيث يصبح ناتج إحداها مدخلاً للأخرى."
+    },
+    "ro": {
+      "term": "Funcții compuse",
+      "definition": "Funcții aplicate una după alta, unde rezultatul unei funcții devine intrarea celeilalte."
+    },
+    "prs": {
+      "term": "توابع مرکب",
+      "definition": "توابعی که یکی پس از دیگری به کار می‌روند و خروجی یکی ورودی دیگری می‌شود."
+    },
+    "ps": {
+      "term": "مرکب تابعګانې",
+      "definition": "هغه تابعګانې چې یو د بل وروسته کارول کېږي، او د یوې پایله د بلې ننوتنه کېږي."
+    },
+    "es": {
+      "term": "Funciones compuestas",
+      "definition": "Funciones que se aplican una después de otra; el resultado de una se convierte en la entrada de la siguiente."
+    }
+  }
+}

@@ -31,6 +31,10 @@
     "ps": {
       "term": "رجسټر",
       "definition": "د CPU دننه کوچنی ګړندی ذخیره ځای چې د پروسس کیدونکو معلوماتو ساتنه کوي."
+    },
+    "es": {
+      "term": "Registro del procesador",
+      "definition": "Lugar de almacenamiento muy pequeño y rápido dentro de la CPU que guarda los datos y las instrucciones que se están procesando."
     }
   }
 }

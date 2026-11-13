@@ -36,6 +36,11 @@
         "code": "ps",
         "label": "پښتو",
         "english_label": "Pashto"
+      },
+      {
+        "code": "es",
+        "label": "Español",
+        "english_label": "Spanish"
       }
     ],
     "subject": {
@@ -48,7 +53,8 @@
         "ar": "الحوسبة",
         "ro": "Informatică",
         "prs": "کمپیوتر",
-        "ps": "کمپیوټر"
+        "ps": "کمپیوټر",
+        "es": "Informática"
       }
     }
   },
@@ -157,6 +163,21 @@
       "continue_subject": "دوام",
       "all_subjects": "ټول مضمونونه",
       "not_found": "پاڼه ونه موندل شوه"
+    },
+    "es": {
+      "site_title": "Palabras clave",
+      "site_subtitle": "Vocabulario de cada asignatura para todos",
+      "search_placeholder": "Buscar palabras clave…",
+      "all_topics": "Todos los temas",
+      "no_results": "No se han encontrado palabras clave. Prueba con otra búsqueda u otro tema.",
+      "no_translation": "Traducción aún no disponible",
+      "second_language": "Segundo idioma",
+      "footer_text": "Datos aportados por la comunidad.",
+      "footer_contribute": "Sugerir cambios en GitHub",
+      "choose_subject": "Elige una asignatura",
+      "continue_subject": "Continuar",
+      "all_subjects": "Todas las asignaturas",
+      "not_found": "Página no encontrada"
     }
   },
   "topics": [
@@ -170,7 +191,8 @@
         "ar": "الخوارزميات",
         "ro": "Algoritmi",
         "prs": "الگوریتم‌ها",
-        "ps": "الګوریتمونه"
+        "ps": "الګوریتمونه",
+        "es": "Algoritmos"
       }
     },
     {
@@ -183,7 +205,8 @@
         "ar": "البرمجة",
         "ro": "Programare",
         "prs": "برنامه‌نویسی",
-        "ps": "پروګرامینګ"
+        "ps": "پروګرامینګ",
+        "es": "Programación"
       }
     },
     {
@@ -196,7 +219,8 @@
         "ar": "التفكير الحاسوبي",
         "ro": "Gândire computațională",
         "prs": "تفکر محاسباتی",
-        "ps": "محاسباتي فکر"
+        "ps": "محاسباتي فکر",
+        "es": "Pensamiento computacional"
       }
     },
     {
@@ -209,7 +233,8 @@
         "ar": "تمثيل البيانات",
         "ro": "Reprezentarea datelor",
         "prs": "نمایش داده",
-        "ps": "د معلوماتو نمایش"
+        "ps": "د معلوماتو نمایش",
+        "es": "Representación de datos"
       }
     },
     {
@@ -222,7 +247,8 @@
         "ar": "الأجهزة وأنظمة الحاسوب",
         "ro": "Hardware și sisteme de calcul",
         "prs": "سخت‌افزار و سیستم‌های کامپیوتری",
-        "ps": "هارډویر او کمپیوټر سیستمونه"
+        "ps": "هارډویر او کمپیوټر سیستمونه",
+        "es": "Hardware y sistemas informáticos"
       }
     },
     {
@@ -235,7 +261,8 @@
         "ar": "البرمجيات",
         "ro": "Software",
         "prs": "نرم‌افزار",
-        "ps": "سافټویر"
+        "ps": "سافټویر",
+        "es": "Software"
       }
     },
     {
@@ -248,7 +275,8 @@
         "ar": "الشبكات",
         "ro": "Rețele",
         "prs": "شبکه‌بندی",
-        "ps": "شبکه‌بندي"
+        "ps": "شبکه‌بندي",
+        "es": "Redes"
       }
     },
     {
@@ -261,7 +289,8 @@
         "ar": "البيانات وقواعد البيانات",
         "ro": "Date și baze de date",
         "prs": "داده و پایگاه‌های داده",
-        "ps": "معلومات او ډیټابیسونه"
+        "ps": "معلومات او ډیټابیسونه",
+        "es": "Datos y bases de datos"
       }
     },
     {
@@ -274,7 +303,8 @@
         "ar": "الأمن والأمن الإلكتروني",
         "ro": "Securitate și securitate cibernetică",
         "prs": "امنیت و امنیت سایبری",
-        "ps": "امنیت او سایبر امنیت"
+        "ps": "امنیت او سایبر امنیت",
+        "es": "Seguridad y ciberseguridad"
       }
     },
     {
@@ -287,7 +317,8 @@
         "ar": "المنطق البولياني",
         "ro": "Logică booleană",
         "prs": "منطق بولی",
-        "ps": "بولیني منطق"
+        "ps": "بولیني منطق",
+        "es": "Lógica booleana"
       }
     },
     {
@@ -300,7 +331,8 @@
         "ar": "تطوير البرمجيات",
         "ro": "Dezvoltare software",
         "prs": "توسعه نرم‌افزار",
-        "ps": "د سافټویر پراختیا"
+        "ps": "د سافټویر پراختیا",
+        "es": "Desarrollo de software"
       }
     },
     {
@@ -313,7 +345,8 @@
         "ar": "هياكل البيانات",
         "ro": "Structuri de date",
         "prs": "ساختارهای داده",
-        "ps": "د معلوماتو جوړښتونه"
+        "ps": "د معلوماتو جوړښتونه",
+        "es": "Estructuras de datos"
       }
     },
     {
@@ -326,7 +359,8 @@
         "ar": "نظرية الحوسبة",
         "ro": "Teoria calculului",
         "prs": "نظریه محاسبات",
-        "ps": "د محاسبې نظریه"
+        "ps": "د محاسبې نظریه",
+        "es": "Teoría de la computación"
       }
     },
     {
@@ -339,7 +373,8 @@
         "ar": "القضايا الأخلاقية والقانونية",
         "ro": "Probleme etice și juridice",
         "prs": "مسائل اخلاقی و حقوقی",
-        "ps": "اخلاقي او قانوني مسائل"
+        "ps": "اخلاقي او قانوني مسائل",
+        "es": "Cuestiones éticas y legales"
       }
     },
     {
@@ -352,7 +387,8 @@
         "ar": "الذكاء الاصطناعي",
         "ro": "Inteligență artificială",
         "prs": "هوش مصنوعی",
-        "ps": "مصنوعي هوښیارتیا"
+        "ps": "مصنوعي هوښیارتیا",
+        "es": "Inteligencia artificial"
       }
     },
     {
@@ -365,7 +401,8 @@
         "ar": "الروبوتات والحوسبة الفيزيائية",
         "ro": "Robotică și calcul fizic",
         "prs": "رباتیک و محاسبات فیزیکی",
-        "ps": "روبوټیک او فزیکي محاسبه"
+        "ps": "روبوټیک او فزیکي محاسبه",
+        "es": "Robótica y computación física"
       }
     }
   ],
@@ -403,6 +440,10 @@
         "ps": {
           "term": "انتزاع",
           "definition": "پیچیده توضیحات پټول او یوازې هغه معلومات ښودل چې اړین دي."
+        },
+        "es": {
+          "term": "Abstracción",
+          "definition": "Eliminar los detalles innecesarios para centrarse en lo importante al resolver un problema."
         }
       }
     },
@@ -439,6 +480,10 @@
         "ps": {
           "term": "ایکچویټر",
           "definition": "هغه برخه چې د بریښنایي سیګنالونو څخه فزیکي حرکت جوړوي، لکه موتور یا سرو."
+        },
+        "es": {
+          "term": "Actuador",
+          "definition": "Dispositivo que convierte las señales eléctricas de un ordenador en movimiento o acción física, como un motor o un servo."
         }
       }
     },
@@ -475,6 +520,10 @@
         "ps": {
           "term": "اجایل",
           "definition": "د سافټویر پراختیا یوه لار چې کار کوچني برخو ته ویشل کیږي او منظم فیډبک اخیستل کیږي."
+        },
+        "es": {
+          "term": "Ágil",
+          "definition": "Enfoque flexible de desarrollo de software que trabaja en ciclos cortos, revisando y mejorando el producto con regularidad."
         }
       }
     },
@@ -512,6 +561,10 @@
         "ps": {
           "term": "د مصنوعي هوښیارتیا اخلاق",
           "definition": "هغه قوانین او ارزښتونه چې ډاډ ورکوي چې مصنوعي هوښیارتیا عادلانه او مسؤولانه کارول کیږي."
+        },
+        "es": {
+          "term": "Ética de la IA",
+          "definition": "Estudio de las cuestiones morales que plantea la inteligencia artificial, como el sesgo, la equidad, la responsabilidad y el impacto en el empleo."
         }
       }
     },
@@ -545,6 +598,10 @@
         "ps": {
           "term": "الګوریتم",
           "definition": "د یوې ستونزې د حل یا یوې دندې د سرته رسولو لپاره د ګام‌ونو لړۍ."
+        },
+        "es": {
+          "term": "Algoritmo",
+          "definition": "Conjunto de instrucciones paso a paso para resolver un problema o completar una tarea."
         }
       },
       "topics": [
@@ -585,6 +642,10 @@
         "ps": {
           "term": "د الګوریتم تعصب",
           "definition": "کله چې یو الګوریتم ناعادلانه پایلې ورکوي، معمولاً د ناقصو روزنیزو معلوماتو له امله."
+        },
+        "es": {
+          "term": "Sesgo algorítmico",
+          "definition": "Cuando un sistema de IA produce resultados injustos o discriminatorios porque los datos de entrenamiento o el diseño reflejan prejuicios existentes."
         }
       }
     },
@@ -621,6 +682,10 @@
         "ps": {
           "term": "د الګوریتم ډیزاین",
           "definition": "د کوډ لیکلو دمخه د یوې ستونزې د حل لپاره اړین ګامونو پلان جوړول."
+        },
+        "es": {
+          "term": "Diseño de algoritmos",
+          "definition": "Planificar la solución paso a paso de un problema antes de escribir código."
         }
       }
     },
@@ -657,6 +722,10 @@
         "ps": {
           "term": "AND ګیټ",
           "definition": "یو منطقي ګیټ چې یوازې هغه وخت ۱ ورکوي چې دواړه ننوتونه ۱ وي."
+        },
+        "es": {
+          "term": "Puerta AND",
+          "definition": "Puerta lógica cuya salida es 1 solo cuando todas sus entradas son 1."
         }
       }
     },
@@ -693,6 +762,10 @@
         "ps": {
           "term": "اپلیکیشن",
           "definition": "هغه سافټویر چې د کاروونکي لپاره یوه ځانګړې دنده سرته رساوي، لکه ورډ پروسیسر یا لوبه."
+        },
+        "es": {
+          "term": "Aplicación",
+          "definition": "Programa diseñado para ayudar a los usuarios a realizar una tarea concreta, como un procesador de textos o un navegador web."
         }
       }
     },
@@ -726,6 +799,10 @@
         "ps": {
           "term": "اری",
           "definition": "د یو ډول عناصرو ټولګه چې د شمیرل شوو ځایونو کې ذخیره کیږي."
+        },
+        "es": {
+          "term": "Array",
+          "definition": "Lista de valores guardados juntos bajo un mismo nombre, a los que se accede por su número de posición (índice)."
         }
       },
       "topics": [
@@ -765,6 +842,10 @@
         "ps": {
           "term": "مصنوعي هوښیارتیا",
           "definition": "د کمپیوټرونو وړتیا چې هغه دندې ترسره کړي چې معمولاً د انساني ذهن ته اړتیا لري."
+        },
+        "es": {
+          "term": "Inteligencia artificial",
+          "definition": "Capacidad de un sistema informático para realizar tareas que normalmente requieren inteligencia humana, como reconocer la voz o tomar decisiones."
         }
       }
     },
@@ -801,6 +882,10 @@
         "ps": {
           "term": "ASCII",
           "definition": "یو کوډینګ سیستم چې هر توری، عدد او نښه ته یو شمیر ورکوي."
+        },
+        "es": {
+          "term": "ASCII",
+          "definition": "Estándar que asigna un número único a cada carácter para que los ordenadores puedan guardar y compartir texto."
         }
       }
     },
@@ -838,6 +923,10 @@
         "ps": {
           "term": "اسمبلۍ ژبه",
           "definition": "ټیټ سطحې پروګرامینګ ژبه چې د ماشین کوډ پر ځای لنډ کوډونه کاروي خو بیا هم سخت‌افزار ته نږدې ده."
+        },
+        "es": {
+          "term": "Lenguaje ensamblador",
+          "definition": "Lenguaje de programación de bajo nivel que usa abreviaturas cortas (mnemónicos) para representar las instrucciones de código máquina de un procesador concreto."
         }
       }
     },
@@ -871,6 +960,10 @@
         "ps": {
           "term": "تصدیق",
           "definition": "د کارونکي هویت تایید کولو پروسه، معمولاً د پاسورډ یا د ګوتو د نښو له لارې."
+        },
+        "es": {
+          "term": "Autenticación",
+          "definition": "Proceso de comprobar que alguien es quien dice ser, por ejemplo mediante una contraseña o una huella dactilar."
         }
       },
       "topics": [
@@ -911,6 +1004,10 @@
         "ps": {
           "term": "اتوماسیون",
           "definition": "د کمپیوټرونو یا ماشینونو کارول ترڅو دندې پرته له انساني مداخلې اتوماتیک ترسره شي."
+        },
+        "es": {
+          "term": "Automatización",
+          "definition": "Uso de la tecnología para realizar tareas con la mínima intervención humana, a menudo sustituyendo procesos manuales repetitivos."
         }
       }
     },
@@ -944,6 +1041,10 @@
         "ps": {
           "term": "بینډوډث",
           "definition": "د معلوماتو اعظمي مقدار چې یو وخت کې د یوې شبکې له لارې لیږدول کیدی شي."
+        },
+        "es": {
+          "term": "Ancho de banda",
+          "definition": "Cantidad máxima de datos que pueden viajar por una conexión de red a la vez. Normalmente se mide en Mbps."
         }
       },
       "topics": [
@@ -984,6 +1085,10 @@
         "ps": {
           "term": "Big O نوټیشن",
           "definition": "د الګوریتم د چټکتیا یا حافظې اړتیا د بیانولو لار کله چې ننوتونه لوی شي."
+        },
+        "es": {
+          "term": "Notación O grande",
+          "definition": "Forma de describir cómo crecen las necesidades de tiempo o espacio de un algoritmo a medida que aumenta el tamaño de la entrada."
         }
       }
     },
@@ -1020,6 +1125,10 @@
         "ps": {
           "term": "بائنري",
           "definition": "د ۲ پر بنسټ د شمیرو سیستم چې ۰ او ۱ کاروي؛ د کمپیوټرونو بنسټیزه ژبه."
+        },
+        "es": {
+          "term": "Binario",
+          "definition": "Sistema numérico que usa solo 0 y 1 para representar todos los valores."
         }
       }
     },
@@ -1056,6 +1165,10 @@
         "ps": {
           "term": "بائنري لټون",
           "definition": "د لټون الګوریتم چې ترتیب شوې لیست د منځ نه نیمایي کوي ترڅو توکی وموندل شي."
+        },
+        "es": {
+          "term": "Búsqueda binaria",
+          "definition": "Algoritmo de búsqueda que divide repetidamente por la mitad una lista ordenada para encontrar un elemento; es mucho más rápido que la búsqueda lineal."
         }
       }
     },
@@ -1092,6 +1205,10 @@
         "ps": {
           "term": "بائنري ونه",
           "definition": "د ونې جوړښت چې هر نوډ لږ تر لږه دوه ماشومان لري."
+        },
+        "es": {
+          "term": "Árbol binario",
+          "definition": "Árbol en el que cada nodo tiene como máximo dos hijos, llamados hijo izquierdo e hijo derecho."
         }
       }
     },
@@ -1128,6 +1245,10 @@
         "ps": {
           "term": "بټ",
           "definition": "د کمپیوټر کې د معلوماتو کوچنۍ واحد — یو ۰ یا ۱ ارزښت."
+        },
+        "es": {
+          "term": "Bit",
+          "definition": "La unidad de datos más pequeña de un ordenador, con un valor de 0 o 1."
         }
       }
     },
@@ -1161,6 +1282,10 @@
         "ps": {
           "term": "بولیني",
           "definition": "د معلوماتو ډول چې یوازې دوه ممکنه ارزښتونه لري: ریښتیا (True) یا غلط (False)."
+        },
+        "es": {
+          "term": "Booleano",
+          "definition": "Valor que solo puede ser verdadero o falso. Se usa para tomar decisiones en los programas."
         }
       },
       "topics": [
@@ -1201,6 +1326,10 @@
         "ps": {
           "term": "بروټ فورس",
           "definition": "د ستونزې حل کولو لار چې ټولې ممکنه حلونه ازموي ترڅو سم ځواب وموندل شي."
+        },
+        "es": {
+          "term": "Ataque de fuerza bruta",
+          "definition": "Ataque que prueba todas las combinaciones posibles de contraseñas o claves hasta encontrar la correcta."
         }
       }
     },
@@ -1237,6 +1366,10 @@
         "ps": {
           "term": "بابل سورټ",
           "definition": "د ترتیب الګوریتم چې د لیست د ترتیب لپاره ګاونډي توکي پرتله کوي او بدلوي."
+        },
+        "es": {
+          "term": "Ordenamiento de burbuja",
+          "definition": "Algoritmo de ordenación que compara repetidamente elementos vecinos y los intercambia si están en el orden incorrecto."
         }
       }
     },
@@ -1273,6 +1406,10 @@
         "ps": {
           "term": "بس",
           "definition": "د کمپیوټر د تارونو ډله چې د بیلابیلو برخو تر منځ معلومات لیږدوي."
+        },
+        "es": {
+          "term": "Bus",
+          "definition": "Conjunto de cables dentro de un ordenador que transporta datos entre componentes. El bus de datos lleva datos, el bus de direcciones lleva posiciones de memoria y el bus de control lleva señales de control."
         }
       }
     },
@@ -1309,6 +1446,10 @@
         "ps": {
           "term": "بایټ",
           "definition": "د ۸ بټونو لخوا جوړه د معلوماتو واحد؛ د یوه توري لپاره کارول کیږي."
+        },
+        "es": {
+          "term": "Byte",
+          "definition": "Grupo de 8 bits que se usa para representar un solo carácter o un valor pequeño."
         }
       }
     },
@@ -1345,6 +1486,10 @@
         "ps": {
           "term": "کیش",
           "definition": "کوچنۍ ګړندۍ حافظه چې ډیر کارول شوي معلومات د پروسیسر سره نږدې ساتي."
+        },
+        "es": {
+          "term": "Caché",
+          "definition": "Tipo de memoria pequeña y muy rápida situada cerca de la CPU para acelerar el procesamiento."
         }
       }
     },
@@ -1381,6 +1526,10 @@
         "ps": {
           "term": "کاسټینګ",
           "definition": "د یوه ارزښت د معلوماتو د ډول بدلول، لکه عدد ته د متن بدلول."
+        },
+        "es": {
+          "term": "Conversión de tipos",
+          "definition": "Convertir un valor de un tipo de datos a otro, por ejemplo una cadena en un número entero."
         }
       }
     },
@@ -1417,6 +1566,10 @@
         "ps": {
           "term": "چیټ بوټ",
           "definition": "هغه پروګرام چې د انساني خبرو اترو تقلید کوي، معمولاً د پیغامونو له لارې."
+        },
+        "es": {
+          "term": "Chatbot",
+          "definition": "Programa informático diseñado para simular una conversación con personas, a menudo usando procesamiento del lenguaje natural."
         }
       }
     },
@@ -1453,6 +1606,10 @@
         "ps": {
           "term": "کلاس",
           "definition": "د شیانو د برنامه‌نویسۍ کې یو نمونه چې د شیانو ځانتیاوې او چلند تعریفوي."
+        },
+        "es": {
+          "term": "Clase",
+          "definition": "Plantilla para crear objetos. Define los atributos y métodos que tendrán todos los objetos de ese tipo."
         }
       }
     },
@@ -1489,6 +1646,10 @@
         "ps": {
           "term": "د ساعت سرعت",
           "definition": "د پروسیسر د لارښوونو د اجرا سرعت، چې ګیګاهرتز کې اندازه کیږي."
+        },
+        "es": {
+          "term": "Velocidad de reloj",
+          "definition": "Número de ciclos de instrucción que una CPU puede realizar por segundo, medido en GHz."
         }
       }
     },
@@ -1525,6 +1686,10 @@
         "ps": {
           "term": "کلاوډ کمپیوټینګ",
           "definition": "د انټرنیټ سرورونو کې د معلوماتو ذخیره او پروسس کول پر ځای د شخصي کمپیوټر."
+        },
+        "es": {
+          "term": "Computación en la nube",
+          "definition": "Uso de servidores remotos alojados en internet para guardar, gestionar y procesar datos en lugar de un ordenador local."
         }
       }
     },
@@ -1561,6 +1726,10 @@
         "ps": {
           "term": "د رنګ ژوروالی",
           "definition": "د هر پیکسل د رنګ د نمایش لپاره کارول شوي بټونو شمیر؛ ډیر بټونه یعنې ډیر رنګونه."
+        },
+        "es": {
+          "term": "Profundidad de color",
+          "definition": "Número de bits usados para guardar el color de un solo píxel. Una mayor profundidad de color permite más colores y un archivo más grande."
         }
       }
     },
@@ -1597,6 +1766,10 @@
         "ps": {
           "term": "کمپایلر",
           "definition": "هغه پروګرام چې لوړ سطحې کوډ د ماشین کوډ ته ژباړي چې کمپیوټر یې چلولی شي."
+        },
+        "es": {
+          "term": "Compilador",
+          "definition": "Programa que traduce todo un programa en lenguaje de alto nivel a código máquina antes de ejecutarlo."
         }
       }
     },
@@ -1633,6 +1806,10 @@
         "ps": {
           "term": "کمپریشن",
           "definition": "د ځای د سپمولو یا لیږد د چټکولو لپاره د فایل د اندازې کمول."
+        },
+        "es": {
+          "term": "Compresión",
+          "definition": "Reducir el tamaño de un archivo codificando los datos de forma más eficiente."
         }
       }
     },
@@ -1669,6 +1846,10 @@
         "ps": {
           "term": "د کمپیوټر لید",
           "definition": "د مصنوعي هوښیارتیا هغه شاخه چې کمپیوټرونو ته اجازه ورکوي انځورونه او ویډیوګانې وګوري او تفسیر کړي."
+        },
+        "es": {
+          "term": "Visión artificial",
+          "definition": "Campo de la IA que permite a los ordenadores interpretar y comprender imágenes y vídeos del mundo real."
         }
       }
     },
@@ -1706,6 +1887,10 @@
         "ps": {
           "term": "شرط",
           "definition": "هغه جمله چې ریښتیا یا غلط ارزیابي کیږي او د پروګرام د جریان کنترل لپاره کارول کیږي."
+        },
+        "es": {
+          "term": "Condición",
+          "definition": "Expresión que da como resultado verdadero o falso, usada para tomar decisiones en un programa."
         }
       }
     },
@@ -1742,6 +1927,10 @@
         "ps": {
           "term": "ثابت",
           "definition": "پروګرام کې یو ارزښت چې هیڅکله نه بدلیږي."
+        },
+        "es": {
+          "term": "Constante",
+          "definition": "Valor con nombre que se fija una vez y no puede cambiar mientras el programa se ejecuta."
         }
       }
     },
@@ -1778,6 +1967,10 @@
         "ps": {
           "term": "د کنترول سیستم",
           "definition": "هغه سیستم چې د یوه پروسې د اتوماتیک کنترول لپاره د سینسر ننوتونه کاروي."
+        },
+        "es": {
+          "term": "Sistema de control",
+          "definition": "Sistema que vigila las entradas y ajusta las salidas para lograr un resultado deseado, como un termostato que regula la temperatura."
         }
       }
     },
@@ -1814,6 +2007,10 @@
         "ps": {
           "term": "کاپي رایټ",
           "definition": "قانوني حق چې د خلاقیت کارونه لکه موسیقي، کتابونه یا سافټویر ساتي."
+        },
+        "es": {
+          "term": "Derechos de autor",
+          "definition": "Derecho legal que protege obras creativas como software, música o textos para que no se copien sin permiso."
         }
       }
     },
@@ -1850,6 +2047,10 @@
         "ps": {
           "term": "CPU",
           "definition": "د کمپیوټر اصلي برخه چې د پروګرام لارښوونې پروسس کوي؛ د کمپیوټر 'دماغ'."
+        },
+        "es": {
+          "term": "CPU",
+          "definition": "Unidad Central de Procesamiento; el chip principal que ejecuta las instrucciones en un ordenador."
         }
       }
     },
@@ -1886,6 +2087,10 @@
         "ps": {
           "term": "CRUD",
           "definition": "د ډیټابیس څلور اصلي عملیات: جوړول، لوستل، تازه کول او ړنګول."
+        },
+        "es": {
+          "term": "CRUD",
+          "definition": "Las cuatro operaciones básicas que se pueden hacer con los datos de una base de datos: crear, leer, actualizar y eliminar (Create, Read, Update, Delete)."
         }
       }
     },
@@ -1922,6 +2127,10 @@
         "ps": {
           "term": "سایبر برید",
           "definition": "د یوه کمپیوټر سیستم ته د زیان رسولو، غلا یا غیرقانوني لاسرسي لپاره قصدي هڅه."
+        },
+        "es": {
+          "term": "Ciberataque",
+          "definition": "Intento deliberado de personas o grupos de acceder sin permiso a los sistemas de información de otra persona u organización."
         }
       }
     },
@@ -1959,6 +2168,10 @@
         "ps": {
           "term": "د معلوماتو ساتنه",
           "definition": "هغه قوانین او میتودونه چې ډاډ ورکوي چې شخصي معلومات خوندي ساتل کیږي."
+        },
+        "es": {
+          "term": "Protección de datos",
+          "definition": "Leyes y prácticas que controlan cómo se recogen, guardan y usan los datos personales para proteger la privacidad de las personas."
         }
       }
     },
@@ -1995,6 +2208,10 @@
         "ps": {
           "term": "د معلوماتو ډول",
           "definition": "د معلوماتو کټګوري چې کمپیوټر ته وايي چې دا څنګه وساتي او پروسس کړي، لکه عدد یا متن."
+        },
+        "es": {
+          "term": "Tipo de datos",
+          "definition": "Clasificación que indica al ordenador qué clase de valor contiene una variable, como entero, cadena o booleano."
         }
       }
     },
@@ -2031,6 +2248,10 @@
         "ps": {
           "term": "د معلوماتو ډول (ډیټابیس)",
           "definition": "هغه مشخصه چې د ډیټابیس د یوه کالم کې د ذخیره شوو معلوماتو ډول تعریفوي."
+        },
+        "es": {
+          "term": "Tipo de datos de campo",
+          "definition": "Tipo de datos que puede contener un campo de una base de datos, como texto, entero, fecha o booleano."
         }
       }
     },
@@ -2068,6 +2289,10 @@
         "ps": {
           "term": "د معلوماتو اعتبار",
           "definition": "د دې چک کول چې ننوتي معلومات سم، بشپړ او منطقي وي."
+        },
+        "es": {
+          "term": "Validación de datos",
+          "definition": "Comprobaciones que aseguran que los datos introducidos en un sistema cumplen el formato, el tipo y el rango requeridos."
         }
       }
     },
@@ -2101,6 +2326,10 @@
         "ps": {
           "term": "ډیټابیس",
           "definition": "د معلوماتو منظمه ټولګه چې داسې ذخیره شوې چې لټون، تازه کول او مدیریت اسانه وي."
+        },
+        "es": {
+          "term": "Base de datos",
+          "definition": "Colección organizada de datos guardados para que se puedan buscar, consultar y gestionar fácilmente."
         }
       },
       "topics": [
@@ -2140,6 +2369,10 @@
         "ps": {
           "term": "DDoS برید",
           "definition": "د یوه ویب‌سایټ یا سرور ته د ډیر ټرافیک لیږل ترڅو دا بند کړي."
+        },
+        "es": {
+          "term": "Ataque DDoS",
+          "definition": "Ataque de denegación de servicio distribuido que satura un servidor con tráfico desde muchas fuentes para dejarlo inaccesible."
         }
       }
     },
@@ -2177,6 +2410,10 @@
         "ps": {
           "term": "ډیباګینګ",
           "definition": "د کوډ کې د غلطیو موندل او سمول."
+        },
+        "es": {
+          "term": "Depuración",
+          "definition": "Proceso de encontrar y corregir errores en un algoritmo o programa."
         }
       }
     },
@@ -2210,6 +2447,10 @@
         "ps": {
           "term": "تجزیه",
           "definition": "د یوې لویې پیچلې ستونزې کوچنیو او د اداره کولو وړ برخو ته ویشل."
+        },
+        "es": {
+          "term": "Descomposición",
+          "definition": "Dividir un problema grande en partes más pequeñas y manejables."
         }
       },
       "topics": [
@@ -2250,6 +2491,10 @@
         "ps": {
           "term": "لسیزه",
           "definition": "د ۱۰ پر بنسټ عادي د شمیرو سیستم چې ۰ تر ۹ پورې ارقام کاروي."
+        },
+        "es": {
+          "term": "Decimal",
+          "definition": "El sistema numérico habitual que usa los dígitos del 0 al 9, también llamado base 10."
         }
       }
     },
@@ -2286,6 +2531,10 @@
         "ps": {
           "term": "ډیجیټل توپیر",
           "definition": "د هغو خلکو تر منځ توپیر چې ټیکنالوژۍ ته لاسرسي لري او هغو چې نه لري."
+        },
+        "es": {
+          "term": "Brecha digital",
+          "definition": "La diferencia entre las personas que tienen acceso a la tecnología e internet y las que no."
         }
       }
     },
@@ -2322,6 +2571,10 @@
         "ps": {
           "term": "DNS",
           "definition": "هغه سیستم چې د ویب‌سایټ نومونه IP پتو ته ژباړي ترڅو براوزرونه یې ومومي."
+        },
+        "es": {
+          "term": "DNS",
+          "definition": "Sistema de Nombres de Dominio; traduce las direcciones web legibles por las personas en direcciones IP que los ordenadores pueden usar."
         }
       }
     },
@@ -2358,6 +2611,10 @@
         "ps": {
           "term": "اغیزمنتیا",
           "definition": "د الګوریتم وړتیا چې د لږ وخت یا حافظې کارولو سره ستونزه حل کړي."
+        },
+        "es": {
+          "term": "Eficiencia algorítmica",
+          "definition": "Medida de lo bien que un algoritmo usa el tiempo y la memoria, sobre todo a medida que crece el tamaño de la entrada."
         }
       }
     },
@@ -2394,6 +2651,10 @@
         "ps": {
           "term": "انکپسولیشن",
           "definition": "د شي د داخلي توضیحاتو پټول او یوازې هغه ښودل چې اړین وي."
+        },
+        "es": {
+          "term": "Encapsulamiento",
+          "definition": "Mantener juntos dentro de una clase los datos de un objeto y los métodos que los usan, ocultando los detalles internos al código exterior."
         }
       }
     },
@@ -2427,6 +2688,10 @@
         "ps": {
           "term": "انکریپشن",
           "definition": "معلومات یو پټ بڼې ته بدلول ترڅو غیرمجاز خلک یې ونه لوستلی شي."
+        },
+        "es": {
+          "term": "Cifrado",
+          "definition": "Proceso de codificar los datos para que solo quien tenga la clave correcta pueda leerlos."
         }
       },
       "topics": [
@@ -2466,6 +2731,10 @@
         "ps": {
           "term": "د چاپیریال اغیز",
           "definition": "د ټیکنالوژۍ اغیزې چاپیریال ته، د انرژۍ مصرف او بریښنایي کثافاتو سره."
+        },
+        "es": {
+          "term": "Impacto ambiental",
+          "definition": "Efecto que tienen sobre el medio ambiente la fabricación, el uso y la eliminación de la tecnología, incluido el consumo de energía y los residuos electrónicos."
         }
       }
     },
@@ -2502,6 +2771,10 @@
         "ps": {
           "term": "د راوړلو-ډیکوډ-اجرا دوره",
           "definition": "هغه تکراري ګامونه چې CPU د پروګرام لارښوونو د پروسس لپاره ترسره کوي."
+        },
+        "es": {
+          "term": "Ciclo de búsqueda, decodificación y ejecución",
+          "definition": "Proceso que la CPU repite sin parar: busca una instrucción en la memoria, la decodifica y luego la ejecuta."
         }
       }
     },
@@ -2538,6 +2811,10 @@
         "ps": {
           "term": "محدود حالت ماشین",
           "definition": "یو ماډل چې د سیستم چلند د محدودو ممکنه حالتونو په توګه ښیي."
+        },
+        "es": {
+          "term": "Máquina de estados finitos",
+          "definition": "Modelo de computación que pasa de un estado a otro dentro de un conjunto fijo de estados según las entradas; se usa para diseñar sistemas y reconocer patrones."
         }
       }
     },
@@ -2571,6 +2848,10 @@
         "ps": {
           "term": "فایروال",
           "definition": "د امنیت سیستم چې د شبکې ټرافیک نظارت او کنترول کوي ترڅو غیرمجاز لاسرسي مخنیوی وکړي."
+        },
+        "es": {
+          "term": "Cortafuegos",
+          "definition": "Sistema que vigila y controla el tráfico de red para bloquear el acceso no autorizado a un ordenador o una red."
         }
       },
       "topics": [
@@ -2610,6 +2891,10 @@
         "ps": {
           "term": "فلیټ فایل",
           "definition": "ساده ډیټابیس چې ټول معلومات د نورو جدولونو سره د اړیکې پرته یو جدول کې ذخیره کوي."
+        },
+        "es": {
+          "term": "Base de datos de archivo plano",
+          "definition": "Base de datos guardada en una sola tabla sin enlaces a otras tablas; es sencilla pero puede repetir datos."
         }
       }
     },
@@ -2648,6 +2933,10 @@
         "ps": {
           "term": "فلوچارټ",
           "definition": "هغه چارت چې د الګوریتم یا پروسې ګامونه د شکلونو او غشونو سره ښیي."
+        },
+        "es": {
+          "term": "Diagrama de flujo",
+          "definition": "Diagrama que usa formas y flechas para representar los pasos y las decisiones de un algoritmo o proceso."
         }
       }
     },
@@ -2684,6 +2973,10 @@
         "ps": {
           "term": "بهرنی کیلي",
           "definition": "د یوه جدول هغه ساحه چې د بل جدول اصلي کیلي ته اشاره کوي او جدولونه سره نښلوي."
+        },
+        "es": {
+          "term": "Clave foránea",
+          "definition": "Campo de una tabla que enlaza con la clave primaria de otra tabla, creando una relación entre ambas."
         }
       }
     },
@@ -2717,6 +3010,10 @@
         "ps": {
           "term": "فنکشن",
           "definition": "د کوډ یوه نومول شوې برخه چې ځانګړې دنده ترسره کوي او ډیری ځله یادیدلی شي."
+        },
+        "es": {
+          "term": "Función",
+          "definition": "Bloque de código reutilizable que realiza una tarea concreta. Se puede llamar por su nombre siempre que se necesite."
         }
       },
       "topics": [
@@ -2756,6 +3053,10 @@
         "ps": {
           "term": "GDPR",
           "definition": "د اروپا اتحادیې قانون چې کنترولوي سازمانونه شخصي معلومات څنګه راټولوي او کاروي."
+        },
+        "es": {
+          "term": "RGPD",
+          "definition": "Reglamento General de Protección de Datos; ley del Reino Unido y la UE que da a las personas derechos sobre sus datos personales y obliga a las organizaciones a tratarlos de forma responsable."
         }
       }
     },
@@ -2792,6 +3093,10 @@
         "ps": {
           "term": "عمومیت",
           "definition": "د بیلابیلو ستونزو تر منځ د مشترکو نمونو پیژندل ترڅو حلونه بیا وکارول شي."
+        },
+        "es": {
+          "term": "Generalización",
+          "definition": "Usar patrones encontrados en un problema para crear soluciones que funcionen en problemas parecidos."
         }
       }
     },
@@ -2828,6 +3133,10 @@
         "ps": {
           "term": "GPU",
           "definition": "ځانګړی چیپ چې د ګرافیک ګړندي رندر او موازي محاسبو لپاره ډیزاین شوی."
+        },
+        "es": {
+          "term": "GPU",
+          "definition": "Unidad de Procesamiento Gráfico; chip diseñado para manejar imágenes, vídeo y gráficos en 3D."
         }
       }
     },
@@ -2864,6 +3173,10 @@
         "ps": {
           "term": "ګراف",
           "definition": "د معلوماتو جوړښت چې د نوډونو (وریکسونو) او د دوی تر منځ اړیکو (اضلاعو) لخوا جوړ شوی."
+        },
+        "es": {
+          "term": "Grafo",
+          "definition": "Estructura de datos formada por nodos (vértices) unidos por aristas; se usa para modelar redes y relaciones."
         }
       }
     },
@@ -2900,6 +3213,10 @@
         "ps": {
           "term": "د ودریدو ستونزه",
           "definition": "ثابته ستونزه چې دا ناممکنه ده چې داسې پروګرام ولیکل شي چې ووايي آیا بل هر پروګرام به ودریږي که تل به چلیږي."
+        },
+        "es": {
+          "term": "Problema de la parada",
+          "definition": "Problema famoso que demuestra que ningún algoritmo puede determinar siempre si un programa cualquiera terminará o seguirá ejecutándose para siempre."
         }
       }
     },
@@ -2936,6 +3253,10 @@
         "ps": {
           "term": "هیش جدول",
           "definition": "د معلوماتو جوړښت چې معلومات د کیلي له لارې ذخیره ځایونو ته نقشه کوي ترڅو ګړندی بیرته راوستل وشي."
+        },
+        "es": {
+          "term": "Tabla hash",
+          "definition": "Estructura de datos que guarda pares clave-valor y usa una función hash para encontrar rápidamente dónde está cada valor."
         }
       }
     },
@@ -2972,6 +3293,10 @@
         "ps": {
           "term": "هگزاډیسیمل",
           "definition": "د ۱۶ پر بنسټ د شمیرو سیستم چې ۰-۹ او A-F کاروي؛ اکثراً د رنګونو او د حافظې پتو ښودلو لپاره."
+        },
+        "es": {
+          "term": "Hexadecimal",
+          "definition": "Sistema numérico en base 16 que usa los dígitos del 0 al 9 y las letras de la A a la F; se usa a menudo para representar valores binarios de forma más breve."
         }
       }
     },
@@ -3009,6 +3334,10 @@
         "ps": {
           "term": "لوړ سطحې ژبه",
           "definition": "د پروګرامینګ ژبه چې د انساني ژبې ته نږدې ده او لوستل او لیکل یې اسانه دي، لکه Python یا Java."
+        },
+        "es": {
+          "term": "Lenguaje de alto nivel",
+          "definition": "Lenguaje de programación con una sintaxis fácil de leer para las personas e independiente del hardware en el que se ejecuta."
         }
       }
     },
@@ -3045,6 +3374,10 @@
         "ps": {
           "term": "HTTP",
           "definition": "هغه پروتوکول چې د سرور نه مرورگر ته د ویب پاڼو لیږلو لپاره کارول کیږي."
+        },
+        "es": {
+          "term": "HTTP",
+          "definition": "Protocolo de Transferencia de Hipertexto; conjunto de reglas para transferir páginas web por internet."
         }
       }
     },
@@ -3082,6 +3415,10 @@
         "ps": {
           "term": "HTTPS",
           "definition": "د HTTP خوندي نسخه چې معلومات انکریپټ کوي ترڅو لیږد خوندي وي."
+        },
+        "es": {
+          "term": "HTTPS",
+          "definition": "Versión segura de HTTP que cifra los datos enviados entre un navegador y un sitio web para protegerlos de ser interceptados."
         }
       }
     },
@@ -3119,6 +3456,10 @@
         "ps": {
           "term": "IDE",
           "definition": "هغه سافټویر چې د پروګرامینګ وسایل — ایډیټر، ډیباګر او کمپایلر — یو ځای کې یوځای کوي."
+        },
+        "es": {
+          "term": "IDE",
+          "definition": "Entorno de Desarrollo Integrado. Programa que reúne un editor de código, un comprobador de errores y un depurador para ayudar a escribir software."
         }
       }
     },
@@ -3155,6 +3496,10 @@
         "ps": {
           "term": "میراث",
           "definition": "د شیانو پروګرامینګ کې، کله چې یوه کلاس د بلې کلاس ځانتیاوې او چلند میراث ولري."
+        },
+        "es": {
+          "term": "Herencia",
+          "definition": "Cuando una clase adopta los atributos y métodos de otra clase. La nueva clase se llama subclase."
         }
       }
     },
@@ -3191,6 +3536,10 @@
         "ps": {
           "term": "ننوتنه",
           "definition": "هغه معلومات چې کمپیوټر یا پروګرام ته ننوځي، لکه د کیبورډ لیکل یا د ماوس کلیک."
+        },
+        "es": {
+          "term": "Entrada",
+          "definition": "Datos que introduce en un programa un usuario u otro sistema."
         }
       }
     },
@@ -3227,6 +3576,10 @@
         "ps": {
           "term": "د ننوتنې وسیله",
           "definition": "د سخت‌افزار هغه برخه چې معلومات کمپیوټر ته لیږي، لکه کیبورډ یا ماوس."
+        },
+        "es": {
+          "term": "Dispositivo de entrada",
+          "definition": "Hardware que se usa para enviar datos a un ordenador, como un teclado o un ratón."
         }
       }
     },
@@ -3263,6 +3616,10 @@
         "ps": {
           "term": "انسرشن سورټ",
           "definition": "د ترتیب الګوریتم چې توکي یو یو سم ځای ته داخلوي."
+        },
+        "es": {
+          "term": "Ordenamiento por inserción",
+          "definition": "Algoritmo de ordenación que construye una lista ordenada elemento a elemento, colocando cada nuevo elemento en su posición correcta."
         }
       }
     },
@@ -3299,6 +3656,10 @@
         "ps": {
           "term": "انټرنیټ",
           "definition": "د کمپیوټرونو او نورو وسیلو نړیواله شبکه چې د معیاري پروتوکولونو له لارې سره وصل دي."
+        },
+        "es": {
+          "term": "Internet",
+          "definition": "Sistema mundial de redes de ordenadores interconectadas que permite compartir datos en todo el mundo."
         }
       }
     },
@@ -3335,6 +3696,10 @@
         "ps": {
           "term": "انټرپریټر",
           "definition": "هغه پروګرام چې لوړ سطحې کوډ کرښه‌کرښه اجرا کوي پرته لدې چې لومړی یې ژباړي."
+        },
+        "es": {
+          "term": "Intérprete",
+          "definition": "Programa que traduce y ejecuta un programa en lenguaje de alto nivel línea por línea."
         }
       }
     },
@@ -3371,6 +3736,10 @@
         "ps": {
           "term": "ناحل‌کیدونکی",
           "definition": "ستونزه چې د ننوتنې د لوییدلو سره د معقول وخت کې د حل لپاره الګوریتم نشته."
+        },
+        "es": {
+          "term": "Problema intratable",
+          "definition": "Problema que no se puede resolver en un tiempo razonable a medida que crece la entrada; no se conoce ningún algoritmo eficiente."
         }
       }
     },
@@ -3404,6 +3773,10 @@
         "ps": {
           "term": "IP پته",
           "definition": "ځانګړی عددي پیژندنه چې د شبکې سره وصل هرې وسیلې ته ورکول کیږي."
+        },
+        "es": {
+          "term": "Dirección IP",
+          "definition": "Número único que identifica un dispositivo en una red, como una dirección postal pero para ordenadores."
         }
       },
       "topics": [
@@ -3440,6 +3813,10 @@
         "ps": {
           "term": "تکرار",
           "definition": "د یوه کوډ بلاک مکرر اجرا د لوپ له لارې."
+        },
+        "es": {
+          "term": "Iteración",
+          "definition": "Repetir un conjunto de instrucciones un número de veces o hasta que se cumpla una condición. También se llama bucle."
         }
       },
       "topics": [
@@ -3479,6 +3856,10 @@
         "ps": {
           "term": "LAN",
           "definition": "شبکه چې وسیلې د یوه کوچني سیمه کې لکه کور یا ښوونځی سره وصلوي."
+        },
+        "es": {
+          "term": "LAN",
+          "definition": "Red de Área Local; conecta dispositivos dentro de una zona pequeña, como un edificio escolar o una oficina."
         }
       }
     },
@@ -3515,6 +3896,10 @@
         "ps": {
           "term": "خطي لټون",
           "definition": "د لیست لټون د هر توکي یو یو چک کولو سره ترڅو هغه ومومو چې لټوو یې."
+        },
+        "es": {
+          "term": "Búsqueda lineal",
+          "definition": "Algoritmo de búsqueda que revisa cada elemento de una lista uno a uno hasta encontrar el objetivo o llegar al final."
         }
       }
     },
@@ -3551,6 +3936,10 @@
         "ps": {
           "term": "لینک لیست",
           "definition": "د معلوماتو جوړښت چې هر عنصر بل ته اشاره کوي او یوه زنځیره جوړوي."
+        },
+        "es": {
+          "term": "Lista enlazada",
+          "definition": "Estructura de datos formada por nodos, en la que cada nodo guarda un valor y un puntero al siguiente nodo."
         }
       }
     },
@@ -3588,6 +3977,10 @@
         "ps": {
           "term": "منطقي تیروتنه",
           "definition": "د کوډ کې یوه غلطي چې پروګرام بې له کریش پرمخ ځي خو ناسمې پایلې ورکوي."
+        },
+        "es": {
+          "term": "Error lógico",
+          "definition": "Fallo en el diseño de un programa que hace que se ejecute pero dé resultados incorrectos."
         }
       }
     },
@@ -3624,6 +4017,10 @@
         "ps": {
           "term": "منطقي ګیټ",
           "definition": "بنسټیز سرکټ چې بولیني منطقي عملیات ترسره کوي، لکه AND، OR یا NOT."
+        },
+        "es": {
+          "term": "Puerta lógica",
+          "definition": "Componente electrónico que realiza una operación booleana básica con una o más entradas binarias para producir una salida."
         }
       }
     },
@@ -3660,6 +4057,10 @@
         "ps": {
           "term": "منطقي استدلال",
           "definition": "د منطق د قوانینو کارول ترڅو د موجودو معلوماتو نه پایلو ته ورسیږو."
+        },
+        "es": {
+          "term": "Razonamiento lógico",
+          "definition": "Pensar de forma clara y paso a paso para resolver un problema y llegar a una conclusión."
         }
       }
     },
@@ -3696,6 +4097,10 @@
         "ps": {
           "term": "لوپ",
           "definition": "جوړښت چې د یوه کوډ بلاک ډیری ځله چلوي ترڅو یو شرط پوره شي."
+        },
+        "es": {
+          "term": "Bucle",
+          "definition": "Bloque de código que se repite hasta que se cumple una condición o un número fijo de veces."
         }
       }
     },
@@ -3732,6 +4137,10 @@
         "ps": {
           "term": "بې له ضیاع فشردول",
           "definition": "فشردول چې اصلي فایل کاملاً بیرته راوستل کیدی شي."
+        },
+        "es": {
+          "term": "Compresión sin pérdida",
+          "definition": "Método de compresión que reduce el tamaño del archivo sin perder datos, de modo que el original se puede recuperar por completo."
         }
       }
     },
@@ -3768,6 +4177,10 @@
         "ps": {
           "term": "د ضیاع سره فشردول",
           "definition": "فشردول چې د کوچنیو فایلونو لپاره ځینې معلومات لرې کوي."
+        },
+        "es": {
+          "term": "Compresión con pérdida",
+          "definition": "Método de compresión que elimina definitivamente algunos datos para reducir el tamaño del archivo, con una pérdida de calidad."
         }
       }
     },
@@ -3805,6 +4218,10 @@
         "ps": {
           "term": "ټیټ سطحې ژبه",
           "definition": "د پروګرامینګ ژبه چې سخت‌افزار ته نږدې ده، لکه اسمبلۍ ژبه یا ماشین کوډ."
+        },
+        "es": {
+          "term": "Lenguaje de bajo nivel",
+          "definition": "Lenguaje de programación muy ligado al conjunto de instrucciones de un procesador concreto, como el lenguaje ensamblador."
         }
       }
     },
@@ -3841,6 +4258,10 @@
         "ps": {
           "term": "MAC پته",
           "definition": "ځانګړی سخت‌افزاري پیژندنه چې هرې د شبکې وسیلې ته ورکول کیږي."
+        },
+        "es": {
+          "term": "Dirección MAC",
+          "definition": "Identificador único asignado de forma permanente a una tarjeta de red. Se usa para identificar dispositivos en una red local. Viene de Media Access Control."
         }
       }
     },
@@ -3878,6 +4299,10 @@
         "ps": {
           "term": "ماشین کوډ",
           "definition": "دوه‌اره لارښوونې چې CPU مستقیم اجرا کولی شي."
+        },
+        "es": {
+          "term": "Código máquina",
+          "definition": "Instrucciones escritas en binario que una CPU puede entender y ejecutar directamente."
         }
       }
     },
@@ -3914,6 +4339,10 @@
         "ps": {
           "term": "د ماشین زده‌کړه",
           "definition": "د مصنوعي هوښیارتیا یو ډول چې کمپیوټرونه له معلوماتو زده کوي پرته له دقیق پروګرام کولو."
+        },
+        "es": {
+          "term": "Aprendizaje automático",
+          "definition": "Tipo de IA en el que un ordenador aprende a tomar decisiones encontrando patrones en los datos en lugar de recibir instrucciones explícitas."
         }
       }
     },
@@ -3950,6 +4379,10 @@
         "ps": {
           "term": "د ساتنې وړتیا",
           "definition": "د کوډ د پوهیدلو، تازه کولو او د غلطیو د سملو اسانتیا."
+        },
+        "es": {
+          "term": "Mantenibilidad",
+          "definition": "Facilidad con la que los desarrolladores pueden entender, actualizar y corregir un programa con el tiempo."
         }
       }
     },
@@ -3983,6 +4416,10 @@
         "ps": {
           "term": "مالویر",
           "definition": "ناوړه سافټویر چې د کمپیوټرونو ته د زیان رسولو یا د معلوماتو د غلا لپاره ډیزاین شوی، لکه ویروسونه."
+        },
+        "es": {
+          "term": "Malware",
+          "definition": "Software diseñado para dañar un ordenador, robar datos u obtener acceso no autorizado. Incluye virus, ransomware y spyware."
         }
       },
       "topics": [
@@ -4022,6 +4459,10 @@
         "ps": {
           "term": "مرج سورټ",
           "definition": "د ترتیب الګوریتم چې لیست نیمایي کوي، هره نیمه ترتیبوي، بیا یوځای کوي."
+        },
+        "es": {
+          "term": "Ordenamiento por mezcla",
+          "definition": "Algoritmo de ordenación que divide una lista por la mitad repetidamente, ordena cada mitad y luego las vuelve a unir en orden."
         }
       }
     },
@@ -4058,6 +4499,10 @@
         "ps": {
           "term": "میتود",
           "definition": "هغه فنکشن چې یوې کلاس پورې اړه لري او د هغې کلاس شیانو چلند تعریفوي."
+        },
+        "es": {
+          "term": "Método",
+          "definition": "Función que pertenece a una clase u objeto y define lo que el objeto puede hacer."
         }
       }
     },
@@ -4095,6 +4540,10 @@
         "ps": {
           "term": "مایکروبیت",
           "definition": "د پروګرامینګ او فزیکي زده‌کړې لپاره ډیزاین شوی کوچنی تک‌بورډ کمپیوټر."
+        },
+        "es": {
+          "term": "micro:bit",
+          "definition": "Pequeño dispositivo programable diseñado para ayudar a los jóvenes a aprender informática, con sensores, LED y conexión inalámbrica integrados."
         }
       }
     },
@@ -4132,6 +4581,10 @@
         "ps": {
           "term": "مایکروکنټرولر",
           "definition": "کوچنی کمپیوټر چې د بریښنایي وسیلو کې د یوه ځانګړي کار کنترول لپاره کارول کیږي."
+        },
+        "es": {
+          "term": "Microcontrolador",
+          "definition": "Pequeño ordenador en un solo chip que puede leer entradas de sensores y controlar salidas; se usa mucho en proyectos de computación física."
         }
       }
     },
@@ -4168,6 +4621,10 @@
         "ps": {
           "term": "مدربورډ",
           "definition": "د کمپیوټر اصلي بورډ چې CPU، حافظه او نورې برخې سره وصلوي."
+        },
+        "es": {
+          "term": "Placa base",
+          "definition": "La placa de circuito principal que conecta entre sí todos los componentes de un ordenador."
         }
       }
     },
@@ -4204,6 +4661,10 @@
         "ps": {
           "term": "NAND ګیټ",
           "definition": "منطقي ګیټ چې د AND پایله معکوسوي؛ که دواړه ننوتونه ۱ وي، پایله ۰ ده."
+        },
+        "es": {
+          "term": "Puerta NAND",
+          "definition": "Puerta lógica cuya salida es 0 solo cuando todas las entradas son 1; es lo contrario de una puerta AND."
         }
       }
     },
@@ -4240,6 +4701,10 @@
         "ps": {
           "term": "د طبیعي ژبې پروسس کول",
           "definition": "د مصنوعي هوښیارتیا هغه شاخه چې کمپیوټرونو ته اجازه ورکوي انساني ژبه وپوهي او پروسس یې کړي."
+        },
+        "es": {
+          "term": "Procesamiento del lenguaje natural",
+          "definition": "Rama de la IA que permite a los ordenadores entender, interpretar y generar el lenguaje humano."
         }
       }
     },
@@ -4276,6 +4741,10 @@
         "ps": {
           "term": "شبکه",
           "definition": "د وصل شوو وسیلو ډله چې معلومات شریکولی شي."
+        },
+        "es": {
+          "term": "Red",
+          "definition": "Dos o más ordenadores conectados entre sí para compartir datos y recursos."
         }
       }
     },
@@ -4312,6 +4781,10 @@
         "ps": {
           "term": "د شبکې سویچ",
           "definition": "وسیله چې د شبکې وسیلې سره وصلوي او ټرافیک یوازې مشخص منزل ته لارښوونه کوي."
+        },
+        "es": {
+          "term": "Switch",
+          "definition": "Dispositivo de red que conecta equipos en una LAN y envía los datos solo al dispositivo al que van dirigidos, a diferencia de un hub, que los envía a todos."
         }
       }
     },
@@ -4348,6 +4821,10 @@
         "ps": {
           "term": "عصبي شبکه",
           "definition": "د مصنوعي هوښیارتیا سیستم چې د دماغ د جوړښت پر بنسټ دی او له روزنیزو معلوماتو زده کوي."
+        },
+        "es": {
+          "term": "Red neuronal",
+          "definition": "Sistema de IA inspirado de forma general en el cerebro humano, formado por capas de nodos conectados que procesan datos y aprenden de ellos."
         }
       }
     },
@@ -4384,6 +4861,10 @@
         "ps": {
           "term": "NOR ګیټ",
           "definition": "منطقي ګیټ چې د OR پایله معکوسوي؛ یوازې کله چې دواړه ننوتونه ۰ وي، پایله ۱ ده."
+        },
+        "es": {
+          "term": "Puerta NOR",
+          "definition": "Puerta lógica cuya salida es 1 solo cuando todas las entradas son 0; es lo contrario de una puerta OR."
         }
       }
     },
@@ -4420,6 +4901,10 @@
         "ps": {
           "term": "نورمالایزیشن",
           "definition": "د ډیټابیس تنظیم ترڅو تکرار کم کړي او د معلوماتو یکپارچتیا ښه کړي."
+        },
+        "es": {
+          "term": "Normalización",
+          "definition": "Proceso de organizar una base de datos para reducir la repetición de datos y mejorar su integridad."
         }
       }
     },
@@ -4456,6 +4941,10 @@
         "ps": {
           "term": "NOT ګیټ",
           "definition": "منطقي ګیټ چې ننوتنه معکوسوي: ۱ ننوتنه ۰ پایله ورکوي او برعکس."
+        },
+        "es": {
+          "term": "Puerta NOT",
+          "definition": "Puerta lógica que invierte su entrada: da 1 si la entrada es 0, y 0 si la entrada es 1."
         }
       }
     },
@@ -4492,6 +4981,10 @@
         "ps": {
           "term": "شی",
           "definition": "د شیانو پروګرامینګ کې، د یوې کلاس نمونه چې خپل معلومات او چلند لري."
+        },
+        "es": {
+          "term": "Objeto",
+          "definition": "Instancia de una clase. Tiene atributos (datos) y métodos (acciones) definidos por su clase."
         }
       }
     },
@@ -4529,6 +5022,10 @@
         "ps": {
           "term": "خلاص سرچینه",
           "definition": "سافټویر چې د هر چا لپاره موجود وي ترڅو یې وګوري، بدل کړي او خپور کړي."
+        },
+        "es": {
+          "term": "Código abierto",
+          "definition": "Software cuyo código fuente está disponible libremente para que cualquiera lo vea, use, modifique y comparta."
         }
       }
     },
@@ -4566,6 +5063,10 @@
         "ps": {
           "term": "د خلاصې سرچینې جواز",
           "definition": "قانوني جواز چې د خلاصې سرچینې سافټویر د کارولو، بدلولو او خپرولو شرایط تعریفوي."
+        },
+        "es": {
+          "term": "Licencia de código abierto",
+          "definition": "Licencia que permite usar, modificar y compartir software libremente, con condiciones que dependen de cada licencia."
         }
       }
     },
@@ -4602,6 +5103,10 @@
         "ps": {
           "term": "عملیاتي سیستم",
           "definition": "سافټویر چې د کمپیوټر سخت‌افزار او نرم‌افزار اداره کوي، لکه Windows یا Linux."
+        },
+        "es": {
+          "term": "Sistema operativo",
+          "definition": "Software que gestiona el hardware de un ordenador y ofrece servicios para que funcionen otros programas."
         }
       }
     },
@@ -4638,6 +5143,10 @@
         "ps": {
           "term": "آپریټر",
           "definition": "نښه چې د ارزښتونو پر مخ عملیات ترسره کوي، لکه + د جمع لپاره یا == د پرتله کولو لپاره."
+        },
+        "es": {
+          "term": "Operador",
+          "definition": "Símbolo que realiza una operación con valores, como + para sumar o == para comparar."
         }
       }
     },
@@ -4674,6 +5183,10 @@
         "ps": {
           "term": "OR ګیټ",
           "definition": "منطقي ګیټ چې که لږترلږه یو ننوتنه ۱ وي، پایله ۱ ده."
+        },
+        "es": {
+          "term": "Puerta OR",
+          "definition": "Puerta lógica cuya salida es 1 cuando al menos una de sus entradas es 1."
         }
       }
     },
@@ -4710,6 +5223,10 @@
         "ps": {
           "term": "وتنه",
           "definition": "هغه پایله چې کمپیوټر یا پروګرام جوړوي، لکه د سکرین پر متن یا د سپیکرونو غږ."
+        },
+        "es": {
+          "term": "Salida",
+          "definition": "Información que produce un programa, como un texto que aparece en pantalla."
         }
       }
     },
@@ -4746,6 +5263,10 @@
         "ps": {
           "term": "د وتنې وسیله",
           "definition": "د سخت‌افزار هغه برخه چې کمپیوټر نه کارونکي ته معلومات لیږي، لکه مانیټر یا پرنټر."
+        },
+        "es": {
+          "term": "Dispositivo de salida",
+          "definition": "Hardware que recibe datos de un ordenador, como un monitor o una impresora."
         }
       }
     },
@@ -4779,6 +5300,10 @@
         "ps": {
           "term": "پاکیټ",
           "definition": "د معلوماتو کوچنۍ برخه چې انټرنیټ له لارې لیږل کیږي؛ لوی فایلونه کوچنیو پاکیټونو ته ویشل کیږي."
+        },
+        "es": {
+          "term": "Paquete",
+          "definition": "Pequeño fragmento de datos que se envía por una red. Los archivos grandes se dividen automáticamente en muchos paquetes."
         }
       },
       "topics": [
@@ -4818,6 +5343,10 @@
         "ps": {
           "term": "پاکیټ سویچینګ",
           "definition": "د معلوماتو د لیږلو لار چې دا کوچنیو پاکیټونو ته ویشي او هر یو مستقل لاره نیسي."
+        },
+        "es": {
+          "term": "Conmutación de paquetes",
+          "definition": "Método de enviar datos dividiéndolos en pequeños paquetes que viajan de forma independiente por la red y se vuelven a unir en el destino."
         }
       }
     },
@@ -4854,6 +5383,10 @@
         "ps": {
           "term": "پارامیټر",
           "definition": "متغیر چې د فنکشن تعریف کې کارول کیږي او کله چې فنکشن یادیږي ارزښت اخلي."
+        },
+        "es": {
+          "term": "Parámetro",
+          "definition": "Variable que se pasa a una función para darle los datos con los que trabajar."
         }
       }
     },
@@ -4891,6 +5424,10 @@
         "ps": {
           "term": "پیچ",
           "definition": "د سافټویر تازه‌کول چې غلطۍ سموي یا د امنیت زیانمنتیاوې بندوي."
+        },
+        "es": {
+          "term": "Parche de software",
+          "definition": "Actualización que publican los desarrolladores para corregir vulnerabilidades de seguridad o errores de un programa."
         }
       }
     },
@@ -4927,6 +5464,10 @@
         "ps": {
           "term": "د نمونو پیژندنه",
           "definition": "د ستونزو کې د ورته‌والیو، رجحاناتو یا تکراري نمونو پیژندل ترڅو د حل لپاره مرسته وشي."
+        },
+        "es": {
+          "term": "Reconocimiento de patrones",
+          "definition": "Identificar semejanzas o rasgos que se repiten en los problemas para resolverlos de forma más eficiente."
         }
       }
     },
@@ -4960,6 +5501,10 @@
         "ps": {
           "term": "فشینګ",
           "definition": "د شخصي معلوماتو د غلا لپاره د جعلي بریښنالیک یا ویب‌سایټونو له لارې د درغلۍ هڅه."
+        },
+        "es": {
+          "term": "Phishing",
+          "definition": "Engaño en el que los atacantes se hacen pasar por alguien de confianza (por ejemplo, un banco) para robar tu información personal."
         }
       },
       "topics": [
@@ -4999,6 +5544,10 @@
         "ps": {
           "term": "فزیکي محاسبه",
           "definition": "د قابل پروګرام سخت‌افزار کارول ترڅو د سینسرونو او ایکچویټرونو له لارې فزیکي نړۍ سره اړیکه ولري."
+        },
+        "es": {
+          "term": "Computación física",
+          "definition": "Construir sistemas interactivos que pueden detectar el mundo real y responder a él, usando hardware como microcontroladores y sensores."
         }
       }
     },
@@ -5035,6 +5584,10 @@
         "ps": {
           "term": "پیکسل",
           "definition": "د ډیجیټل انځور کوچنۍ عنصر؛ انځورونه له زرګونو پیکسلونو جوړ دي."
+        },
+        "es": {
+          "term": "Píxel",
+          "definition": "El elemento más pequeño de una imagen digital, representado por valores de color."
         }
       }
     },
@@ -5072,6 +5625,10 @@
         "ps": {
           "term": "پوینټر",
           "definition": "متغیر چې د بل ارزښت د حافظې پته ذخیره کوي."
+        },
+        "es": {
+          "term": "Puntero",
+          "definition": "Variable que guarda la dirección de memoria de otra variable o estructura de datos."
         }
       }
     },
@@ -5105,6 +5662,10 @@
         "ps": {
           "term": "لومړنی کیلي",
           "definition": "د ډیټابیس جدول کې ځانګړی ساحه چې هر ریکارډ ځانګړي توګه پیژني."
+        },
+        "es": {
+          "term": "Clave primaria",
+          "definition": "Valor único que identifica cada registro de una tabla de una base de datos. Dos registros no pueden tener la misma clave primaria."
         }
       },
       "topics": [
@@ -5145,6 +5706,10 @@
         "ps": {
           "term": "محرمیت",
           "definition": "د دې کنترول حق چې ستاسو کوم معلومات راټول او کارول کیږي."
+        },
+        "es": {
+          "term": "Privacidad",
+          "definition": "Derecho de las personas a controlar qué información personal se recoge sobre ellas y cómo se usa."
         }
       }
     },
@@ -5182,6 +5747,10 @@
         "ps": {
           "term": "خپلواک",
           "definition": "سافټویر چې د هغه سرچینه کوډ پټ وي او کارول یې جواز ته اړتیا لري."
+        },
+        "es": {
+          "term": "Software propietario",
+          "definition": "Software que pertenece a una empresa; los usuarios no pueden ver ni modificar el código fuente y deben aceptar una licencia."
         }
       }
     },
@@ -5215,6 +5784,10 @@
         "ps": {
           "term": "پروتوکول",
           "definition": "د قوانینو مجموعه چې تعریفوي وسیلې د شبکې له لارې څنګه اړیکه ساتي."
+        },
+        "es": {
+          "term": "Protocolo",
+          "definition": "Conjunto de reglas acordadas que controla cómo se envían y reciben los datos en una red."
         }
       },
       "topics": [
@@ -5255,6 +5828,10 @@
         "ps": {
           "term": "شبه کوډ",
           "definition": "د الګوریتم ساده توضیح د عادي ژبې کې چې د پروګرامینګ کوډ ته ورته وي خو د ریښتیني نحو تعقیب نه کوي."
+        },
+        "es": {
+          "term": "Pseudocódigo",
+          "definition": "Forma informal de describir un algoritmo con lenguaje sencillo y estructuras parecidas al código, sin seguir las reglas de ningún lenguaje concreto."
         }
       }
     },
@@ -5288,6 +5865,10 @@
         "ps": {
           "term": "پوښتنه",
           "definition": "هغه پوښتنه چې د ډیټابیس نه د ځانګړو معلوماتو د راوستلو لپاره کارول کیږي."
+        },
+        "es": {
+          "term": "Consulta",
+          "definition": "Pregunta o petición enviada a una base de datos para buscar, añadir, actualizar o eliminar datos concretos."
         }
       },
       "topics": [
@@ -5327,6 +5908,10 @@
         "ps": {
           "term": "قطار",
           "definition": "د معلوماتو جوړښت چې توکي د لومړی-ننوتی-لومړی-وتلی (FIFO) ترتیب سره ذخیره کوي."
+        },
+        "es": {
+          "term": "Cola",
+          "definition": "Estructura de datos en la que los elementos se añaden por un extremo y se quitan por el otro, siguiendo el orden primero en entrar, primero en salir (FIFO)."
         }
       }
     },
@@ -5363,6 +5948,10 @@
         "ps": {
           "term": "RAM",
           "definition": "د کمپیوټر اصلي حافظه چې فعال کارول شوي معلومات ساتي؛ کله چې وسیله بنده شي پاکیږي."
+        },
+        "es": {
+          "term": "RAM",
+          "definition": "Memoria de Acceso Aleatorio; almacenamiento temporal que guarda los datos que la CPU está usando en ese momento."
         }
       }
     },
@@ -5396,6 +5985,10 @@
         "ps": {
           "term": "ریکارډ",
           "definition": "د ډیټابیس کې د اړونده ساحو ټولګه چې یوه موجودیت توضیح کوي، لکه د جدول یوه کرښه."
+        },
+        "es": {
+          "term": "Registro",
+          "definition": "Una sola fila de una tabla de una base de datos, que representa un elemento o una entrada (por ejemplo, un alumno o un producto)."
         }
       },
       "topics": [
@@ -5436,6 +6029,10 @@
         "ps": {
           "term": "بیرته راستنیدنه",
           "definition": "کله چې یو فنکشن ځان ته زنګ ووهي ترڅو ستونزه د کوچنیو نمونو ته ویشلو سره حل کړي."
+        },
+        "es": {
+          "term": "Recursividad",
+          "definition": "Técnica en la que una función se llama a sí misma para resolver versiones más pequeñas del mismo problema hasta llegar a un caso base."
         }
       }
     },
@@ -5472,6 +6069,10 @@
         "ps": {
           "term": "رجسټر",
           "definition": "د CPU دننه کوچنی ګړندی ذخیره ځای چې د پروسس کیدونکو معلوماتو ساتنه کوي."
+        },
+        "es": {
+          "term": "Registro del procesador",
+          "definition": "Lugar de almacenamiento muy pequeño y rápido dentro de la CPU que guarda los datos y las instrucciones que se están procesando."
         }
       }
     },
@@ -5509,6 +6110,10 @@
         "ps": {
           "term": "منظم عبارت",
           "definition": "د کرکترونو نمونه چې د متني لیکونو لټون یا اعتبار لپاره کارول کیږي."
+        },
+        "es": {
+          "term": "Expresión regular",
+          "definition": "Secuencia de caracteres que define un patrón de búsqueda, usada para encontrar o validar cadenas de texto."
         }
       }
     },
@@ -5545,6 +6150,10 @@
         "ps": {
           "term": "اړیکوي ډیټابیس",
           "definition": "ډیټابیس چې معلومات اړونده جدولونو کې ذخیره کوي چې د کیلیو له لارې سره وصل دي."
+        },
+        "es": {
+          "term": "Base de datos relacional",
+          "definition": "Base de datos que organiza los datos en tablas relacionadas unidas por claves, lo que reduce la repetición y facilita la gestión."
         }
       }
     },
@@ -5581,6 +6190,10 @@
         "ps": {
           "term": "ریزالوشن",
           "definition": "د انځور د پیکسلونو شمیر؛ لوړ ریزالوشن یعنې ډیر توضیحات."
+        },
+        "es": {
+          "term": "Resolución",
+          "definition": "Número de píxeles de una imagen; una mayor resolución da más detalle pero un archivo más grande."
         }
       }
     },
@@ -5617,6 +6230,10 @@
         "ps": {
           "term": "بیرته راستنیدونکی ارزښت",
           "definition": "هغه معلومات چې یو فنکشن د پای کیدلو وروسته یادونکي پروګرام ته بیرته راستوي."
+        },
+        "es": {
+          "term": "Valor de retorno",
+          "definition": "Los datos que devuelve una función cuando termina de ejecutarse."
         }
       }
     },
@@ -5653,6 +6270,10 @@
         "ps": {
           "term": "روبوټ",
           "definition": "ماشین چې کولی شي دندې اتوماتیک ترسره کړي، اکثراً د سینسرونو او ایکچویټرونو له کارولو سره."
+        },
+        "es": {
+          "term": "Robot",
+          "definition": "Máquina que puede realizar tareas automáticamente o bajo el control de un ordenador, a menudo interactuando con el mundo físico."
         }
       }
     },
@@ -5689,6 +6310,10 @@
         "ps": {
           "term": "ROM",
           "definition": "دایمي حافظه چې محتویات یې د کمپیوټر د بندیدلو سره نه پاکیږي."
+        },
+        "es": {
+          "term": "ROM",
+          "definition": "Memoria de Solo Lectura; almacenamiento permanente con las instrucciones que el ordenador necesita para arrancar."
         }
       }
     },
@@ -5722,6 +6347,10 @@
         "ps": {
           "term": "راوټر",
           "definition": "وسیله چې د معلوماتو پاکیټونه شبکو تر منځ لارښوونه کوي او سم منزل ته یې رسوي."
+        },
+        "es": {
+          "term": "Router",
+          "definition": "Dispositivo que dirige el tráfico de internet entre redes, enviando los datos al lugar correcto."
         }
       },
       "topics": [
@@ -5762,6 +6391,10 @@
         "ps": {
           "term": "د اجرا د وخت تیروتنه",
           "definition": "غلطي چې د پروګرام د چلیدلو پرمهال پیښیږي او معمولاً یې ناڅاپه بندوي."
+        },
+        "es": {
+          "term": "Error de ejecución",
+          "definition": "Error que ocurre mientras un programa se ejecuta y hace que se bloquee o se comporte de forma inesperada."
         }
       }
     },
@@ -5798,6 +6431,10 @@
         "ps": {
           "term": "د نمونې کچه",
           "definition": "هغه ځله شمیر چې یو غږیز سیګنال هره ثانیه اندازه کیږي؛ لوړه کچه یعنې غوره غږ."
+        },
+        "es": {
+          "term": "Frecuencia de muestreo",
+          "definition": "Número de veces por segundo que se mide una onda de sonido al grabar audio. Una frecuencia mayor da mejor calidad pero un archivo más grande."
         }
       }
     },
@@ -5834,6 +6471,10 @@
         "ps": {
           "term": "دایره",
           "definition": "د پروګرام هغه برخه چې یو متغیر پکې د لاسرسي وړ وي."
+        },
+        "es": {
+          "term": "Ámbito",
+          "definition": "Parte de un programa en la que se puede usar una variable. Una variable local solo existe dentro de la subrutina donde se creó; una variable global se puede usar en cualquier parte."
         }
       }
     },
@@ -5867,6 +6508,10 @@
         "ps": {
           "term": "انتخاب",
           "definition": "د پروګرامینګ جوړښت چې د شرط پر بنسټ بیلابیل لار نیسي، لکه if/else."
+        },
+        "es": {
+          "term": "Selección",
+          "definition": "Una decisión en un programa: el ordenador comprueba una condición y elige qué hacer a continuación (por ejemplo, if/else)."
         }
       },
       "topics": [
@@ -5907,6 +6552,10 @@
         "ps": {
           "term": "سینسر",
           "definition": "وسیله چې د فزیکي چاپیریال کې بدلونونه لکه تودوخه، رڼا یا حرکت کشف کوي."
+        },
+        "es": {
+          "term": "Sensor",
+          "definition": "Dispositivo que detecta cambios en el entorno físico, como la luz, la temperatura o el movimiento, y envía datos a un ordenador."
         }
       }
     },
@@ -5940,6 +6589,10 @@
         "ps": {
           "term": "لړۍ",
           "definition": "د لارښوونو یو یو پر بل ترتیبي اجرا."
+        },
+        "es": {
+          "term": "Secuencia",
+          "definition": "Instrucciones que se ejecutan una tras otra, en orden."
         }
       },
       "topics": [
@@ -5979,6 +6632,10 @@
         "ps": {
           "term": " друштвени انجینرنګ",
           "definition": "خلک دې ته اړول چې محرم معلومات ښکاره کړي یا ناغوښتل شوې دندې ترسره کړي."
+        },
+        "es": {
+          "term": "Ingeniería social",
+          "definition": "Manipular a las personas para que revelen información confidencial o hagan algo que ponga en peligro la seguridad."
         }
       }
     },
@@ -6015,6 +6672,10 @@
         "ps": {
           "term": "د سافټویر پراختیا د ژوند دوره",
           "definition": "د سافټویر د جوړولو ګامونه د پلان او ډیزاین نه تر ازموینې او ساتنې پورې."
+        },
+        "es": {
+          "term": "Ciclo de vida del desarrollo de software",
+          "definition": "Las etapas por las que pasa un proyecto de software desde la idea inicial hasta su puesta en marcha y mantenimiento."
         }
       }
     },
@@ -6051,6 +6712,10 @@
         "ps": {
           "term": "SQL",
           "definition": "د اړیکوي ډیټابیسونو د اداره او پوښتنو لپاره معیاري ژبه."
+        },
+        "es": {
+          "term": "SQL",
+          "definition": "Lenguaje de Consulta Estructurado; lenguaje para crear, leer, actualizar y eliminar datos en una base de datos relacional."
         }
       }
     },
@@ -6087,6 +6752,10 @@
         "ps": {
           "term": "SQL انجکشن",
           "definition": "برید چې د ننوتنې ساحه کې ناوړه SQL کوډ داخلوي ترڅو ډیټابیس دستکاري کړي."
+        },
+        "es": {
+          "term": "Inyección SQL",
+          "definition": "Ataque en el que se introduce código SQL malicioso en un campo de entrada para manipular o acceder a una base de datos sin autorización."
         }
       }
     },
@@ -6123,6 +6792,10 @@
         "ps": {
           "term": "سټیک",
           "definition": "د معلوماتو جوړښت چې توکي د وروستی-ننوتی-لومړی-وتلی (LIFO) ترتیب سره ذخیره کوي."
+        },
+        "es": {
+          "term": "Pila",
+          "definition": "Estructura de datos en la que los elementos se añaden y se quitan por el mismo extremo, siguiendo el orden último en entrar, primero en salir (LIFO)."
         }
       }
     },
@@ -6159,6 +6832,10 @@
         "ps": {
           "term": "ذخیره",
           "definition": "هغه برخې چې معلومات دایمي ساتي، لکه هارډ ډرایو یا USB درایو."
+        },
+        "es": {
+          "term": "Almacenamiento",
+          "definition": "Dispositivos que se usan para guardar datos de forma permanente, como discos duros, SSD o memorias USB."
         }
       }
     },
@@ -6192,6 +6869,10 @@
         "ps": {
           "term": "سټرینګ",
           "definition": "د کرکترونو لړۍ چې معمولاً د متن ښودلو لپاره کارول کیږي."
+        },
+        "es": {
+          "term": "Cadena",
+          "definition": "Un fragmento de texto guardado en un programa, por ejemplo \"Hola, mundo\"."
         }
       },
       "topics": [
@@ -6232,6 +6913,10 @@
         "ps": {
           "term": "فرعي پروګرام",
           "definition": "د کوډ نومول شوې برخه چې ځانګړې دنده ترسره کوي او د بیلابیلو ځایونو نه یادیدلی شي."
+        },
+        "es": {
+          "term": "Subrutina",
+          "definition": "Bloque de código con nombre que se puede llamar desde cualquier parte de un programa. Incluye procedimientos (sin valor de retorno) y funciones (con valor de retorno)."
         }
       }
     },
@@ -6268,6 +6953,10 @@
         "ps": {
           "term": "نظارت شوې زده‌کړه",
           "definition": "د ماشین زده‌کړې یو ډول چې ماډل د نومول شوو معلوماتو له لارې روزل کیږي."
+        },
+        "es": {
+          "term": "Aprendizaje supervisado",
+          "definition": "Tipo de aprendizaje automático en el que un modelo se entrena con datos etiquetados, con las respuestas correctas para guiar el aprendizaje."
         }
       }
     },
@@ -6305,6 +6994,10 @@
         "ps": {
           "term": "د نحو تیروتنه",
           "definition": "د کوډ کې غلطي چې د پروګرامینګ ژبې د ګرامر قوانین ماتوي."
+        },
+        "es": {
+          "term": "Error de sintaxis",
+          "definition": "Fallo en el código que incumple las reglas del lenguaje de programación e impide que el programa se ejecute."
         }
       }
     },
@@ -6338,6 +7031,10 @@
         "ps": {
           "term": "جدول",
           "definition": "د ډیټابیس کې د کرښو او کالمونو کې تنظیم شوو معلوماتو ټولګه."
+        },
+        "es": {
+          "term": "Tabla",
+          "definition": "En una base de datos, los datos se organizan en filas y columnas; esta estructura se llama tabla."
         }
       },
       "topics": [
@@ -6377,6 +7074,10 @@
         "ps": {
           "term": "د ازموینې معلومات",
           "definition": "هغه معلومات چې د بیلابیلو شرایطو کې د پروګرام د سم کار کولو د ازموینې لپاره کارول کیږي."
+        },
+        "es": {
+          "term": "Datos de prueba",
+          "definition": "Valores usados para comprobar que un programa trata correctamente entradas normales, límite y erróneas."
         }
       }
     },
@@ -6413,6 +7114,10 @@
         "ps": {
           "term": "ازموینه",
           "definition": "د دې چک کول چې آیا پروګرام سم کار کوي د بیلابیلو قضیو پر وړاندې د چلولو سره."
+        },
+        "es": {
+          "term": "Pruebas",
+          "definition": "Proceso de comprobar que un programa funciona correctamente y da los resultados esperados."
         }
       }
     },
@@ -6449,6 +7154,10 @@
         "ps": {
           "term": "ټوپولوجي",
           "definition": "د شبکې کې د وسیلو او اتصالاتو د ترتیب لار، لکه ستوری یا حلقه."
+        },
+        "es": {
+          "term": "Topología de red",
+          "definition": "Forma en que los dispositivos de una red están dispuestos y conectados entre sí, física o lógicamente."
         }
       }
     },
@@ -6485,6 +7194,10 @@
         "ps": {
           "term": "د ردیابۍ جدول",
           "definition": "جدول چې د کوډ د چلیدلو پرمهال د متغیرونو ارزښتونو ګام‌ونه تعقیبولو لپاره کارول کیږي."
+        },
+        "es": {
+          "term": "Tabla de seguimiento",
+          "definition": "Tabla que se usa para seguir a mano el valor de las variables en cada paso de un algoritmo y comprobar que funciona bien."
         }
       }
     },
@@ -6521,6 +7234,10 @@
         "ps": {
           "term": "د حل وړ",
           "definition": "ستونزه چې د معقول وخت کې د الګوریتم له لارې حل کیدلی شي."
+        },
+        "es": {
+          "term": "Problema tratable",
+          "definition": "Problema que un algoritmo puede resolver en un tiempo razonable, normalmente con complejidad de tiempo polinómica."
         }
       }
     },
@@ -6557,6 +7274,10 @@
         "ps": {
           "term": "روزنیز معلومات",
           "definition": "هغه معلومات چې د ماشین زده‌کړې ماډل روزلو لپاره کارول کیږي."
+        },
+        "es": {
+          "term": "Datos de entrenamiento",
+          "definition": "El conjunto de datos que se usa para enseñar a un modelo de aprendizaje automático a reconocer patrones y hacer predicciones."
         }
       }
     },
@@ -6593,6 +7314,10 @@
         "ps": {
           "term": "ونه",
           "definition": "د معلوماتو سلسله‌مراتبي جوړښت چې د پلار-ماشوم اړیکو سره وصل شوو نوډونو لخوا جوړ شوی."
+        },
+        "es": {
+          "term": "Árbol",
+          "definition": "Estructura de datos jerárquica con un nodo raíz arriba que se ramifica en nodos hijos, sin ciclos."
         }
       }
     },
@@ -6629,6 +7354,10 @@
         "ps": {
           "term": "د ریښتیا جدول",
           "definition": "جدول چې د منطقي عملیات لپاره ټولې ممکنه ننوتنې او اړونده وتنې ښیي."
+        },
+        "es": {
+          "term": "Tabla de verdad",
+          "definition": "Tabla que muestra todas las combinaciones posibles de entradas y la salida resultante de una expresión o circuito lógico."
         }
       }
     },
@@ -6665,6 +7394,10 @@
         "ps": {
           "term": "د تورینګ ماشین",
           "definition": "د کمپیوټر نظري ماډل چې آلن تورینګ توضیح کړی او د محاسبو حدود ښیي."
+        },
+        "es": {
+          "term": "Máquina de Turing",
+          "definition": "Modelo teórico de computación que lee y escribe símbolos en una cinta infinita; se usa para definir qué se puede y qué no se puede calcular."
         }
       }
     },
@@ -6701,6 +7434,10 @@
         "ps": {
           "term": "دوه‌ضمیمه",
           "definition": "د دوه‌اره کې د منفي شمیرو ذخیره کولو لار چې معمولاً کمپیوټرونه کاروي."
+        },
+        "es": {
+          "term": "Complemento a dos",
+          "definition": "Método para representar números enteros negativos en binario. Para cambiar el signo de un número: se invierten todos los bits y se suma 1."
         }
       }
     },
@@ -6737,6 +7474,10 @@
         "ps": {
           "term": "دوه مرحله‌ای تصدیق",
           "definition": "د ننوتلو لار چې دوه بیل ډوله تایید ته اړتیا لري، لکه پاسورډ او SMS کوډ."
+        },
+        "es": {
+          "term": "Autenticación de dos factores",
+          "definition": "Método de seguridad que exige dos formas distintas de verificación antes de dar acceso a una cuenta."
         }
       }
     },
@@ -6773,6 +7514,10 @@
         "ps": {
           "term": "یونیکوډ",
           "definition": "د کوډینګ معیار چې نږدې د نړۍ هر ژبې هر کرکتر ته عددي کوډ ورکوي."
+        },
+        "es": {
+          "term": "Unicode",
+          "definition": "Estándar de codificación de caracteres que admite caracteres de todos los idiomas del mundo, más allá de ASCII."
         }
       }
     },
@@ -6809,6 +7554,10 @@
         "ps": {
           "term": "بې نظارته زده‌کړه",
           "definition": "د ماشین زده‌کړې یو ډول چې ماډل د نه‌نومول شوو معلوماتو کې نمونې موندي."
+        },
+        "es": {
+          "term": "Aprendizaje no supervisado",
+          "definition": "Tipo de aprendizaje automático en el que un modelo encuentra patrones en los datos sin recibir ejemplos etiquetados ni respuestas correctas."
         }
       }
     },
@@ -6845,6 +7594,10 @@
         "ps": {
           "term": "یوټیلیټي",
           "definition": "سیستمي سافټویر چې ځانګړې ساتنه یا مدیریت دنده ترسره کوي، لکه انټي‌ویروس یا د فشردولو وسیله."
+        },
+        "es": {
+          "term": "Software de utilidad",
+          "definition": "Software que ayuda a mantener, gestionar o proteger un sistema informático, como un antivirus o un limpiador de disco."
         }
       }
     },
@@ -6878,6 +7631,10 @@
         "ps": {
           "term": "متغیر",
           "definition": "د حافظې نومول شوی ځای چې یو ارزښت ذخیره کوي او بدلیدلی شي."
+        },
+        "es": {
+          "term": "Variable",
+          "definition": "Lugar con nombre en la memoria del ordenador donde se guarda un valor. El valor puede cambiar mientras el programa se ejecuta."
         }
       },
       "topics": [
@@ -6917,6 +7674,10 @@
         "ps": {
           "term": "د نسخې کنترول",
           "definition": "سیستم چې د کوډ بدلونونه تعقیبوي ترڅو مخکینیو نسخو ته راستون شیدلی شي."
+        },
+        "es": {
+          "term": "Control de versiones",
+          "definition": "Sistema que registra los cambios en los archivos a lo largo del tiempo para poder recuperar versiones concretas y colaborar sin sobrescribir el trabajo de otros."
         }
       }
     },
@@ -6953,6 +7714,10 @@
         "ps": {
           "term": "د فون نویمان جوړښت",
           "definition": "د کمپیوټر ډیزاین چې CPU، حافظه او ورود/وتنه د مشترک بس له لارې کار کوي."
+        },
+        "es": {
+          "term": "Arquitectura de Von Neumann",
+          "definition": "Modelo de diseño de ordenadores en el que la CPU, la memoria y la entrada/salida comparten una única vía de datos llamada bus."
         }
       }
     },
@@ -6989,6 +7754,10 @@
         "ps": {
           "term": "زیانمنتیا",
           "definition": "د سیستم یا سافټویر ضعف چې ممکن برید کوونکي ورنه ګټه واخلي."
+        },
+        "es": {
+          "term": "Vulnerabilidad",
+          "definition": "Punto débil de un sistema, software o red que un atacante podría aprovechar para obtener acceso no autorizado."
         }
       }
     },
@@ -7025,6 +7794,10 @@
         "ps": {
           "term": "WAN",
           "definition": "شبکه چې پراخه جغرافیایي سیمې پوښي، لکه انټرنیټ."
+        },
+        "es": {
+          "term": "WAN",
+          "definition": "Red de Área Amplia; conecta dispositivos en zonas geográficas grandes, como internet."
         }
       }
     },
@@ -7061,6 +7834,10 @@
         "ps": {
           "term": "واټرفال",
           "definition": "د سافټویر پراختیا خطي لار چې هره مرحله باید د بلې پیل دمخه بشپړه شي."
+        },
+        "es": {
+          "term": "Modelo en cascada",
+          "definition": "Método lineal de desarrollo de software en el que cada etapa debe terminar antes de empezar la siguiente."
         }
       }
     },
@@ -7097,6 +7874,10 @@
         "ps": {
           "term": "د نړۍ پراخه جال",
           "definition": "د سره تړلو ویب پاڼو سیستم چې د HTTP له لارې انټرنیټ له لارې د لاسرسي وړ دي."
+        },
+        "es": {
+          "term": "World Wide Web",
+          "definition": "Sistema de páginas y recursos web a los que se accede por internet con un navegador; a menudo se confunde con internet."
         }
       }
     },
@@ -7133,6 +7914,10 @@
         "ps": {
           "term": "XOR ګیټ",
           "definition": "منطقي ګیټ چې کله ننوتنې توپیر ولري پایله ۱ ده؛ که ننوتنې یوشان وي پایله ۰ ده."
+        },
+        "es": {
+          "term": "Puerta XOR",
+          "definition": "Puerta lógica cuya salida es 1 cuando sus entradas son diferentes y 0 cuando son iguales."
         }
       }
     }

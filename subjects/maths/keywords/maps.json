@@ -1,0 +1,40 @@
+{
+  "id": "maps",
+  "topics": [
+    "ratio"
+  ],
+  "translations": {
+    "en": {
+      "term": "Maps",
+      "definition": "Scaled representations of places or areas, where distances on the map correspond to distances in real life."
+    },
+    "pl": {
+      "term": "Mapy",
+      "definition": "Przedstawienia miejsc lub obszarów w skali, gdzie odległości na mapie odpowiadają odległościom w rzeczywistości."
+    },
+    "cy": {
+      "term": "Mapiau",
+      "definition": "Cynrychioliadau wrth raddfa o leoedd neu ardaloedd, lle mae pellteroedd ar y map yn cyfateb i bellteroedd go iawn."
+    },
+    "ar": {
+      "term": "الخرائط",
+      "definition": "تمثيلات بمقياس رسم لأماكن أو مناطق، تقابل فيها المسافات على الخريطة المسافات الحقيقية."
+    },
+    "ro": {
+      "term": "Hărți",
+      "definition": "Reprezentări la scară ale unor locuri sau zone, în care distanțele de pe hartă corespund distanțelor reale."
+    },
+    "prs": {
+      "term": "نقشه‌ها",
+      "definition": "نمایش‌های مقیاس‌دار از جاها یا مناطق که فاصله‌های روی نقشه با فاصله‌های واقعی مطابقت دارند."
+    },
+    "ps": {
+      "term": "نقشې",
+      "definition": "د ځایونو یا سیمو په مقیاس ښودنې، چې په نقشه کې واټنونه له ریښتیني واټنونو سره سمون لري."
+    },
+    "es": {
+      "term": "Mapas",
+      "definition": "Representaciones a escala de lugares o zonas, en las que las distancias del mapa corresponden a distancias reales."
+    }
+  }
+}

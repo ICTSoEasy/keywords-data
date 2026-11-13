@@ -31,6 +31,10 @@
     "ps": {
       "term": "اجایل",
       "definition": "د سافټویر پراختیا یوه لار چې کار کوچني برخو ته ویشل کیږي او منظم فیډبک اخیستل کیږي."
+    },
+    "es": {
+      "term": "Ágil",
+      "definition": "Enfoque flexible de desarrollo de software que trabaja en ciclos cortos, revisando y mejorando el producto con regularidad."
     }
   }
 }

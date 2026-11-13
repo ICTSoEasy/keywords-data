@@ -31,6 +31,10 @@
     "ps": {
       "term": "کلاوډ کمپیوټینګ",
       "definition": "د انټرنیټ سرورونو کې د معلوماتو ذخیره او پروسس کول پر ځای د شخصي کمپیوټر."
+    },
+    "es": {
+      "term": "Computación en la nube",
+      "definition": "Uso de servidores remotos alojados en internet para guardar, gestionar y procesar datos en lugar de un ordenador local."
     }
   }
 }

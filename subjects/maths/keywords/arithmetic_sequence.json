@@ -1,0 +1,40 @@
+{
+  "id": "arithmetic_sequence",
+  "topics": [
+    "algebra"
+  ],
+  "translations": {
+    "en": {
+      "term": "Arithmetic Sequence",
+      "definition": "A sequence in which the difference between consecutive terms is always the same."
+    },
+    "pl": {
+      "term": "Ciąg arytmetyczny",
+      "definition": "Ciąg, w którym różnica między kolejnymi wyrazami jest zawsze taka sama."
+    },
+    "cy": {
+      "term": "Dilyniant Rhifyddol",
+      "definition": "Dilyniant lle mae'r gwahaniaeth rhwng termau olynol bob amser yr un fath."
+    },
+    "ar": {
+      "term": "المتتالية الحسابية",
+      "definition": "متتالية يكون الفرق بين كل حدّين متتاليين فيها ثابتاً."
+    },
+    "ro": {
+      "term": "Progresie aritmetică",
+      "definition": "Un șir în care diferența dintre termenii consecutivi este mereu aceeași."
+    },
+    "prs": {
+      "term": "تصاعد حسابی",
+      "definition": "دنباله‌ای که در آن تفاوت میان جمله‌های پی‌درپی همیشه یکسان است."
+    },
+    "ps": {
+      "term": "حسابي ترادف",
+      "definition": "هغه لړۍ چې د پرله پسې حدونو تر منځ توپیر تل یو شان وي."
+    },
+    "es": {
+      "term": "Sucesión aritmética",
+      "definition": "Sucesión en la que la diferencia entre términos consecutivos siempre es la misma."
+    }
+  }
+}

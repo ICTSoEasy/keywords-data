@@ -1,0 +1,40 @@
+{
+  "id": "pyramid",
+  "topics": [
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Pyramid",
+      "definition": "A 3D shape with a polygon base and triangular faces that meet at one point."
+    },
+    "pl": {
+      "term": "Ostrosłup",
+      "definition": "Bryła o podstawie w kształcie wielokąta i ścianach trójkątnych spotykających się w jednym punkcie."
+    },
+    "cy": {
+      "term": "Pyramid",
+      "definition": "Siâp 3D â gwaelod polygon ac wynebau trionglog sy'n cyfarfod mewn un pwynt."
+    },
+    "ar": {
+      "term": "الهرم",
+      "definition": "مجسّم قاعدته مضلع وأوجهه مثلثات تلتقي في نقطة واحدة."
+    },
+    "ro": {
+      "term": "Piramidă",
+      "definition": "Un corp cu baza în formă de poligon și fețe triunghiulare care se întâlnesc într-un punct."
+    },
+    "prs": {
+      "term": "هرم",
+      "definition": "شکل سه‌بعدی با قاعدهٔ چندضلعی و وجه‌های مثلثی که در یک نقطه به هم می‌رسند."
+    },
+    "ps": {
+      "term": "هرم",
+      "definition": "درې بُعدي بڼه چې څو ضلعي قاعده او مثلثي مخونه لري چې په یو ټکي کې سره یوځای کېږي."
+    },
+    "es": {
+      "term": "Pirámide",
+      "definition": "Cuerpo geométrico con una base poligonal y caras triangulares que se unen en un único punto."
+    }
+  }
+}

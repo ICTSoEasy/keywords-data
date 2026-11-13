@@ -1,0 +1,40 @@
+{
+  "id": "mean",
+  "topics": [
+    "statistics"
+  ],
+  "translations": {
+    "en": {
+      "term": "Mean",
+      "definition": "The arithmetic average, found by adding all the values and dividing by how many values there are."
+    },
+    "pl": {
+      "term": "Średnia",
+      "definition": "Średnia arytmetyczna: suma wszystkich wartości podzielona przez ich liczbę."
+    },
+    "cy": {
+      "term": "Cymedr",
+      "definition": "Y cyfartaledd rhifyddol, wedi'i ganfod drwy adio'r holl werthoedd a rhannu â nifer y gwerthoedd."
+    },
+    "ar": {
+      "term": "الوسط الحسابي",
+      "definition": "المتوسط الحسابي، ويُحسب بجمع كل القيم وقسمة الناتج على عددها."
+    },
+    "ro": {
+      "term": "Medie",
+      "definition": "Media aritmetică, obținută adunând toate valorile și împărțind la numărul lor."
+    },
+    "prs": {
+      "term": "اوسط",
+      "definition": "میانگین حسابی که با جمع کردن همهٔ مقدارها و تقسیم بر تعداد آن‌ها به دست می‌آید."
+    },
+    "ps": {
+      "term": "اوسط",
+      "definition": "حسابي اوسط چې د ټولو قیمتونو په جمع کولو او د هغوی پر شمېر وېشلو ترلاسه کېږي."
+    },
+    "es": {
+      "term": "Media",
+      "definition": "Promedio aritmético: se obtiene sumando todos los valores y dividiendo el resultado entre el número de valores."
+    }
+  }
+}

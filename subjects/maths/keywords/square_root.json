@@ -1,0 +1,40 @@
+{
+  "id": "square_root",
+  "topics": [
+    "number"
+  ],
+  "translations": {
+    "en": {
+      "term": "Square Root",
+      "definition": "A number that, when multiplied by itself, gives the original number. The square root of 49 is 7."
+    },
+    "pl": {
+      "term": "Pierwiastek kwadratowy",
+      "definition": "Liczba, która pomnożona przez samą siebie daje liczbę wyjściową. Pierwiastek kwadratowy z 49 to 7."
+    },
+    "cy": {
+      "term": "Ail Isradd",
+      "definition": "Rhif sydd, o'i luosi ag ef ei hun, yn rhoi'r rhif gwreiddiol. Ail isradd 49 yw 7."
+    },
+    "ar": {
+      "term": "الجذر التربيعي",
+      "definition": "عدد إذا ضُرب في نفسه أعطى العدد الأصلي. الجذر التربيعي للعدد 49 هو 7."
+    },
+    "ro": {
+      "term": "Rădăcină pătrată",
+      "definition": "Un număr care, înmulțit cu el însuși, dă numărul inițial. Rădăcina pătrată a lui 49 este 7."
+    },
+    "prs": {
+      "term": "جذر دوم",
+      "definition": "عددی که اگر در خودش ضرب شود، عدد اصلی را می‌دهد. جذر دوم 49 برابر 7 است."
+    },
+    "ps": {
+      "term": "دویم جذر",
+      "definition": "هغه عدد چې کله له ځان سره ضرب شي، اصلي عدد ورکوي. د 49 دویم جذر 7 دی."
+    },
+    "es": {
+      "term": "Raíz cuadrada",
+      "definition": "Número que, multiplicado por sí mismo, da el número original. La raíz cuadrada de 49 es 7."
+    }
+  }
+}

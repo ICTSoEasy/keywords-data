@@ -31,6 +31,10 @@
     "ps": {
       "term": "د معلوماتو ډول (ډیټابیس)",
       "definition": "هغه مشخصه چې د ډیټابیس د یوه کالم کې د ذخیره شوو معلوماتو ډول تعریفوي."
+    },
+    "es": {
+      "term": "Tipo de datos de campo",
+      "definition": "Tipo de datos que puede contener un campo de una base de datos, como texto, entero, fecha o booleano."
     }
   }
 }

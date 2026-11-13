@@ -32,6 +32,10 @@
     "ps": {
       "term": "ټیټ سطحې ژبه",
       "definition": "د پروګرامینګ ژبه چې سخت‌افزار ته نږدې ده، لکه اسمبلۍ ژبه یا ماشین کوډ."
+    },
+    "es": {
+      "term": "Lenguaje de bajo nivel",
+      "definition": "Lenguaje de programación muy ligado al conjunto de instrucciones de un procesador concreto, como el lenguaje ensamblador."
     }
   }
 }

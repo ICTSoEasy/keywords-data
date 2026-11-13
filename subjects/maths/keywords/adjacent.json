@@ -1,0 +1,40 @@
+{
+  "id": "adjacent",
+  "topics": [
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Adjacent",
+      "definition": "Next to or sharing a boundary. Adjacent angles share a vertex and a side."
+    },
+    "pl": {
+      "term": "Przyległy",
+      "definition": "Leżący obok lub mający wspólną granicę. Kąty przyległe mają wspólny wierzchołek i wspólne ramię."
+    },
+    "cy": {
+      "term": "Cyfagos",
+      "definition": "Wrth ymyl neu'n rhannu ffin. Mae onglau cyfagos yn rhannu fertig ac ochr."
+    },
+    "ar": {
+      "term": "مجاور",
+      "definition": "بجانب أو يشترك في حدّ. الزوايا المتجاورة تشترك في رأس وضلع."
+    },
+    "ro": {
+      "term": "Alăturat",
+      "definition": "Aflat lângă sau având o margine comună. Unghiurile adiacente au un vârf comun și o latură comună."
+    },
+    "prs": {
+      "term": "مجاور",
+      "definition": "در کنار هم یا دارای مرز مشترک. زاویه‌های مجاور یک رأس و یک ضلع مشترک دارند."
+    },
+    "ps": {
+      "term": "څنګ ته",
+      "definition": "یو بل ته نږدې یا ګډه پوله لرونکي. څنګ ته زاویې یو ګډ راس او یوه ګډه غاړه لري."
+    },
+    "es": {
+      "term": "Adyacente",
+      "definition": "Que está al lado o comparte un límite. Los ángulos adyacentes comparten vértice y un lado."
+    }
+  }
+}

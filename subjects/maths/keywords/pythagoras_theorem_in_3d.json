@@ -1,0 +1,40 @@
+{
+  "id": "pythagoras_theorem_in_3d",
+  "topics": [
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Pythagoras’ Theorem in 3D",
+      "definition": "Using Pythagoras’ theorem in more than one right-angled triangle to find lengths inside or on a 3D shape."
+    },
+    "pl": {
+      "term": "Twierdzenie Pitagorasa w przestrzeni",
+      "definition": "Stosowanie twierdzenia Pitagorasa w więcej niż jednym trójkącie prostokątnym, aby znaleźć długości w bryle lub na jej powierzchni."
+    },
+    "cy": {
+      "term": "Theorem Pythagoras mewn 3D",
+      "definition": "Defnyddio theorem Pythagoras mewn mwy nag un triongl ongl sgwâr i ganfod hydoedd y tu mewn i siâp 3D neu arno."
+    },
+    "ar": {
+      "term": "نظرية فيثاغورس في الأبعاد الثلاثة",
+      "definition": "استخدام نظرية فيثاغورس في أكثر من مثلث قائم لإيجاد أطوال داخل مجسّم أو على سطحه."
+    },
+    "ro": {
+      "term": "Teorema lui Pitagora în spațiu",
+      "definition": "Folosirea teoremei lui Pitagora în mai multe triunghiuri dreptunghice pentru a afla lungimi în interiorul sau pe suprafața unui corp."
+    },
+    "prs": {
+      "term": "قضیهٔ فیثاغورث در سه‌بعد",
+      "definition": "استفاده از قضیهٔ فیثاغورث در بیش از یک مثلث قائم‌الزاویه برای پیدا کردن طول‌ها در داخل یا روی یک شکل سه‌بعدی."
+    },
+    "ps": {
+      "term": "د فیثاغورث قضیه په درې بُعدونو کې",
+      "definition": "د فیثاغورث د قضیې کارول په څو قایم الزاویه مثلثونو کې ترڅو د درې بُعدي بڼې دننه یا پر هغې اوږدوالي پیدا شي."
+    },
+    "es": {
+      "term": "Teorema de Pitágoras en 3D",
+      "definition": "Aplicación del teorema de Pitágoras en más de un triángulo rectángulo para calcular longitudes dentro o sobre un cuerpo tridimensional."
+    }
+  }
+}

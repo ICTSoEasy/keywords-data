@@ -31,6 +31,10 @@
     "ps": {
       "term": "کمپریشن",
       "definition": "د ځای د سپمولو یا لیږد د چټکولو لپاره د فایل د اندازې کمول."
+    },
+    "es": {
+      "term": "Compresión",
+      "definition": "Reducir el tamaño de un archivo codificando los datos de forma más eficiente."
     }
   }
 }

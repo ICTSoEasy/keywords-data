@@ -1,0 +1,40 @@
+{
+  "id": "independent",
+  "topics": [
+    "probability"
+  ],
+  "translations": {
+    "en": {
+      "term": "Independent",
+      "definition": "Events are independent when the outcome of one does not affect the probability of the other."
+    },
+    "pl": {
+      "term": "Niezależne",
+      "definition": "Zdarzenia są niezależne, gdy wynik jednego nie wpływa na prawdopodobieństwo drugiego."
+    },
+    "cy": {
+      "term": "Annibynnol",
+      "definition": "Mae digwyddiadau'n annibynnol pan nad yw canlyniad un yn effeithio ar debygolrwydd y llall."
+    },
+    "ar": {
+      "term": "مستقلة",
+      "definition": "تكون الأحداث مستقلة عندما لا تؤثر نتيجة أحدها في احتمال الآخر."
+    },
+    "ro": {
+      "term": "Independente",
+      "definition": "Evenimentele sunt independente când rezultatul unuia nu influențează probabilitatea celuilalt."
+    },
+    "prs": {
+      "term": "مستقل",
+      "definition": "رویدادها وقتی مستقل‌اند که نتیجهٔ یکی بر احتمال دیگری اثر نگذارد."
+    },
+    "ps": {
+      "term": "خپلواکې",
+      "definition": "پېښې هغه وخت خپلواکې دي کله چې د یوې پایله د بلې پر احتمال اغېز ونه کړي."
+    },
+    "es": {
+      "term": "Independiente",
+      "definition": "Dos sucesos son independientes cuando el resultado de uno no afecta a la probabilidad del otro."
+    }
+  }
+}

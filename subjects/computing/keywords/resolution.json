@@ -31,6 +31,10 @@
     "ps": {
       "term": "ریزالوشن",
       "definition": "د انځور د پیکسلونو شمیر؛ لوړ ریزالوشن یعنې ډیر توضیحات."
+    },
+    "es": {
+      "term": "Resolución",
+      "definition": "Número de píxeles de una imagen; una mayor resolución da más detalle pero un archivo más grande."
     }
   }
 }

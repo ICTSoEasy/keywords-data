@@ -31,6 +31,10 @@
     "ps": {
       "term": "منطقي ګیټ",
       "definition": "بنسټیز سرکټ چې بولیني منطقي عملیات ترسره کوي، لکه AND، OR یا NOT."
+    },
+    "es": {
+      "term": "Puerta lógica",
+      "definition": "Componente electrónico que realiza una operación booleana básica con una o más entradas binarias para producir una salida."
     }
   }
 }

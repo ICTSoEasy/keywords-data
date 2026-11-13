@@ -1,0 +1,40 @@
+{
+  "id": "scalar",
+  "topics": [
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Scalar",
+      "definition": "A quantity with size (magnitude) but no direction, such as mass or temperature."
+    },
+    "pl": {
+      "term": "Skalar",
+      "definition": "Wielkość mająca wartość, ale bez kierunku, na przykład masa lub temperatura."
+    },
+    "cy": {
+      "term": "Sgalar",
+      "definition": "Mesur sydd â maint ond dim cyfeiriad, fel màs neu dymheredd."
+    },
+    "ar": {
+      "term": "الكمية القياسية",
+      "definition": "كمية لها مقدار وليس لها اتجاه، مثل الكتلة أو درجة الحرارة."
+    },
+    "ro": {
+      "term": "Mărime scalară",
+      "definition": "O mărime care are valoare, dar nu are direcție, cum ar fi masa sau temperatura."
+    },
+    "prs": {
+      "term": "کمیت اسکالر",
+      "definition": "کمیتی که اندازه دارد ولی جهت ندارد، مانند کتله یا درجهٔ حرارت."
+    },
+    "ps": {
+      "term": "سکالر کمیت",
+      "definition": "هغه کمیت چې اندازه لري خو لوری نه لري، لکه کتله یا د تودوخې درجه."
+    },
+    "es": {
+      "term": "Escalar",
+      "definition": "Magnitud que tiene tamaño (módulo), pero no dirección, como la masa o la temperatura."
+    }
+  }
+}

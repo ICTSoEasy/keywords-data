@@ -1,0 +1,40 @@
+{
+  "id": "cumulative_frequency",
+  "topics": [
+    "statistics"
+  ],
+  "translations": {
+    "en": {
+      "term": "Cumulative Frequency",
+      "definition": "A running total of frequencies, showing how many data values are at or below a given value."
+    },
+    "pl": {
+      "term": "Liczebność skumulowana",
+      "definition": "Narastająca suma częstości, pokazująca, ile wartości danych jest równych danej wartości lub mniejszych."
+    },
+    "cy": {
+      "term": "Amlder Cronnus",
+      "definition": "Cyfanswm rhedegol o amlderau, sy'n dangos faint o werthoedd data sydd ar werth penodol neu'n is."
+    },
+    "ar": {
+      "term": "التكرار التراكمي",
+      "definition": "مجموع متراكم للتكرارات، يبيّن عدد قيم البيانات التي تساوي قيمة معينة أو تقل عنها."
+    },
+    "ro": {
+      "term": "Frecvență cumulată",
+      "definition": "Un total progresiv al frecvențelor, care arată câte valori sunt mai mici sau egale cu o valoare dată."
+    },
+    "prs": {
+      "term": "فراوانی تجمعی",
+      "definition": "مجموع پیوستهٔ فراوانی‌ها که نشان می‌دهد چند مقدار مساوی یک مقدار معین یا کمتر از آن است."
+    },
+    "ps": {
+      "term": "راټوله شوې فریکونسي",
+      "definition": "د فریکونسیو پرله پسې مجموعه چې ښيي څومره قیمتونه له یو ټاکلي قیمت سره برابر یا له هغه کم دي."
+    },
+    "es": {
+      "term": "Frecuencia acumulada",
+      "definition": "Suma acumulada de las frecuencias, que muestra cuántos datos tienen un valor igual o inferior a uno determinado."
+    }
+  }
+}

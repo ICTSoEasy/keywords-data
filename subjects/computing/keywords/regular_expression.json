@@ -32,6 +32,10 @@
     "ps": {
       "term": "منظم عبارت",
       "definition": "د کرکترونو نمونه چې د متني لیکونو لټون یا اعتبار لپاره کارول کیږي."
+    },
+    "es": {
+      "term": "Expresión regular",
+      "definition": "Secuencia de caracteres que define un patrón de búsqueda, usada para encontrar o validar cadenas de texto."
     }
   }
 }

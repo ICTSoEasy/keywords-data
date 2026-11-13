@@ -1,0 +1,40 @@
+{
+  "id": "two_way_table",
+  "topics": [
+    "probability"
+  ],
+  "translations": {
+    "en": {
+      "term": "Two-Way Table",
+      "definition": "A table that organises data using two categories, allowing frequencies for combinations to be compared."
+    },
+    "pl": {
+      "term": "Tabela dwudzielcza",
+      "definition": "Tabela porządkująca dane według dwóch kategorii, pozwalająca porównać częstości ich połączeń."
+    },
+    "cy": {
+      "term": "Tabl Dwyffordd",
+      "definition": "Tabl sy'n trefnu data gan ddefnyddio dau gategori, gan ganiatáu cymharu amlderau ar gyfer cyfuniadau."
+    },
+    "ar": {
+      "term": "الجدول ذو المدخلين",
+      "definition": "جدول ينظّم البيانات باستخدام فئتين، ويسمح بمقارنة تكرارات التركيبات المختلفة."
+    },
+    "ro": {
+      "term": "Tabel cu dublă intrare",
+      "definition": "Un tabel care organizează datele după două categorii, permițând compararea frecvențelor combinațiilor."
+    },
+    "prs": {
+      "term": "جدول دوطرفه",
+      "definition": "جدولی که معلومات را با دو دسته منظم می‌کند و مقایسهٔ فراوانی ترکیب‌ها را ممکن می‌سازد."
+    },
+    "ps": {
+      "term": "دوه اړخیز جدول",
+      "definition": "هغه جدول چې معلومات د دوو کټګوریو په کارولو سره تنظیموي او د ترکیبونو د فریکونسۍ پرتله کول ممکنوي."
+    },
+    "es": {
+      "term": "Tabla de doble entrada",
+      "definition": "Tabla que organiza datos según dos categorías y permite comparar las frecuencias de sus combinaciones."
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "substitution",
+  "topics": [
+    "algebra"
+  ],
+  "translations": {
+    "en": {
+      "term": "Substitution",
+      "definition": "Replacing a variable with a given value or expression."
+    },
+    "pl": {
+      "term": "Podstawianie",
+      "definition": "Zastępowanie zmiennej podaną wartością lub wyrażeniem."
+    },
+    "cy": {
+      "term": "Amnewid",
+      "definition": "Rhoi gwerth neu fynegiad penodol yn lle newidyn."
+    },
+    "ar": {
+      "term": "التعويض",
+      "definition": "وضع قيمة أو عبارة معطاة مكان المتغير."
+    },
+    "ro": {
+      "term": "Substituție",
+      "definition": "Înlocuirea unei variabile cu o valoare sau o expresie dată."
+    },
+    "prs": {
+      "term": "جاگذاری",
+      "definition": "قرار دادن یک مقدار یا افادهٔ معین به جای یک متحول."
+    },
+    "ps": {
+      "term": "ځای پر ځای کول",
+      "definition": "د یو متحول پر ځای د ورکړل شوي قیمت یا افادې ایښودل."
+    },
+    "es": {
+      "term": "Sustitución",
+      "definition": "Sustituir una variable por un valor o una expresión dados."
+    }
+  }
+}

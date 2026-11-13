@@ -1,0 +1,40 @@
+{
+  "id": "proof",
+  "topics": [
+    "algebra"
+  ],
+  "translations": {
+    "en": {
+      "term": "Proof",
+      "definition": "A mathematical argument that shows a statement must be true."
+    },
+    "pl": {
+      "term": "Dowód",
+      "definition": "Rozumowanie matematyczne pokazujące, że twierdzenie musi być prawdziwe."
+    },
+    "cy": {
+      "term": "Prawf",
+      "definition": "Dadl fathemategol sy'n dangos bod rhaid i osodiad fod yn wir."
+    },
+    "ar": {
+      "term": "البرهان",
+      "definition": "حجة رياضية تبيّن أن عبارة ما يجب أن تكون صحيحة."
+    },
+    "ro": {
+      "term": "Demonstrație",
+      "definition": "Un raționament matematic care arată că o afirmație trebuie să fie adevărată."
+    },
+    "prs": {
+      "term": "ثبوت",
+      "definition": "استدلال ریاضی که نشان می‌دهد یک حکم باید درست باشد."
+    },
+    "ps": {
+      "term": "ثبوت",
+      "definition": "ریاضي استدلال چې ښيي یوه وینا باید سمه وي."
+    },
+    "es": {
+      "term": "Demostración",
+      "definition": "Razonamiento matemático que demuestra que una afirmación siempre es verdadera."
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "histogram",
+  "topics": [
+    "statistics"
+  ],
+  "translations": {
+    "en": {
+      "term": "Histogram",
+      "definition": "A graph for grouped continuous data, using touching bars; the area of each bar represents frequency."
+    },
+    "pl": {
+      "term": "Histogram",
+      "definition": "Wykres dla pogrupowanych danych ciągłych, ze stykającymi się słupkami; pole każdego słupka przedstawia częstość."
+    },
+    "cy": {
+      "term": "Histogram",
+      "definition": "Graff ar gyfer data di-dor wedi'u grwpio, sy'n defnyddio barrau sy'n cyffwrdd; mae arwynebedd pob bar yn cynrychioli amlder."
+    },
+    "ar": {
+      "term": "المدرّج التكراري",
+      "definition": "تمثيل بياني للبيانات المتصلة المبوّبة بأعمدة متلاصقة؛ ومساحة كل عمود تمثل التكرار."
+    },
+    "ro": {
+      "term": "Histogramă",
+      "definition": "Un grafic pentru date continue grupate, cu bare lipite; aria fiecărei bare reprezintă frecvența."
+    },
+    "prs": {
+      "term": "هیستوگرام",
+      "definition": "گرافی برای معلومات پیوستهٔ گروه‌بندی‌شده با میله‌های چسپیده؛ مساحت هر میله فراوانی را نشان می‌دهد."
+    },
+    "ps": {
+      "term": "هیسټوګرام",
+      "definition": "د ډلبندي شویو پرله پسې معلوماتو لپاره ګراف چې سره نښتې میلې لري؛ د هرې میلې مساحت فریکونسي ښيي."
+    },
+    "es": {
+      "term": "Histograma",
+      "definition": "Gráfico para datos continuos agrupados que utiliza barras contiguas; el área de cada barra representa la frecuencia."
+    }
+  }
+}

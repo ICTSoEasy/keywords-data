@@ -1,0 +1,40 @@
+{
+  "id": "frequency_table",
+  "topics": [
+    "statistics"
+  ],
+  "translations": {
+    "en": {
+      "term": "Frequency Table",
+      "definition": "A table showing each value or category and how often it occurs."
+    },
+    "pl": {
+      "term": "Tabela częstości",
+      "definition": "Tabela pokazująca każdą wartość lub kategorię i to, jak często występuje."
+    },
+    "cy": {
+      "term": "Tabl Amlder",
+      "definition": "Tabl sy'n dangos pob gwerth neu gategori a pha mor aml mae'n digwydd."
+    },
+    "ar": {
+      "term": "الجدول التكراري",
+      "definition": "جدول يبيّن كل قيمة أو فئة وعدد مرات ظهورها."
+    },
+    "ro": {
+      "term": "Tabel de frecvențe",
+      "definition": "Un tabel care arată fiecare valoare sau categorie și cât de des apare."
+    },
+    "prs": {
+      "term": "جدول فراوانی",
+      "definition": "جدولی که هر مقدار یا دسته و تعداد دفعات رخ دادن آن را نشان می‌دهد."
+    },
+    "ps": {
+      "term": "د فریکونسۍ جدول",
+      "definition": "هغه جدول چې هر قیمت یا کټګوري او د هغې د راتلو شمېر ښيي."
+    },
+    "es": {
+      "term": "Tabla de frecuencias",
+      "definition": "Tabla que muestra cada valor o categoría y cuántas veces aparece."
+    }
+  }
+}

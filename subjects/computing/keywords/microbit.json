@@ -32,6 +32,10 @@
     "ps": {
       "term": "مایکروبیت",
       "definition": "د پروګرامینګ او فزیکي زده‌کړې لپاره ډیزاین شوی کوچنی تک‌بورډ کمپیوټر."
+    },
+    "es": {
+      "term": "micro:bit",
+      "definition": "Pequeño dispositivo programable diseñado para ayudar a los jóvenes a aprender informática, con sensores, LED y conexión inalámbrica integrados."
     }
   }
 }

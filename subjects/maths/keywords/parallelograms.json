@@ -1,0 +1,40 @@
+{
+  "id": "parallelograms",
+  "topics": [
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Parallelograms",
+      "definition": "Four-sided shapes with both pairs of opposite sides parallel."
+    },
+    "pl": {
+      "term": "Równoległoboki",
+      "definition": "Czworokąty, w których obie pary przeciwległych boków są równoległe."
+    },
+    "cy": {
+      "term": "Paralelogramau",
+      "definition": "Siapiau pedair ochr â'r ddau bâr o ochrau cyferbyn yn baralel."
+    },
+    "ar": {
+      "term": "متوازيات الأضلاع",
+      "definition": "أشكال رباعية كل ضلعين متقابلين فيها متوازيان."
+    },
+    "ro": {
+      "term": "Paralelograme",
+      "definition": "Figuri cu patru laturi care au ambele perechi de laturi opuse paralele."
+    },
+    "prs": {
+      "term": "متوازی‌الاضلاع‌ها",
+      "definition": "شکل‌های چهارضلعی که هر دو جفت ضلع مقابل آن‌ها موازی‌اند."
+    },
+    "ps": {
+      "term": "متوازي الاضلاعونه",
+      "definition": "هغه څلور غاړې لرونکې بڼې چې د مخامخ غاړو دواړه جوړې یې موازي وي."
+    },
+    "es": {
+      "term": "Paralelogramos",
+      "definition": "Figuras de cuatro lados cuyos dos pares de lados opuestos son paralelos."
+    }
+  }
+}

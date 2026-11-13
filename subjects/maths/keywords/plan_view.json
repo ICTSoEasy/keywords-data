@@ -1,0 +1,40 @@
+{
+  "id": "plan_view",
+  "topics": [
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Plan View",
+      "definition": "A drawing or view of an object from directly above."
+    },
+    "pl": {
+      "term": "Rzut z góry",
+      "definition": "Rysunek lub widok przedmiotu widzianego bezpośrednio z góry."
+    },
+    "cy": {
+      "term": "Golwg Uwchben",
+      "definition": "Lluniad neu olwg o wrthrych yn union oddi uchod."
+    },
+    "ar": {
+      "term": "المسقط الأفقي",
+      "definition": "رسم أو منظر لجسم من الأعلى مباشرة."
+    },
+    "ro": {
+      "term": "Vedere de sus",
+      "definition": "Un desen sau o vedere a unui obiect privit direct de deasupra."
+    },
+    "prs": {
+      "term": "نمای از بالا",
+      "definition": "رسم یا نمای یک جسم که مستقیماً از بالا دیده می‌شود."
+    },
+    "ps": {
+      "term": "له پاسه منظره",
+      "definition": "د یو جسم رسم یا منظره چې مستقیماً له پاسه لیدل کېږي."
+    },
+    "es": {
+      "term": "Vista en planta",
+      "definition": "Dibujo o vista de un objeto observado directamente desde arriba."
+    }
+  }
+}

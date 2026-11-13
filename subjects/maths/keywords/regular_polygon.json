@@ -1,0 +1,40 @@
+{
+  "id": "regular_polygon",
+  "topics": [
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Regular Polygon",
+      "definition": "A polygon with all sides equal in length and all interior angles equal."
+    },
+    "pl": {
+      "term": "Wielokąt foremny",
+      "definition": "Wielokąt o wszystkich bokach równej długości i wszystkich kątach wewnętrznych równych."
+    },
+    "cy": {
+      "term": "Polygon Rheolaidd",
+      "definition": "Polygon â'i ochrau i gyd yr un hyd a'i onglau mewnol i gyd yn hafal."
+    },
+    "ar": {
+      "term": "المضلع المنتظم",
+      "definition": "مضلع جميع أضلاعه متساوية الطول وجميع زواياه الداخلية متساوية."
+    },
+    "ro": {
+      "term": "Poligon regulat",
+      "definition": "Un poligon cu toate laturile de lungime egală și toate unghiurile interioare egale."
+    },
+    "prs": {
+      "term": "چندضلعی منتظم",
+      "definition": "چندضلعی‌ای که همهٔ ضلع‌هایش هم‌طول و همهٔ زاویه‌های داخلی‌اش مساوی‌اند."
+    },
+    "ps": {
+      "term": "منظم څو ضلعي",
+      "definition": "هغه څو ضلعي چې ټولې غاړې یې یو شان اوږدې او ټولې دننني زاویې یې برابرې وي."
+    },
+    "es": {
+      "term": "Polígono regular",
+      "definition": "Polígono con todos sus lados de la misma longitud y todos sus ángulos interiores iguales."
+    }
+  }
+}

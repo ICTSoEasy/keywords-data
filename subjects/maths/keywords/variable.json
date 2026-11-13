@@ -1,0 +1,40 @@
+{
+  "id": "variable",
+  "topics": [
+    "algebra"
+  ],
+  "translations": {
+    "en": {
+      "term": "Variable",
+      "definition": "A letter or symbol representing a value that can change or is not yet known."
+    },
+    "pl": {
+      "term": "Zmienna",
+      "definition": "Litera lub symbol oznaczający wartość, która może się zmieniać lub nie jest jeszcze znana."
+    },
+    "cy": {
+      "term": "Newidyn",
+      "definition": "Llythyren neu symbol sy'n cynrychioli gwerth a all newid neu nad yw'n hysbys eto."
+    },
+    "ar": {
+      "term": "المتغير",
+      "definition": "حرف أو رمز يمثل قيمة يمكن أن تتغير أو لم تُعرف بعد."
+    },
+    "ro": {
+      "term": "Variabilă",
+      "definition": "O literă sau un simbol care reprezintă o valoare ce se poate schimba sau nu este încă cunoscută."
+    },
+    "prs": {
+      "term": "متحول",
+      "definition": "حرف یا علامتی که مقداری را نشان می‌دهد که می‌تواند تغییر کند یا هنوز معلوم نیست."
+    },
+    "ps": {
+      "term": "متحول",
+      "definition": "هغه توری یا نښه چې یو قیمت ښيي چې بدلېدای شي یا لا معلوم نه وي."
+    },
+    "es": {
+      "term": "Variable",
+      "definition": "Letra o símbolo que representa un valor que puede cambiar o que todavía no se conoce."
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "regular",
+  "topics": [
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Regular",
+      "definition": "A polygon or shape with all sides equal and all angles equal."
+    },
+    "pl": {
+      "term": "Foremny",
+      "definition": "Wielokąt lub figura o wszystkich bokach równych i wszystkich kątach równych."
+    },
+    "cy": {
+      "term": "Rheolaidd",
+      "definition": "Polygon neu siâp â'i ochrau i gyd yn hafal a'i onglau i gyd yn hafal."
+    },
+    "ar": {
+      "term": "منتظم",
+      "definition": "مضلع أو شكل جميع أضلاعه متساوية وجميع زواياه متساوية."
+    },
+    "ro": {
+      "term": "Regulat",
+      "definition": "Un poligon sau o figură cu toate laturile egale și toate unghiurile egale."
+    },
+    "prs": {
+      "term": "منتظم",
+      "definition": "چندضلعی یا شکلی که همهٔ ضلع‌ها و همهٔ زاویه‌هایش مساوی‌اند."
+    },
+    "ps": {
+      "term": "منظم",
+      "definition": "هغه څو ضلعي یا بڼه چې ټولې غاړې او ټولې زاویې یې برابرې وي."
+    },
+    "es": {
+      "term": "Regular",
+      "definition": "Polígono o figura cuyos lados son todos iguales y cuyos ángulos también son todos iguales."
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "alternate_angles",
+  "topics": [
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Alternate Angles",
+      "definition": "A pair of angles on opposite sides of a transversal crossing two lines; they are equal when the lines are parallel."
+    },
+    "pl": {
+      "term": "Kąty naprzemianległe",
+      "definition": "Para kątów po przeciwnych stronach siecznej przecinającej dwie proste; są równe, gdy proste są równoległe."
+    },
+    "cy": {
+      "term": "Onglau Eiledol",
+      "definition": "Pâr o onglau ar ochrau cyferbyn trawslin sy'n croesi dwy linell; maen nhw'n hafal pan fo'r llinellau'n baralel."
+    },
+    "ar": {
+      "term": "الزوايا المتبادلة",
+      "definition": "زوجا زوايا على جانبين متقابلين من قاطع يقطع خطين؛ وتكونان متساويتين عندما يكون الخطان متوازيين."
+    },
+    "ro": {
+      "term": "Unghiuri alterne",
+      "definition": "O pereche de unghiuri de o parte și de alta a unei secante care taie două drepte; sunt egale când dreptele sunt paralele."
+    },
+    "prs": {
+      "term": "زاویه‌های متبادله",
+      "definition": "دو زاویه در دو طرف مقابل یک قاطع که دو خط را قطع می‌کند؛ وقتی خط‌ها موازی باشند مساوی‌اند."
+    },
+    "ps": {
+      "term": "متبادلې زاویې",
+      "definition": "د زاویو یوه جوړه د یو قاطع په مخالفو خواوو کې چې دوه کرښې قطع کوي؛ کله چې کرښې موازي وي برابرې دي."
+    },
+    "es": {
+      "term": "Ángulos alternos",
+      "definition": "Par de ángulos situados en lados opuestos de una transversal que corta dos rectas. Son iguales cuando las rectas son paralelas."
+    }
+  }
+}

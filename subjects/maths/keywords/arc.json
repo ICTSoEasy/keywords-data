@@ -1,0 +1,40 @@
+{
+  "id": "arc",
+  "topics": [
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Arc",
+      "definition": "A part of the circumference of a circle."
+    },
+    "pl": {
+      "term": "Łuk",
+      "definition": "Część okręgu."
+    },
+    "cy": {
+      "term": "Arc",
+      "definition": "Rhan o gylchedd cylch."
+    },
+    "ar": {
+      "term": "القوس",
+      "definition": "جزء من محيط الدائرة."
+    },
+    "ro": {
+      "term": "Arc de cerc",
+      "definition": "O porțiune din cerc cuprinsă între două puncte ale sale."
+    },
+    "prs": {
+      "term": "قوس دایره",
+      "definition": "بخشی از محیط دایره."
+    },
+    "ps": {
+      "term": "کمان",
+      "definition": "د دایرې د محیط یوه برخه."
+    },
+    "es": {
+      "term": "Arco",
+      "definition": "Parte de la circunferencia de un círculo."
+    }
+  }
+}

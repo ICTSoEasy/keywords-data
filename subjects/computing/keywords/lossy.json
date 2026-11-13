@@ -31,6 +31,10 @@
     "ps": {
       "term": "د ضیاع سره فشردول",
       "definition": "فشردول چې د کوچنیو فایلونو لپاره ځینې معلومات لرې کوي."
+    },
+    "es": {
+      "term": "Compresión con pérdida",
+      "definition": "Método de compresión que elimina definitivamente algunos datos para reducir el tamaño del archivo, con una pérdida de calidad."
     }
   }
 }

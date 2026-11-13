@@ -1,0 +1,40 @@
+{
+  "id": "experimental",
+  "topics": [
+    "probability"
+  ],
+  "translations": {
+    "en": {
+      "term": "Experimental",
+      "definition": "Based on results gathered by carrying out an experiment or trial."
+    },
+    "pl": {
+      "term": "Doświadczalne",
+      "definition": "Oparte na wynikach zebranych podczas przeprowadzania doświadczenia lub próby."
+    },
+    "cy": {
+      "term": "Arbrofol",
+      "definition": "Yn seiliedig ar ganlyniadau a gasglwyd drwy gynnal arbrawf neu dreial."
+    },
+    "ar": {
+      "term": "تجريبي",
+      "definition": "يعتمد على نتائج جُمعت من إجراء تجربة أو محاولة."
+    },
+    "ro": {
+      "term": "Experimental",
+      "definition": "Bazat pe rezultate obținute prin efectuarea unui experiment sau a unei încercări."
+    },
+    "prs": {
+      "term": "تجربی",
+      "definition": "بر اساس نتیجه‌هایی که با انجام یک تجربه یا آزمایش جمع‌آوری شده‌اند."
+    },
+    "ps": {
+      "term": "تجربوي",
+      "definition": "د هغو پایلو پر بنسټ چې د یوې تجربې یا ازموینې په ترسره کولو راټولې شوې."
+    },
+    "es": {
+      "term": "Experimental",
+      "definition": "Basado en los resultados obtenidos al realizar un experimento o una prueba."
+    }
+  }
+}

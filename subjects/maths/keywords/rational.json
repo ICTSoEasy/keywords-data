@@ -1,0 +1,40 @@
+{
+  "id": "rational",
+  "topics": [
+    "number"
+  ],
+  "translations": {
+    "en": {
+      "term": "Rational",
+      "definition": "A number that can be written as a fraction of two integers, with a non-zero denominator."
+    },
+    "pl": {
+      "term": "Liczba wymierna",
+      "definition": "Liczba, którą można zapisać jako ułamek dwóch liczb całkowitych o niezerowym mianowniku."
+    },
+    "cy": {
+      "term": "Cymarebol",
+      "definition": "Rhif y gellir ei ysgrifennu fel ffracsiwn o ddau gyfanrif, gydag enwadur nad yw'n sero."
+    },
+    "ar": {
+      "term": "العدد النسبي",
+      "definition": "عدد يمكن كتابته على شكل كسر من عددين صحيحين، مقامه لا يساوي صفراً."
+    },
+    "ro": {
+      "term": "Număr rațional",
+      "definition": "Un număr care poate fi scris ca fracție a două numere întregi, cu numitorul diferit de zero."
+    },
+    "prs": {
+      "term": "عدد ناطق",
+      "definition": "عددی که می‌توان آن را به شکل کسر دو عدد صحیح با مخرج غیرصفر نوشت."
+    },
+    "ps": {
+      "term": "ناطق عدد",
+      "definition": "هغه عدد چې د دوو بشپړو عددونو د کسر په بڼه لیکل کېدای شي، او مخرج یې صفر نه وي."
+    },
+    "es": {
+      "term": "Racional",
+      "definition": "Número que se puede expresar como fracción de dos números enteros, con denominador distinto de cero."
+    }
+  }
+}

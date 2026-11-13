@@ -1,0 +1,40 @@
+{
+  "id": "vertices",
+  "topics": [
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Vertices",
+      "definition": "The plural of vertex: the corners where sides or edges meet."
+    },
+    "pl": {
+      "term": "Wierzchołki",
+      "definition": "Liczba mnoga od wierzchołka: narożniki, w których spotykają się boki lub krawędzie."
+    },
+    "cy": {
+      "term": "Fertigau",
+      "definition": "Lluosog fertig: y corneli lle mae ochrau neu ymylon yn cyfarfod."
+    },
+    "ar": {
+      "term": "الرؤوس",
+      "definition": "جمع رأس: الأركان التي تلتقي عندها الأضلاع أو الأحرف."
+    },
+    "ro": {
+      "term": "Vârfuri",
+      "definition": "Pluralul de la vârf: colțurile în care se întâlnesc laturi sau muchii."
+    },
+    "prs": {
+      "term": "رئوس",
+      "definition": "جمع رأس: گوشه‌هایی که ضلع‌ها یا یال‌ها در آن‌ها به هم می‌رسند."
+    },
+    "ps": {
+      "term": "راسونه",
+      "definition": "د راس جمع: هغه کونجونه چې غاړې یا څنډې پکې سره یوځای کېږي."
+    },
+    "es": {
+      "term": "Vértices",
+      "definition": "Plural de vértice: las esquinas donde se encuentran lados o aristas."
+    }
+  }
+}

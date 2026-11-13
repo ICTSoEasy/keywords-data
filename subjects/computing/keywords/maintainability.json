@@ -31,6 +31,10 @@
     "ps": {
       "term": "د ساتنې وړتیا",
       "definition": "د کوډ د پوهیدلو، تازه کولو او د غلطیو د سملو اسانتیا."
+    },
+    "es": {
+      "term": "Mantenibilidad",
+      "definition": "Facilidad con la que los desarrolladores pueden entender, actualizar y corregir un programa con el tiempo."
     }
   }
 }

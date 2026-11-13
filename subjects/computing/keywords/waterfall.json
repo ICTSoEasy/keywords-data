@@ -31,6 +31,10 @@
     "ps": {
       "term": "واټرفال",
       "definition": "د سافټویر پراختیا خطي لار چې هره مرحله باید د بلې پیل دمخه بشپړه شي."
+    },
+    "es": {
+      "term": "Modelo en cascada",
+      "definition": "Método lineal de desarrollo de software en el que cada etapa debe terminar antes de empezar la siguiente."
     }
   }
 }

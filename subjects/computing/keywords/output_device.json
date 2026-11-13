@@ -31,6 +31,10 @@
     "ps": {
       "term": "د وتنې وسیله",
       "definition": "د سخت‌افزار هغه برخه چې کمپیوټر نه کارونکي ته معلومات لیږي، لکه مانیټر یا پرنټر."
+    },
+    "es": {
+      "term": "Dispositivo de salida",
+      "definition": "Hardware que recibe datos de un ordenador, como un monitor o una impresora."
     }
   }
 }

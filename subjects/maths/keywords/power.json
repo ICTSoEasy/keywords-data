@@ -1,0 +1,40 @@
+{
+  "id": "power",
+  "topics": [
+    "number"
+  ],
+  "translations": {
+    "en": {
+      "term": "Power",
+      "definition": "A number written using an index, showing repeated multiplication. For example, 5² is 5 to the power of 2."
+    },
+    "pl": {
+      "term": "Potęga",
+      "definition": "Liczba zapisana z wykładnikiem, oznaczająca wielokrotne mnożenie. Na przykład 5² to 5 do potęgi 2."
+    },
+    "cy": {
+      "term": "Pŵer",
+      "definition": "Rhif wedi'i ysgrifennu gan ddefnyddio indecs, sy'n dangos lluosi dro ar ôl tro. Er enghraifft, 5² yw 5 i'r pŵer 2."
+    },
+    "ar": {
+      "term": "القوة",
+      "definition": "عدد يُكتب بأس ليدل على الضرب المتكرر. مثلاً 5² تعني 5 مرفوعة للقوة 2."
+    },
+    "ro": {
+      "term": "Putere",
+      "definition": "Un număr scris cu un exponent, care arată o înmulțire repetată. De exemplu, 5² înseamnă 5 la puterea a doua."
+    },
+    "prs": {
+      "term": "توان",
+      "definition": "عددی که با توان نوشته می‌شود و ضرب تکراری را نشان می‌دهد. مثلاً 5² یعنی 5 به توان 2."
+    },
+    "ps": {
+      "term": "توان",
+      "definition": "هغه عدد چې د توان سره لیکل کېږي او تکراري ضرب ښيي. د بېلګې په توګه 5² یعنې 5 په توان 2."
+    },
+    "es": {
+      "term": "Potencia",
+      "definition": "Expresión con un exponente que indica una multiplicación repetida. Por ejemplo, 5² es cinco elevado a dos."
+    }
+  }
+}

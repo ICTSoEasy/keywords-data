@@ -28,6 +28,10 @@
     "ps": {
       "term": "سټرینګ",
       "definition": "د کرکترونو لړۍ چې معمولاً د متن ښودلو لپاره کارول کیږي."
+    },
+    "es": {
+      "term": "Cadena",
+      "definition": "Un fragmento de texto guardado en un programa, por ejemplo \"Hola, mundo\"."
     }
   },
   "topics": [

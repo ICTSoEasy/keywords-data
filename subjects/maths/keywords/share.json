@@ -1,0 +1,40 @@
+{
+  "id": "share",
+  "topics": [
+    "ratio"
+  ],
+  "translations": {
+    "en": {
+      "term": "Share",
+      "definition": "To divide an amount into parts, often in a given ratio."
+    },
+    "pl": {
+      "term": "Dzielić",
+      "definition": "Rozdzielać ilość na części, często w podanym stosunku."
+    },
+    "cy": {
+      "term": "Rhannu",
+      "definition": "Rhannu swm yn rhannau, yn aml mewn cymhareb benodol."
+    },
+    "ar": {
+      "term": "التقسيم",
+      "definition": "تقسيم كمية إلى أجزاء، غالباً بنسبة معطاة."
+    },
+    "ro": {
+      "term": "A împărți",
+      "definition": "A împărți o cantitate în părți, adesea într-un raport dat."
+    },
+    "prs": {
+      "term": "تقسیم کردن",
+      "definition": "تقسیم کردن یک مقدار به بخش‌ها، اغلب به یک نسبت معین."
+    },
+    "ps": {
+      "term": "وېشل",
+      "definition": "د یو مقدار په برخو وېشل، ډېری وخت په یو ټاکلي نسبت."
+    },
+    "es": {
+      "term": "Repartir",
+      "definition": "Repartir una cantidad en partes, a menudo siguiendo una razón determinada."
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "mass",
+  "topics": [
+    "ratio"
+  ],
+  "translations": {
+    "en": {
+      "term": "Mass",
+      "definition": "A measure of how much matter an object contains, commonly measured in grams or kilograms."
+    },
+    "pl": {
+      "term": "Masa",
+      "definition": "Miara ilości materii w przedmiocie, zwykle mierzona w gramach lub kilogramach."
+    },
+    "cy": {
+      "term": "Màs",
+      "definition": "Mesur o faint o fater sydd mewn gwrthrych, wedi'i fesur fel arfer mewn gramau neu gilogramau."
+    },
+    "ar": {
+      "term": "الكتلة",
+      "definition": "مقياس لكمية المادة في جسم ما، وتُقاس عادةً بالغرام أو الكيلوغرام."
+    },
+    "ro": {
+      "term": "Masă",
+      "definition": "O măsură a cantității de materie dintr-un obiect, măsurată de obicei în grame sau kilograme."
+    },
+    "prs": {
+      "term": "کتله",
+      "definition": "اندازهٔ مقدار ماده در یک جسم که معمولاً با گرام یا کیلوگرام اندازه گرفته می‌شود."
+    },
+    "ps": {
+      "term": "کتله",
+      "definition": "په یو جسم کې د مادې د اندازې ښودنه، معمولاً په ګرام یا کیلوګرام اندازه کېږي."
+    },
+    "es": {
+      "term": "Masa",
+      "definition": "Medida de la cantidad de materia de un objeto, normalmente expresada en gramos o kilogramos."
+    }
+  }
+}

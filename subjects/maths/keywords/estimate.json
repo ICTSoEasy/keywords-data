@@ -1,0 +1,40 @@
+{
+  "id": "estimate",
+  "topics": [
+    "number"
+  ],
+  "translations": {
+    "en": {
+      "term": "Estimate",
+      "definition": "To find an approximate answer, often by rounding numbers to make a calculation easier."
+    },
+    "pl": {
+      "term": "Szacować",
+      "definition": "Znajdować przybliżony wynik, często przez zaokrąglenie liczb, aby ułatwić obliczenia."
+    },
+    "cy": {
+      "term": "Amcangyfrif",
+      "definition": "Dod o hyd i ateb bras, yn aml drwy dalgrynnu rhifau i wneud cyfrifiad yn haws."
+    },
+    "ar": {
+      "term": "التقدير",
+      "definition": "إيجاد إجابة تقريبية، غالباً بتقريب الأعداد لتسهيل الحساب."
+    },
+    "ro": {
+      "term": "A estima",
+      "definition": "A găsi un răspuns aproximativ, adesea rotunjind numerele pentru a ușura calculul."
+    },
+    "prs": {
+      "term": "تخمین زدن",
+      "definition": "پیدا کردن جواب تقریبی، اغلب با گرد کردن اعداد برای آسان‌تر شدن محاسبه."
+    },
+    "ps": {
+      "term": "اټکل کول",
+      "definition": "د تقریبي ځواب پیدا کول، ډېری وخت د عددونو په ګردولو سره ترڅو محاسبه اسانه شي."
+    },
+    "es": {
+      "term": "Estimar",
+      "definition": "Calcular un resultado aproximado, a menudo redondeando los números para facilitar la operación."
+    }
+  }
+}

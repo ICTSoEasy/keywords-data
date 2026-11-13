@@ -1,0 +1,40 @@
+{
+  "id": "correlation",
+  "topics": [
+    "statistics"
+  ],
+  "translations": {
+    "en": {
+      "term": "Correlation",
+      "definition": "A relationship between two variables. It can be positive, negative or show no correlation."
+    },
+    "pl": {
+      "term": "Korelacja",
+      "definition": "Związek między dwiema zmiennymi. Może być dodatnia, ujemna lub może jej nie być."
+    },
+    "cy": {
+      "term": "Cydberthyniad",
+      "definition": "Perthynas rhwng dau newidyn. Gall fod yn bositif, yn negatif neu ddangos dim cydberthyniad."
+    },
+    "ar": {
+      "term": "الارتباط",
+      "definition": "علاقة بين متغيرين. قد يكون موجباً أو سالباً أو لا يوجد ارتباط."
+    },
+    "ro": {
+      "term": "Corelație",
+      "definition": "O relație între două variabile. Poate fi pozitivă, negativă sau poate lipsi."
+    },
+    "prs": {
+      "term": "همبستگی",
+      "definition": "رابطه‌ای میان دو متحول. می‌تواند مثبت، منفی یا بدون همبستگی باشد."
+    },
+    "ps": {
+      "term": "اړیکه",
+      "definition": "د دوو متحولینو تر منځ اړیکه. کېدای شي مثبته، منفي یا هېڅ اړیکه نه وي."
+    },
+    "es": {
+      "term": "Correlación",
+      "definition": "Relación entre dos variables. Puede ser positiva, negativa o indicar que no existe correlación."
+    }
+  }
+}

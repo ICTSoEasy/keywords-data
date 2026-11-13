@@ -1,0 +1,40 @@
+{
+  "id": "equation_of_a_tangent",
+  "topics": [
+    "algebra"
+  ],
+  "translations": {
+    "en": {
+      "term": "Equation of a Tangent",
+      "definition": "An equation of a straight line that touches a curve at exactly one point locally and has the same gradient as the curve there."
+    },
+    "pl": {
+      "term": "Równanie stycznej",
+      "definition": "Równanie prostej, która w danym miejscu dotyka krzywej w jednym punkcie i ma tam takie samo nachylenie jak krzywa."
+    },
+    "cy": {
+      "term": "Hafaliad Tangiad",
+      "definition": "Hafaliad llinell syth sy'n cyffwrdd â chromlin mewn un pwynt yn lleol ac sydd â'r un graddiant â'r gromlin yno."
+    },
+    "ar": {
+      "term": "معادلة المماس",
+      "definition": "معادلة خط مستقيم يمسّ المنحنى في نقطة واحدة محلياً وله ميل المنحنى نفسه عندها."
+    },
+    "ro": {
+      "term": "Ecuația tangentei",
+      "definition": "Ecuația unei drepte care atinge local o curbă într-un singur punct și are acolo aceeași pantă ca și curba."
+    },
+    "prs": {
+      "term": "معادلهٔ مماس",
+      "definition": "معادلهٔ خط مستقیمی که منحنی را در یک نقطه لمس می‌کند و در آنجا همان میل منحنی را دارد."
+    },
+    "ps": {
+      "term": "د مماس معادله",
+      "definition": "د هغې مستقیمې کرښې معادله چې منحني په یوه ټکي کې لمسوي او هلته د منحني په څېر میل لري."
+    },
+    "es": {
+      "term": "Ecuación de una tangente",
+      "definition": "Ecuación de una recta tangente a una curva en un punto, con la misma pendiente que la curva en ese punto."
+    }
+  }
+}

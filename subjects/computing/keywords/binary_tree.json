@@ -31,6 +31,10 @@
     "ps": {
       "term": "بائنري ونه",
       "definition": "د ونې جوړښت چې هر نوډ لږ تر لږه دوه ماشومان لري."
+    },
+    "es": {
+      "term": "Árbol binario",
+      "definition": "Árbol en el que cada nodo tiene como máximo dos hijos, llamados hijo izquierdo e hijo derecho."
     }
   }
 }

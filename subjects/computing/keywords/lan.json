@@ -31,6 +31,10 @@
     "ps": {
       "term": "LAN",
       "definition": "شبکه چې وسیلې د یوه کوچني سیمه کې لکه کور یا ښوونځی سره وصلوي."
+    },
+    "es": {
+      "term": "LAN",
+      "definition": "Red de Área Local; conecta dispositivos dentro de una zona pequeña, como un edificio escolar o una oficina."
     }
   }
 }

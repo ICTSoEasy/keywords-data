@@ -1,0 +1,40 @@
+{
+  "id": "edge",
+  "topics": [
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Edge",
+      "definition": "A line where two faces of a 3D shape meet."
+    },
+    "pl": {
+      "term": "Krawędź",
+      "definition": "Linia, w której spotykają się dwie ściany bryły."
+    },
+    "cy": {
+      "term": "Ymyl",
+      "definition": "Llinell lle mae dau wyneb siâp 3D yn cyfarfod."
+    },
+    "ar": {
+      "term": "الحرف",
+      "definition": "الخط الذي يلتقي عنده وجهان من أوجه المجسّم."
+    },
+    "ro": {
+      "term": "Muchie",
+      "definition": "Linia în care se întâlnesc două fețe ale unui corp."
+    },
+    "prs": {
+      "term": "یال",
+      "definition": "خطی که دو وجه یک شکل سه‌بعدی در آن به هم می‌رسند."
+    },
+    "ps": {
+      "term": "څنډه",
+      "definition": "هغه کرښه چې د درې بُعدي بڼې دوه مخونه پکې سره یوځای کېږي."
+    },
+    "es": {
+      "term": "Arista",
+      "definition": "Línea donde se encuentran dos caras de un cuerpo geométrico."
+    }
+  }
+}

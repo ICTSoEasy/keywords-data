@@ -31,6 +31,10 @@
     "ps": {
       "term": "د حل وړ",
       "definition": "ستونزه چې د معقول وخت کې د الګوریتم له لارې حل کیدلی شي."
+    },
+    "es": {
+      "term": "Problema tratable",
+      "definition": "Problema que un algoritmo puede resolver en un tiempo razonable, normalmente con complejidad de tiempo polinómica."
     }
   }
 }

@@ -1,0 +1,40 @@
+{
+  "id": "congruence",
+  "topics": [
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Congruence",
+      "definition": "The property of two shapes being exactly the same size and shape."
+    },
+    "pl": {
+      "term": "Przystawanie",
+      "definition": "Własność dwóch figur, które mają dokładnie ten sam kształt i rozmiar."
+    },
+    "cy": {
+      "term": "Cyfathiant",
+      "definition": "Y briodwedd o fod â dau siâp yn union yr un maint a siâp."
+    },
+    "ar": {
+      "term": "التطابق",
+      "definition": "خاصية كون شكلين لهما الشكل والحجم نفسيهما تماماً."
+    },
+    "ro": {
+      "term": "Congruență",
+      "definition": "Proprietatea a două figuri de a avea exact aceeași formă și mărime."
+    },
+    "prs": {
+      "term": "تطابق",
+      "definition": "ویژگی دو شکل که دقیقاً یک اندازه و یک شکل دارند."
+    },
+    "ps": {
+      "term": "انطباق",
+      "definition": "د دوو بڼو ځانګړتیا چې دقیقاً یو شان اندازه او بڼه ولري."
+    },
+    "es": {
+      "term": "Congruencia",
+      "definition": "Propiedad de dos figuras que tienen exactamente la misma forma y el mismo tamaño."
+    }
+  }
+}

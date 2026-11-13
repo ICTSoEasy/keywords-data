@@ -31,6 +31,10 @@
     "ps": {
       "term": "سټیک",
       "definition": "د معلوماتو جوړښت چې توکي د وروستی-ننوتی-لومړی-وتلی (LIFO) ترتیب سره ذخیره کوي."
+    },
+    "es": {
+      "term": "Pila",
+      "definition": "Estructura de datos en la que los elementos se añaden y se quitan por el mismo extremo, siguiendo el orden último en entrar, primero en salir (LIFO)."
     }
   }
 }

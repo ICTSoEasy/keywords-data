@@ -1,0 +1,40 @@
+{
+  "id": "tangent",
+  "topics": [
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Tangent",
+      "definition": "A straight line that touches a curve or circle at one point. For a circle, it is perpendicular to the radius at the point of contact."
+    },
+    "pl": {
+      "term": "Styczna",
+      "definition": "Prosta dotykająca krzywej lub okręgu w jednym punkcie. Styczna do okręgu jest prostopadła do promienia w punkcie styczności."
+    },
+    "cy": {
+      "term": "Tangiad",
+      "definition": "Llinell syth sy'n cyffwrdd â chromlin neu gylch mewn un pwynt. Ar gyfer cylch, mae'n berpendicwlar i'r radiws yn y pwynt cyffwrdd."
+    },
+    "ar": {
+      "term": "المماس",
+      "definition": "خط مستقيم يمسّ منحنى أو دائرة في نقطة واحدة. في الدائرة يكون عمودياً على نصف القطر عند نقطة التماس."
+    },
+    "ro": {
+      "term": "Tangentă",
+      "definition": "O dreaptă care atinge o curbă sau un cerc într-un singur punct. La cerc, tangenta este perpendiculară pe rază în punctul de contact."
+    },
+    "prs": {
+      "term": "مماس",
+      "definition": "خط مستقیمی که یک منحنی یا دایره را در یک نقطه لمس می‌کند. در دایره، مماس در نقطهٔ تماس بر شعاع عمود است."
+    },
+    "ps": {
+      "term": "مماس",
+      "definition": "هغه مستقیمه کرښه چې یو منحني یا دایره په یو ټکي کې لمسوي. د دایرې لپاره، د تماس په ټکي کې پر شعاع عمود وي."
+    },
+    "es": {
+      "term": "Tangente",
+      "definition": "Recta que toca una curva o circunferencia en un punto. En una circunferencia, es perpendicular al radio en el punto de contacto."
+    }
+  }
+}

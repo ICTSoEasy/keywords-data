@@ -1,0 +1,40 @@
+{
+  "id": "trigonometric_ratios",
+  "topics": [
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Trigonometric Ratios",
+      "definition": "The ratios of side lengths in a right-angled triangle: sine, cosine and tangent."
+    },
+    "pl": {
+      "term": "Stosunki trygonometryczne",
+      "definition": "Stosunki długości boków w trójkącie prostokątnym: sinus, cosinus i tangens."
+    },
+    "cy": {
+      "term": "Cymarebau Trigonometrig",
+      "definition": "Cymarebau hydoedd ochrau mewn triongl ongl sgwâr: sin, cosin a thangiad."
+    },
+    "ar": {
+      "term": "النسب المثلثية",
+      "definition": "نسب أطوال الأضلاع في المثلث القائم: الجيب وجيب التمام والظل."
+    },
+    "ro": {
+      "term": "Rapoarte trigonometrice",
+      "definition": "Rapoartele dintre lungimile laturilor unui triunghi dreptunghic: sinus, cosinus și tangentă."
+    },
+    "prs": {
+      "term": "نسبت‌های مثلثاتی",
+      "definition": "نسبت‌های طول ضلع‌ها در مثلث قائم‌الزاویه: ساین، کوساین و تانجانت."
+    },
+    "ps": {
+      "term": "مثلثاتي نسبتونه",
+      "definition": "په قایم الزاویه مثلث کې د غاړو د اوږدوالي نسبتونه: ساین، کوساین او ټانجنټ."
+    },
+    "es": {
+      "term": "Razones trigonométricas",
+      "definition": "Razones entre las longitudes de los lados de un triángulo rectángulo: seno, coseno y tangente."
+    }
+  }
+}

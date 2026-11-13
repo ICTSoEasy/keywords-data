@@ -28,6 +28,10 @@
     "ps": {
       "term": "پاکیټ",
       "definition": "د معلوماتو کوچنۍ برخه چې انټرنیټ له لارې لیږل کیږي؛ لوی فایلونه کوچنیو پاکیټونو ته ویشل کیږي."
+    },
+    "es": {
+      "term": "Paquete",
+      "definition": "Pequeño fragmento de datos que se envía por una red. Los archivos grandes se dividen automáticamente en muchos paquetes."
     }
   },
   "topics": [

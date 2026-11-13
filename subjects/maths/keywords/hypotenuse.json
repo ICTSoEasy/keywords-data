@@ -1,0 +1,40 @@
+{
+  "id": "hypotenuse",
+  "topics": [
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Hypotenuse",
+      "definition": "The longest side of a right-angled triangle, opposite the right angle."
+    },
+    "pl": {
+      "term": "Przeciwprostokątna",
+      "definition": "Najdłuższy bok trójkąta prostokątnego, leżący naprzeciw kąta prostego."
+    },
+    "cy": {
+      "term": "Hypotenws",
+      "definition": "Ochr hiraf triongl ongl sgwâr, gyferbyn â'r ongl sgwâr."
+    },
+    "ar": {
+      "term": "وتر المثلث القائم",
+      "definition": "أطول أضلاع المثلث القائم، ويقابل الزاوية القائمة."
+    },
+    "ro": {
+      "term": "Ipotenuză",
+      "definition": "Cea mai lungă latură a unui triunghi dreptunghic, opusă unghiului drept."
+    },
+    "prs": {
+      "term": "وتر مثلث",
+      "definition": "درازترین ضلع مثلث قائم‌الزاویه که روبه‌روی زاویهٔ قائمه است."
+    },
+    "ps": {
+      "term": "د مثلث وتر",
+      "definition": "د قایم الزاویه مثلث تر ټولو اوږده غاړه چې د قایمې زاویې مخې ته وي."
+    },
+    "es": {
+      "term": "Hipotenusa",
+      "definition": "Lado más largo de un triángulo rectángulo, situado frente al ángulo recto."
+    }
+  }
+}

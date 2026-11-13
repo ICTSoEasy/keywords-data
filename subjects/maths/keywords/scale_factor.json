@@ -1,0 +1,41 @@
+{
+  "id": "scale_factor",
+  "topics": [
+    "ratio",
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Scale Factor",
+      "definition": "The multiplier used to enlarge or reduce a length or shape."
+    },
+    "pl": {
+      "term": "Skala podobieństwa",
+      "definition": "Mnożnik używany do powiększenia lub pomniejszenia długości lub figury."
+    },
+    "cy": {
+      "term": "Ffactor Graddfa",
+      "definition": "Y lluosydd a ddefnyddir i helaethu neu leihau hyd neu siâp."
+    },
+    "ar": {
+      "term": "معامل التكبير",
+      "definition": "العدد الذي نضرب فيه لتكبير طول أو شكل أو تصغيره."
+    },
+    "ro": {
+      "term": "Factor de scară",
+      "definition": "Multiplicatorul folosit pentru a mări sau micșora o lungime sau o figură."
+    },
+    "prs": {
+      "term": "ضریب مقیاس",
+      "definition": "ضریبی که برای بزرگ یا کوچک کردن یک طول یا شکل به کار می‌رود."
+    },
+    "ps": {
+      "term": "د مقیاس ضریب",
+      "definition": "هغه ضریب چې د یو اوږدوالي یا بڼې د لویولو یا کوچنی کولو لپاره کارول کېږي."
+    },
+    "es": {
+      "term": "Factor de escala",
+      "definition": "Multiplicador utilizado para ampliar o reducir una longitud o una figura."
+    }
+  }
+}

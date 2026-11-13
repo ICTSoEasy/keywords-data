@@ -1,0 +1,40 @@
+{
+  "id": "vector",
+  "topics": [
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Vector",
+      "definition": "A quantity with both size (magnitude) and direction, often represented by an arrow."
+    },
+    "pl": {
+      "term": "Wektor",
+      "definition": "Wielkość mająca zarówno wartość, jak i kierunek, często przedstawiana strzałką."
+    },
+    "cy": {
+      "term": "Fector",
+      "definition": "Mesur sydd â maint a chyfeiriad, wedi'i gynrychioli'n aml gan saeth."
+    },
+    "ar": {
+      "term": "المتجه",
+      "definition": "كمية لها مقدار واتجاه، وتُمثَّل غالباً بسهم."
+    },
+    "ro": {
+      "term": "Vector",
+      "definition": "O mărime care are atât valoare, cât și direcție, reprezentată adesea printr-o săgeată."
+    },
+    "prs": {
+      "term": "وکتور",
+      "definition": "کمیتی که هم اندازه و هم جهت دارد و اغلب با یک تیر نشان داده می‌شود."
+    },
+    "ps": {
+      "term": "وکتور",
+      "definition": "هغه کمیت چې هم اندازه او هم لوری لري، ډېری وخت د غشي په واسطه ښودل کېږي."
+    },
+    "es": {
+      "term": "Vector",
+      "definition": "Magnitud que tiene tamaño (módulo) y dirección, y que suele representarse mediante una flecha."
+    }
+  }
+}

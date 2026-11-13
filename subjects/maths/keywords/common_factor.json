@@ -1,0 +1,40 @@
+{
+  "id": "common_factor",
+  "topics": [
+    "algebra"
+  ],
+  "translations": {
+    "en": {
+      "term": "Common Factor",
+      "definition": "A factor shared by two or more terms or numbers."
+    },
+    "pl": {
+      "term": "Wspólny czynnik",
+      "definition": "Czynnik wspólny dla dwóch lub więcej wyrazów lub liczb."
+    },
+    "cy": {
+      "term": "Ffactor Cyffredin",
+      "definition": "Ffactor sy'n perthyn i ddau derm neu rif neu fwy."
+    },
+    "ar": {
+      "term": "العامل المشترك",
+      "definition": "عامل مشترك بين حدّين أو عددين أو أكثر."
+    },
+    "ro": {
+      "term": "Factor comun",
+      "definition": "Un factor pe care îl au în comun doi sau mai mulți termeni sau numere."
+    },
+    "prs": {
+      "term": "عامل مشترک",
+      "definition": "عاملی که میان دو یا چند جمله یا عدد مشترک است."
+    },
+    "ps": {
+      "term": "ګډ عامل",
+      "definition": "هغه عامل چې د دوو یا ډېرو حدونو یا عددونو تر منځ ګډ وي."
+    },
+    "es": {
+      "term": "Factor común",
+      "definition": "Factor que comparten dos o más términos o números."
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "equation",
+  "topics": [
+    "algebra"
+  ],
+  "translations": {
+    "en": {
+      "term": "Equation",
+      "definition": "A mathematical statement showing that two expressions have equal value, using an equals sign."
+    },
+    "pl": {
+      "term": "Równanie",
+      "definition": "Zapis matematyczny pokazujący, że dwa wyrażenia mają równą wartość, ze znakiem równości."
+    },
+    "cy": {
+      "term": "Hafaliad",
+      "definition": "Gosodiad mathemategol sy'n dangos bod gan ddau fynegiad werth hafal, gan ddefnyddio arwydd hafal."
+    },
+    "ar": {
+      "term": "المعادلة",
+      "definition": "عبارة رياضية تبيّن أن لعبارتين القيمة نفسها، باستخدام علامة المساواة."
+    },
+    "ro": {
+      "term": "Ecuație",
+      "definition": "O afirmație matematică ce arată că două expresii au valori egale, folosind semnul egal."
+    },
+    "prs": {
+      "term": "معادله",
+      "definition": "عبارت ریاضی که نشان می‌دهد دو افاده با علامت مساوی ارزش برابر دارند."
+    },
+    "ps": {
+      "term": "معادله",
+      "definition": "هغه ریاضي افاده چې ښيي دوه افادې د مساوي نښې سره برابر ارزښت لري."
+    },
+    "es": {
+      "term": "Ecuación",
+      "definition": "Igualdad matemática entre dos expresiones, indicada mediante el signo igual."
+    }
+  }
+}

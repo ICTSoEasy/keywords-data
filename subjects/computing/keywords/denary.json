@@ -31,6 +31,10 @@
     "ps": {
       "term": "لسیزه",
       "definition": "د ۱۰ پر بنسټ عادي د شمیرو سیستم چې ۰ تر ۹ پورې ارقام کاروي."
+    },
+    "es": {
+      "term": "Decimal",
+      "definition": "El sistema numérico habitual que usa los dígitos del 0 al 9, también llamado base 10."
     }
   }
 }

@@ -1,0 +1,40 @@
+{
+  "id": "direct_proportion",
+  "topics": [
+    "ratio"
+  ],
+  "translations": {
+    "en": {
+      "term": "Direct Proportion",
+      "definition": "A relationship in which one quantity is a constant multiple of another; as one changes, the other changes in the same ratio."
+    },
+    "pl": {
+      "term": "Proporcjonalność prosta",
+      "definition": "Zależność, w której jedna wielkość jest stałą wielokrotnością drugiej; gdy jedna się zmienia, druga zmienia się w tym samym stosunku."
+    },
+    "cy": {
+      "term": "Cyfrannedd Union",
+      "definition": "Perthynas lle mae un maint yn lluosrif cyson o un arall; wrth i un newid, mae'r llall yn newid yn yr un gymhareb."
+    },
+    "ar": {
+      "term": "التناسب الطردي",
+      "definition": "علاقة تكون فيها إحدى الكميتين مضاعفاً ثابتاً للأخرى؛ فإذا تغيرت إحداهما تغيرت الأخرى بالنسبة نفسها."
+    },
+    "ro": {
+      "term": "Proporționalitate directă",
+      "definition": "O relație în care o mărime este un multiplu constant al alteia; când una se schimbă, cealaltă se schimbă în același raport."
+    },
+    "prs": {
+      "term": "تناسب مستقیم",
+      "definition": "رابطه‌ای که در آن یک مقدار مضرب ثابتی از دیگری است؛ وقتی یکی تغییر کند، دیگری به همان نسبت تغییر می‌کند."
+    },
+    "ps": {
+      "term": "مستقیم تناسب",
+      "definition": "هغه اړیکه چې یو مقدار د بل ثابت مضرب وي؛ کله چې یو بدل شي، بل هم په هماغه نسبت بدلېږي."
+    },
+    "es": {
+      "term": "Proporcionalidad directa",
+      "definition": "Relación en la que una cantidad es un múltiplo constante de otra; ambas cambian en la misma proporción."
+    }
+  }
+}

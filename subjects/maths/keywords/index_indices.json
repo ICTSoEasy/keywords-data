@@ -1,0 +1,40 @@
+{
+  "id": "index_indices",
+  "topics": [
+    "number"
+  ],
+  "translations": {
+    "en": {
+      "term": "Index / Indices",
+      "definition": "An index (plural: indices) tells you how many times a number or letter is multiplied by itself. In 2⁴, the index is 4."
+    },
+    "pl": {
+      "term": "Wykładnik / wykładniki",
+      "definition": "Wykładnik mówi, ile razy liczbę lub literę mnożymy przez nią samą. W 2⁴ wykładnikiem jest 4."
+    },
+    "cy": {
+      "term": "Indecs / Indecsau",
+      "definition": "Mae indecs (lluosog: indecsau) yn dweud sawl gwaith mae rhif neu lythyren yn cael ei luosi ag ef ei hun. Yn 2⁴, yr indecs yw 4."
+    },
+    "ar": {
+      "term": "الأس / الأسس",
+      "definition": "الأس يبيّن عدد مرات ضرب العدد أو الحرف في نفسه. في 2⁴ الأس هو 4."
+    },
+    "ro": {
+      "term": "Exponent / exponenți",
+      "definition": "Exponentul arată de câte ori un număr sau o literă se înmulțește cu el însuși. În 2⁴, exponentul este 4."
+    },
+    "prs": {
+      "term": "توان / توان‌ها",
+      "definition": "توان نشان می‌دهد که یک عدد یا حرف چند بار در خودش ضرب می‌شود. در 2⁴ توان 4 است."
+    },
+    "ps": {
+      "term": "توان / توانونه",
+      "definition": "توان ښيي چې یو عدد یا توری څو ځله له ځان سره ضربېږي. په 2⁴ کې توان 4 دی."
+    },
+    "es": {
+      "term": "Exponente / exponentes",
+      "definition": "El exponente indica cuántas veces se multiplica un número o una letra por sí mismo. En 2⁴, el exponente es 4."
+    }
+  }
+}

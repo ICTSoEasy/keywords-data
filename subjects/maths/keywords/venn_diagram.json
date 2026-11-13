@@ -1,0 +1,40 @@
+{
+  "id": "venn_diagram",
+  "topics": [
+    "probability"
+  ],
+  "translations": {
+    "en": {
+      "term": "Venn Diagram",
+      "definition": "A diagram using overlapping shapes to show sets and the relationships between them."
+    },
+    "pl": {
+      "term": "Diagram Venna",
+      "definition": "Diagram z nachodzącymi na siebie figurami, pokazujący zbiory i związki między nimi."
+    },
+    "cy": {
+      "term": "Diagram Venn",
+      "definition": "Diagram sy'n defnyddio siapiau sy'n gorgyffwrdd i ddangos setiau a'r berthynas rhyngddynt."
+    },
+    "ar": {
+      "term": "مخطط فن",
+      "definition": "مخطط يستخدم أشكالاً متداخلة لإظهار المجموعات والعلاقات بينها."
+    },
+    "ro": {
+      "term": "Diagrama Venn",
+      "definition": "O diagramă cu forme care se suprapun, ce arată mulțimi și relațiile dintre ele."
+    },
+    "prs": {
+      "term": "نمودار وِن",
+      "definition": "نموداری که با شکل‌های هم‌پوشان مجموعه‌ها و رابطهٔ میان آن‌ها را نشان می‌دهد."
+    },
+    "ps": {
+      "term": "د وېن ګراف",
+      "definition": "هغه ګراف چې د یو بل سره پرتو بڼو په کارولو سره ټولګې او د هغوی اړیکې ښيي."
+    },
+    "es": {
+      "term": "Diagrama de Venn",
+      "definition": "Diagrama que utiliza regiones superpuestas para mostrar conjuntos y las relaciones entre ellos."
+    }
+  }
+}

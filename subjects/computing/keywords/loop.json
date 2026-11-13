@@ -31,6 +31,10 @@
     "ps": {
       "term": "لوپ",
       "definition": "جوړښت چې د یوه کوډ بلاک ډیری ځله چلوي ترڅو یو شرط پوره شي."
+    },
+    "es": {
+      "term": "Bucle",
+      "definition": "Bloque de código que se repite hasta que se cumple una condición o un número fijo de veces."
     }
   }
 }

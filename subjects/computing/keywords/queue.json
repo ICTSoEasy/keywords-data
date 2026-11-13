@@ -31,6 +31,10 @@
     "ps": {
       "term": "قطار",
       "definition": "د معلوماتو جوړښت چې توکي د لومړی-ننوتی-لومړی-وتلی (FIFO) ترتیب سره ذخیره کوي."
+    },
+    "es": {
+      "term": "Cola",
+      "definition": "Estructura de datos en la que los elementos se añaden por un extremo y se quitan por el otro, siguiendo el orden primero en entrar, primero en salir (FIFO)."
     }
   }
 }

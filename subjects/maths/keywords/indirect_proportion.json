@@ -1,0 +1,40 @@
+{
+  "id": "indirect_proportion",
+  "topics": [
+    "ratio"
+  ],
+  "translations": {
+    "en": {
+      "term": "Indirect Proportion",
+      "definition": "A relationship in which one quantity increases as the other decreases so that their product stays constant."
+    },
+    "pl": {
+      "term": "Proporcjonalność odwrotna",
+      "definition": "Zależność, w której jedna wielkość rośnie, gdy druga maleje, tak że ich iloczyn pozostaje stały."
+    },
+    "cy": {
+      "term": "Cyfrannedd Gwrthdro",
+      "definition": "Perthynas lle mae un maint yn cynyddu wrth i'r llall leihau fel bod eu lluoswm yn aros yn gyson."
+    },
+    "ar": {
+      "term": "التناسب العكسي",
+      "definition": "علاقة تزداد فيها إحدى الكميتين عندما تنقص الأخرى بحيث يبقى حاصل ضربهما ثابتاً."
+    },
+    "ro": {
+      "term": "Proporționalitate inversă",
+      "definition": "O relație în care o mărime crește când cealaltă scade, astfel încât produsul lor rămâne constant."
+    },
+    "prs": {
+      "term": "تناسب معکوس",
+      "definition": "رابطه‌ای که در آن وقتی یک مقدار زیاد می‌شود دیگری کم می‌شود، طوری که حاصل ضرب آن‌ها ثابت می‌ماند."
+    },
+    "ps": {
+      "term": "معکوس تناسب",
+      "definition": "هغه اړیکه چې یو مقدار زیاتېږي کله چې بل کمېږي، داسې چې د دوی حاصل ضرب ثابت پاتې کېږي."
+    },
+    "es": {
+      "term": "Proporcionalidad inversa",
+      "definition": "Relación en la que una cantidad aumenta cuando la otra disminuye, de modo que su producto permanece constante."
+    }
+  }
+}

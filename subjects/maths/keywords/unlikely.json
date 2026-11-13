@@ -1,0 +1,40 @@
+{
+  "id": "unlikely",
+  "topics": [
+    "probability"
+  ],
+  "translations": {
+    "en": {
+      "term": "Unlikely",
+      "definition": "An event that has a probability greater than 0 but less than ½."
+    },
+    "pl": {
+      "term": "Mało prawdopodobne",
+      "definition": "Zdarzenie o prawdopodobieństwie większym od 0, ale mniejszym od ½."
+    },
+    "cy": {
+      "term": "Annhebygol",
+      "definition": "Digwyddiad sydd â thebygolrwydd mwy na 0 ond llai na ½."
+    },
+    "ar": {
+      "term": "غير مرجّح",
+      "definition": "حدث احتماله أكبر من 0 وأصغر من ½."
+    },
+    "ro": {
+      "term": "Puțin probabil",
+      "definition": "Un eveniment care are probabilitatea mai mare de 0, dar mai mică de ½."
+    },
+    "prs": {
+      "term": "نامحتمل",
+      "definition": "رویدادی که احتمال آن بیشتر از 0 ولی کمتر از ½ است."
+    },
+    "ps": {
+      "term": "لږ احتمالي",
+      "definition": "هغه پېښه چې احتمال یې له 0 څخه زیات خو له ½ څخه کم وي."
+    },
+    "es": {
+      "term": "Poco probable",
+      "definition": "Suceso con una probabilidad mayor que 0 y menor que ½."
+    }
+  }
+}

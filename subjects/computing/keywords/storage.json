@@ -31,6 +31,10 @@
     "ps": {
       "term": "ذخیره",
       "definition": "هغه برخې چې معلومات دایمي ساتي، لکه هارډ ډرایو یا USB درایو."
+    },
+    "es": {
+      "term": "Almacenamiento",
+      "definition": "Dispositivos que se usan para guardar datos de forma permanente, como discos duros, SSD o memorias USB."
     }
   }
 }

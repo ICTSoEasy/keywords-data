@@ -31,6 +31,10 @@
     "ps": {
       "term": "اپلیکیشن",
       "definition": "هغه سافټویر چې د کاروونکي لپاره یوه ځانګړې دنده سرته رساوي، لکه ورډ پروسیسر یا لوبه."
+    },
+    "es": {
+      "term": "Aplicación",
+      "definition": "Programa diseñado para ayudar a los usuarios a realizar una tarea concreta, como un procesador de textos o un navegador web."
     }
   }
 }

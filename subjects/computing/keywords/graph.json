@@ -31,6 +31,10 @@
     "ps": {
       "term": "ګراف",
       "definition": "د معلوماتو جوړښت چې د نوډونو (وریکسونو) او د دوی تر منځ اړیکو (اضلاعو) لخوا جوړ شوی."
+    },
+    "es": {
+      "term": "Grafo",
+      "definition": "Estructura de datos formada por nodos (vértices) unidos por aristas; se usa para modelar redes y relaciones."
     }
   }
 }

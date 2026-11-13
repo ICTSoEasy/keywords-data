@@ -1,0 +1,40 @@
+{
+  "id": "time",
+  "topics": [
+    "ratio"
+  ],
+  "translations": {
+    "en": {
+      "term": "Time",
+      "definition": "A measure of how long something takes or when it happens."
+    },
+    "pl": {
+      "term": "Czas",
+      "definition": "Miara tego, jak długo coś trwa lub kiedy się dzieje."
+    },
+    "cy": {
+      "term": "Amser",
+      "definition": "Mesur o ba mor hir mae rhywbeth yn ei gymryd neu pryd mae'n digwydd."
+    },
+    "ar": {
+      "term": "الزمن",
+      "definition": "مقياس لمدة استغراق شيء ما أو لوقت حدوثه."
+    },
+    "ro": {
+      "term": "Timp",
+      "definition": "O măsură a cât durează ceva sau a momentului în care se întâmplă."
+    },
+    "prs": {
+      "term": "زمان",
+      "definition": "اندازهٔ اینکه چیزی چقدر طول می‌کشد یا چه وقت اتفاق می‌افتد."
+    },
+    "ps": {
+      "term": "وخت",
+      "definition": "دا اندازه چې یو کار څومره وخت نیسي یا کله پېښېږي."
+    },
+    "es": {
+      "term": "Tiempo",
+      "definition": "Medida de cuánto dura algo o del momento en que sucede."
+    }
+  }
+}

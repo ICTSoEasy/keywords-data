@@ -1,0 +1,40 @@
+{
+  "id": "plane",
+  "topics": [
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Plane",
+      "definition": "A flat, two-dimensional surface that extends without end."
+    },
+    "pl": {
+      "term": "Płaszczyzna",
+      "definition": "Płaska, dwuwymiarowa powierzchnia rozciągająca się bez końca."
+    },
+    "cy": {
+      "term": "Plân",
+      "definition": "Arwyneb gwastad, dau ddimensiwn sy'n ymestyn yn ddiddiwedd."
+    },
+    "ar": {
+      "term": "المستوى",
+      "definition": "سطح مستوٍ ثنائي الأبعاد يمتد بلا نهاية."
+    },
+    "ro": {
+      "term": "Plan",
+      "definition": "O suprafață plană, bidimensională, care se întinde la nesfârșit."
+    },
+    "prs": {
+      "term": "سطح مستوی",
+      "definition": "سطح هموار دوبعدی که بی‌پایان ادامه دارد."
+    },
+    "ps": {
+      "term": "سطحه",
+      "definition": "هواره دوه بُعدي سطحه چې بې پایه دوام کوي."
+    },
+    "es": {
+      "term": "Plano",
+      "definition": "Superficie plana bidimensional que se extiende indefinidamente."
+    }
+  }
+}

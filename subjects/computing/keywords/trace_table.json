@@ -31,6 +31,10 @@
     "ps": {
       "term": "د ردیابۍ جدول",
       "definition": "جدول چې د کوډ د چلیدلو پرمهال د متغیرونو ارزښتونو ګام‌ونه تعقیبولو لپاره کارول کیږي."
+    },
+    "es": {
+      "term": "Tabla de seguimiento",
+      "definition": "Tabla que se usa para seguir a mano el valor de las variables en cada paso de un algoritmo y comprobar que funciona bien."
     }
   }
 }

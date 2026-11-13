@@ -1,0 +1,41 @@
+{
+  "id": "perpendicular",
+  "topics": [
+    "algebra",
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Perpendicular",
+      "definition": "Lines that meet at a right angle (90°)."
+    },
+    "pl": {
+      "term": "Prostopadłe",
+      "definition": "Proste przecinające się pod kątem prostym (90°)."
+    },
+    "cy": {
+      "term": "Perpendicwlar",
+      "definition": "Llinellau sy'n cyfarfod ar ongl sgwâr (90°)."
+    },
+    "ar": {
+      "term": "متعامدان",
+      "definition": "خطان يلتقيان بزاوية قائمة (90°)."
+    },
+    "ro": {
+      "term": "Perpendiculare",
+      "definition": "Drepte care se întâlnesc sub un unghi drept (90°)."
+    },
+    "prs": {
+      "term": "عمود",
+      "definition": "خط‌هایی که با زاویهٔ قائمه (90°) به هم می‌رسند."
+    },
+    "ps": {
+      "term": "عمود",
+      "definition": "هغه کرښې چې په قایمه زاویه (90°) سره یوځای کېږي."
+    },
+    "es": {
+      "term": "Perpendicular",
+      "definition": "Rectas que se cortan formando un ángulo recto de 90°."
+    }
+  }
+}

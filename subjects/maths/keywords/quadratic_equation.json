@@ -1,0 +1,40 @@
+{
+  "id": "quadratic_equation",
+  "topics": [
+    "algebra"
+  ],
+  "translations": {
+    "en": {
+      "term": "Quadratic Equation",
+      "definition": "An equation that can be written as ax² + bx + c = 0, where a is not zero."
+    },
+    "pl": {
+      "term": "Równanie kwadratowe",
+      "definition": "Równanie, które można zapisać jako ax² + bx + c = 0, gdzie a nie jest zerem."
+    },
+    "cy": {
+      "term": "Hafaliad Cwadratig",
+      "definition": "Hafaliad y gellir ei ysgrifennu fel ax² + bx + c = 0, lle nad yw a yn sero."
+    },
+    "ar": {
+      "term": "المعادلة التربيعية",
+      "definition": "معادلة يمكن كتابتها على الشكل ax² + bx + c = 0 حيث a لا يساوي صفراً."
+    },
+    "ro": {
+      "term": "Ecuație de gradul al doilea",
+      "definition": "O ecuație care poate fi scrisă ca ax² + bx + c = 0, unde a nu este zero."
+    },
+    "prs": {
+      "term": "معادلهٔ درجه دوم",
+      "definition": "معادله‌ای که می‌توان آن را به شکل ax² + bx + c = 0 نوشت و در آن a صفر نیست."
+    },
+    "ps": {
+      "term": "د دویمې درجې معادله",
+      "definition": "هغه معادله چې د ax² + bx + c = 0 په بڼه لیکل کېدای شي، او a صفر نه وي."
+    },
+    "es": {
+      "term": "Ecuación cuadrática",
+      "definition": "Ecuación que se puede escribir como ax² + bx + c = 0, donde a no es cero."
+    }
+  }
+}

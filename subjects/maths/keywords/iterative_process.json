@@ -1,0 +1,40 @@
+{
+  "id": "iterative_process",
+  "topics": [
+    "ratio"
+  ],
+  "translations": {
+    "en": {
+      "term": "Iterative Process",
+      "definition": "A process that repeatedly uses one result as the starting point for the next calculation."
+    },
+    "pl": {
+      "term": "Proces iteracyjny",
+      "definition": "Proces, w którym każdy wynik jest punktem wyjścia do następnego obliczenia."
+    },
+    "cy": {
+      "term": "Proses Iterus",
+      "definition": "Proses sy'n defnyddio un canlyniad dro ar ôl tro fel man cychwyn ar gyfer y cyfrifiad nesaf."
+    },
+    "ar": {
+      "term": "العملية التكرارية",
+      "definition": "عملية تستخدم الناتج مرة بعد مرة نقطةَ بداية للحساب التالي."
+    },
+    "ro": {
+      "term": "Proces iterativ",
+      "definition": "Un proces care folosește în mod repetat un rezultat ca punct de plecare pentru calculul următor."
+    },
+    "prs": {
+      "term": "پروسهٔ تکراری",
+      "definition": "پروسه‌ای که هر نتیجه را بارها به عنوان نقطهٔ شروع محاسبهٔ بعدی به کار می‌برد."
+    },
+    "ps": {
+      "term": "تکراري پروسه",
+      "definition": "هغه پروسه چې یوه پایله بیا بیا د راتلونکې محاسبې د پیل ټکي په توګه کاروي."
+    },
+    "es": {
+      "term": "Proceso iterativo",
+      "definition": "Proceso que utiliza repetidamente un resultado como punto de partida para el siguiente cálculo."
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "binomial",
+  "topics": [
+    "algebra"
+  ],
+  "translations": {
+    "en": {
+      "term": "Binomial",
+      "definition": "An algebraic expression containing exactly two terms, such as 3x + 5."
+    },
+    "pl": {
+      "term": "Dwumian",
+      "definition": "Wyrażenie algebraiczne zawierające dokładnie dwa wyrazy, na przykład 3x + 5."
+    },
+    "cy": {
+      "term": "Binomial",
+      "definition": "Mynegiad algebraidd sy'n cynnwys union ddau derm, fel 3x + 5."
+    },
+    "ar": {
+      "term": "ذات الحدين",
+      "definition": "عبارة جبرية تحتوي على حدّين فقط، مثل 3x + 5."
+    },
+    "ro": {
+      "term": "Binom",
+      "definition": "O expresie algebrică cu exact doi termeni, cum ar fi 3x + 5."
+    },
+    "prs": {
+      "term": "دوجمله‌ای",
+      "definition": "یک افادهٔ الجبری که دقیقاً دو جمله دارد، مانند 3x + 5."
+    },
+    "ps": {
+      "term": "دوه حدي",
+      "definition": "یو الجبري افاده چې یوازې دوه حدونه لري، لکه 3x + 5."
+    },
+    "es": {
+      "term": "Binomio",
+      "definition": "Expresión algebraica formada exactamente por dos términos, como 3x + 5."
+    }
+  }
+}

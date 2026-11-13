@@ -31,6 +31,10 @@
     "ps": {
       "term": "هگزاډیسیمل",
       "definition": "د ۱۶ پر بنسټ د شمیرو سیستم چې ۰-۹ او A-F کاروي؛ اکثراً د رنګونو او د حافظې پتو ښودلو لپاره."
+    },
+    "es": {
+      "term": "Hexadecimal",
+      "definition": "Sistema numérico en base 16 que usa los dígitos del 0 al 9 y las letras de la A a la F; se usa a menudo para representar valores binarios de forma más breve."
     }
   }
 }

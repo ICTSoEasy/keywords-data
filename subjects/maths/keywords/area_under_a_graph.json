@@ -1,0 +1,40 @@
+{
+  "id": "area_under_a_graph",
+  "topics": [
+    "algebra"
+  ],
+  "translations": {
+    "en": {
+      "term": "Area under a Graph",
+      "definition": "The area between a graph and the horizontal axis over a stated interval; it can represent an accumulated quantity."
+    },
+    "pl": {
+      "term": "Pole pod wykresem",
+      "definition": "Pole między wykresem a osią poziomą w podanym przedziale; może przedstawiać wielkość skumulowaną."
+    },
+    "cy": {
+      "term": "Arwynebedd o dan Graff",
+      "definition": "Yr arwynebedd rhwng graff a'r echelin lorweddol dros gyfwng penodol; gall gynrychioli maint sydd wedi cronni."
+    },
+    "ar": {
+      "term": "المساحة تحت المنحنى",
+      "definition": "المساحة بين المنحنى والمحور الأفقي على فترة محددة؛ ويمكن أن تمثل كمية متراكمة."
+    },
+    "ro": {
+      "term": "Aria de sub grafic",
+      "definition": "Aria dintre un grafic și axa orizontală pe un interval dat; poate reprezenta o cantitate acumulată."
+    },
+    "prs": {
+      "term": "مساحت زیر گراف",
+      "definition": "مساحت میان گراف و محور افقی در یک فاصلهٔ معین؛ می‌تواند یک مقدار جمع‌شده را نشان دهد."
+    },
+    "ps": {
+      "term": "د ګراف لاندې مساحت",
+      "definition": "د ګراف او افقي محور تر منځ مساحت په یو ټاکلي واټن کې؛ دا کولای شي راټول شوی مقدار وښيي."
+    },
+    "es": {
+      "term": "Área bajo una gráfica",
+      "definition": "Área comprendida entre una gráfica y el eje horizontal en un intervalo determinado; puede representar una cantidad acumulada."
+    }
+  }
+}

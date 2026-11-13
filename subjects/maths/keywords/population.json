@@ -1,0 +1,40 @@
+{
+  "id": "population",
+  "topics": [
+    "statistics"
+  ],
+  "translations": {
+    "en": {
+      "term": "Population",
+      "definition": "The entire group being studied or described in a statistical investigation."
+    },
+    "pl": {
+      "term": "Populacja",
+      "definition": "Cała grupa badana lub opisywana w badaniu statystycznym."
+    },
+    "cy": {
+      "term": "Poblogaeth",
+      "definition": "Y grŵp cyfan sy'n cael ei astudio neu ei ddisgrifio mewn ymchwiliad ystadegol."
+    },
+    "ar": {
+      "term": "المجتمع الإحصائي",
+      "definition": "المجموعة الكاملة التي تُدرس أو توصف في بحث إحصائي."
+    },
+    "ro": {
+      "term": "Populație",
+      "definition": "Întregul grup studiat sau descris într-o cercetare statistică."
+    },
+    "prs": {
+      "term": "جامعهٔ آماری",
+      "definition": "تمام گروهی که در یک تحقیق آماری مطالعه یا توصیف می‌شود."
+    },
+    "ps": {
+      "term": "احصایوي ټولنه",
+      "definition": "ټوله هغه ډله چې په یوه احصایوي څېړنه کې مطالعه یا بیانېږي."
+    },
+    "es": {
+      "term": "Población",
+      "definition": "Conjunto completo de individuos u objetos que se estudia en una investigación estadística."
+    }
+  }
+}

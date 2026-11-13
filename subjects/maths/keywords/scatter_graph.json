@@ -1,0 +1,40 @@
+{
+  "id": "scatter_graph",
+  "topics": [
+    "statistics"
+  ],
+  "translations": {
+    "en": {
+      "term": "Scatter Graph",
+      "definition": "A graph that plots paired values to investigate the relationship between two variables."
+    },
+    "pl": {
+      "term": "Wykres punktowy",
+      "definition": "Wykres przedstawiający pary wartości, aby zbadać związek między dwiema zmiennymi."
+    },
+    "cy": {
+      "term": "Diagram Gwasgariad",
+      "definition": "Graff sy'n plotio parau o werthoedd i ymchwilio i'r berthynas rhwng dau newidyn."
+    },
+    "ar": {
+      "term": "شكل الانتشار",
+      "definition": "تمثيل بياني لأزواج من القيم لدراسة العلاقة بين متغيرين."
+    },
+    "ro": {
+      "term": "Grafic de dispersie",
+      "definition": "Un grafic care reprezintă perechi de valori pentru a studia relația dintre două variabile."
+    },
+    "prs": {
+      "term": "نمودار پراکندگی",
+      "definition": "گرافی که جفت مقدارها را رسم می‌کند تا رابطهٔ میان دو متحول بررسی شود."
+    },
+    "ps": {
+      "term": "د خپرېدو ګراف",
+      "definition": "هغه ګراف چې د قیمتونو جوړې رسموي ترڅو د دوو متحولینو تر منځ اړیکه وڅېړل شي."
+    },
+    "es": {
+      "term": "Diagrama de dispersión",
+      "definition": "Gráfico que representa pares de valores para investigar la relación entre dos variables."
+    }
+  }
+}

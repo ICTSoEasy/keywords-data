@@ -31,6 +31,10 @@
     "ps": {
       "term": "آپریټر",
       "definition": "نښه چې د ارزښتونو پر مخ عملیات ترسره کوي، لکه + د جمع لپاره یا == د پرتله کولو لپاره."
+    },
+    "es": {
+      "term": "Operador",
+      "definition": "Símbolo que realiza una operación con valores, como + para sumar o == para comparar."
     }
   }
 }

@@ -1,0 +1,40 @@
+{
+  "id": "frustum",
+  "topics": [
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Frustum",
+      "definition": "The part of a cone or pyramid left when its top is cut off by a plane parallel to its base."
+    },
+    "pl": {
+      "term": "Stożek ścięty",
+      "definition": "Część stożka lub ostrosłupa, która zostaje po odcięciu wierzchołka płaszczyzną równoległą do podstawy."
+    },
+    "cy": {
+      "term": "Ffrwstwm",
+      "definition": "Y rhan o gôn neu byramid sydd ar ôl pan fo'i ben yn cael ei dorri i ffwrdd gan blân sy'n baralel i'w waelod."
+    },
+    "ar": {
+      "term": "الجذع",
+      "definition": "الجزء المتبقي من مخروط أو هرم بعد قطع رأسه بمستوى موازٍ لقاعدته."
+    },
+    "ro": {
+      "term": "Trunchi",
+      "definition": "Partea dintr-un con sau o piramidă care rămâne după ce vârful este tăiat de un plan paralel cu baza."
+    },
+    "prs": {
+      "term": "مخروط ناقص",
+      "definition": "بخشی از مخروط یا هرم که پس از بریدن سر آن با سطحی موازی با قاعده باقی می‌ماند."
+    },
+    "ps": {
+      "term": "ناقص مخروط",
+      "definition": "د مخروط یا هرم هغه برخه چې د قاعدې سره موازي سطحې په واسطه د سر له پرې کولو وروسته پاتې کېږي."
+    },
+    "es": {
+      "term": "Tronco de cono o pirámide",
+      "definition": "Parte de un cono o una pirámide que queda al cortar su parte superior mediante un plano paralelo a la base."
+    }
+  }
+}

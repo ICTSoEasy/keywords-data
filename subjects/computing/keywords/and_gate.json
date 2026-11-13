@@ -31,6 +31,10 @@
     "ps": {
       "term": "AND ګیټ",
       "definition": "یو منطقي ګیټ چې یوازې هغه وخت ۱ ورکوي چې دواړه ننوتونه ۱ وي."
+    },
+    "es": {
+      "term": "Puerta AND",
+      "definition": "Puerta lógica cuya salida es 1 solo cuando todas sus entradas son 1."
     }
   }
 }

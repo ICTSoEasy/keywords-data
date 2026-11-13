@@ -1,0 +1,40 @@
+{
+  "id": "unbiased",
+  "topics": [
+    "probability"
+  ],
+  "translations": {
+    "en": {
+      "term": "Unbiased",
+      "definition": "A sample or method that does not systematically favour particular outcomes or groups."
+    },
+    "pl": {
+      "term": "Bezstronny",
+      "definition": "Próba lub metoda, która nie faworyzuje systematycznie określonych wyników ani grup."
+    },
+    "cy": {
+      "term": "Diduedd",
+      "definition": "Sampl neu ddull nad yw'n ffafrio canlyniadau neu grwpiau penodol yn systematig."
+    },
+    "ar": {
+      "term": "غير متحيّز",
+      "definition": "عيّنة أو طريقة لا تفضّل بشكل منهجي نتائج أو مجموعات معينة."
+    },
+    "ro": {
+      "term": "Imparțial",
+      "definition": "Un eșantion sau o metodă care nu favorizează în mod sistematic anumite rezultate sau grupuri."
+    },
+    "prs": {
+      "term": "بی‌طرف",
+      "definition": "نمونه یا روشی که به‌طور منظم نتیجه‌ها یا گروه‌های خاصی را ترجیح نمی‌دهد."
+    },
+    "ps": {
+      "term": "بې تعصبه",
+      "definition": "هغه نمونه یا طریقه چې په منظم ډول ځانګړې پایلې یا ډلې نه غوره کوي."
+    },
+    "es": {
+      "term": "Insesgado",
+      "definition": "Una muestra o un método no está sesgado si no favorece sistemáticamente determinados resultados o grupos."
+    }
+  }
+}

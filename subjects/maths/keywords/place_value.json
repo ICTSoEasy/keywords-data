@@ -1,0 +1,40 @@
+{
+  "id": "place_value",
+  "topics": [
+    "number"
+  ],
+  "translations": {
+    "en": {
+      "term": "Place Value",
+      "definition": "The value a digit has because of its position in a number."
+    },
+    "pl": {
+      "term": "Wartość pozycyjna",
+      "definition": "Wartość cyfry wynikająca z jej położenia w liczbie."
+    },
+    "cy": {
+      "term": "Gwerth Lle",
+      "definition": "Y gwerth sydd gan ddigid oherwydd ei safle mewn rhif."
+    },
+    "ar": {
+      "term": "القيمة المنزلية",
+      "definition": "قيمة الرقم بحسب موقعه في العدد."
+    },
+    "ro": {
+      "term": "Valoare pozițională",
+      "definition": "Valoarea pe care o are o cifră datorită poziției sale în număr."
+    },
+    "prs": {
+      "term": "ارزش مکانی",
+      "definition": "ارزشی که یک رقم به خاطر جایگاهش در عدد دارد."
+    },
+    "ps": {
+      "term": "مکاني ارزښت",
+      "definition": "هغه ارزښت چې یو رقم یې په عدد کې د خپل ځای له امله لري."
+    },
+    "es": {
+      "term": "Valor posicional",
+      "definition": "Valor que tiene una cifra debido a la posición que ocupa en un número."
+    }
+  }
+}

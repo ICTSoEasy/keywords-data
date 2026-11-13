@@ -1,0 +1,40 @@
+{
+  "id": "convert",
+  "topics": [
+    "number"
+  ],
+  "translations": {
+    "en": {
+      "term": "Convert",
+      "definition": "To change a value from one unit, form or representation into another without changing its amount."
+    },
+    "pl": {
+      "term": "Zamieniać",
+      "definition": "Zmieniać wartość z jednej jednostki, postaci lub zapisu na inną bez zmiany jej wielkości."
+    },
+    "cy": {
+      "term": "Trosi",
+      "definition": "Newid gwerth o un uned, ffurf neu gynrychiolaeth i un arall heb newid ei faint."
+    },
+    "ar": {
+      "term": "التحويل",
+      "definition": "تغيير قيمة من وحدة أو صيغة أو تمثيل إلى آخر دون تغيير مقدارها."
+    },
+    "ro": {
+      "term": "A transforma",
+      "definition": "A schimba o valoare dintr-o unitate, formă sau reprezentare în alta, fără a-i schimba mărimea."
+    },
+    "prs": {
+      "term": "تبدیل کردن",
+      "definition": "تغییر دادن یک مقدار از یک واحد، شکل یا نمایش به دیگری بدون تغییر اندازهٔ آن."
+    },
+    "ps": {
+      "term": "بدلول",
+      "definition": "د یو قیمت له یو واحد، بڼې یا ښودنې څخه بل ته بدلول پرته له دې چې اندازه یې بدله شي."
+    },
+    "es": {
+      "term": "Convertir",
+      "definition": "Cambiar un valor de una unidad, forma o representación a otra sin cambiar la cantidad que representa."
+    }
+  }
+}

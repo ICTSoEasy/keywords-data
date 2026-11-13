@@ -1,0 +1,40 @@
+{
+  "id": "speed",
+  "topics": [
+    "ratio"
+  ],
+  "translations": {
+    "en": {
+      "term": "Speed",
+      "definition": "Distance travelled per unit of time. Speed = distance ÷ time."
+    },
+    "pl": {
+      "term": "Prędkość",
+      "definition": "Droga przebyta w jednostce czasu. Prędkość = droga ÷ czas."
+    },
+    "cy": {
+      "term": "Buanedd",
+      "definition": "Y pellter a deithir fesul uned amser. Buanedd = pellter ÷ amser."
+    },
+    "ar": {
+      "term": "السرعة",
+      "definition": "المسافة المقطوعة في وحدة الزمن. السرعة = المسافة ÷ الزمن."
+    },
+    "ro": {
+      "term": "Viteză",
+      "definition": "Distanța parcursă pe unitatea de timp. Viteză = distanță ÷ timp."
+    },
+    "prs": {
+      "term": "سرعت",
+      "definition": "فاصلهٔ پیموده‌شده در واحد زمان. سرعت = فاصله ÷ زمان."
+    },
+    "ps": {
+      "term": "سرعت",
+      "definition": "په یو واحد وخت کې تللی واټن. سرعت = واټن ÷ وخت."
+    },
+    "es": {
+      "term": "Velocidad",
+      "definition": "Distancia recorrida por unidad de tiempo. Velocidad = distancia ÷ tiempo."
+    }
+  }
+}

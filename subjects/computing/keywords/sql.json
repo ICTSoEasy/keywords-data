@@ -31,6 +31,10 @@
     "ps": {
       "term": "SQL",
       "definition": "د اړیکوي ډیټابیسونو د اداره او پوښتنو لپاره معیاري ژبه."
+    },
+    "es": {
+      "term": "SQL",
+      "definition": "Lenguaje de Consulta Estructurado; lenguaje para crear, leer, actualizar y eliminar datos en una base de datos relacional."
     }
   }
 }

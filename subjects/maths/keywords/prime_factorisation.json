@@ -1,0 +1,40 @@
+{
+  "id": "prime_factorisation",
+  "topics": [
+    "number"
+  ],
+  "translations": {
+    "en": {
+      "term": "Prime Factorisation",
+      "definition": "Writing a number as a product of prime numbers."
+    },
+    "pl": {
+      "term": "Rozkład na czynniki pierwsze",
+      "definition": "Zapisanie liczby jako iloczynu liczb pierwszych."
+    },
+    "cy": {
+      "term": "Ffactorio'n Gysefin",
+      "definition": "Ysgrifennu rhif fel lluoswm o rifau cysefin."
+    },
+    "ar": {
+      "term": "التحليل إلى العوامل الأولية",
+      "definition": "كتابة العدد على شكل حاصل ضرب أعداد أولية."
+    },
+    "ro": {
+      "term": "Descompunere în factori primi",
+      "definition": "Scrierea unui număr ca produs de numere prime."
+    },
+    "prs": {
+      "term": "تجزیه به عوامل اول",
+      "definition": "نوشتن یک عدد به صورت حاصل ضرب اعداد اول."
+    },
+    "ps": {
+      "term": "لومړنیو عاملونو ته تجزیه",
+      "definition": "د یو عدد د لومړنیو عددونو د حاصل ضرب په توګه لیکل."
+    },
+    "es": {
+      "term": "Descomposición en factores primos",
+      "definition": "Expresar un número como producto de números primos."
+    }
+  }
+}

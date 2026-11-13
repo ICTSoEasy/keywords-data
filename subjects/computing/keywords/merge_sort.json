@@ -31,6 +31,10 @@
     "ps": {
       "term": "مرج سورټ",
       "definition": "د ترتیب الګوریتم چې لیست نیمایي کوي، هره نیمه ترتیبوي، بیا یوځای کوي."
+    },
+    "es": {
+      "term": "Ordenamiento por mezcla",
+      "definition": "Algoritmo de ordenación que divide una lista por la mitad repetidamente, ordena cada mitad y luego las vuelve a unir en orden."
     }
   }
 }

@@ -1,0 +1,41 @@
+{
+  "id": "units",
+  "topics": [
+    "number",
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Units",
+      "definition": "Standard measures used to describe quantities, such as metres, seconds, grams or litres."
+    },
+    "pl": {
+      "term": "Jednostki",
+      "definition": "Standardowe miary używane do opisu wielkości, takie jak metry, sekundy, gramy czy litry."
+    },
+    "cy": {
+      "term": "Unedau",
+      "definition": "Mesurau safonol a ddefnyddir i ddisgrifio meintiau, fel metrau, eiliadau, gramau neu litrau."
+    },
+    "ar": {
+      "term": "الوحدات",
+      "definition": "مقاييس معيارية تُستخدم لوصف الكميات، مثل المتر والثانية والغرام واللتر."
+    },
+    "ro": {
+      "term": "Unități de măsură",
+      "definition": "Măsuri standard folosite pentru a descrie mărimi, cum ar fi metri, secunde, grame sau litri."
+    },
+    "prs": {
+      "term": "واحدها",
+      "definition": "اندازه‌های استندرد برای بیان مقدارها، مانند متر، ثانیه، گرام یا لیتر."
+    },
+    "ps": {
+      "term": "واحدونه",
+      "definition": "معیاري اندازې چې د مقدارونو د ښودلو لپاره کارول کېږي، لکه متر، ثانیه، ګرام یا لیتر."
+    },
+    "es": {
+      "term": "Unidades",
+      "definition": "Unidades estándar para expresar cantidades, como metros, segundos, gramos o litros."
+    }
+  }
+}

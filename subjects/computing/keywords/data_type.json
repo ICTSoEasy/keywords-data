@@ -31,6 +31,10 @@
     "ps": {
       "term": "د معلوماتو ډول",
       "definition": "د معلوماتو کټګوري چې کمپیوټر ته وايي چې دا څنګه وساتي او پروسس کړي، لکه عدد یا متن."
+    },
+    "es": {
+      "term": "Tipo de datos",
+      "definition": "Clasificación que indica al ordenador qué clase de valor contiene una variable, como entero, cadena o booleano."
     }
   }
 }

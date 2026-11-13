@@ -1,0 +1,40 @@
+{
+  "id": "interquartile_range",
+  "topics": [
+    "statistics"
+  ],
+  "translations": {
+    "en": {
+      "term": "Interquartile Range",
+      "definition": "The difference between the upper quartile and lower quartile; it measures the spread of the middle half of the data."
+    },
+    "pl": {
+      "term": "Rozstęp międzykwartylowy",
+      "definition": "Różnica między górnym a dolnym kwartylem; mierzy rozrzut środkowej połowy danych."
+    },
+    "cy": {
+      "term": "Amrediad Rhyngchwartel",
+      "definition": "Y gwahaniaeth rhwng y chwartel uchaf a'r chwartel isaf; mae'n mesur gwasgariad hanner canol y data."
+    },
+    "ar": {
+      "term": "المدى الربيعي",
+      "definition": "الفرق بين الربيع الأعلى والربيع الأدنى؛ ويقيس انتشار النصف الأوسط من البيانات."
+    },
+    "ro": {
+      "term": "Abatere intercuartilă",
+      "definition": "Diferența dintre cuartila superioară și cuartila inferioară; măsoară împrăștierea jumătății din mijloc a datelor."
+    },
+    "prs": {
+      "term": "دامنهٔ میان‌چارکی",
+      "definition": "تفاوت میان چارک بالا و چارک پایین؛ پراکندگی نیمهٔ میانی معلومات را اندازه می‌گیرد."
+    },
+    "ps": {
+      "term": "د ربعو تر منځ واټن",
+      "definition": "د لوړ ربع او ټیټ ربع تر منځ توپیر؛ د معلوماتو د منځنۍ نیمایي خپرېدل اندازه کوي."
+    },
+    "es": {
+      "term": "Rango intercuartílico",
+      "definition": "Diferencia entre el cuartil superior y el cuartil inferior; mide la dispersión de la mitad central de los datos."
+    }
+  }
+}

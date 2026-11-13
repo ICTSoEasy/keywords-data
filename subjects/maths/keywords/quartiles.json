@@ -1,0 +1,40 @@
+{
+  "id": "quartiles",
+  "topics": [
+    "statistics"
+  ],
+  "translations": {
+    "en": {
+      "term": "Quartiles",
+      "definition": "The values that divide ordered data into four equal-sized parts: lower quartile, median and upper quartile."
+    },
+    "pl": {
+      "term": "Kwartyle",
+      "definition": "Wartości dzielące uporządkowane dane na cztery równe części: dolny kwartyl, mediana i górny kwartyl."
+    },
+    "cy": {
+      "term": "Chwartelau",
+      "definition": "Y gwerthoedd sy'n rhannu data trefnedig yn bedair rhan hafal: chwartel isaf, canolrif a chwartel uchaf."
+    },
+    "ar": {
+      "term": "الربيعات",
+      "definition": "القيم التي تقسم البيانات المرتبة إلى أربعة أجزاء متساوية: الربيع الأدنى والوسيط والربيع الأعلى."
+    },
+    "ro": {
+      "term": "Cuartile",
+      "definition": "Valorile care împart datele ordonate în patru părți egale: cuartila inferioară, mediana și cuartila superioară."
+    },
+    "prs": {
+      "term": "چارک‌ها",
+      "definition": "مقدارهایی که معلومات مرتب‌شده را به چهار بخش مساوی تقسیم می‌کنند: چارک پایین، میانه و چارک بالا."
+    },
+    "ps": {
+      "term": "کوارټایلونه",
+      "definition": "هغه قیمتونه چې ترتیب شوي معلومات په څلورو برابرو برخو وېشي: ټیټ ربع، منځنی او لوړ ربع."
+    },
+    "es": {
+      "term": "Cuartiles",
+      "definition": "Valores que dividen los datos ordenados en cuatro partes iguales: cuartil inferior, mediana y cuartil superior."
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "frequency",
+  "topics": [
+    "statistics"
+  ],
+  "translations": {
+    "en": {
+      "term": "Frequency",
+      "definition": "The number of times a value or category occurs."
+    },
+    "pl": {
+      "term": "Częstość",
+      "definition": "Liczba wystąpień danej wartości lub kategorii."
+    },
+    "cy": {
+      "term": "Amlder",
+      "definition": "Y nifer o weithiau mae gwerth neu gategori yn digwydd."
+    },
+    "ar": {
+      "term": "التكرار",
+      "definition": "عدد مرات ظهور قيمة أو فئة."
+    },
+    "ro": {
+      "term": "Frecvență",
+      "definition": "Numărul de apariții ale unei valori sau categorii."
+    },
+    "prs": {
+      "term": "فراوانی",
+      "definition": "تعداد دفعاتی که یک مقدار یا دسته رخ می‌دهد."
+    },
+    "ps": {
+      "term": "فریکونسي",
+      "definition": "هغه شمېر چې یو قیمت یا کټګوري څو ځله راځي."
+    },
+    "es": {
+      "term": "Frecuencia",
+      "definition": "Número de veces que aparece un valor o una categoría."
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "equilateral",
+  "topics": [
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Equilateral",
+      "definition": "A triangle with three equal sides and three equal angles."
+    },
+    "pl": {
+      "term": "Równoboczny",
+      "definition": "Trójkąt o trzech równych bokach i trzech równych kątach."
+    },
+    "cy": {
+      "term": "Hafalochrog",
+      "definition": "Triongl â thair ochr hafal a thair ongl hafal."
+    },
+    "ar": {
+      "term": "متطابق الأضلاع",
+      "definition": "مثلث أضلاعه الثلاثة متساوية وزواياه الثلاث متساوية."
+    },
+    "ro": {
+      "term": "Echilateral",
+      "definition": "Un triunghi cu trei laturi egale și trei unghiuri egale."
+    },
+    "prs": {
+      "term": "متساوی‌الاضلاع",
+      "definition": "مثلثی با سه ضلع مساوی و سه زاویهٔ مساوی."
+    },
+    "ps": {
+      "term": "متساوي الاضلاع",
+      "definition": "هغه مثلث چې درې برابرې غاړې او درې برابرې زاویې لري."
+    },
+    "es": {
+      "term": "Equilátero",
+      "definition": "Triángulo con tres lados iguales y tres ángulos iguales."
+    }
+  }
+}

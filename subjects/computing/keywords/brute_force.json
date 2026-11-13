@@ -31,6 +31,10 @@
     "ps": {
       "term": "بروټ فورس",
       "definition": "د ستونزې حل کولو لار چې ټولې ممکنه حلونه ازموي ترڅو سم ځواب وموندل شي."
+    },
+    "es": {
+      "term": "Ataque de fuerza bruta",
+      "definition": "Ataque que prueba todas las combinaciones posibles de contraseñas o claves hasta encontrar la correcta."
     }
   }
 }

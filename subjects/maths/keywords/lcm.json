@@ -1,0 +1,40 @@
+{
+  "id": "lcm",
+  "topics": [
+    "number"
+  ],
+  "translations": {
+    "en": {
+      "term": "LCM",
+      "definition": "The lowest common multiple: the smallest positive number that is a multiple of two or more numbers."
+    },
+    "pl": {
+      "term": "NWW",
+      "definition": "Najmniejsza wspólna wielokrotność: najmniejsza liczba dodatnia, która jest wielokrotnością dwóch lub więcej liczb."
+    },
+    "cy": {
+      "term": "LlCLl",
+      "definition": "Y lluosrif cyffredin lleiaf: y rhif positif lleiaf sy'n lluosrif o ddau rif neu fwy."
+    },
+    "ar": {
+      "term": "م.م.أ",
+      "definition": "المضاعف المشترك الأصغر: أصغر عدد موجب يكون مضاعفاً لعددين أو أكثر."
+    },
+    "ro": {
+      "term": "CMMMC",
+      "definition": "Cel mai mic multiplu comun: cel mai mic număr pozitiv care este multiplu al două sau mai multe numere."
+    },
+    "prs": {
+      "term": "ک.م.م",
+      "definition": "کوچک‌ترین مضرب مشترک: کوچک‌ترین عدد مثبتی که مضرب دو یا چند عدد باشد."
+    },
+    "ps": {
+      "term": "کوچنی مشترک مضرب",
+      "definition": "تر ټولو کوچنی مثبت عدد چې د دوو یا ډېرو عددونو مضرب وي."
+    },
+    "es": {
+      "term": "Mínimo común múltiplo (mcm)",
+      "definition": "Mínimo común múltiplo (mcm): el menor múltiplo positivo común a dos o más números."
+    }
+  }
+}

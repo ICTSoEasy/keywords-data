@@ -1,0 +1,40 @@
+{
+  "id": "equation_of_a_line",
+  "topics": [
+    "algebra"
+  ],
+  "translations": {
+    "en": {
+      "term": "Equation of a Line",
+      "definition": "An equation that describes every point on a straight line, often written as y = mx + c."
+    },
+    "pl": {
+      "term": "Równanie prostej",
+      "definition": "Równanie opisujące każdy punkt prostej, często zapisywane jako y = mx + c."
+    },
+    "cy": {
+      "term": "Hafaliad Llinell",
+      "definition": "Hafaliad sy'n disgrifio pob pwynt ar linell syth, wedi'i ysgrifennu'n aml fel y = mx + c."
+    },
+    "ar": {
+      "term": "معادلة الخط المستقيم",
+      "definition": "معادلة تصف كل نقطة على خط مستقيم، وتُكتب غالباً y = mx + c."
+    },
+    "ro": {
+      "term": "Ecuația dreptei",
+      "definition": "O ecuație care descrie fiecare punct al unei drepte, scrisă adesea ca y = mx + c."
+    },
+    "prs": {
+      "term": "معادلهٔ خط",
+      "definition": "معادله‌ای که هر نقطهٔ یک خط مستقیم را بیان می‌کند و اغلب به شکل y = mx + c نوشته می‌شود."
+    },
+    "ps": {
+      "term": "د کرښې معادله",
+      "definition": "هغه معادله چې د مستقیمې کرښې هر ټکی ښيي، ډېری وخت د y = mx + c په بڼه لیکل کېږي."
+    },
+    "es": {
+      "term": "Ecuación de una recta",
+      "definition": "Ecuación que describe todos los puntos de una recta; a menudo se escribe como y = mx + c."
+    }
+  }
+}

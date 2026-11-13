@@ -1,0 +1,40 @@
+{
+  "id": "sector",
+  "topics": [
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Sector",
+      "definition": "A region of a circle bounded by two radii and an arc."
+    },
+    "pl": {
+      "term": "Wycinek koła",
+      "definition": "Część koła ograniczona dwoma promieniami i łukiem."
+    },
+    "cy": {
+      "term": "Sector",
+      "definition": "Rhanbarth o gylch wedi'i ffinio gan ddau radiws ac arc."
+    },
+    "ar": {
+      "term": "القطاع الدائري",
+      "definition": "جزء من الدائرة يحدّه نصفا قطر وقوس."
+    },
+    "ro": {
+      "term": "Sector de cerc",
+      "definition": "O regiune a discului delimitată de două raze și un arc."
+    },
+    "prs": {
+      "term": "قطاع دایره",
+      "definition": "ناحیه‌ای از دایره که میان دو شعاع و یک قوس قرار دارد."
+    },
+    "ps": {
+      "term": "د دایرې قطاع",
+      "definition": "د دایرې هغه سیمه چې د دوو شعاعګانو او یو کمان په منځ کې وي."
+    },
+    "es": {
+      "term": "Sector circular",
+      "definition": "Región de un círculo limitada por dos radios y un arco."
+    }
+  }
+}

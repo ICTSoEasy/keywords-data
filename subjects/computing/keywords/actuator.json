@@ -31,6 +31,10 @@
     "ps": {
       "term": "ایکچویټر",
       "definition": "هغه برخه چې د بریښنایي سیګنالونو څخه فزیکي حرکت جوړوي، لکه موتور یا سرو."
+    },
+    "es": {
+      "term": "Actuador",
+      "definition": "Dispositivo que convierte las señales eléctricas de un ordenador en movimiento o acción física, como un motor o un servo."
     }
   }
 }

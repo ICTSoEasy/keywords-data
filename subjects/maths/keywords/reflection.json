@@ -1,0 +1,40 @@
+{
+  "id": "reflection",
+  "topics": [
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Reflection",
+      "definition": "A transformation that flips a shape over a mirror line."
+    },
+    "pl": {
+      "term": "Symetria osiowa",
+      "definition": "Przekształcenie odbijające figurę względem osi symetrii."
+    },
+    "cy": {
+      "term": "Adlewyrchiad",
+      "definition": "Trawsffurfiad sy'n troi siâp drosodd mewn llinell ddrych."
+    },
+    "ar": {
+      "term": "الانعكاس",
+      "definition": "تحويل يقلب الشكل حول خط مرآة."
+    },
+    "ro": {
+      "term": "Simetrie axială",
+      "definition": "O transformare care răsfrânge o figură față de o axă de simetrie."
+    },
+    "prs": {
+      "term": "انعکاس",
+      "definition": "تبدیلی که شکل را نسبت به یک خط آیینه برمی‌گرداند."
+    },
+    "ps": {
+      "term": "انعکاس",
+      "definition": "هغه بدلون چې بڼه د یوې هندارې کرښې په شاوخوا اړوي."
+    },
+    "es": {
+      "term": "Reflexión",
+      "definition": "Transformación que invierte una figura respecto a una recta llamada eje de simetría."
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "bar_chart",
+  "topics": [
+    "statistics"
+  ],
+  "translations": {
+    "en": {
+      "term": "Bar Chart",
+      "definition": "A chart that uses separate bars to show the frequency or value for different categories."
+    },
+    "pl": {
+      "term": "Wykres słupkowy",
+      "definition": "Wykres używający oddzielnych słupków do pokazania częstości lub wartości dla różnych kategorii."
+    },
+    "cy": {
+      "term": "Siart Bar",
+      "definition": "Siart sy'n defnyddio barrau ar wahân i ddangos yr amlder neu'r gwerth ar gyfer gwahanol gategorïau."
+    },
+    "ar": {
+      "term": "التمثيل بالأعمدة",
+      "definition": "مخطط يستخدم أعمدة منفصلة لإظهار التكرار أو القيمة لفئات مختلفة."
+    },
+    "ro": {
+      "term": "Diagramă cu bare",
+      "definition": "O diagramă care folosește bare separate pentru a arăta frecvența sau valoarea pentru diferite categorii."
+    },
+    "prs": {
+      "term": "نمودار میله‌ای",
+      "definition": "نموداری که با میله‌های جدا فراوانی یا ارزش دسته‌های مختلف را نشان می‌دهد."
+    },
+    "ps": {
+      "term": "میلې ډوله چارټ",
+      "definition": "هغه چارټ چې د بېلو میلو په کارولو سره د بېلابېلو کټګوریو فریکونسي یا ارزښت ښيي."
+    },
+    "es": {
+      "term": "Gráfico de barras",
+      "definition": "Gráfico que utiliza barras separadas para mostrar la frecuencia o el valor de distintas categorías."
+    }
+  }
+}

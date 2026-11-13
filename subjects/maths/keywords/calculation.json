@@ -1,0 +1,40 @@
+{
+  "id": "calculation",
+  "topics": [
+    "number"
+  ],
+  "translations": {
+    "en": {
+      "term": "Calculation",
+      "definition": "Working out an answer using mathematical operations."
+    },
+    "pl": {
+      "term": "Obliczenie",
+      "definition": "Wyznaczanie wyniku za pomocą działań matematycznych."
+    },
+    "cy": {
+      "term": "Cyfrifiad",
+      "definition": "Gweithio ateb allan gan ddefnyddio gweithrediadau mathemategol."
+    },
+    "ar": {
+      "term": "الحساب",
+      "definition": "إيجاد الإجابة باستخدام العمليات الرياضية."
+    },
+    "ro": {
+      "term": "Calcul",
+      "definition": "Obținerea unui răspuns folosind operații matematice."
+    },
+    "prs": {
+      "term": "محاسبه",
+      "definition": "به دست آوردن جواب با استفاده از عملیات ریاضی."
+    },
+    "ps": {
+      "term": "محاسبه",
+      "definition": "د ریاضي عملیو په کارولو سره د ځواب پیدا کول."
+    },
+    "es": {
+      "term": "Cálculo",
+      "definition": "Proceso de obtener una respuesta mediante operaciones matemáticas."
+    }
+  }
+}

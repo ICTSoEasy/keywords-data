@@ -31,6 +31,10 @@
     "ps": {
       "term": "خطي لټون",
       "definition": "د لیست لټون د هر توکي یو یو چک کولو سره ترڅو هغه ومومو چې لټوو یې."
+    },
+    "es": {
+      "term": "Búsqueda lineal",
+      "definition": "Algoritmo de búsqueda que revisa cada elemento de una lista uno a uno hasta encontrar el objetivo o llegar al final."
     }
   }
 }

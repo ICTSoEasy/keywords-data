@@ -28,6 +28,10 @@
     "ps": {
       "term": "لړۍ",
       "definition": "د لارښوونو یو یو پر بل ترتیبي اجرا."
+    },
+    "es": {
+      "term": "Secuencia",
+      "definition": "Instrucciones que se ejecutan una tras otra, en orden."
     }
   },
   "topics": [

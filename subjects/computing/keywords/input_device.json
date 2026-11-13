@@ -31,6 +31,10 @@
     "ps": {
       "term": "د ننوتنې وسیله",
       "definition": "د سخت‌افزار هغه برخه چې معلومات کمپیوټر ته لیږي، لکه کیبورډ یا ماوس."
+    },
+    "es": {
+      "term": "Dispositivo de entrada",
+      "definition": "Hardware que se usa para enviar datos a un ordenador, como un teclado o un ratón."
     }
   }
 }

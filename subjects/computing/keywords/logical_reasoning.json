@@ -31,6 +31,10 @@
     "ps": {
       "term": "منطقي استدلال",
       "definition": "د منطق د قوانینو کارول ترڅو د موجودو معلوماتو نه پایلو ته ورسیږو."
+    },
+    "es": {
+      "term": "Razonamiento lógico",
+      "definition": "Pensar de forma clara y paso a paso para resolver un problema y llegar a una conclusión."
     }
   }
 }

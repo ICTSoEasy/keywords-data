@@ -1,0 +1,40 @@
+{
+  "id": "percentage_change",
+  "topics": [
+    "ratio"
+  ],
+  "translations": {
+    "en": {
+      "term": "Percentage Change",
+      "definition": "The change in an amount expressed as a percentage of the original amount."
+    },
+    "pl": {
+      "term": "Zmiana procentowa",
+      "definition": "Zmiana wielkości wyrażona jako procent wartości początkowej."
+    },
+    "cy": {
+      "term": "Newid Canrannol",
+      "definition": "Y newid mewn swm wedi'i fynegi fel canran o'r swm gwreiddiol."
+    },
+    "ar": {
+      "term": "النسبة المئوية للتغير",
+      "definition": "التغير في مقدار ما معبَّراً عنه كنسبة مئوية من المقدار الأصلي."
+    },
+    "ro": {
+      "term": "Variație procentuală",
+      "definition": "Schimbarea unei cantități exprimată ca procent din cantitatea inițială."
+    },
+    "prs": {
+      "term": "تغییر فیصدی",
+      "definition": "تغییر یک مقدار که به صورت فیصدی از مقدار اصلی بیان می‌شود."
+    },
+    "ps": {
+      "term": "سلنه ییز بدلون",
+      "definition": "د یو مقدار بدلون چې د اصلي مقدار د سلنې په توګه ښودل کېږي."
+    },
+    "es": {
+      "term": "Variación porcentual",
+      "definition": "Cambio de una cantidad expresado como porcentaje de la cantidad original."
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "equation_of_a_circle",
+  "topics": [
+    "algebra"
+  ],
+  "translations": {
+    "en": {
+      "term": "Equation of a Circle",
+      "definition": "An equation describing all points on a circle. A circle with centre (a, b) and radius r has equation (x − a)² + (y − b)² = r²."
+    },
+    "pl": {
+      "term": "Równanie okręgu",
+      "definition": "Równanie opisujące wszystkie punkty okręgu. Okrąg o środku (a, b) i promieniu r ma równanie (x − a)² + (y − b)² = r²."
+    },
+    "cy": {
+      "term": "Hafaliad Cylch",
+      "definition": "Hafaliad sy'n disgrifio pob pwynt ar gylch. Hafaliad cylch â chanol (a, b) a radiws r yw (x − a)² + (y − b)² = r²."
+    },
+    "ar": {
+      "term": "معادلة الدائرة",
+      "definition": "معادلة تصف جميع نقاط الدائرة. الدائرة التي مركزها (a, b) ونصف قطرها r معادلتها (x − a)² + (y − b)² = r²."
+    },
+    "ro": {
+      "term": "Ecuația cercului",
+      "definition": "O ecuație care descrie toate punctele unui cerc. Un cerc cu centrul (a, b) și raza r are ecuația (x − a)² + (y − b)² = r²."
+    },
+    "prs": {
+      "term": "معادلهٔ دایره",
+      "definition": "معادله‌ای که همهٔ نقاط یک دایره را بیان می‌کند. دایره‌ای با مرکز (a, b) و شعاع r معادلهٔ (x − a)² + (y − b)² = r² دارد."
+    },
+    "ps": {
+      "term": "د دایرې معادله",
+      "definition": "هغه معادله چې د دایرې ټول ټکي ښيي. هغه دایره چې مرکز یې (a, b) او شعاع یې r وي معادله یې (x − a)² + (y − b)² = r² ده."
+    },
+    "es": {
+      "term": "Ecuación de una circunferencia",
+      "definition": "Ecuación que describe todos los puntos de una circunferencia. Si el centro es (a, b) y el radio es r, su ecuación es (x − a)² + (y − b)² = r²."
+    }
+  }
+}

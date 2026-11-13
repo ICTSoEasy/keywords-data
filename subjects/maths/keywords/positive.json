@@ -1,0 +1,40 @@
+{
+  "id": "positive",
+  "topics": [
+    "number"
+  ],
+  "translations": {
+    "en": {
+      "term": "Positive",
+      "definition": "A number greater than zero."
+    },
+    "pl": {
+      "term": "Dodatnia",
+      "definition": "Liczba większa od zera."
+    },
+    "cy": {
+      "term": "Positif",
+      "definition": "Rhif sy'n fwy na sero."
+    },
+    "ar": {
+      "term": "موجب",
+      "definition": "عدد أكبر من الصفر."
+    },
+    "ro": {
+      "term": "Pozitiv",
+      "definition": "Un număr mai mare decât zero."
+    },
+    "prs": {
+      "term": "مثبت",
+      "definition": "عددی بزرگ‌تر از صفر."
+    },
+    "ps": {
+      "term": "مثبت",
+      "definition": "له صفر څخه لوی عدد."
+    },
+    "es": {
+      "term": "Positivo",
+      "definition": "Número mayor que cero."
+    }
+  }
+}

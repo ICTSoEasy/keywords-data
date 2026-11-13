@@ -31,6 +31,10 @@
     "ps": {
       "term": "عمومیت",
       "definition": "د بیلابیلو ستونزو تر منځ د مشترکو نمونو پیژندل ترڅو حلونه بیا وکارول شي."
+    },
+    "es": {
+      "term": "Generalización",
+      "definition": "Usar patrones encontrados en un problema para crear soluciones que funcionen en problemas parecidos."
     }
   }
 }

@@ -1,0 +1,40 @@
+{
+  "id": "circle",
+  "topics": [
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Circle",
+      "definition": "A two-dimensional shape whose points are all the same distance from its centre."
+    },
+    "pl": {
+      "term": "Okrąg",
+      "definition": "Figura płaska, której wszystkie punkty są w tej samej odległości od środka."
+    },
+    "cy": {
+      "term": "Cylch",
+      "definition": "Siâp dau ddimensiwn y mae ei bwyntiau i gyd yr un pellter o'i ganol."
+    },
+    "ar": {
+      "term": "الدائرة",
+      "definition": "شكل ثنائي الأبعاد جميع نقاطه على البعد نفسه من مركزه."
+    },
+    "ro": {
+      "term": "Cerc",
+      "definition": "O figură plană ale cărei puncte se află toate la aceeași distanță de centru."
+    },
+    "prs": {
+      "term": "دایره",
+      "definition": "شکل دوبعدی که همهٔ نقاط آن از مرکز به یک فاصله هستند."
+    },
+    "ps": {
+      "term": "دایره",
+      "definition": "دوه بُعدي بڼه چې ټول ټکي یې له مرکز څخه په یو شان واټن کې وي."
+    },
+    "es": {
+      "term": "Circunferencia",
+      "definition": "Figura plana cuyos puntos están todos a la misma distancia de su centro."
+    }
+  }
+}

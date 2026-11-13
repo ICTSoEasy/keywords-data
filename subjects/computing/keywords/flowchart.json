@@ -33,6 +33,10 @@
     "ps": {
       "term": "فلوچارټ",
       "definition": "هغه چارت چې د الګوریتم یا پروسې ګامونه د شکلونو او غشونو سره ښیي."
+    },
+    "es": {
+      "term": "Diagrama de flujo",
+      "definition": "Diagrama que usa formas y flechas para representar los pasos y las decisiones de un algoritmo o proceso."
     }
   }
 }

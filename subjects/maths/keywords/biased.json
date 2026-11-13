@@ -1,0 +1,40 @@
+{
+  "id": "biased",
+  "topics": [
+    "probability"
+  ],
+  "translations": {
+    "en": {
+      "term": "Biased",
+      "definition": "A sample or method is biased if it unfairly favours some outcomes or groups over others."
+    },
+    "pl": {
+      "term": "Stronniczy",
+      "definition": "Próba lub metoda jest stronnicza, jeśli niesprawiedliwie faworyzuje niektóre wyniki lub grupy."
+    },
+    "cy": {
+      "term": "Tueddol",
+      "definition": "Mae sampl neu ddull yn dueddol os yw'n ffafrio rhai canlyniadau neu grwpiau yn annheg dros eraill."
+    },
+    "ar": {
+      "term": "متحيّز",
+      "definition": "تكون العيّنة أو الطريقة متحيّزة إذا فضّلت بعض النتائج أو المجموعات على غيرها بشكل غير عادل."
+    },
+    "ro": {
+      "term": "Părtinitor",
+      "definition": "Un eșantion sau o metodă este părtinitoare dacă favorizează pe nedrept unele rezultate sau grupuri."
+    },
+    "prs": {
+      "term": "جانبدار",
+      "definition": "یک نمونه یا روش جانبدار است اگر بعضی نتیجه‌ها یا گروه‌ها را به‌طور ناعادلانه ترجیح دهد."
+    },
+    "ps": {
+      "term": "تعصبي",
+      "definition": "یوه نمونه یا طریقه تعصبي ده که ځینې پایلې یا ډلې په ناروا ډول غوره کړي."
+    },
+    "es": {
+      "term": "Sesgado",
+      "definition": "Una muestra o un método está sesgado si favorece injustamente ciertos resultados o grupos."
+    }
+  }
+}

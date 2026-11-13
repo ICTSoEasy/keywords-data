@@ -1,0 +1,40 @@
+{
+  "id": "combined_transformations",
+  "topics": [
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Combined Transformations",
+      "definition": "Two or more transformations applied to a shape, one after another."
+    },
+    "pl": {
+      "term": "Złożenie przekształceń",
+      "definition": "Dwa lub więcej przekształceń wykonanych na figurze jedno po drugim."
+    },
+    "cy": {
+      "term": "Trawsffurfiadau Cyfunol",
+      "definition": "Dau drawsffurfiad neu fwy wedi'u cymhwyso i siâp, un ar ôl y llall."
+    },
+    "ar": {
+      "term": "التحويلات المركّبة",
+      "definition": "تحويلان أو أكثر يُطبَّقان على شكل واحداً بعد الآخر."
+    },
+    "ro": {
+      "term": "Transformări combinate",
+      "definition": "Două sau mai multe transformări aplicate unei figuri, una după alta."
+    },
+    "prs": {
+      "term": "تبدیل‌های ترکیبی",
+      "definition": "دو یا چند تبدیل که یکی پس از دیگری روی یک شکل انجام می‌شوند."
+    },
+    "ps": {
+      "term": "ګډ بدلونونه",
+      "definition": "دوه یا ډېر بدلونونه چې یو د بل وروسته پر یوې بڼې پلي کېږي."
+    },
+    "es": {
+      "term": "Transformaciones combinadas",
+      "definition": "Dos o más transformaciones aplicadas a una figura, una después de otra."
+    }
+  }
+}

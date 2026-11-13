@@ -1,0 +1,40 @@
+{
+  "id": "simple_interest",
+  "topics": [
+    "ratio"
+  ],
+  "translations": {
+    "en": {
+      "term": "Simple Interest",
+      "definition": "Interest calculated only on the original amount borrowed or saved, not on previous interest."
+    },
+    "pl": {
+      "term": "Procent prosty",
+      "definition": "Odsetki obliczane tylko od kwoty początkowej pożyczonej lub zaoszczędzonej, a nie od wcześniejszych odsetek."
+    },
+    "cy": {
+      "term": "Llog Syml",
+      "definition": "Llog wedi'i gyfrifo ar y swm gwreiddiol a fenthycwyd neu a gynilwyd yn unig, nid ar log blaenorol."
+    },
+    "ar": {
+      "term": "الفائدة البسيطة",
+      "definition": "فائدة تُحسب على المبلغ الأصلي المقترض أو المدّخر فقط، لا على الفوائد السابقة."
+    },
+    "ro": {
+      "term": "Dobândă simplă",
+      "definition": "Dobândă calculată doar la suma inițială împrumutată sau economisită, nu și la dobânda anterioară."
+    },
+    "prs": {
+      "term": "مفاد ساده",
+      "definition": "مفادی که فقط روی مبلغ اصلی قرض‌گرفته یا پس‌اندازشده حساب می‌شود، نه روی مفاد قبلی."
+    },
+    "ps": {
+      "term": "ساده ګټه",
+      "definition": "هغه ګټه چې یوازې پر اصلي پور اخیستل شویو یا سپمول شویو پیسو حسابېږي، نه پر مخکینۍ ګټه."
+    },
+    "es": {
+      "term": "Interés simple",
+      "definition": "Interés calculado únicamente sobre la cantidad inicial prestada o ahorrada, sin incluir los intereses anteriores."
+    }
+  }
+}

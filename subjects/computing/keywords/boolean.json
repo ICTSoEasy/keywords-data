@@ -28,6 +28,10 @@
     "ps": {
       "term": "بولیني",
       "definition": "د معلوماتو ډول چې یوازې دوه ممکنه ارزښتونه لري: ریښتیا (True) یا غلط (False)."
+    },
+    "es": {
+      "term": "Booleano",
+      "definition": "Valor que solo puede ser verdadero o falso. Se usa para tomar decisiones en los programas."
     }
   },
   "topics": [

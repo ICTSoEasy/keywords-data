@@ -31,6 +31,10 @@
     "ps": {
       "term": "ثابت",
       "definition": "پروګرام کې یو ارزښت چې هیڅکله نه بدلیږي."
+    },
+    "es": {
+      "term": "Constante",
+      "definition": "Valor con nombre que se fija una vez y no puede cambiar mientras el programa se ejecuta."
     }
   }
 }

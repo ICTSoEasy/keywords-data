@@ -1,0 +1,40 @@
+{
+  "id": "sine_rule",
+  "topics": [
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Sine Rule",
+      "definition": "A rule linking the sides of a triangle to the sines of their opposite angles; it can be used to find missing sides or angles."
+    },
+    "pl": {
+      "term": "Twierdzenie sinusów",
+      "definition": "Reguła łącząca boki trójkąta z sinusami kątów leżących naprzeciw nich; służy do znajdowania brakujących boków lub kątów."
+    },
+    "cy": {
+      "term": "Rheol Sin",
+      "definition": "Rheol sy'n cysylltu ochrau triongl â sin yr onglau cyferbyn; gellir ei defnyddio i ganfod ochrau neu onglau coll."
+    },
+    "ar": {
+      "term": "قانون الجيوب",
+      "definition": "قاعدة تربط أضلاع المثلث بجيوب الزوايا المقابلة لها؛ وتُستخدم لإيجاد أضلاع أو زوايا مجهولة."
+    },
+    "ro": {
+      "term": "Teorema sinusurilor",
+      "definition": "O regulă care leagă laturile unui triunghi de sinusurile unghiurilor opuse; se folosește pentru a afla laturi sau unghiuri lipsă."
+    },
+    "prs": {
+      "term": "قانون ساین",
+      "definition": "قاعده‌ای که ضلع‌های مثلث را به ساین زاویه‌های مقابل آن‌ها ربط می‌دهد؛ برای پیدا کردن ضلع‌ها یا زاویه‌های نامعلوم به کار می‌رود."
+    },
+    "ps": {
+      "term": "د ساین قانون",
+      "definition": "هغه قاعده چې د مثلث غاړې د مخامخ زاویو له ساین سره تړي؛ د نامعلومو غاړو یا زاویو د پیدا کولو لپاره کارول کېږي."
+    },
+    "es": {
+      "term": "Teorema del seno",
+      "definition": "Regla que relaciona los lados de un triángulo con los senos de sus ángulos opuestos; permite calcular lados o ángulos desconocidos."
+    }
+  }
+}

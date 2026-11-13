@@ -31,6 +31,10 @@
     "ps": {
       "term": "NOR ګیټ",
       "definition": "منطقي ګیټ چې د OR پایله معکوسوي؛ یوازې کله چې دواړه ننوتونه ۰ وي، پایله ۱ ده."
+    },
+    "es": {
+      "term": "Puerta NOR",
+      "definition": "Puerta lógica cuya salida es 1 solo cuando todas las entradas son 0; es lo contrario de una puerta OR."
     }
   }
 }

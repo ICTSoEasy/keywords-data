@@ -32,6 +32,10 @@
     "ps": {
       "term": "ماشین کوډ",
       "definition": "دوه‌اره لارښوونې چې CPU مستقیم اجرا کولی شي."
+    },
+    "es": {
+      "term": "Código máquina",
+      "definition": "Instrucciones escritas en binario que una CPU puede entender y ejecutar directamente."
     }
   }
 }

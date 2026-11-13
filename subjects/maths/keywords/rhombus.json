@@ -1,0 +1,40 @@
+{
+  "id": "rhombus",
+  "topics": [
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Rhombus",
+      "definition": "A quadrilateral with four equal sides; opposite sides are parallel."
+    },
+    "pl": {
+      "term": "Romb",
+      "definition": "Czworokąt o czterech równych bokach; przeciwległe boki są równoległe."
+    },
+    "cy": {
+      "term": "Rhombws",
+      "definition": "Pedrochr â phedair ochr hafal; mae ochrau cyferbyn yn baralel."
+    },
+    "ar": {
+      "term": "المعيّن",
+      "definition": "شكل رباعي أضلاعه الأربعة متساوية؛ وأضلاعه المتقابلة متوازية."
+    },
+    "ro": {
+      "term": "Romb",
+      "definition": "Un patrulater cu patru laturi egale; laturile opuse sunt paralele."
+    },
+    "prs": {
+      "term": "معین",
+      "definition": "چهارضلعی با چهار ضلع مساوی؛ ضلع‌های مقابل موازی‌اند."
+    },
+    "ps": {
+      "term": "معین",
+      "definition": "هغه څلور ضلعي چې څلور برابرې غاړې لري؛ مخامخ غاړې یې موازي دي."
+    },
+    "es": {
+      "term": "Rombo",
+      "definition": "Cuadrilátero con cuatro lados iguales y lados opuestos paralelos."
+    }
+  }
+}

@@ -31,6 +31,10 @@
     "ps": {
       "term": " друштвени انجینرنګ",
       "definition": "خلک دې ته اړول چې محرم معلومات ښکاره کړي یا ناغوښتل شوې دندې ترسره کړي."
+    },
+    "es": {
+      "term": "Ingeniería social",
+      "definition": "Manipular a las personas para que revelen información confidencial o hagan algo que ponga en peligro la seguridad."
     }
   }
 }

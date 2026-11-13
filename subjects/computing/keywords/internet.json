@@ -31,6 +31,10 @@
     "ps": {
       "term": "انټرنیټ",
       "definition": "د کمپیوټرونو او نورو وسیلو نړیواله شبکه چې د معیاري پروتوکولونو له لارې سره وصل دي."
+    },
+    "es": {
+      "term": "Internet",
+      "definition": "Sistema mundial de redes de ordenadores interconectadas que permite compartir datos en todo el mundo."
     }
   }
 }

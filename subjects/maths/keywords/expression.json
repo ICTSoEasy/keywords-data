@@ -1,0 +1,40 @@
+{
+  "id": "expression",
+  "topics": [
+    "algebra"
+  ],
+  "translations": {
+    "en": {
+      "term": "Expression",
+      "definition": "A collection of numbers, variables and operations, without an equals sign."
+    },
+    "pl": {
+      "term": "Wyrażenie",
+      "definition": "Zbiór liczb, zmiennych i działań, bez znaku równości."
+    },
+    "cy": {
+      "term": "Mynegiad",
+      "definition": "Casgliad o rifau, newidynnau a gweithrediadau, heb arwydd hafal."
+    },
+    "ar": {
+      "term": "العبارة الجبرية",
+      "definition": "مجموعة من الأعداد والمتغيرات والعمليات، دون علامة مساواة."
+    },
+    "ro": {
+      "term": "Expresie",
+      "definition": "O combinație de numere, variabile și operații, fără semnul egal."
+    },
+    "prs": {
+      "term": "افاده",
+      "definition": "مجموعه‌ای از اعداد، متحولین و عملیات، بدون علامت مساوی."
+    },
+    "ps": {
+      "term": "افاده",
+      "definition": "د عددونو، متحولینو او عملیو یوه ټولګه، پرته له مساوي نښې."
+    },
+    "es": {
+      "term": "Expresión",
+      "definition": "Conjunto de números, variables y operaciones matemáticas, sin signo de igualdad."
+    }
+  }
+}

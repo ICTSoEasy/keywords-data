@@ -1,0 +1,40 @@
+{
+  "id": "manipulation",
+  "topics": [
+    "algebra"
+  ],
+  "translations": {
+    "en": {
+      "term": "Manipulation",
+      "definition": "Changing the form of an algebraic expression or equation while keeping its value or meaning."
+    },
+    "pl": {
+      "term": "Przekształcanie",
+      "definition": "Zmiana postaci wyrażenia algebraicznego lub równania z zachowaniem jego wartości lub znaczenia."
+    },
+    "cy": {
+      "term": "Trin Mynegiadau",
+      "definition": "Newid ffurf mynegiad neu hafaliad algebraidd gan gadw ei werth neu ei ystyr."
+    },
+    "ar": {
+      "term": "المعالجة الجبرية",
+      "definition": "تغيير صيغة عبارة أو معادلة جبرية مع الحفاظ على قيمتها أو معناها."
+    },
+    "ro": {
+      "term": "Transformare algebrică",
+      "definition": "Schimbarea formei unei expresii sau ecuații algebrice, păstrându-i valoarea sau sensul."
+    },
+    "prs": {
+      "term": "تغییر شکل الجبری",
+      "definition": "تغییر دادن شکل یک افاده یا معادلهٔ الجبری با حفظ ارزش یا معنای آن."
+    },
+    "ps": {
+      "term": "الجبري بدلون",
+      "definition": "د یوې الجبري افادې یا معادلې د بڼې بدلول پرته له دې چې ارزښت یا مانا یې بدله شي."
+    },
+    "es": {
+      "term": "Manipulación algebraica",
+      "definition": "Cambio de la forma de una expresión o ecuación algebraica manteniendo su valor o significado."
+    }
+  }
+}

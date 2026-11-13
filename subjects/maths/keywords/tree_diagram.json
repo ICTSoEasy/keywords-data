@@ -1,0 +1,40 @@
+{
+  "id": "tree_diagram",
+  "topics": [
+    "probability"
+  ],
+  "translations": {
+    "en": {
+      "term": "Tree Diagram",
+      "definition": "A branching diagram that shows possible outcomes of a sequence of events and their probabilities."
+    },
+    "pl": {
+      "term": "Drzewo probabilistyczne",
+      "definition": "Rozgałęziony diagram pokazujący możliwe wyniki ciągu zdarzeń i ich prawdopodobieństwa."
+    },
+    "cy": {
+      "term": "Diagram Canghennog",
+      "definition": "Diagram canghennog sy'n dangos canlyniadau posibl cyfres o ddigwyddiadau a'u tebygolrwyddau."
+    },
+    "ar": {
+      "term": "المخطط الشجري",
+      "definition": "مخطط متفرّع يبيّن النتائج الممكنة لسلسلة أحداث واحتمالاتها."
+    },
+    "ro": {
+      "term": "Diagramă arbore",
+      "definition": "O diagramă ramificată care arată rezultatele posibile ale unei succesiuni de evenimente și probabilitățile lor."
+    },
+    "prs": {
+      "term": "نمودار درختی",
+      "definition": "نمودار شاخه‌داری که نتیجه‌های ممکن یک سلسله رویداد و احتمال‌های آن‌ها را نشان می‌دهد."
+    },
+    "ps": {
+      "term": "ونې ډوله ګراف",
+      "definition": "څانګه لرونکی ګراف چې د پېښو د یوې لړۍ ممکنه پایلې او د هغوی احتمالونه ښيي."
+    },
+    "es": {
+      "term": "Diagrama de árbol",
+      "definition": "Diagrama ramificado que muestra los posibles resultados de una sucesión de sucesos y sus probabilidades."
+    }
+  }
+}

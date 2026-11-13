@@ -31,6 +31,10 @@
     "ps": {
       "term": "د ازموینې معلومات",
       "definition": "هغه معلومات چې د بیلابیلو شرایطو کې د پروګرام د سم کار کولو د ازموینې لپاره کارول کیږي."
+    },
+    "es": {
+      "term": "Datos de prueba",
+      "definition": "Valores usados para comprobar que un programa trata correctamente entradas normales, límite y erróneas."
     }
   }
 }

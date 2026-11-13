@@ -1,0 +1,40 @@
+{
+  "id": "even",
+  "topics": [
+    "probability"
+  ],
+  "translations": {
+    "en": {
+      "term": "Even",
+      "definition": "An event with an equal chance of happening and not happening; its probability is ½."
+    },
+    "pl": {
+      "term": "Równe szanse",
+      "definition": "Zdarzenie, które ma taką samą szansę zajść i nie zajść; jego prawdopodobieństwo wynosi ½."
+    },
+    "cy": {
+      "term": "Siawns Gyfartal",
+      "definition": "Digwyddiad sydd â siawns gyfartal o ddigwydd a pheidio â digwydd; ei debygolrwydd yw ½."
+    },
+    "ar": {
+      "term": "فرصة متساوية",
+      "definition": "حدث فرصة وقوعه تساوي فرصة عدم وقوعه؛ احتماله ½."
+    },
+    "ro": {
+      "term": "Șanse egale",
+      "definition": "Un eveniment care are aceeași șansă să se întâmple și să nu se întâmple; probabilitatea lui este ½."
+    },
+    "prs": {
+      "term": "فرصت برابر",
+      "definition": "رویدادی که فرصت رخ دادن و رخ ندادن آن برابر است؛ احتمال آن ½ است."
+    },
+    "ps": {
+      "term": "برابر چانس",
+      "definition": "هغه پېښه چې د پېښېدو او نه پېښېدو چانس یې برابر وي؛ احتمال یې ½ دی."
+    },
+    "es": {
+      "term": "Equiprobable",
+      "definition": "Suceso con la misma probabilidad de ocurrir que de no ocurrir; su probabilidad es ½."
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "isosceles",
+  "topics": [
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Isosceles",
+      "definition": "A triangle with two equal sides and two equal angles."
+    },
+    "pl": {
+      "term": "Równoramienny",
+      "definition": "Trójkąt o dwóch równych bokach i dwóch równych kątach."
+    },
+    "cy": {
+      "term": "Isosgeles",
+      "definition": "Triongl â dwy ochr hafal a dwy ongl hafal."
+    },
+    "ar": {
+      "term": "متطابق الضلعين",
+      "definition": "مثلث له ضلعان متساويان وزاويتان متساويتان."
+    },
+    "ro": {
+      "term": "Isoscel",
+      "definition": "Un triunghi cu două laturi egale și două unghiuri egale."
+    },
+    "prs": {
+      "term": "متساوی‌الساقین",
+      "definition": "مثلثی با دو ضلع مساوی و دو زاویهٔ مساوی."
+    },
+    "ps": {
+      "term": "متساوي الساقین",
+      "definition": "هغه مثلث چې دوه برابرې غاړې او دوه برابرې زاویې لري."
+    },
+    "es": {
+      "term": "Isósceles",
+      "definition": "Triángulo con dos lados iguales y dos ángulos iguales."
+    }
+  }
+}

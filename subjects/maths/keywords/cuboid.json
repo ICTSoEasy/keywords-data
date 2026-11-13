@@ -1,0 +1,40 @@
+{
+  "id": "cuboid",
+  "topics": [
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Cuboid",
+      "definition": "A 3D shape with six rectangular faces, such as a box."
+    },
+    "pl": {
+      "term": "Prostopadłościan",
+      "definition": "Bryła o sześciu ścianach w kształcie prostokątów, na przykład pudełko."
+    },
+    "cy": {
+      "term": "Ciwboid",
+      "definition": "Siâp 3D â chwe wyneb petryal, fel bocs."
+    },
+    "ar": {
+      "term": "متوازي المستطيلات",
+      "definition": "مجسّم له ستة أوجه مستطيلة، مثل الصندوق."
+    },
+    "ro": {
+      "term": "Paralelipiped dreptunghic",
+      "definition": "Un corp cu șase fețe dreptunghiulare, cum ar fi o cutie."
+    },
+    "prs": {
+      "term": "مکعب مستطیل",
+      "definition": "شکل سه‌بعدی با شش وجه مستطیلی، مانند یک جعبه."
+    },
+    "ps": {
+      "term": "مستطیلي مکعب",
+      "definition": "درې بُعدي بڼه چې شپږ مستطیلي مخونه لري، لکه بکس."
+    },
+    "es": {
+      "term": "Ortoedro",
+      "definition": "Cuerpo geométrico con seis caras rectangulares, como una caja."
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "cube",
+  "topics": [
+    "number",
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Cube",
+      "definition": "The result of multiplying a number by itself three times. For example, 3³ = 27."
+    },
+    "pl": {
+      "term": "Sześcian liczby",
+      "definition": "Wynik pomnożenia liczby przez siebie trzy razy. Na przykład 3³ = 27."
+    },
+    "cy": {
+      "term": "Ciwb",
+      "definition": "Canlyniad lluosi rhif ag ef ei hun dair gwaith. Er enghraifft, 3³ = 27."
+    },
+    "ar": {
+      "term": "المكعب",
+      "definition": "ناتج ضرب العدد في نفسه ثلاث مرات. مثلاً 3³ = 27."
+    },
+    "ro": {
+      "term": "Cub",
+      "definition": "Rezultatul înmulțirii unui număr cu el însuși de trei ori. De exemplu, 3³ = 27."
+    },
+    "prs": {
+      "term": "مکعب عدد",
+      "definition": "حاصل ضرب یک عدد سه بار در خودش. مثلاً 3³ = 27."
+    },
+    "ps": {
+      "term": "د عدد مکعب",
+      "definition": "د یو عدد درې ځله له ځان سره ضربول. د بېلګې په توګه 3³ = 27."
+    },
+    "es": {
+      "term": "Cubo",
+      "definition": "Resultado de multiplicar un número por sí mismo tres veces. Por ejemplo, 3³ = 27."
+    }
+  }
+}

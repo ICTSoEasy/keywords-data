@@ -1,0 +1,40 @@
+{
+  "id": "inverse_functions",
+  "topics": [
+    "algebra"
+  ],
+  "translations": {
+    "en": {
+      "term": "Inverse Functions",
+      "definition": "Functions that undo the effect of each other, returning an output to its original input."
+    },
+    "pl": {
+      "term": "Funkcje odwrotne",
+      "definition": "Funkcje, które wzajemnie znoszą swoje działanie, przywracając wynik do pierwotnego argumentu."
+    },
+    "cy": {
+      "term": "Ffwythiannau Gwrthdro",
+      "definition": "Ffwythiannau sy'n dadwneud effaith ei gilydd, gan ddychwelyd allbwn i'w fewnbwn gwreiddiol."
+    },
+    "ar": {
+      "term": "الدوال العكسية",
+      "definition": "دوال تُلغي كلٌّ منها أثر الأخرى، فتعيد المخرج إلى مدخله الأصلي."
+    },
+    "ro": {
+      "term": "Funcții inverse",
+      "definition": "Funcții care anulează efectul una celeilalte, readucând o ieșire la intrarea inițială."
+    },
+    "prs": {
+      "term": "توابع معکوس",
+      "definition": "توابعی که اثر یکدیگر را خنثی می‌کنند و خروجی را به ورودی اصلی برمی‌گردانند."
+    },
+    "ps": {
+      "term": "معکوسې تابعګانې",
+      "definition": "هغه تابعګانې چې د یو بل اغېز له منځه وړي او پایله بېرته اصلي ننوتنې ته راګرځوي."
+    },
+    "es": {
+      "term": "Funciones inversas",
+      "definition": "Funciones que deshacen el efecto de otras funciones y devuelven la entrada original."
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "iteration",
+  "topics": [
+    "algebra"
+  ],
+  "translations": {
+    "en": {
+      "term": "Iteration",
+      "definition": "Repeating a calculation using the previous answer to produce the next one."
+    },
+    "pl": {
+      "term": "Iteracja",
+      "definition": "Powtarzanie obliczenia z użyciem poprzedniego wyniku, aby otrzymać następny."
+    },
+    "cy": {
+      "term": "Iteriad",
+      "definition": "Ailadrodd cyfrifiad gan ddefnyddio'r ateb blaenorol i gynhyrchu'r un nesaf."
+    },
+    "ar": {
+      "term": "التكرار العددي",
+      "definition": "إعادة عملية حسابية باستخدام الناتج السابق للحصول على الناتج التالي."
+    },
+    "ro": {
+      "term": "Iterație",
+      "definition": "Repetarea unui calcul folosind răspunsul anterior pentru a-l obține pe următorul."
+    },
+    "prs": {
+      "term": "تکرار",
+      "definition": "تکرار یک محاسبه با استفاده از جواب قبلی برای به دست آوردن جواب بعدی."
+    },
+    "ps": {
+      "term": "تکرار",
+      "definition": "د یوې محاسبې تکرارول د مخکیني ځواب په کارولو سره ترڅو راتلونکی ځواب ترلاسه شي."
+    },
+    "es": {
+      "term": "Iteración",
+      "definition": "Repetición de un cálculo utilizando el resultado anterior para obtener el siguiente."
+    }
+  }
+}

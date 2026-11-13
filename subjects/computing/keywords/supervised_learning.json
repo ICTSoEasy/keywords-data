@@ -31,6 +31,10 @@
     "ps": {
       "term": "نظارت شوې زده‌کړه",
       "definition": "د ماشین زده‌کړې یو ډول چې ماډل د نومول شوو معلوماتو له لارې روزل کیږي."
+    },
+    "es": {
+      "term": "Aprendizaje supervisado",
+      "definition": "Tipo de aprendizaje automático en el que un modelo se entrena con datos etiquetados, con las respuestas correctas para guiar el aprendizaje."
     }
   }
 }

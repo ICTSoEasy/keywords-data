@@ -1,0 +1,40 @@
+{
+  "id": "perimeter",
+  "topics": [
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Perimeter",
+      "definition": "The total distance around the outside of a 2D shape."
+    },
+    "pl": {
+      "term": "Obwód",
+      "definition": "Całkowita długość brzegu figury płaskiej."
+    },
+    "cy": {
+      "term": "Perimedr",
+      "definition": "Cyfanswm y pellter o amgylch ymyl allanol siâp 2D."
+    },
+    "ar": {
+      "term": "المحيط",
+      "definition": "مجموع أطوال الحدود الخارجية لشكل ثنائي الأبعاد."
+    },
+    "ro": {
+      "term": "Perimetru",
+      "definition": "Distanța totală de jur împrejurul unei figuri plane."
+    },
+    "prs": {
+      "term": "محیط",
+      "definition": "مجموع فاصلهٔ دور بیرونی یک شکل دوبعدی."
+    },
+    "ps": {
+      "term": "محیط",
+      "definition": "د یوې دوه بُعدي بڼې د بهرنۍ پولې ټول واټن."
+    },
+    "es": {
+      "term": "Perímetro",
+      "definition": "Distancia total alrededor del contorno de una figura plana."
+    }
+  }
+}

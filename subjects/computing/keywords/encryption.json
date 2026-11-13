@@ -28,6 +28,10 @@
     "ps": {
       "term": "انکریپشن",
       "definition": "معلومات یو پټ بڼې ته بدلول ترڅو غیرمجاز خلک یې ونه لوستلی شي."
+    },
+    "es": {
+      "term": "Cifrado",
+      "definition": "Proceso de codificar los datos para que solo quien tenga la clave correcta pueda leerlos."
     }
   },
   "topics": [

@@ -1,0 +1,40 @@
+{
+  "id": "upper_bounds",
+  "topics": [
+    "number"
+  ],
+  "translations": {
+    "en": {
+      "term": "Upper Bounds",
+      "definition": "The greatest value that a rounded measurement could have had before it was rounded, using the appropriate endpoint convention."
+    },
+    "pl": {
+      "term": "Górne granice",
+      "definition": "Największa wartość, jaką mógł mieć zaokrąglony pomiar przed zaokrągleniem, zgodnie z przyjętą konwencją dla krańca przedziału."
+    },
+    "cy": {
+      "term": "Terfannau Uchaf",
+      "definition": "Y gwerth mwyaf a allai fod gan fesuriad wedi'i dalgrynnu cyn iddo gael ei dalgrynnu, gan ddefnyddio'r confensiwn priodol ar gyfer y pen."
+    },
+    "ar": {
+      "term": "الحدود العليا",
+      "definition": "أكبر قيمة كان يمكن أن يكون عليها القياس المقرَّب قبل تقريبه، وفق اصطلاح الطرف المناسب."
+    },
+    "ro": {
+      "term": "Limite superioare",
+      "definition": "Cea mai mare valoare pe care ar fi putut-o avea o măsurătoare rotunjită înainte de rotunjire, folosind convenția potrivită pentru capătul intervalului."
+    },
+    "prs": {
+      "term": "حدود بالا",
+      "definition": "بزرگ‌ترین مقداری که یک اندازهٔ گردشده می‌توانست پیش از گرد شدن داشته باشد، با استفاده از قرارداد مناسب برای انجام محدوده."
+    },
+    "ps": {
+      "term": "لوړ حدونه",
+      "definition": "تر ټولو لوی قیمت چې یوه ګرده شوې اندازه یې د ګردېدو مخکې لرلای شوه، د سر لپاره د مناسب قرارداد په کارولو سره."
+    },
+    "es": {
+      "term": "Cotas superiores",
+      "definition": "Límite superior de los valores que podrían haber dado una medida redondeada, teniendo en cuenta la convención utilizada para el extremo."
+    }
+  }
+}

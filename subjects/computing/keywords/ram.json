@@ -31,6 +31,10 @@
     "ps": {
       "term": "RAM",
       "definition": "د کمپیوټر اصلي حافظه چې فعال کارول شوي معلومات ساتي؛ کله چې وسیله بنده شي پاکیږي."
+    },
+    "es": {
+      "term": "RAM",
+      "definition": "Memoria de Acceso Aleatorio; almacenamiento temporal que guarda los datos que la CPU está usando en ese momento."
     }
   }
 }

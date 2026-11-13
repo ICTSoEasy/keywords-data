@@ -32,6 +32,10 @@
     "ps": {
       "term": "شرط",
       "definition": "هغه جمله چې ریښتیا یا غلط ارزیابي کیږي او د پروګرام د جریان کنترل لپاره کارول کیږي."
+    },
+    "es": {
+      "term": "Condición",
+      "definition": "Expresión que da como resultado verdadero o falso, usada para tomar decisiones en un programa."
     }
   }
 }

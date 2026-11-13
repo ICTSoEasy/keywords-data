@@ -31,6 +31,10 @@
     "ps": {
       "term": "مدربورډ",
       "definition": "د کمپیوټر اصلي بورډ چې CPU، حافظه او نورې برخې سره وصلوي."
+    },
+    "es": {
+      "term": "Placa base",
+      "definition": "La placa de circuito principal que conecta entre sí todos los componentes de un ordenador."
     }
   }
 }

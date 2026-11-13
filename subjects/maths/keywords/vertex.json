@@ -1,0 +1,40 @@
+{
+  "id": "vertex",
+  "topics": [
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Vertex",
+      "definition": "A corner where two or more edges or sides meet."
+    },
+    "pl": {
+      "term": "Wierzchołek",
+      "definition": "Narożnik, w którym spotykają się dwie lub więcej krawędzi lub boków."
+    },
+    "cy": {
+      "term": "Fertig",
+      "definition": "Cornel lle mae dwy ochr neu ymyl neu fwy yn cyfarfod."
+    },
+    "ar": {
+      "term": "الرأس",
+      "definition": "زاوية أو ركن يلتقي عنده ضلعان أو حرفان أو أكثر."
+    },
+    "ro": {
+      "term": "Vârf",
+      "definition": "Un colț în care se întâlnesc două sau mai multe muchii sau laturi."
+    },
+    "prs": {
+      "term": "رأس",
+      "definition": "گوشه‌ای که دو یا چند یال یا ضلع در آن به هم می‌رسند."
+    },
+    "ps": {
+      "term": "راس",
+      "definition": "هغه کونج چې دوه یا ډېرې څنډې یا غاړې پکې سره یوځای کېږي."
+    },
+    "es": {
+      "term": "Vértice",
+      "definition": "Punto de una figura donde se encuentran dos o más lados o aristas."
+    }
+  }
+}

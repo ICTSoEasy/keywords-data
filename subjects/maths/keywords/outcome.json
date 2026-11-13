@@ -1,0 +1,40 @@
+{
+  "id": "outcome",
+  "topics": [
+    "probability"
+  ],
+  "translations": {
+    "en": {
+      "term": "Outcome",
+      "definition": "A possible result of an experiment or event."
+    },
+    "pl": {
+      "term": "Wynik",
+      "definition": "Możliwy rezultat doświadczenia lub zdarzenia."
+    },
+    "cy": {
+      "term": "Canlyniad",
+      "definition": "Canlyniad posibl arbrawf neu ddigwyddiad."
+    },
+    "ar": {
+      "term": "النتيجة",
+      "definition": "نتيجة ممكنة لتجربة أو حدث."
+    },
+    "ro": {
+      "term": "Rezultat",
+      "definition": "Un rezultat posibil al unui experiment sau eveniment."
+    },
+    "prs": {
+      "term": "نتیجه",
+      "definition": "یک نتیجهٔ ممکن از یک تجربه یا رویداد."
+    },
+    "ps": {
+      "term": "پایله",
+      "definition": "د یوې تجربې یا پېښې یوه ممکنه پایله."
+    },
+    "es": {
+      "term": "Resultado",
+      "definition": "Resultado posible de un experimento o suceso."
+    }
+  }
+}

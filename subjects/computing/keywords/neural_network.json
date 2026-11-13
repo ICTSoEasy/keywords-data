@@ -31,6 +31,10 @@
     "ps": {
       "term": "عصبي شبکه",
       "definition": "د مصنوعي هوښیارتیا سیستم چې د دماغ د جوړښت پر بنسټ دی او له روزنیزو معلوماتو زده کوي."
+    },
+    "es": {
+      "term": "Red neuronal",
+      "definition": "Sistema de IA inspirado de forma general en el cerebro humano, formado por capas de nodos conectados que procesan datos y aprenden de ellos."
     }
   }
 }

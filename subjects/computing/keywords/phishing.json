@@ -28,6 +28,10 @@
     "ps": {
       "term": "فشینګ",
       "definition": "د شخصي معلوماتو د غلا لپاره د جعلي بریښنالیک یا ویب‌سایټونو له لارې د درغلۍ هڅه."
+    },
+    "es": {
+      "term": "Phishing",
+      "definition": "Engaño en el que los atacantes se hacen pasar por alguien de confianza (por ejemplo, un banco) para robar tu información personal."
     }
   },
   "topics": [

@@ -1,0 +1,40 @@
+{
+  "id": "recurring",
+  "topics": [
+    "number"
+  ],
+  "translations": {
+    "en": {
+      "term": "Recurring",
+      "definition": "Repeating again and again in a regular pattern. In a recurring decimal, one or more digits repeat forever."
+    },
+    "pl": {
+      "term": "Okresowy",
+      "definition": "Powtarzający się regularnie. W ułamku okresowym jedna lub więcej cyfr powtarza się bez końca."
+    },
+    "cy": {
+      "term": "Cylchol",
+      "definition": "Yn ailadrodd dro ar ôl tro mewn patrwm rheolaidd. Mewn degolyn cylchol, mae un digid neu fwy yn ailadrodd am byth."
+    },
+    "ar": {
+      "term": "الدوري",
+      "definition": "المتكرر مرة بعد مرة بنمط منتظم. في العدد العشري الدوري يتكرر رقم أو أكثر إلى ما لا نهاية."
+    },
+    "ro": {
+      "term": "Periodic",
+      "definition": "Care se repetă la nesfârșit după un model regulat. Într-o fracție zecimală periodică, una sau mai multe cifre se repetă mereu."
+    },
+    "prs": {
+      "term": "متناوب",
+      "definition": "تکرارشونده به‌طور منظم. در عدد اعشاری متناوب، یک یا چند رقم برای همیشه تکرار می‌شوند."
+    },
+    "ps": {
+      "term": "تکراري",
+      "definition": "په منظم ډول بیا بیا تکرارېدونکی. په تکراري اعشاري عدد کې یو یا ډېر رقمونه تل تکرارېږي."
+    },
+    "es": {
+      "term": "Periódico",
+      "definition": "Que se repite siguiendo un patrón. En un decimal periódico, una o varias cifras se repiten indefinidamente."
+    }
+  }
+}

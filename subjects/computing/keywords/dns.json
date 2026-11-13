@@ -31,6 +31,10 @@
     "ps": {
       "term": "DNS",
       "definition": "هغه سیستم چې د ویب‌سایټ نومونه IP پتو ته ژباړي ترڅو براوزرونه یې ومومي."
+    },
+    "es": {
+      "term": "DNS",
+      "definition": "Sistema de Nombres de Dominio; traduce las direcciones web legibles por las personas en direcciones IP que los ordenadores pueden usar."
     }
   }
 }

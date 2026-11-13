@@ -1,0 +1,40 @@
+{
+  "id": "quadrants",
+  "topics": [
+    "algebra"
+  ],
+  "translations": {
+    "en": {
+      "term": "Quadrants",
+      "definition": "The four regions into which the x-axis and y-axis divide the coordinate plane."
+    },
+    "pl": {
+      "term": "Ćwiartki",
+      "definition": "Cztery części, na które oś x i oś y dzielą układ współrzędnych."
+    },
+    "cy": {
+      "term": "Pedrantau",
+      "definition": "Y pedwar rhanbarth y mae'r echelin-x a'r echelin-y yn rhannu'r plân cyfesurynnol iddynt."
+    },
+    "ar": {
+      "term": "الأرباع",
+      "definition": "المناطق الأربع التي يقسم إليها المحوران x و y المستوى الإحداثي."
+    },
+    "ro": {
+      "term": "Cadrane",
+      "definition": "Cele patru regiuni în care axa x și axa y împart planul de coordonate."
+    },
+    "prs": {
+      "term": "ربع‌ها",
+      "definition": "چهار ناحیه‌ای که محور x و محور y سطح کوردیناتی را به آن‌ها تقسیم می‌کنند."
+    },
+    "ps": {
+      "term": "ربعې",
+      "definition": "هغه څلور سیمې چې د x محور او د y محور د کوارډیناټ سطحه پرې وېشي."
+    },
+    "es": {
+      "term": "Cuadrantes",
+      "definition": "Las cuatro regiones en las que los ejes x e y dividen el plano de coordenadas."
+    }
+  }
+}

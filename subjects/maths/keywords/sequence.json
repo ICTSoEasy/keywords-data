@@ -1,0 +1,40 @@
+{
+  "id": "sequence",
+  "topics": [
+    "algebra"
+  ],
+  "translations": {
+    "en": {
+      "term": "Sequence",
+      "definition": "A list of numbers or objects arranged in a particular order, often following a rule."
+    },
+    "pl": {
+      "term": "Ciąg",
+      "definition": "Lista liczb lub obiektów ułożonych w określonej kolejności, często według reguły."
+    },
+    "cy": {
+      "term": "Dilyniant",
+      "definition": "Rhestr o rifau neu wrthrychau mewn trefn benodol, yn aml yn dilyn rheol."
+    },
+    "ar": {
+      "term": "المتتالية",
+      "definition": "قائمة أعداد أو أشياء مرتبة ترتيباً معيناً، غالباً وفق قاعدة."
+    },
+    "ro": {
+      "term": "Șir",
+      "definition": "O listă de numere sau obiecte așezate într-o anumită ordine, adesea după o regulă."
+    },
+    "prs": {
+      "term": "دنباله",
+      "definition": "فهرستی از اعداد یا اشیا به ترتیب معین که اغلب از یک قاعده پیروی می‌کند."
+    },
+    "ps": {
+      "term": "لړۍ",
+      "definition": "د عددونو یا شیانو لیست په یو ټاکلي ترتیب، ډېری وخت د یوې قاعدې په پیروي."
+    },
+    "es": {
+      "term": "Sucesión",
+      "definition": "Lista ordenada de números u objetos que suele seguir una regla determinada."
+    }
+  }
+}

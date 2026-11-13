@@ -1,0 +1,40 @@
+{
+  "id": "real_life_graph",
+  "topics": [
+    "ratio"
+  ],
+  "translations": {
+    "en": {
+      "term": "Real-Life Graph",
+      "definition": "A graph showing how quantities in a real situation are related."
+    },
+    "pl": {
+      "term": "Wykres z życia codziennego",
+      "definition": "Wykres pokazujący związek między wielkościami w rzeczywistej sytuacji."
+    },
+    "cy": {
+      "term": "Graff Bywyd Go Iawn",
+      "definition": "Graff sy'n dangos sut mae meintiau mewn sefyllfa go iawn yn perthyn i'w gilydd."
+    },
+    "ar": {
+      "term": "منحنيات من الحياة الواقعية",
+      "definition": "تمثيل بياني يبيّن العلاقة بين كميات في موقف حقيقي."
+    },
+    "ro": {
+      "term": "Grafic din viața reală",
+      "definition": "Un grafic care arată cum sunt legate mărimile într-o situație reală."
+    },
+    "prs": {
+      "term": "گراف زندگی واقعی",
+      "definition": "گرافی که رابطهٔ میان مقدارها را در یک وضعیت واقعی نشان می‌دهد."
+    },
+    "ps": {
+      "term": "د ریښتیني ژوند ګراف",
+      "definition": "هغه ګراف چې په یوه ریښتیني حالت کې د مقدارونو اړیکه ښيي."
+    },
+    "es": {
+      "term": "Gráfica de una situación real",
+      "definition": "Gráfica que muestra la relación entre cantidades de una situación real."
+    }
+  }
+}

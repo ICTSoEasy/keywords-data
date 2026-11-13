@@ -1,0 +1,40 @@
+{
+  "id": "solve",
+  "topics": [
+    "algebra"
+  ],
+  "translations": {
+    "en": {
+      "term": "Solve",
+      "definition": "To find the value or values that make an equation or problem true."
+    },
+    "pl": {
+      "term": "Rozwiązywać",
+      "definition": "Znajdować wartość lub wartości, dla których równanie lub problem jest spełniony."
+    },
+    "cy": {
+      "term": "Datrys",
+      "definition": "Dod o hyd i'r gwerth neu'r gwerthoedd sy'n gwneud hafaliad neu broblem yn wir."
+    },
+    "ar": {
+      "term": "يحلّ",
+      "definition": "إيجاد القيمة أو القيم التي تجعل المعادلة أو المسألة صحيحة."
+    },
+    "ro": {
+      "term": "A rezolva",
+      "definition": "A găsi valoarea sau valorile care fac adevărată o ecuație sau o problemă."
+    },
+    "prs": {
+      "term": "حل کردن",
+      "definition": "پیدا کردن مقدار یا مقدارهایی که یک معادله یا مسئله را درست می‌کنند."
+    },
+    "ps": {
+      "term": "حل کول",
+      "definition": "د هغه قیمت یا قیمتونو پیدا کول چې معادله یا ستونزه سمه کوي."
+    },
+    "es": {
+      "term": "Resolver",
+      "definition": "Encontrar el valor o los valores que hacen verdadera una ecuación o resuelven un problema."
+    }
+  }
+}

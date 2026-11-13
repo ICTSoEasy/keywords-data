@@ -32,6 +32,10 @@
     "ps": {
       "term": "د معلوماتو ساتنه",
       "definition": "هغه قوانین او میتودونه چې ډاډ ورکوي چې شخصي معلومات خوندي ساتل کیږي."
+    },
+    "es": {
+      "term": "Protección de datos",
+      "definition": "Leyes y prácticas que controlan cómo se recogen, guardan y usan los datos personales para proteger la privacidad de las personas."
     }
   }
 }

@@ -1,0 +1,40 @@
+{
+  "id": "factor",
+  "topics": [
+    "number"
+  ],
+  "translations": {
+    "en": {
+      "term": "Factor",
+      "definition": "A whole number that divides exactly into another whole number."
+    },
+    "pl": {
+      "term": "Dzielnik",
+      "definition": "Liczba całkowita, przez którą inna liczba całkowita dzieli się bez reszty."
+    },
+    "cy": {
+      "term": "Ffactor",
+      "definition": "Rhif cyfan sy'n rhannu'n union i mewn i rif cyfan arall."
+    },
+    "ar": {
+      "term": "العامل",
+      "definition": "عدد صحيح يقسم عدداً صحيحاً آخر قسمة تامة."
+    },
+    "ro": {
+      "term": "Divizor",
+      "definition": "Un număr întreg care împarte exact un alt număr întreg."
+    },
+    "prs": {
+      "term": "عامل",
+      "definition": "عدد صحیحی که عدد صحیح دیگری را بدون باقی‌مانده تقسیم می‌کند."
+    },
+    "ps": {
+      "term": "عامل",
+      "definition": "هغه بشپړ عدد چې بل بشپړ عدد پرته له پاتې څخه وېشي."
+    },
+    "es": {
+      "term": "Factor",
+      "definition": "Número entero que divide exactamente a otro número entero."
+    }
+  }
+}

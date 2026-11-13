@@ -1,0 +1,40 @@
+{
+  "id": "index_laws",
+  "topics": [
+    "number"
+  ],
+  "translations": {
+    "en": {
+      "term": "Index Laws",
+      "definition": "Rules that help simplify calculations involving powers with the same base."
+    },
+    "pl": {
+      "term": "Prawa działań na potęgach",
+      "definition": "Reguły ułatwiające obliczenia z potęgami o tej samej podstawie."
+    },
+    "cy": {
+      "term": "Deddfau Indecsau",
+      "definition": "Rheolau sy'n helpu i symleiddio cyfrifiadau gyda phwerau sydd â'r un bôn."
+    },
+    "ar": {
+      "term": "قوانين الأسس",
+      "definition": "قواعد تساعد على تبسيط الحسابات التي تتضمن قوى لها الأساس نفسه."
+    },
+    "ro": {
+      "term": "Regulile puterilor",
+      "definition": "Reguli care ajută la simplificarea calculelor cu puteri care au aceeași bază."
+    },
+    "prs": {
+      "term": "قوانین توان",
+      "definition": "قاعده‌هایی که محاسبه با توان‌هایی که پایهٔ یکسان دارند را ساده می‌کنند."
+    },
+    "ps": {
+      "term": "د توان قوانین",
+      "definition": "هغه قاعدې چې د یو شان قاعدې لرونکو توانونو محاسبې اسانه کوي."
+    },
+    "es": {
+      "term": "Leyes de los exponentes",
+      "definition": "Reglas que permiten simplificar operaciones con potencias que tienen la misma base."
+    }
+  }
+}

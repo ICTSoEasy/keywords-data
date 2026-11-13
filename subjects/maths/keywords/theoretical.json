@@ -1,0 +1,40 @@
+{
+  "id": "theoretical",
+  "topics": [
+    "probability"
+  ],
+  "translations": {
+    "en": {
+      "term": "Theoretical",
+      "definition": "Based on mathematical reasoning or a probability model rather than experimental results."
+    },
+    "pl": {
+      "term": "Teoretyczne",
+      "definition": "Oparte na rozumowaniu matematycznym lub modelu probabilistycznym, a nie na wynikach doświadczeń."
+    },
+    "cy": {
+      "term": "Damcaniaethol",
+      "definition": "Yn seiliedig ar resymu mathemategol neu fodel tebygolrwydd yn hytrach na chanlyniadau arbrofol."
+    },
+    "ar": {
+      "term": "نظري",
+      "definition": "يعتمد على الاستدلال الرياضي أو نموذج احتمالي بدلاً من النتائج التجريبية."
+    },
+    "ro": {
+      "term": "Teoretic",
+      "definition": "Bazat pe raționament matematic sau pe un model probabilistic, nu pe rezultate experimentale."
+    },
+    "prs": {
+      "term": "نظری",
+      "definition": "بر اساس استدلال ریاضی یا یک مدل احتمال، نه بر اساس نتیجه‌های تجربی."
+    },
+    "ps": {
+      "term": "نظري",
+      "definition": "د ریاضي استدلال یا احتمالي ماډل پر بنسټ، نه د تجربوي پایلو پر بنسټ."
+    },
+    "es": {
+      "term": "Teórico",
+      "definition": "Basado en razonamientos matemáticos o en un modelo de probabilidad, y no en resultados experimentales."
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "pythagoras_theorem",
+  "topics": [
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Pythagoras’ Theorem",
+      "definition": "In a right-angled triangle, the square of the hypotenuse equals the sum of the squares of the other two sides: a² + b² = c²."
+    },
+    "pl": {
+      "term": "Twierdzenie Pitagorasa",
+      "definition": "W trójkącie prostokątnym kwadrat przeciwprostokątnej jest równy sumie kwadratów dwóch pozostałych boków: a² + b² = c²."
+    },
+    "cy": {
+      "term": "Theorem Pythagoras",
+      "definition": "Mewn triongl ongl sgwâr, mae sgwâr yr hypotenws yn hafal i swm sgwariau'r ddwy ochr arall: a² + b² = c²."
+    },
+    "ar": {
+      "term": "نظرية فيثاغورس",
+      "definition": "في المثلث القائم، مربع الوتر يساوي مجموع مربعي الضلعين الآخرين: a² + b² = c²."
+    },
+    "ro": {
+      "term": "Teorema lui Pitagora",
+      "definition": "Într-un triunghi dreptunghic, pătratul ipotenuzei este egal cu suma pătratelor celorlalte două laturi: a² + b² = c²."
+    },
+    "prs": {
+      "term": "قضیهٔ فیثاغورث",
+      "definition": "در مثلث قائم‌الزاویه، مربع وتر برابر مجموع مربع‌های دو ضلع دیگر است: a² + b² = c²."
+    },
+    "ps": {
+      "term": "د فیثاغورث قضیه",
+      "definition": "په قایم الزاویه مثلث کې، د وتر مربع د نورو دوو غاړو د مربعو له مجموعې سره برابره ده: a² + b² = c²."
+    },
+    "es": {
+      "term": "Teorema de Pitágoras",
+      "definition": "En un triángulo rectángulo, el cuadrado de la hipotenusa es igual a la suma de los cuadrados de los otros dos lados: a² + b² = c²."
+    }
+  }
+}

@@ -32,6 +32,10 @@
     "ps": {
       "term": "اتوماسیون",
       "definition": "د کمپیوټرونو یا ماشینونو کارول ترڅو دندې پرته له انساني مداخلې اتوماتیک ترسره شي."
+    },
+    "es": {
+      "term": "Automatización",
+      "definition": "Uso de la tecnología para realizar tareas con la mínima intervención humana, a menudo sustituyendo procesos manuales repetitivos."
     }
   }
 }

@@ -1,0 +1,40 @@
+{
+  "id": "reflex",
+  "topics": [
+    "geometry"
+  ],
+  "translations": {
+    "en": {
+      "term": "Reflex",
+      "definition": "An angle greater than 180° and less than 360°."
+    },
+    "pl": {
+      "term": "Kąt wklęsły",
+      "definition": "Kąt większy od 180° i mniejszy od 360°."
+    },
+    "cy": {
+      "term": "Atblyg",
+      "definition": "Ongl sy'n fwy na 180° ac yn llai na 360°."
+    },
+    "ar": {
+      "term": "منعكسة",
+      "definition": "زاوية أكبر من 180° وأصغر من 360°."
+    },
+    "ro": {
+      "term": "Unghi concav",
+      "definition": "Un unghi mai mare de 180° și mai mic de 360°."
+    },
+    "prs": {
+      "term": "زاویهٔ منعکسه",
+      "definition": "زاویه‌ای بزرگ‌تر از 180° و کوچک‌تر از 360°."
+    },
+    "ps": {
+      "term": "منعکسه زاویه",
+      "definition": "هغه زاویه چې له 180° څخه لویه او له 360° څخه کوچنۍ وي."
+    },
+    "es": {
+      "term": "Cóncavo (ángulo reflejo)",
+      "definition": "Ángulo mayor que 180° y menor que 360°."
+    }
+  }
+}

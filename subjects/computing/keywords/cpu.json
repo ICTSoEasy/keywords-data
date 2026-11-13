@@ -31,6 +31,10 @@
     "ps": {
       "term": "CPU",
       "definition": "د کمپیوټر اصلي برخه چې د پروګرام لارښوونې پروسس کوي؛ د کمپیوټر 'دماغ'."
+    },
+    "es": {
+      "term": "CPU",
+      "definition": "Unidad Central de Procesamiento; el chip principal que ejecuta las instrucciones en un ordenador."
     }
   }
 }
